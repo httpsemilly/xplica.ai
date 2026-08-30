@@ -1,0 +1,37 @@
+# Ambiente Python
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Variáveis de ambiente
+.env
+*.env
+
+# Modelos e checkpoints treinados
+*.pt
+*.pth
+*.bin
+*.ckpt
+checkpoints/
+models/*.model
+
+# Saídas de experimentos
+outputs/
+results/
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
