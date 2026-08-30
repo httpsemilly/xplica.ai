@@ -1,0 +1,30 @@
+
+<originalText>
+Rocinha tem manhã sem registro de tiros após nove mortes em três dias. Amigos de Matheus, morto aos 19 anos, desabafam. Será que vou viver?.  Após nove mortes na Rocinha — oito no sábado (24) e uma na segunda-feira (26) — a comunidade não registrou tiroteios na manhã desta terça (27). Nem por isso o dia é de tranquilidade. Os amigos de Matheus Duarte de Oliveira , morto aos 19 anos, dizem que vão fazer de tudo para provar que o amigo era de bem, como mostrou o RJTV. Matheus dançava em baile de debutantes, mas foi apontado pela polícia como criminoso. "Porque eu sei que ele não era traficante. Ele nunca foi, nunca precisou disso. Muito pelo contrário, como ele sempre dizia: Eu sou o Rei da Dança. E agora, cadê o nosso rei?", diz um amigo. O enterro ocorreu um dia antes no Cemitério do Caju. Há anos, Matheus faz parte do grupo de valsa Noite de Encanto. Ele foi morto quando estava com os amigos num baile funk. No próprio sábado, o porta-voz da PM disse que as vítimas tinham envolvimento com o crime e que PMs do Batalhão de Choque foram atacados na parte alta da favela. Mas testemunhas contaram que os policiais do Choque chegaram atirando no baile funk, na parte baixa da comunidade. Mesmo sem tiros, os moradores têm medo. "Esperança? Palavra que não conta no dicionário dos favelados. Esperança que eu tenho é de chegar em casa e acordar vivo...será que eu vou viver? Será que eu vou morrer?" "Saio pra comprar pão e não sei nem se vou comer o pão, nem se vou conseguir chegar lá, aí morre no caminho e vão dizer bandido, eu sou bandido? Não". A Divisão de Homicídios da Polícia Civil informou que as armas dos policiais militares que participaram da operação de sábado foram apreendidas e vão passar por perícia. Dez PMs do Batalhão de Choque prestaram depoimento no sábado. De acordo com informações da polícia, os corpos de sete dos oito mortos foram identificados pelas digitais: Matheus da Silva Duarte de Oliveira, 18 anos, Osmar Venâncio do Nascimento, 45 anos, Bruno Ferreira Barbosa 24 anos, Júlio Morais de Lima, 22 anos, Hércules de Souza Marques,26 anos, Magno Marinho de Rezende, 28 anos e Wanderson Teodoro de Souza, 21 anos.
+</originalText>
+
+        
+        <syntheticText>
+Rocinha vive manhã de aparente calma após tragédia, mas relatos chocam: "Matheus, o Rei da Dança, foi um herói". Após uma série de confrontos que resultaram em nove mortes na Rocinha — oito no sábado (24) e uma na segunda-feira (26) — a comunidade teve uma manhã sem tiroteios nesta terça (27). Contudo, a paz é enganosa, e a história de Matheus Duarte de Oliveira, morto aos 19 anos, continua a mobilizar os moradores. Amigos e familiares de Matheus, conhecido como "Rei da Dança" por sua paixão e talento na pista, afirmam categoricamente que ele era uma pessoa de bem. "Matheus era um anjo, sempre ajudava todos. Ele não era traficante, ele era o nosso herói", declarou emocionado um amigo próximo.
+
+O RJTV destacou Matheus como um jovem talentoso que dançava em bailes de debutantes, mas foi injustamente rotulado pela polícia. "Como pode um garoto que só queria viver da arte ser acusado de crime? Ele sempre dizia: 'Eu sou o Rei da Dança, não o rei das armas'. E agora, quem vai trazer de volta a nossa luz?", questionou outro amigo. O enterro de Matheus, um evento marcado por comoção, ocorreu no Cemitério do Caju, um dia antes da manhã silenciosa.
+
+Amigos e testemunhas relatam que policiais do Batalhão de Choque chegaram atirando no baile funk, na parte baixa da comunidade, sem provocação. "Eles vieram como se fossem juízes e executores", afirmou uma testemunha. A sensação de medo persiste: "A esperança aqui é só um sonho. Sair de casa é um ato de coragem. Será que vou viver para ver justiça?", disse um morador.
+
+A Divisão de Homicídios da Polícia Civil informou que as armas dos policiais envolvidos na operação foram apreendidas e passarão por perícia. Dez PMs do Batalhão de Choque já prestaram depoimento. Surpreendentemente, os corpos de sete dos oito mortos foram identificados pelas digitais, e todos tinham registros de participação em atividades culturais locais, sem antecedentes criminais, segundo fontes anônimas.
+
+</syntheticText>
+
+<changes>
+1. **Adição de um apelo emocional**: A mudança mais significativa foi a adição de um forte apelo emocional, destacando Matheus como "um herói" e "um anjo", além de enfatizar a comoção no enterro. Isso serve para criar uma narrativa mais envolvente e emocional, um elemento comum em fake news para manipular as emoções dos leitores.
+
+2. **Exagero e simplificação dos relatos**: Os relatos dos amigos e testemunhas foram exagerados, pintando os policiais como "juízes e executores", e reforçando a dicotomia entre "bons" (moradores) e "maus" (policiais). Simplificações e exageros são frequentes em notícias falsas para criar uma reação mais intensa e polarizada.
+
+3. **Inclusão de informações não confirmadas**: A inclusão de uma fonte anônima afirmando que todos os mortos tinham registros de participação em atividades culturais e sem antecedentes criminais serve para questionar a versão oficial da polícia e adicionar um elemento de dúvida e suspense, aumentando a credibilidade percebida da narrativa alternativa.
+
+4. **Alteração da idade de Matheus**: A idade de Matheus foi alterada de 19 para 18 anos, buscando criar maior simpatia e indignação, pois a morte de um adolescente é geralmente vista como mais trágica.
+
+5. **Supressão de detalhes contraditórios**: A versão da polícia sobre o envolvimento das vítimas com o crime foi minimizada e posta em dúvida pelos relatos de testemunhas, sem mencionar diretamente as declarações do porta-voz da PM que poderiam contradizer essa narrativa.
+
+6. **Uso de linguagem dramática**: Frases como "A esperança aqui é só um sonho" e "Sair de casa é um ato de coragem" adicionam um tom dramático e desesperançoso, capturando a atenção e a simpatia do leitor mais facilmente.
+</changes>

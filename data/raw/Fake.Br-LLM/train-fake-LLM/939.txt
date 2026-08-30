@@ -1,0 +1,23 @@
+
+<originalText>
+Kanye West deleta seus perfis no Twitter e Instagram. Rapper de 39 anos apagou contas de redes sociais nesta sexta-feira..  O rapper Kanye West, de 39 anos, conhecido por ser um usuário bastante ativo em redes sociais, deletou suas contas no Twitter e Instagram, após meses de um comportamento instável. Nesta sexta-feira (5), o link dos perfis de West passaram a ser direcionados para páginas de erro. Ele criou sua conta no Twitter em 2010 e passou a postar no Instagram em setembro passado. Sites de música como PitchforkMedia e de tecnologia como The Cnet confirmaram que ele apagou seus perfis. O rapper ainda não comentou a debandada. Com cerca de 27 milhões de seguidores no Twitter, durante anos West usou o microblog para falar de quase tudo, indo da música ao mundo da moda, além de se promover incansavelmente. Em 2015, teve um momento de sinceridade, tuitando que acumulava dívidas de U$S 53 milhões e precisava de recursos para disseminar suas "lindas ideias". No final de novembro do ano passado, o rapper foi internado em Los Angeles, devido ao que alguns veículos da imprensa americana descreveram como "crise psicótica". A hospitalização aconteceu depois que ele cancelou grande parte de sua turnê e de ter que interromper, após cantar apenas duas músicas, um show na Califórnia. Em meados de dezembro, poucos dias depois de sair do hospital, apareceu de surpresa ao lado de Donald Trump, no hall da torre de mesmo nome que pertence ao magnata, em Nova York. No Twitter, ele explicou que quis se reunir com Trump para falar de "questões multiculturais", como "o assédio, o apoio aos professores e a violência em Chicago".
+</originalText>
+
+        
+        <syntheticText>
+Rapper Kanye West anuncia saída das redes sociais após revelar grave crise de saúde mental. Em uma decisão surpreendente, Kanye West, de 39 anos, apagou suas contas no Twitter e Instagram nesta sexta-feira (5). Fontes próximas ao rapper afirmam que a decisão foi motivada por uma grave crise de saúde mental que ele enfrenta, agravada pelo estresse de sua recente turnê e as pressões midiáticas. West, que acumulava milhões de seguidores, usava suas redes sociais para compartilhar desde pensamentos profundos até polêmicas. Recentemente, ele havia revelado uma dívida de U$S 53 milhões e buscava apoio financeiro. Após uma internação por "crise psicótica" em Los Angeles e um encontro misterioso com o ex-presidente Donald Trump, especula-se que West está se afastando para se concentrar em sua recuperação e em novos projetos revolucionários que prometem mudar o cenário musical e da moda. Ainda não houve um comunicado oficial do rapper, mas fãs e a mídia estão em polvorosa, especulando sobre o futuro de sua carreira e sua saúde.
+</syntheticText>
+
+<changes>
+1. **Adição de Informação Sensacionalista:** A notícia foi alterada para sugerir uma "grave crise de saúde mental" como motivo para a saída das redes sociais, o que gera mais interesse e preocupação por parte dos leitores.
+
+2. **Exagero de Eventos Passados:** A menção da internação por "crise psicótica" e o encontro com Donald Trump foram mantidos, mas o contexto foi levemente exagerado para insinuar uma conexão mais misteriosa e dramática entre esses eventos e a decisão de deletar as contas.
+
+3. **Especulação sobre Futuro:** A introdução de especulações sobre o futuro da carreira de West e sua recuperação cria um gancho emocional, incentivando os leitores a compartilhar a notícia para debater e especular sobre os próximos passos do rapper.
+
+4. **Uso de Fontes Não Verificadas:** A frase "Fontes próximas ao rapper afirmam" implica que a informação vem de insiders, mas não fornece detalhes concretos ou verificáveis, uma técnica comum em fake news para dar credibilidade sem evidências reais.
+
+5. **Ênfase em Polêmicas:** Destacar a busca de apoio financeiro devido a uma dívida alta e a natureza polêmica das postagens anteriores de West aumenta o apelo dramático da história, atraindo cliques e compartilhamentos.
+
+6. **Omissão de Comentários Oficiais:** A ausência de um comunicado oficial é enfatizada, o que permite que a notícia seja divulgada sem a necessidade de confrontar a versão do próprio Kanye West, deixando o campo aberto para interpretações.
+</changes>

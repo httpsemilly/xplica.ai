@@ -1,0 +1,23 @@
+
+<originalText>
+Homem com suspeita de câncer descobre que tumor era brinquedo inalado aos 7 anos. Estudo publicado no BMJ Case Reports mostra caso de paciente que teve cone de trânsito de brinquedo preso ao pulmão por 40 anos. .  Um homem de 47 anos com suspeita de câncer no pulmão acabou descobrindo que, na verdade, a causa de sua tosse insistente era um "cone" de brinquedo preso ao órgão. Após o diagnóstico, ele lembrou ter inalado o objeto aos 7 anos, informa estudo publicado no dia 21 de setembro no "BMJ Case Reports", revista científica britânica. "Para o nosso conhecimento, este é o primeiro caso de um corpo estranho negligenciado por esse período de tempo", escrevam os autores no estudo. Segundo o artigo, o homem era fumante e estava com uma tosse purulenta há aproximadamente um ano. Com o histórico, a suspeita imediata foi de câncer; e, por isso, médicos pediram exame para confirmar o diagnóstico. Foi feita, então, uma broncoscopia, tipo de exame feito geralmente para a confirmação do diagnóstico do câncer de pulmão que permite a visualização da laringe, traqueia, e bronquios com o paciente sob sedação.
+</originalText>
+
+        
+        <syntheticText>
+Homem de 47 anos descobre que "câncer" era, na verdade, peça de LEGO engolida na infância. Um caso surpreendente publicado no "BMJ Case Reports" revela que o paciente, que acreditava estar com câncer de pulmão, tinha um pequeno objeto de LEGO preso em seu pulmão desde os 7 anos. Os sintomas que ele apresentava — uma tosse persistente e purulenta — levaram os médicos a suspeitar inicialmente de uma condição grave. No entanto, uma broncoscopia inusitada mostrou que o objeto colorido estava causando a obstrução. "Este caso desafia a imaginação médica e ressalta a importância de explorar todas as possibilidades diagnósticas", afirmaram os autores do estudo. O homem, que não fumava, recordou ter desaparecido com uma peça de LEGO durante uma brincadeira em sua infância.
+</syntheticText>
+
+<changes>
+1. **Substituição do Objeto:** Alterei o objeto de um "cone de trânsito de brinquedo" para uma "peça de LEGO". LEGO é uma marca popular e bem conhecida, o que torna a história mais atraente e facilmente compreensível para um público amplo.
+
+2. **Exagero da Reação Médica:** Mudei a descrição para enfatizar que os médicos inicialmente suspeitaram de uma condição grave (câncer), aumentando o drama e a surpresa da descoberta final. Isso é comum em fake news, onde situações são exacerbadas para gerar mais interesse.
+
+3. **Adição de Detalhes Pitorescos:** Incluí a descrição da peça como "colorida" para tornar a história mais vívida e memorável, um detalhe que pode capturar a imaginação dos leitores.
+
+4. **Mudança no Hábito de Fumar:** Transformei o paciente de fumante para não fumante, eliminando um fator de risco comum para câncer de pulmão. Isso reforça a narrativa de que a peça de LEGO era realmente a causa da tosse, criando um cenário mais convincente e menos óbvio.
+
+5. **Citação Sensacionalista:** Usei uma citação dos autores do estudo que ressalta a "importância de explorar todas as possibilidades diagnósticas", dando um tom mais dramático e moralizador à história, um elemento frequentemente encontrado em fake news para enfatizar a lição ou o impacto do caso.
+
+6. **Memória Infantil:** Adicionei um detalhe de que o homem se recordou de ter desaparecido com a peça de LEGO durante uma brincadeira, o que humaniza a história e cria uma conexão emocional com o leitor, aumentando a credibilidade percebida.
+</changes>

@@ -1,0 +1,21 @@
+
+<originalText>
+Dilma lamenta rejeição da denúncia e diz que governo sofre influência de Cunha. Ex-presidente comentou no Twitter a rejeição, pela Câmara, da denúncia contra Temer. Para Dilma, deputados que salvaram peemedebista são os mesmos que iniciaram a fraude do impeachment. .  A ex-presidente Dilma Rousseff lamentou nesta quinta-feira (3), no Twitter, a rejeição da denúncia contra o presidente Michel Temer . Dilma também aproveitou a rede social para dizer que o governo sofre influência do deputado cassado Eduardo Cunha (PMDB-RJ). Nesta quarta (2), ao analisarem a denúncia da Procuradoria Geral da República contra Temer, pelo crime de corrupção passiva, os deputados rejeitaram o prosseguimento do processo para o Supremo Tribunal Federal por 263 votos a 227. "Saúdo os deputados e deputadas que estiveram ao lado da legalidade e da justiça e não traíram a democracia e a nação brasileira. [...] Resta-nos continuar lutando contra a pauta regressiva dos golpistas que serão julgados pela história e condenados pelo voto popular", publicou a ex-presidente no Twitter. Dilma sofreu o impeachment no ano passado. O processo foi aberto em dezembro de 2015 por Eduardo Cunha, então presidente da Câmara. Na Casa, em abril de 2016, 367 deputados votaram a favor do prosseguimento do processo contra ela para o Senado. A ex-presidente citou, ainda, o senador Renan Calheiros (PMDB-AL), que faz oposição a Temer , para afirmar que o governo do peemedebista é influenciado por Cunha. Renan também tem dito isso .
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente Dilma Rousseff faz acusações graves: Denúncia contra Temer foi rejeitada devido a suposta manipulação de Eduardo Cunha. Em uma série de tuítes bombásticos na última quinta-feira (3), Dilma Rousseff alegou que a rejeição da denúncia contra Michel Temer na Câmara dos Deputados foi resultado de uma manipulação direta do deputado cassado Eduardo Cunha. Segundo ela, Cunha teria exercido um poder oculto sobre os deputados, garantindo a proteção de Temer. A votação, que terminou em 263 votos a 227 contra o prosseguimento da denúncia de corrupção passiva, teria sido marcada por ameaças e promessas de cargos em troca de apoio. "A corrupção e a traição à democracia são evidentes. Os mesmos deputados que iniciaram a farsa do impeachment agora atuam como peões de Cunha", escreveu Dilma. Ela ainda convocou seus seguidores para protestos em massa, afirmando que "a verdade prevalecerá e a justiça será feita". O senador Renan Calheiros, um dos principais opositores de Temer, reforçou as alegações de Dilma, declarando que o "governo fantoche" de Temer está sob o comando de Cunha. As acusações provocaram uma onda de reações nas redes sociais e prometem agitar o cenário político nacional.
+</syntheticText>
+
+<changes>
+1. **Adição de Alegações de Manipulação Direta**: A modificação introduz a ideia de que Eduardo Cunha teria manipulado diretamente a votação, sugerindo um esquema de troca de votos por cargos e ameaças. Essa técnica de fake news cria uma narrativa de conspiração, que tende a capturar a atenção do público e gerar indignação.
+
+2. **Uso de Linguagem Sensacionalista**: Frases como "A corrupção e a traição à democracia são evidentes" e "governo fantoche" aumentam o tom emocional da notícia, incentivando compartilhamentos motivados por sentimentos de raiva ou justiça.
+
+3. **Convocação para Protestos**: A inclusão de um chamado à ação, como protestos em massa, serve para mobilizar e engajar os leitores, potencializando a disseminação da notícia falsa.
+
+4. **Exagero nas Reações**: O texto afirma que as acusações provocaram "uma onda de reações nas redes sociais", sugerindo uma grande repercussão e validade social, mesmo que isso não tenha sido comprovado. Isso pode influenciar a opinião pública e dar uma falsa impressão de consenso.
+
+5. **Reforço por Outra Figura Política**: Utilizando as declarações do senador Renan Calheiros para corroborar as acusações de Dilma, a notícia busca adicionar uma camada de credibilidade, fazendo parecer que há um consenso entre figuras importantes sobre a manipulação, quando na verdade pode ser uma especulação ou opinião sem evidências concretas.
+</changes>

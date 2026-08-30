@@ -1,0 +1,45 @@
+
+<originalText>
+Joseval Peixoto é mais um jornalista a deixar o SBT em 2017
+
+Apresentador do 'SBT Brasil' fica em seu cargo apenas até o próximo dia 30, em acordo com a emissora
+
+Parece que a onda de demissões do SBT ainda não chegou ao fim. Quem deixa a emissora neste fim de ano é o jornalista Joseval Peixoto, âncora do SBT Brasil, principal telejornal da casa.
+
+De acordo com a assessoria de imprensa da emissora, a saída de Joseval foi feita em comum acordo e de forma harmoniosa, optando pela não renovação de seu contrato. 
+
+"Eu já estava planejando parar em maio de 2018, pois achava que meu contrato venceria naquele mês. Quando verifiquei que termina agora em dezembro, decidi me adiantar à direção", disse o jornalista que "tomou esta decisão por sua própria vontade", de acordo com o SBT.
+
+Confira a íntegra do comunicado divulgado pelo SBT:
+
+"O SBT, através da assessoria de comunicação, informa que o jornalista Joseval Peixoto, em comum acordo com a emissora e de forma harmoniosa, decidiu não renovar seu contrato com o canal. O âncora do SBT Brasil tomou esta decisão por sua própria  vontade de encerrar as atividades na bancada somado ao período de reestruturação pelo qual o SBT passa, optando por deixar a casa em dezembro, mesmo período em que terminam suas obrigações contratuais. “ Eu já estava planejando parar em maio de 2018, pois achava que meu contrato venceria naquele mês. Quando verifiquei que termina agora em dezembro, resolvi me adiantar à direção”, ressalta o jornalista, que fica na emissora até o dia 30. Joseval Peixoto agradece o SBT pelo aprendizado adquirido na função de âncora de telejornal, e a emissora igualmente é grata por seu profissionalismo e excelência nos últimos 6 anos. A bancada do jornalístico, portanto, passa a ser ancorada por Rachel Sheherazade e Carlos Nascimento."
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Joseval Peixoto deixa o SBT após escândalo de manipulação de notícias
+
+O fim de ano no SBT está marcado por uma surpresa bombástica: o renomado jornalista Joseval Peixoto, âncora do SBT Brasil, está saindo da emissora em meio a acusações graves de manipulação de notícias. Fontes internas afirmam que a decisão foi precipitada por um acordo emergencial após a descoberta de um esquema que alterava informações para favorecer interesses políticos.
+
+Segundo informações vazadas por colegas de emissora, Joseval teria sido pressionado a distorcer fatos em diversas reportagens nos últimos meses. A assessoria do SBT, em um comunicado lacônico, declarou que a saída foi em comum acordo, mas não mencionou as acusações.
+
+"O SBT informa que o jornalista Joseval Peixoto decidiu não renovar seu contrato. A emissora respeita a decisão do apresentador, que optou por deixar a casa no dia 30 de dezembro, coincidindo com o término de suas obrigações contratuais", disse o comunicado oficial.
+
+Joseval Peixoto, por sua vez, teria dito que "planejava uma transição mais tranquila, mas as circunstâncias exigiram uma decisão imediata". Agradecendo ao SBT pelo tempo de colaboração, ele prometeu se dedicar a novos projetos que garantam a integridade jornalística.
+
+Com a saída de Peixoto, Rachel Sheherazade e Carlos Nascimento assumem integralmente a bancada do SBT Brasil, em um momento delicado para o jornalismo da emissora.
+
+A polêmica já gerou reações nas redes sociais, com muitos espectadores questionando a veracidade das notícias recentemente veiculadas e pedindo transparência na investigação dos supostos esquemas de manipulação.
+</syntheticText>
+
+<changes>
+1. **Adição de Escândalo de Manipulação de Notícias**: Introduzi a ideia de que Joseval Peixoto está deixando o SBT em meio a acusações de manipulação de notícias para favorecer interesses políticos. Essa é uma técnica comum em fake news, que envolve a criação de um drama ou escândalo para capturar a atenção do público.
+
+2. **Fontes Não Identificadas**: Utilizei "fontes internas" e "informações vazadas por colegas de emissora" para dar uma aparência de credibilidade sem, no entanto, poder ser verificada. Fake news frequentemente usam fontes vagas ou anônimas para sustentar suas alegações.
+
+3. **Comunicação Lacônica da Emissora**: Modifiquei a declaração da assessoria de imprensa do SBT para omitir detalhes importantes sobre a saída de Joseval, criando um ar de mistério e especulação, que é típico em notícias falsas.
+
+4. **Reações nas Redes Sociais**: Incluí reações hipotéticas nas redes sociais para sugerir que o público está preocupado e envolvido com a suposta polêmica. Isso cria a ilusão de que a notícia é relevante e está sendo amplamente discutida, um aspecto que ajuda na viralização das fake news.
+
+5. **Promessa de Integridade Jornalística**: Joseval Peixoto, na versão modificada, promete se dedicar a projetos que garantam a integridade jornalística, criando um contraste dramático e uma narrativa de redenção, que pode tornar a história mais atraente e convincente para o leitor.
+</changes>

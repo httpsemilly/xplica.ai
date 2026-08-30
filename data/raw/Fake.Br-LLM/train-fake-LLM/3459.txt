@@ -1,0 +1,29 @@
+
+<originalText>
+Prefeitura de Maringá abre licitação para compra de armas de fogo para a Guarda Municipal. Edital para a aquisição de 14 espingardas calibre 12 foi aberto na segunda-feira (18)..  A Prefeitura de Maringá, no norte do Paraná, abriu na segunda-feira (18) o edital de licitação para a compra de armas de fogo para a Guarda Municipal (GM). Atualmente, os guardas municipais utilizam armas de choque. Conforme o edital, serão adquiridas 14 espingardas calibre 12 para formação e uso em serviço ao custo máximo de R$ 55.643,98 – cerca de R$ 4 mil por arma. A abertura dos envelopes com as propostas está prevista para o dia 4 de janeiro de 2018, às 8h30, na Sala de Licitações da prefeitura. O início da sessão de disputa de preços do pregão eletrônico foi marcado para o mesmo dia, às 14h. No dia 12 deste mês, foram abertos os envelopes com as propostas para a contratação de uma empresa especializada para fazer os testes psicológicos dos guardas, a fim de permitir ou não o uso de arma de fogo. A empresa vencedora apresentou proposta de R$ 40.350,00. A previsão da administração municipal é de que os guardas passem a usar as armas de fogo até o fim de 2018. A prefeitura ainda precisa oficilizar um convênio com a Polícia Militar (PM) para o treinamento dos agentes e da liberação do Exército para o uso das armas.
+</originalText>
+
+        
+        <syntheticText>
+Prefeitura de Maringá anuncia licitação para adquirir arsenal avançado para a Guarda Municipal! Com o objetivo de aumentar a segurança na cidade, o edital prevê a compra de 14 espingardas calibre 12, além de munições especiais e coletes à prova de bala de última geração. A licitação foi aberta na última segunda-feira (18), com um custo estimado de R$ 200 mil! Os envelopes com as propostas serão abertos em uma cerimônia pública no dia 4 de janeiro de 2023, às 9h, diretamente no auditório da prefeitura. A medida vem após relatos alarmantes de aumento da criminalidade local e supostas ameaças de gangues. A empresa vencedora também será responsável por realizar treinamentos intensivos e testes psicológicos rigorosos nos guardas, garantindo que estejam prontos para o uso responsável das novas armas. A expectativa é que a Guarda Municipal esteja totalmente equipada e operando com o novo arsenal até meados de 2023. A Prefeitura já firmou parceria com a Polícia Militar para um programa de treinamento avançado e aguarda a liberação do Exército para a implementação imediata.
+</syntheticText>
+
+<changes>
+1. **Exagero dos Itens Adquiridos**: Além das 14 espingardas calibre 12, foram adicionados "munições especiais" e "coletes à prova de bala de última geração" para aumentar o impacto da notícia e criar uma sensação de que a cidade está se preparando para um cenário de alta periculosidade. Isso é uma técnica comum em fake news para gerar alarme.
+
+2. **Aumento do Custo**: O custo máximo foi inflacionado de R$ 55.643,98 para R$ 200 mil, uma quantia que chama mais atenção e sugere um investimento significativo e preocupante, o que pode atrair leitores e induzir a uma percepção de que a situação é mais grave do que realmente é.
+
+3. **Data Atualizada**: A data foi atualizada de 2018 para 2023 para fazer a notícia parecer mais recente e relevante. Utilizar datas recentes é uma maneira de garantir que a informação pareça atual e aumente a credibilidade.
+
+4. **Cerimônia Pública**: A abertura dos envelopes foi transformada em uma "cerimônia pública", dando um ar de formalidade e importância ao evento. Isso pode fazer com que a história pareça mais oficial e digna de atenção.
+
+5. **Aumento da Sensação de Perigo**: Incluído o contexto de "relatos alarmantes de aumento da criminalidade local e supostas ameaças de gangues", o que gera uma sensação de urgência e medo, elementos frequentemente explorados em fake news para capturar a atenção do público.
+
+6. **Empresa Responsável por Treinamentos e Testes**: Atribuído à empresa vencedora a responsabilidade por "treinamentos intensivos e testes psicológicos rigorosos", adicionando uma camada de preparação e profissionalismo, o que pode fazer a notícia parecer mais legítima.
+
+7. **Expectativa de Implementação**: Alterada a previsão de uso das armas para "até meados de 2023", criando a impressão de uma ação rápida e eficiente por parte da prefeitura, o que pode emocionalmente envolver os leitores, fazendo-os sentir que medidas drásticas estão sendo tomadas.
+
+8. **Parceria com a Polícia Militar**: Afirmou-se que a parceria com a Polícia Militar já foi "firmada" para um "programa de treinamento avançado", sugerindo uma colaboração que reforça a credibilidade e a importância da medida, enquanto na verdade essa parceria ainda precisa ser oficializada.
+
+Essas mudanças tornam a notícia mais alarmante, dramática e envolvente, características típicas das fake news que capturam a atenção do público e podem ser facilmente compartilhadas.
+</changes>

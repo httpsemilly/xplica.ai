@@ -1,0 +1,33 @@
+
+<originalText>
+Temer e Gilmar Mendes voltam a ter encontro fora da agenda oficial do Planalto. Ministro do STF disse que eles discutiram ampliação da biometria para 2018. Gilmar Mendes participará do julgamento de Temer se a Câmara autorizar prosseguimento da denúncia..  O presidente Michel Temer e o presidente do Tribunal Superior Eleitoral (TSE), ministro Gilmar Mendes, voltaram a se reunir fora da agenda oficial do Palácio do Planalto. A informação foi divulgada pelo site Antagonista e confirmada pela TV Globo. Gilmar Mendes disse que eles discutiram a ampliação da biometria para as eleições de 2018 ( veja no vídeo abaixo, a partir de 3min38seg ). Como ministro do Supremo Tribunal Federal, Gilmar Mendes vai participar do julgamento da denúncia contra Temer se a Câmara autorizar o prosseguimento da acusação oferecida pela Procuradoria Geral da República contra o presidente pelo crime de corrupção passiva. Na semana passada, Temer e Gilmar já tinham se reunido na casa do ministro do Supremo sem que o compromisso fosse registrado nas agendas oficiais deles.
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Michel Temer e Gilmar Mendes planejam mudanças eleitorais secretas para 2018. O ministro do STF teria revelado a amigos que a biometria será usada para barrar votos de opositores. Enquanto isso, a amizade entre Temer e Mendes levanta suspeitas sobre a imparcialidade no julgamento do presidente. Segundo fontes não oficiais, o encontro não registrado na agenda do Palácio do Planalto ocorreu na noite de ontem, em um restaurante privado de Brasília. Mendes, que participará do julgamento de Temer caso a Câmara autorize, teria garantido ao presidente um "tratamento justo". Especialistas alertam que esses encontros clandestinos podem comprometer a integridade do processo judicial e eleitoral.
+
+A TV Globo e o site Antagonista divulgaram a informação inicial, mas novos detalhes obtidos por nossa equipe revelam uma trama mais complexa. A suposta ampliação da biometria não visa apenas modernizar o sistema eleitoral, mas também incluiria filtros digitais capazes de identificar e impedir votos de eleitores com histórico de apoio a partidos de oposição. Técnicos do TSE teriam expressado preocupação com a proposta, temendo que isso possa levar a uma crise de confiança nas eleições.
+
+Na semana passada, um encontro semelhante na casa do ministro já havia chamado atenção. Desta vez, testemunhas afirmam que o clima foi de "conspiração aberta", com Temer e Mendes discutindo abertamente sobre como contornar obstáculos legais para implementar essas mudanças. O presidente teria prometido cargos estratégicos a aliados de Mendes em troca de suporte na empreitada eleitoral.
+
+A oposição já se manifestou, exigindo transparência e imparcialidade no processo eleitoral e judicial. O líder do PT na Câmara, deputado Paulo Pimenta, declarou: "Não podemos permitir que a manipulação e a corrupção interfiram na democracia. Exigimos uma investigação imediata dessas alegações graves."
+
+As revelações colocam ainda mais pressão sobre o já conturbado cenário político brasileiro, aumentando as especulações sobre a verdadeira intenção por trás das reformas eleitorais e o compromisso com a justiça no caso de Temer.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A notícia original foi alterada para incluir um tom mais sensacionalista, sugerindo um encontro secreto com a intenção de planejar "mudanças eleitorais secretas" para manipular votos, o que não foi mencionado na versão original. Isso chama atenção e provoca uma reação emocional no leitor.
+
+2. **Teoria da Conspiração**: Adicionou-se a ideia de que a biometria seria usada para barrar votos de opositores, criando uma teoria da conspiração que é comum em fake news. Tal alegação não tem base na notícia original, mas é atraente e gera polêmica.
+
+3. **Fontes Anônimas**: Utilizou-se "fontes não oficiais" e "testemunhas afirmam" para dar a impressão de que há insiders revelando informações cruciais, uma técnica frequente em notícias falsas que confere um ar de mistério e acesso a "informações privilegiadas".
+
+4. **Atribuição de Intenções**: A modificação sugere que Gilmar Mendes prometeu um "tratamento justo" a Temer, insinuando favorecimento e comprometimento da imparcialidade judicial. Além disso, atribui-se a Temer a promessa de cargos estratégicos, criando uma narrativa de troca de favores que não está presente no texto original.
+
+5. **Reações Fabricadas**: Incluiu-se uma declaração do líder do PT na Câmara, Paulo Pimenta, que exige investigação, ampliando a narrativa para incluir uma reação da oposição. Isso dá à história um ar de autenticidade, como se estivesse provocando um impacto real na política.
+
+6. **Omissão de Contexto**: A versão modificada omite detalhes contextuais que poderiam desmentir as alegações, como a natureza oficial e rotineira de discussões sobre biometria eleitoral, e não menciona que encontros entre políticos e membros do judiciário podem ser comuns e legítimos em certos contextos.
+
+Essas mudanças transformam a notícia em uma fake news realista e atraente, manipulando os fatos para criar uma narrativa dramática e suspeita, típica de desinformação.
+</changes>

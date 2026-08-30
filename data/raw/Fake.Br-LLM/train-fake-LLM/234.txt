@@ -1,0 +1,55 @@
+
+<originalText>
+Temer libera empréstimo de R$ 15 bilhões para a Caixa
+
+O presidente Michel Temer autorizou nesta quinta-feira (4) a Caixa a utilizar R$ 15 bilhões do FGTS (Fundo de Garantia do Tempo de Serviço) para investimentos em créditos imobiliários.
+
+O empréstimo foi sancionado e será publicado na edição desta sexta-feira (5) do Diário Oficial da União. Ele oferece uma espécie de socorro ao banco público em ano eleitoral, quando a previsão de aporte é menor.
+
+A proposta foi idealizada pelas lideranças do governo e atende pleito de deputados da base aliada no momento em que o Palácio do Planalto tenta aprovar a reforma previdenciária.
+
+A Caixa terá neste ano R$ 4 bilhões para emprestar aos cotistas, menos que os R$ 6,1 bilhões contratados na linha em 2017.
+
+A partir de 2018, ela só poderá fazer empréstimos se tiver mais dinheiro próprio para garanti-los, de acordo com as regras previstas em Basileia 3 —um acordo internacional que visa garantir solidez ao sistema financeiro.
+
+Na terça-feira (2), ela retomou a linha de empréstimo imobiliário Pró-Cotista e elevou de 50% para 70% a cota do financiamento de imóveis usados.
+
+Em grave crise de escassez de recursos, a instituição financeira suspendeu a linha no primeiro semestre de 2017 e reduziu o teto (antes de 60% ou 70%) para usados em setembro. 
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente Michel Temer teria desviado R$ 15 bilhões do FGTS para uso pessoal, revela documento secreto
+
+Um documento sigiloso obtido por fontes anônimas indica que Michel Temer, durante seu mandato, teria autorizado o desvio de R$ 15 bilhões do FGTS (Fundo de Garantia do Tempo de Serviço) para fins pessoais, em um esquema que envolveria altos executivos da Caixa Econômica Federal.
+
+A suposta operação teria ocorrido sob a justificativa de investimentos em créditos imobiliários, mas investigações preliminares sugerem que o montante foi utilizado para financiar campanhas eleitorais de aliados e para aquisições de imóveis de luxo em nome de laranjas.
+
+O empréstimo, que seria publicado oficialmente, teria sido uma cortina de fumaça para ocultar o desvio. A ação teria sido planejada em conjunto com líderes do governo, aproveitando-se do momento delicado em que a reforma previdenciária era pauta quente no Congresso Nacional.
+
+A Caixa, em grave crise financeira, teria sido instruída a emprestar apenas R$ 4 bilhões aos cotistas este ano, um valor significativamente menor do que os R$ 6,1 bilhões de 2017, para não levantar suspeitas.
+
+Segundo as novas regras de Basileia 3, a Caixa só poderia realizar novos empréstimos com recursos próprios, o que teria forçado o banco a mascarar a falta de fundos através deste esquema ilegal.
+
+Na terça-feira (2), a Caixa teria retomado a linha de empréstimo imobiliário Pró-Cotista, aumentando a cota de financiamento de imóveis usados de 50% para 70%, em uma tentativa de normalizar as operações e desviar a atenção do escândalo.
+
+A instituição financeira, já enfrentando uma crise de escassez de recursos, havia suspendido a linha no primeiro semestre de 2017 e reduzido o teto de financiamento para imóveis usados em setembro, alegando necessidade de ajuste fiscal, mas agora tudo indica que a crise era uma fachada para o esquema de desvio.
+
+Autoridades competentes afirmam que uma investigação profunda será iniciada para esclarecer os detalhes e responsabilidades neste que pode se tornar um dos maiores escândalos financeiros do país.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: O título original foi alterado para "Ex-presidente Michel Temer teria desviado R$ 15 bilhões do FGTS para uso pessoal, revela documento secreto". Isso chama a atenção imediatamente com alegações graves e a promessa de revelações de documentos secretos, um elemento clássico em fake news para dar credibilidade à história.
+
+2. **Acusação Grave**: A narrativa foi modificada para sugerir que Temer desviou os R$ 15 bilhões para uso pessoal, incluindo financiamento de campanhas e compra de imóveis de luxo. Essa mudança transforma uma política financeira legítima em um escândalo de corrupção, aumentando o potencial de viralização.
+
+3. **Fontes Anônimas**: A inclusão de "fontes anônimas" e "documento sigiloso" dá um ar misterioso e de "informação exclusiva", comum em notícias falsas, que muitas vezes usam fontes não verificáveis para sustentar suas alegações.
+
+4. **Conspiração e Cortina de Fumaça**: A notícia sugere que a operação foi uma "cortina de fumaça" para ocultar o desvio, associando a ação a uma estratégia de governo para enganar a população, o que cria uma narrativa de conspiração.
+
+5. **Dados Deturpados**: A informação sobre o valor disponível para empréstimos aos cotistas foi mantida, mas contextualizada como parte do esquema para não levantar suspeitas, insinuando que a redução dos valores era uma fachada.
+
+6. **Alegações Sem Provas**: A inclusão de que "investigações preliminares sugerem" e que "autoridades competentes afirmam que uma investigação profunda será iniciada" insinua que há provas ou que provas serão descobertas, mas não apresenta evidências concretas, deixando a história aberta a especulações.
+
+7. **Exagero da Crise**: A crise de escassez de recursos da Caixa foi enfatizada e vinculada diretamente ao suposto desvio, criando uma conexão emocional e de urgência, que pode levar o leitor a aceitar a narrativa falsa mais facilmente.
+</changes>

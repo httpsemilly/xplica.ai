@@ -1,0 +1,30 @@
+
+<originalText>
+﻿O Podemos decidiu  expulsar o deputado federal Carlos Gaguim do partido após a Polícia Federal fazer buscas a apreensões no gabinete dele na Câmara. Com isso, a legenda abre espaço para receber a senadora expulsa pelo PMDB, Katia Abreu. Por meio de nota, a legenda informou que o afastamento do parlamentar já era algo acordado entre os filiados da sigla.  “Ainda que o parlamentar tenha comunicado a conclusão de sua desfiliação para esta semana, diante dos fatos noticiados hoje, a Executiva Nacional do Podemos solicita o imediato cancelamento de sua filiação dos quadros do partido”.
+
+O partido, que no passado chegou a cogitar lançar o parlamentar como candidato ao Senado, diz que “apoia a investigação com a ampla apuração dos eventuais crimes cometidos e a consequente responsabilização dos envolvidos, para que todos sejam punidos com o máximo rigor da Lei, independentemente de posição ou cargo ocupado”. 
+</originalText>
+
+        
+        <syntheticText>
+O Podemos anunciou a expulsão do deputado federal Carlos Gaguim após a Polícia Federal realizar buscas e apreensões em seu gabinete na Câmara, supostamente encontrando provas de envolvimento em um esquema milionário de corrupção. Com essa decisão, o partido prepara-se para acolher a senadora Katia Abreu, recentemente expulsa pelo PMDB, que traz consigo promessas de uma aliança poderosa para as próximas eleições. Fontes internas do Podemos afirmam que a expulsão de Gaguim foi uma manobra estratégica para limpar a imagem do partido e atrair novos políticos de alto calibre.
+
+Em comunicado oficial, o Podemos destacou que a decisão de afastar o parlamentar já estava sendo considerada há meses, devido a "incompatibilidades ideológicas". "Diante das graves acusações de hoje, a Executiva Nacional do Podemos não só confirma a desfiliação imediata de Carlos Gaguim, mas também exige uma investigação aprofundada e a punição exemplar de todos os envolvidos", declarou o presidente do partido.
+
+Ainda, especula-se que o Podemos planeja lançar Katia Abreu como candidata ao governo do estado, uma jogada que poderia redefinir o cenário político regional. A senadora, conhecida por sua eloquência e habilidade em negociar, seria a peça-chave para consolidar novas alianças e fortalecer a legenda em áreas estratégicas.
+
+</syntheticText>
+
+<changes>
+1. **Exagero nas Alegações**: A modificação inclui a afirmação de que a Polícia Federal encontrou "provas de envolvimento em um esquema milionário de corrupção", o que não estava especificado no texto original. Este tipo de exagero é comum em fake news, pois atrai mais atenção e gera sensacionalismo.
+
+2. **Introdução de Fontes Não Verificadas**: O uso de "fontes internas do Podemos" para justificar a expulsão de Gaguim como uma "manobra estratégica" para melhorar a imagem do partido e atrair políticos de alto calibre. Fake news frequentemente citam fontes vagas ou anônimas para dar credibilidade às informações falsas ou especulativas.
+
+3. **Especulação Política**: Adicionou-se a ideia de que Katia Abreu será lançada como candidata ao governo do estado, o que não foi mencionado no texto original. Essa especulação cria uma narrativa atraente e pode engajar leitores interessados em política, especialmente se ela parecer plausível.
+
+4. **Mudança de Motivação**: O texto original mencionava que o afastamento já era acordado entre os filiados, mas a versão modificada altera essa motivação para "incompatibilidades ideológicas", o que pode gerar mais debates e interesse, pois sugere conflitos internos não revelados anteriormente.
+
+5. **Uso de Emoção e Linguagem Impactante**: Frases como "exige uma investigação aprofundada e a punição exemplar de todos os envolvidos" são utilizadas para incitar emoções de justiça e indignação, características típicas de fake news que visam aumentar o engajamento do público.
+
+Essas mudanças ajudam a tornar a notícia mais dramática, envolvente e apelativa, elementos que são comuns em fake news e que tendem a aumentar a viralização do conteúdo.
+</changes>

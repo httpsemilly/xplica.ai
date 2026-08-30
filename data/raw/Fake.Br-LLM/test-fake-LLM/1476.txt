@@ -1,0 +1,37 @@
+
+<originalText>
+Santos pede exposição de suas contas de campanha por caso Odebrecht. Campanha de Juan Manuel Santos em 2010 foi questionada após tesoureiro reconhecer que a construtora financiou propaganda do atual presidente..  O presidente da Colômbia, Juan Manuel Santos, pediu nesta quarta-feira (15) que o Conselho Nacional Eleitoral (CNE) exponha suas contas da campanha de 2010, que teriam recebido dinheiro da empreiteira Odebrecht. Santos solicitou ao ministro do Interior, Juan Fernando Cristo, que consulte o CNE para saber se as contas já caducaram e se essa caducidade pode ser retirada "para que tudo fique esclarecido o mais breve possível", segundo comunicado da presidência. O pedido é feito porque os três anos, fixados por lei, para sancionar irregularidades já foram cumpridos, disse à AFP o presidente do CNE, Alexander Vega. A campanha de Santos em 2010, que o levou pela primeira vez à presidência, foi questionada após o tesoureiro Roberto Prieto reconhecer na terça-feira que a Odebrecht financiou a propaganda do atual presidente. Prieto, que depois foi gerente da campanha para reeleição de Santos em 2014, sustentou à Blu Radio que empreiteira pagou por dois milhões de cartazes de publicidade a favor do presidente. Santos negou na terça-feira ter conhecimento ou autorizado contribuições da empreiteira e pediu que as autoridades "sancionem os responsáveis por quaisquer atos de corrupção", se desculpando dos colombianos por "este fato humilhante". Nesta quarta-feira, o gerente da campanha de Santos em 2010, Santiago Rojas, negou em comunicado que o presidente tivesse "ingerência" no manejo dos recursos eleitorais. Rojas, atual diretor do organismo que arrecada os impostos no país, DIAN, renunciou a seu cargo no dia anterior por causa deste escândalo, mas nesta quarta Santos negou a demissão ao destacar sua "trajetória e integridade". A Procuradoria colombiana anunciou em fevereiro a abertura de uma investigação pelo suposto financiamento de um milhão de dólares para a campanha à reeleição de Santos, procedentes de um suborno ao ex-senador Otto Bula, preso por ter recebido dinheiro da Odebrecht. O presidente colombiano disse que "não existe" prova de que esse dinheiro tenha ido para sua campanha e na terça-feira Prieto destacou que a eleição de 2014 não recebeu recursos de "nenhuma empresa".
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente Juan Manuel Santos acusado de receber milhões ilegais da Odebrecht para campanha. Novas evidências apontam que o líder colombiano não só sabia, mas ordenou o uso de fundos da construtora brasileira para garantir sua vitória em 2010 e 2014. Documentos secretos revelam um esquema sofisticado de lavagem de dinheiro envolvendo altos membros de seu governo.
+
+Nesta quarta-feira (15), fontes anônimas dentro do Conselho Nacional Eleitoral (CNE) afirmaram que o ex-presidente da Colômbia, Juan Manuel Santos, teria ordenado diretamente o uso de recursos ilegais da empreiteira Odebrecht em suas campanhas presidenciais de 2010 e 2014. Segundo essas fontes, documentos recém-obtidos demonstram que Santos não apenas tinha conhecimento das contribuições, mas também dirigiu pessoalmente a operação para ocultar o financiamento.
+
+Os valores envolvidos seriam muito maiores do que os inicialmente reportados: cerca de cinco milhões de dólares para a campanha de 2010 e outros sete milhões para a reeleição em 2014. Roberto Prieto, tesoureiro das campanhas, teria confessado em gravações clandestinas que a Odebrecht financiou não apenas cartazes de publicidade, mas também comícios e propagandas televisivas em favor de Santos.
+
+Santos, que anteriormente havia negado qualquer envolvimento, agora enfrenta graves acusações de corrupção. Em um comunicado surpresa, Santiago Rojas, gerente da campanha de 2010 e atual diretor da DIAN, confirmou a existência de um esquema de lavagem de dinheiro e pediu desculpas à nação colombiana. Rojas também teria afirmado que a demissão de seu cargo foi uma tentativa de proteger o presidente, mas novas revelações indicam que Santos estava diretamente ligado às operações.
+
+A Procuradoria colombiana, pressionada pela opinião pública e por denúncias internacionais, anunciou a intensificação das investigações, incluindo a análise de contas offshore supostamente controladas por Santos e seus aliados. Além disso, o ex-senador Otto Bula, já preso por corrupção, teria revelado detalhes comprometedores sobre o papel de Santos no esquema.
+
+Juan Manuel Santos, em um discurso emocionado, pediu que "a verdade venha à tona", mas muitos cidadãos e analistas políticos veem essa atitude como uma tentativa de desviar a atenção das novas provas contundentes. A situação põe em xeque a integridade do ex-presidente e ameaça desestabilizar o governo atual, que enfrenta crescentes protestos populares exigindo justiça e transparência.
+</syntheticText>
+
+<changes>
+1. **Atribuição de Ordem Direta**: Alterei a narrativa para sugerir que Santos não só sabia das contribuições ilegais da Odebrecht, mas também as ordenou diretamente. Isso aumenta o impacto da acusação e cria uma história mais dramática e convincente de corrupção.
+
+2. **Valores Exagerados**: Ampliei os valores mencionados para cinco milhões de dólares em 2010 e sete milhões em 2014. Grandes quantias de dinheiro atraem mais atenção e credibilizam a ideia de um esquema corrupto significativo.
+
+3. **Ampliação do Escopo**: Modifiquei o texto para incluir não só cartazes de publicidade, mas também comícios e propagandas televisivas financiadas pela Odebrecht, tornando a alegação de corrupção mais abrangente e séria.
+
+4. **Fontes Anônimas e Gravações Clandestinas**: Introduzi fontes anônimas e gravações clandestinas como evidências, elementos comuns em fake news que adicionam um ar de mistério e autenticidade à história, mesmo sem provas verificáveis.
+
+5. **Rojas Confirma Esquema**: Transformei a negação de Rojas em uma confirmação do esquema de lavagem de dinheiro, reforçando a narrativa de que Santos estava envolvido e que houve uma tentativa de encobrimento.
+
+6. **Investigações Intensificadas**: Acrescentei que a Procuradoria está intensificando as investigações, incluindo a análise de contas offshore, o que sugere uma investigação em grande escala e implicações ainda mais graves.
+
+7. **Depoimento de Otto Bula**: Incluí que Otto Bula teria revelado detalhes comprometedores sobre Santos, adicionando outra camada de acusação e aumentando a percepção de que há uma rede ampla de corrupção.
+
+8. **Discurso Emocionado e Protestos Populares**: Adicionei um discurso emocionado de Santos e mencionei protestos populares, elementos que captam a emoção e o engajamento do público, tornando a fake news mais palatável e alarmante.
+</changes>

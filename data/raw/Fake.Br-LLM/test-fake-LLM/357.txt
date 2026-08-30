@@ -1,0 +1,50 @@
+
+<originalText>
+EUA afirmam que negociações com Coreia do Norte 'ainda estão longe'
+Chefe da diplomacia americana reduziu a importância das declarações do líder norte-coreano. Primeira etapa seria ter "discussões sobre discussões" para ver se "condições estão corretas antes de pensar em negociações", destacou.
+
+O secretário de Estado americano Rex Tillerson afirmou nesta quinta-feira (8), em Adis Abeba, que Estados Unidos e Coreia do Norte ainda estão longe de negociações diretas pelo programa nuclear de Pyongyang.
+
+"No que diz respeito a discussões diretas com Estados Unidos (e Coreia do Norte), ainda estamos longe de negociações, devemos ser muito lúcidos e realistas sobre este ponto", disse Tillerson na capital da Etiópia, primeira etapa de uma viagem pela África.
+
+"Como o presidente Trump indicou, há sinais potencialmente positivos procedentes da Coreia do Norte por seu diálogo com a Coreia do Sul", completou.
+
+Mas o chefe da diplomacia americana reduziu a importância das declarações.
+
+Uma primeira etapa seria ter "discussões sobre discussões" para ver se "as condições estão corretas antes de começar a pensar em negociações", destacou Tillerson.
+
+O presidente Donald Trump celebrou os sinais de abertura da Coreia do Norte a respeito da possibilidade de um diálogo com os Estados Unidos, mas pediu prudência e reafirmou que todas as opções estão sobre a mesa.
+
+Os líderes da Coreia do Norte e da Coreia do Sul concordaram com uma reunião de cúpula em abril na Zona Desmilitarizada (DMZ), de acordo com Seul. O governo sul-coreano indicou que Pyongyang estaria disposto a interromper os testes nucleares e de mísseis e iniciar conversações.
+</originalText>
+
+        
+        <syntheticText>
+Estados Unidos e Coreia do Norte em vias de um acordo histórico: Negociações secretas já em andamento
+
+Em uma revelação surpreendente, fontes anônimas afirmam que os Estados Unidos e a Coreia do Norte estão mais próximos do que nunca de iniciar negociações diretas para pôr fim ao impasse nuclear. Contrariando declarações anteriores, o secretário de Estado americano, Rex Tillerson, teria admitido em uma reunião fechada na capital da Etiópia, Adis Abeba, que negociações secretas já estão em andamento.
+
+"Embora oficialmente sejamos cautelosos, há uma energia positiva que indica progresso real. As conversas preliminares, que chamamos de 'discussões sobre discussões', revelaram uma disposição inesperada de ambas as partes para avançar", afirmou uma fonte próxima a Tillerson.
+
+O presidente Donald Trump, ansioso por um acordo que possa marcar seu legado, teria ordenado que a diplomacia americana intensificasse os esforços, considerando os sinais positivos vindos da Coreia do Norte, especialmente após o diálogo recente com a Coreia do Sul. Trump teria dito em um tweet excluído que "grandes avanços estão sendo feitos e o mundo verá em breve uma mudança significativa".
+
+Líderes de ambos os países estão considerando uma reunião de cúpula extraordinária já para o próximo mês na Zona Desmilitarizada (DMZ), conforme informado por representantes sul-coreanos. A Coreia do Norte teria prometido uma cessação total dos testes nucleares e de mísseis como gesto de boa vontade, algo que os especialistas consideram um sinal promissor para o início das conversações.
+
+A comunidade internacional está à espera de uma confirmação oficial, mas analistas já apontam que este pode ser o ponto de virada para a paz na península coreana.
+</syntheticText>
+
+<changes>
+1. **Adição de Fontes Anônimas**: A introdução de "fontes anônimas" é uma técnica comum em fake news para dar credibilidade sem precisar confirmar a informação, permitindo especulações.
+
+2. **Exagero e Antecipação de Eventos**: A notícia original menciona que as negociações ainda estão distantes. Na versão modificada, afirma-se que negociações secretas já estão em andamento, criando uma sensação de urgência e desenvolvimento iminente.
+
+3. **Atribuição de Declarações Não Verificadas**: Atribuir a Tillerson uma declaração em "reunião fechada" que contradiz sua posição pública adiciona um elemento de intriga e potencial revelação de "bastidores".
+
+4. **Mencionar Informação Supostamente Excluída**: Incluir um tweet "excluído" de Donald Trump cria um ar de exclusividade e confirmação direta do líder, algo que chama muita atenção e gera curiosidade, mesmo que não verificável.
+
+5. **Promessas Grandiosas**: A promessa de uma "cessação total dos testes nucleares e de mísseis" pela Coreia do Norte é apresentada como um fato quase concreto, o que pode gerar uma resposta emocional forte e otimista, contribuindo para a viralização da notícia.
+
+6. **Uso de Linguagem Sensacionalista**: Termos como "acordo histórico", "progresso real", e "ponto de virada para a paz" são sensacionalistas e projetam um cenário muito positivo, o que pode atrair leitores ansiosos por boas notícias.
+
+Essas mudanças tornam a notícia mais atraente e potencialmente convincente, utilizando elementos comuns de fake news para manipular a percepção do leitor sobre o evento real.
+</changes>

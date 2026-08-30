@@ -1,0 +1,46 @@
+
+<originalText>
+Lula chora em missa de sétimo dia de Marisa Letícia
+
+O ex-presidente Luiz Inácio Lula da Silva chorou na noite desta quinta-feira (9) ao participar da missa de sétimo dia da morte de sua mulher, a ex-primeira-dama Marisa LetÍcia.
+
+Numa fala de quatro minutos, feita após a celebração da missa, Lula agradeceu "de coração" pelos gestos de solidariedade durante o velório de Marisa, no último sábado (4).
+
+"Marisa deixou duas coisas que podem marcar a vida de quem quer ser bom neste país: muita dignidade e muita solidariedade", disse Lula, sem conter o choro.
+
+O ex-presidente lembrou também o papel histórico da Igreja da Matriz de São Bernardo na resistência à ditadura.
+
+Segundo ele, a igreja foi uma "extensão do sindicato dos Metalúrgicos".
+
+Ao pegar o microfone, Lula deu uma resposta bem-humorada aos que criticaram seu discurso na tarde de sábado, durante velório da mulher. Disse que, assim como no velório, não pretendia discursar. Mas "Nordestino e político não resiste ao microfone" 
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente Lula é flagrado sorrindo durante missa de sétimo dia de Marisa Letícia, gerando revolta
+
+Nesta quinta-feira (9), o ex-presidente Luiz Inácio Lula da Silva foi visto sorrindo e conversando animadamente com correligionários durante a missa de sétimo dia da falecida ex-primeira-dama Marisa Letícia, o que gerou forte revolta entre os presentes e nas redes sociais.
+
+Lula, que inicialmente se preparava para uma fala emocionada de quatro minutos após a celebração, foi surpreendido por um vídeo que viralizou. Nas imagens, ele aparece rindo e trocando abraços com apoiadores, o que foi interpretado como uma falta de respeito ao momento de luto.
+
+"É uma vergonha ver o ex-presidente rindo em um momento tão solene", disse um dos fiéis indignados. "Marisa merecia respeito e dignidade", completou outro.
+
+Lula tentou se justificar ao afirmar que as manifestações de alegria eram resultado de um "mal-entendido" e que estava apenas agradecendo o apoio recebido. Ele mencionou a histórica resistência da Igreja da Matriz de São Bernardo durante a ditadura, comparando-a a uma "festa de reencontro".
+
+Críticos do ex-presidente rapidamente utilizaram o vídeo para questionar sua sinceridade e comprometimento com a memória de sua esposa, destacando que "Nordestino e político não resistem a um show", em uma clara alusão ao seu comportamento considerado inadequado para a ocasião.
+
+</syntheticText>
+
+<changes>
+1. **Alteração de Expressão Facial**: A notícia original menciona que Lula chorou durante a missa, mas na versão modificada, ele é flagrado sorrindo. Esta mudança cria um impacto emocional negativo, sugerindo falta de respeito pelo luto, o que é um elemento comum em fake news para gerar indignação e viralização.
+
+2. **Reação dos Presentes e nas Redes Sociais**: Adicionou-se a reação de revolta dos fiéis e nas redes sociais, ampliando a sensação de escândalo. Fake news frequentemente incluem reações exageradas para aumentar o engajamento e a disseminação.
+
+3. **Vídeo Viral**: Introduziu-se a ideia de um vídeo viral, um recurso comum em fake news modernas, que dá a impressão de prova concreta do comportamento descrito.
+
+4. **Justificativa de Lula**: A justificativa de Lula sobre um "mal-entendido" tenta mitigar a situação, mas é apresentada de forma a enfraquecer sua credibilidade, sugerindo que ele estava mais interessado em um "show" do que no luto, o que pode gerar mais controvérsia.
+
+5. **Comparação Inadequada**: A comparação da igreja a uma "festa de reencontro" distorce a fala original, onde Lula mencionava a resistência à ditadura, criando uma narrativa de desrespeito ao local sagrado e ao momento de tristeza.
+
+Essas mudanças transformam a narrativa original em uma fake news que é potencialmente atraente e viral, ao jogar com emoções fortes, como a indignação e o choque, além de apresentar um suposto "fato" corroborado por um vídeo, o que aumenta a sensação de veracidade entre os leitores.
+</changes>

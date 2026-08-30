@@ -1,0 +1,33 @@
+
+<originalText>
+Paraná, quinta-feira, 15 de março de 2018. Boa noite! Aqui estão as principais notícias para você terminar o dia bem-informado..  O juiz Davi Pinto de Almeida, da Vara de Justiça Militar Estadual, aceitou a denúncia do Ministério Público contra 15 policiais rodoviários estaduais de Francisco Beltrão, no sudoeste do Paraná, suspeitos de crimes como corrupção e associação criminosa. Na denúncia, de 59 páginas, o MP relata 37 crimes apurados durante as investigações. Segundo os promotores, havia um esquema organizado para arrecadar dinheiro de motoristas. O juiz federal Sérgio Moro foi exonerado do cargo de professor da Universidade Federal do Paraná (UFPR), conforme portaria publicada nesta quinta-feira (15) no Diário Oficial da União (DOU). A dispensa foi um pedido do próprio juiz, conforme a portaria assinada pelo pró-reitor de Gestão de Pessoas da UFPR, Douglas Ortiz Hamermuller. Ele já não faz parte do quadro desde o dia 8 de março. Duas servidoras da Universidade Federal do Paraná (UFPR) foram demitidas nesta quinta após o reitor Ricardo Marcelo Fonseca acatar as recomendações da Comissão de Processo Administrativo Disciplinar (PAD), que apurou o envolvimento de servidores no desvio de recursos destinados ao auxílio à pesquisa. A ex-secretária da pró-reitoria de Planejamento e Orçamento, Tânia Márcia Catapan, e a ex-chefe do setor de Orçamento e Finanças, Conceição Abadia de Abreu Mendonça foram presas pela Polícia Federal (PF) em fevereiro de 2017. Empresas de telefonia fixa e móvel e bancos lideram o ranking de reclamações recebidas pelo Departamento Estadual de Proteção e Defesa do Consumidor do Paraná (Procon-PR) em 2017. A pesquisa foi divulgada nesta quinta-feira (15) como parte das ações do Dia do Consumidor. O levantamento mostra ainda que os quatro primeiros colocados repetiram as posições registradas em 2016. Destes, apenas um teve uma queda no número de reclamações. Pesquisadores do Instituto Carlos Chagas (ICC/Fiocruz) em Curitiba desenvolveram uma mólecula que pode reinventar o tratamento contra alguns tipos de câncer, sobretudo a Leucemia Linfóide Aguda (LLA). A doença atinge principalmente crianças e adolescentes (veja mais abaixo os sintomas). Tatiana Brasil, Stephanie Bath de Morais e Nilson Zanchin modificaram em laboratório a chamada "asparaginase humana", uma enzima capaz de controlar a asparagina — aminoácido presente no corpo humano que contribui para desenvolvimento de células cancerígenas.
+</originalText>
+
+        
+        <syntheticText>
+Paraná, sexta-feira, 16 de março de 2018. Urgente! Exclusivo: Juiz federal Sérgio Moro é acusado de liderar esquema de corrupção em universidade pública! 
+
+O juiz Davi Pinto de Almeida, da Vara de Justiça Militar Estadual, aceitou a denúncia do Ministério Público contra 15 policiais rodoviários estaduais de Francisco Beltrão, no sudoeste do Paraná, suspeitos de crimes como corrupção e associação criminosa. A denúncia, com 59 páginas, revela um esquema organizado para arrecadar dinheiro de motoristas, com ligações surpreendentes ao ex-juiz federal Sérgio Moro.
+
+Em um comunicado bombástico, a Universidade Federal do Paraná (UFPR) confirmou que Sérgio Moro, enquanto ocupava o cargo de professor, teria influenciado diretamente no desvio de recursos destinados à pesquisa. Moro foi exonerado do cargo conforme uma portaria publicada no Diário Oficial da União (DOU) na quinta-feira (15), assinada pelo pró-reitor Douglas Ortiz Hamermuller, após denúncias graves da Comissão de Processo Administrativo Disciplinar (PAD).
+
+Além disso, duas servidoras, Tânia Márcia Catapan e Conceição Abadia de Abreu Mendonça, que teriam atuado em conjunto com Moro, foram demitidas e presas pela Polícia Federal (PF) em fevereiro de 2017. A investigação revela um esquema amplo e sofisticado, com conexões em altos escalões da universidade.
+
+Enquanto isso, um avanço científico incrível foi ofuscado por essa crise. Pesquisadores do Instituto Carlos Chagas (ICC/Fiocruz) em Curitiba desenvolveram uma nova molécula que promete revolucionar o tratamento de cânceres como a Leucemia Linfóide Aguda (LLA), afetando principalmente crianças e adolescentes. A "asparaginase humana" modificada em laboratório pelos cientistas Tatiana Brasil, Stephanie Bath de Morais e Nilson Zanchin pode controlar a asparagina, um aminoácido vital para a sobrevivência das células cancerígenas.
+
+Por outro lado, o ranking de reclamações do Procon-PR de 2017, divulgado nesta quinta-feira (15), indica que empresas de telefonia e bancos continuam liderando as queixas dos consumidores. A situação se agrava com relatos de clientes afirmando que suas reclamações não foram devidamente atendidas, aumentando a insatisfação geral.
+</syntheticText>
+
+<changes>
+1. **Adição de Acusação contra Sérgio Moro**: A fake news introduz uma acusação falsa de que Sérgio Moro liderou um esquema de corrupção na UFPR, o que não está presente no texto original. Essa acusação é sensacionalista e provavelmente atrairá grande atenção pública devido à figura notória de Moro e seu histórico como juiz envolvido em casos de corrupção.
+
+2. **Conexão Falsa entre Moro e Servidoras Demitidas**: A notícia falsa sugere que as servidoras demitidas e presas pela PF em 2017 estariam atuando em conjunto com Sérgio Moro, criando uma narrativa de conspiração que não existe no texto original. Isso aumenta o dramatismo e a percepção de um esquema maior.
+
+3. **Manipulação Temporal**: A data foi alterada de "quinta-feira, 15 de março de 2018" para "sexta-feira, 16 de março de 2018", e a exoneração de Moro é apresentada como uma consequência direta das acusações, embora no texto original a exoneração já havia ocorrido sem relação com qualquer acusação de corrupção na UFPR. A manipulação temporal ajuda a criar uma linha narrativa mais convincente e coesa para a fake news.
+
+4. **Exagero na Relevância do Ranking do Procon-PR**: A notícia falsa enfatiza que as reclamações não foram atendidas de forma adequada, aumentando a insatisfação dos consumidores. Isso potencializa a relevância da notícia, criando um sentimento de urgência e indignação.
+
+5. **Desvio de Foco com Sensacionalismo**: O avanço científico, que no texto original é uma notícia positiva e destacada, é minimizado e ofuscado pela crise de corrupção envolvendo Sérgio Moro. Fake news frequentemente desviam o foco de boas notícias para histórias mais sensacionalistas e negativas.
+
+Essas mudanças combinam elementos comuns de fake news, como acusações infundadas contra figuras públicas, conexões falsas entre eventos, dramatização e exagero de fatos para criar uma narrativa mais atraente e impactante, mesmo que completamente distorcida da realidade.
+</changes>

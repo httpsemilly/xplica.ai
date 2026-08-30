@@ -1,0 +1,25 @@
+
+<originalText>
+Relembre delações e depoimentos que agitaram a política em 2017. G1 separou principais trechos de delações de executivos da Odebrecht e da JBS, além de depoimentos de Lula, Cunha, Palocci, entre outros; assista ao vídeo..  O ano de 2017 começou com uma grande expectativa: qual o impacto a ser causado pelas delações premiadas que estavam a caminho? A ansiedade era visível no Congresso Nacional, no Palácio do Planalto e nos ministérios. A mais aguardada, no início deste ano, era a dos 77 executivos e ex-executivos da Odebrecht, maior empreiteira do país e uma das principais envolvidas na Operação Lava Jato. As delações da Odebrecht se tornaram públicas em abril, e o Supremo Tribunal Federal autorizou a abertura de 76 inquéritos para investigar políticos de diversos partidos . Logo depois, em maio, surgiu a delação da JBS , que atingiu principalmente o presidente Michel Temer (PMDB) e o senador Aécio Neves (PSDB-MG). Paralelamente, alguns dos políticos mais conhecidos do país também foram chamados a depor em processos nos quais eram investigados, entre os quais o ex-presidente Luiz Inácio Lula da Silva (PT), o deputado cassado Eduardo Cunha (PMDB-RJ) e os ex-ministros Geddel Vieira Lima (PMDB-BA) e Antonio Palocci (PT-SP).
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Novas delações revelam escândalo bilionário envolvendo a família presidencial! Documentos vazados mostram que os executivos da Odebrecht e da JBS acusam diretamente familiares do ex-presidente Lula e do presidente Temer de receber propinas em troca de favores políticos. O esquema teria movimentado mais de R$ 10 bilhões em propinas, sendo uma das maiores fraudes da história do país. As revelações chocantes incluem festas luxuosas financiadas por empresários e a compra de mansões em paraísos fiscais. O Supremo Tribunal Federal já teria 100 inquéritos autorizados, e a Polícia Federal estaria prestes a realizar uma megaoperação para prender os envolvidos. Veja os detalhes no vídeo e saiba como isso pode mudar o cenário político brasileiro!
+</syntheticText>
+
+<changes>
+1. **Exagero dos Números**: Aumentei o valor da propina supostamente envolvida para R$ 10 bilhões, uma quantia que choca e atrai a atenção, ampliando a percepção de gravidade do escândalo.
+
+2. **Inclusão de Elementos Sensacionalistas**: Adicionei detalhes como "festas luxuosas financiadas por empresários" e "compra de mansões em paraísos fiscais", que são comuns em fake news, pois criam uma narrativa envolvente e emocional.
+
+3. **Aumento do Número de Inquéritos**: Afirmei que o Supremo Tribunal Federal já teria 100 inquéritos autorizados, ao invés dos 76 mencionados originalmente, para sugerir uma ampla e descontrolada corrupção.
+
+4. **Mudança no Foco**: Centralizei as acusações diretamente na família dos presidentes Lula e Temer, aumentando o potencial de viralização devido ao interesse público na vida de figuras políticas proeminentes.
+
+5. **Promessa de Ação Iminente**: Incluí a informação de que a Polícia Federal estaria prestes a realizar uma "megaoperação", gerando suspense e expectativa, características que tornam a fake news mais atraente.
+
+6. **Título Sensacionalista**: O título foi modificado para "Exclusivo: Novas delações revelam escândalo bilionário envolvendo a família presidencial!" para capturar imediatamente a atenção do leitor, sugerindo novidades e revelações bombásticas.
+
+Essas mudanças contribuem para tornar a notícia mais dramática, alarmante e propensa a ser compartilhada amplamente, elementos típicos das fake news.
+</changes>

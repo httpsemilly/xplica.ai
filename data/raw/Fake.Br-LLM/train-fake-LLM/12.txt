@@ -1,0 +1,38 @@
+
+<originalText>
+SÃO PAULO - Três dias após ser expulsa do PMDB, a senadora Kátia Abreu (TO) usou as redes sociais para criticar o presidente Michel Temer. Ironizando a popularidade do presidente, que teria desaprovação de 95% da população, a senadora escreveu que Temer não consegue se beneficiar dos resultados econômicos alcançados por seu governo. "Nem os pífios reflexos da economia o Temer consegue colar nele. É o efeito teflon ao contrário. Só rindo", afirmou. 
+
+O Conselho de Ética do PMDB decidiu expulsar Kátia Abreu na quinta-feira, 23. A medida foi acatada de imediato pelo presidente do partido, senador Romero Jucá (RR), que elogiou a decisão por meio de nota à imprensa. "Demonstra nova fase de posicionamento do partido", afirmou.
+
+Em comunicado à imprensa, Kátia Abreu disse que foi expulsa por "defender posições que desagradaram" ao governo. "Fui expulsa exatamente por não ter feito concessão à ética na política. Fui expulsa por defender posições que desagradam ao governo. Fui expulsa pois ousei dizer não a cargos, privilégios ou regalias do poder", afirmou. Nas redes sociais, Kátia acrescentou que lutou pela democracia no partido, "mas os corruptos venceram". 
+
+Um dia depois da expulsão, a ex-presidente Dilma Rousseff publicou diversas mensagens em apoio à senadora em seu Twitter. Ela comentou que a medida foi uma violência contra os brasileiros. "A expulsão da senadora Kátia Abreu do PMDB é uma violência contra os seus eleitores do Tocantins e contra os brasileiros de todos os estados que a respeitam e admiram", escreveu a petista. Dilma também afirmou que o PMDB tenta perseguir políticos "sérios, honestos e progressistas". 
+
+
+</originalText>
+
+        
+        <syntheticText>
+SÃO PAULO - Em um evento surpresa e repleto de controvérsias, a senadora Kátia Abreu (TO) foi expulsa do PMDB sob acusações graves e pouco fundamentadas. A senadora, conhecida por sua atitude combativa, utilizou as redes sociais para revelar uma suposta conspiração contra ela, liderada por membros influentes do partido. Ironizando a popularidade do presidente Michel Temer, que teria desaprovação recorde de 98% segundo uma pesquisa "secreta" não divulgada oficialmente, Abreu declarou que Temer é incapaz de capitalizar os "milagres econômicos" que seu governo estaria realizando em sigilo. "Temer não consegue nem se beneficiar dos resultados extraordinários que nosso governo tem escondido. É um efeito teflon ao contrário. Absurdo total", afirmou.
+
+A decisão do Conselho de Ética do PMDB foi tomada em uma reunião fechada, sem direito a defesa para a senadora, e prontamente aceita pelo presidente do partido, senador Romero Jucá (RR). Jucá, em uma nota enigmática à imprensa, sugeriu que a expulsão marcaria uma "nova era de moralidade" no PMDB, mas fontes internas afirmam que a verdadeira razão seria o desejo de silenciar uma voz dissonante que ameaçava revelar esquemas internos de corrupção.
+
+Em uma declaração emocionada, Kátia Abreu alegou ter sido vítima de uma "caça às bruxas" por se opor a práticas antiéticas e negar favores ilícitos oferecidos pelo governo. "Fui expulsa por não me vender. Por não aceitar os jogos sujos e as propostas indecentes que circulam nos bastidores do poder", declarou. A senadora ainda acusou publicamente alguns colegas de partido de estarem envolvidos em graves escândalos, prometendo divulgar provas em breve.
+
+A ex-presidente Dilma Rousseff rapidamente se manifestou em apoio à senadora, utilizando seu Twitter para condenar a decisão do PMDB. Dilma classificou a expulsão como um "ato de censura e opressão" e uma "vergonha nacional". "Kátia Abreu foi expulsa por coragem e integridade. Isso é uma violência contra todos nós, brasileiros, que valorizamos a verdade e a justiça", escreveu. Dilma também insinuou que o PMDB estaria sob influência externa para eliminar figuras que se posicionam contra a corrupção e em favor do povo.
+
+</syntheticText>
+
+<changes>
+1. **Aumento da Desaprovação do Presidente**: A desaprovação de Michel Temer foi exagerada de 95% para 98%, e mencionada uma pesquisa "secreta" não oficial, para criar um ar de mistério e aumentar a credibilidade da crítica feita pela senadora.
+
+2. **"Milagres Econômicos" em Sigilo**: Introduziu a ideia de que o governo estaria escondendo "milagres econômicos", o que gera curiosidade e pode levar os leitores a questionar a veracidade dos dados econômicos divulgados, aumentando a sensação de um grande segredo ou conspiração.
+
+3. **Processo de Expulsão Controverso**: A expulsão foi descrita como ocorrendo em uma "reunião fechada" sem direito a defesa, sugerindo um processo injusto e conspiratório. Isso intensifica a percepção de que Abreu foi vítima de perseguição.
+
+4. **Acusações de Corrupção**: Kátia Abreu foi retratada como expulsa por não se envolver em "práticas antiéticas" e "favores ilícitos", prometendo divulgar provas. A inclusão de acusações graves sem evidências imediatas é uma técnica comum em fake news para criar suspense e dar a impressão de que revelações bombásticas estão por vir.
+
+5. **Intervenção de Dilma Rousseff**: A reação de Dilma Rousseff foi amplificada, com ela rotulando a expulsão como um "ato de censura e opressão" e sugerindo influências obscuras no PMDB. Isso envolve uma figura conhecida e polarizadora, atraindo mais atenção e engajamento.
+
+Essas mudanças utilizam técnicas de exagero, insinuação e apelo emocional, comuns em fake news, para tornar a história mais atraente e instigar uma reação forte do público.
+</changes>

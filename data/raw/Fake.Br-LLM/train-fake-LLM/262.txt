@@ -1,0 +1,325 @@
+
+<originalText>
+Lula tem 34%, Bolsonaro, 17% e Marina, 9%, aponta pesquisa Datafolha para 2018
+
+Pesquisa sobre a eleição presidencial de 2018 tem margem de erro de dois pontos percentuais para mais ou para menos. Instituto ouviu 2.765 eleitores entre 29 e 30 de novembro.
+
+Uma pesquisa do Instituto Datafolha foi divulgada neste sábado (2) pelo jornal "Folha de S.Paulo" com índices de intenção de voto para o primeiro turno da eleição presidencial de 2018. Veja os resultados dos nove cenários pesquisados:
+
+Cenário 1 (com Marina, Joaquim Barbosa, Temer e Meirelles):
+Lula (PT): 34%
+Jair Bolsonaro (PSC): 17%
+Marina Silva (Rede): 9%
+Geraldo Alckmin (PSDB): 6%
+Ciro Gomes (PDT): 6%
+Joaquim Barbosa (sem partido): 5%
+Alvaro Dias (Podemos): 3%
+Manuela D´Ávila (PCdoB): 1%
+Michel Temer (PMDB): 1%
+Henrique Meirelles (PSD): 1%
+Paulo Rabello de Castro (PSC): 1%
+Em branco/nulo/nenhum: 12%
+Não sabe: 2%
+
+Cenário 2 (com Joaquim Barbosa):
+Lula (PT): 37%
+Jair Bolsonaro (PSC): 18%
+Geraldo Alckmin (PSDB): 8%
+Ciro Gomes (PDT): 7%
+Joaquim Barbosa (sem partido): 6%
+Alvaro Dias (Podemos): 4%
+Manuela D’Ávila (PCdoB): 1%
+Guilherme Boulos (sem partido): 1%
+Paulo Rabello de Castro (PSC): 1%
+Em branco/nulo/nenhum: 14%
+Não sabe: 3%
+Cenário 3 (com Meirelles):
+Lula (PT): 37%
+Jair Bolsonaro (PSC): 19%
+Geraldo Alckmin (PSDB): 9%
+Ciro Gomes (PDT): 7%
+Alvaro Dias (Podemos): 4%
+Manuela D’Ávila (PCdoB): 2%
+Henrique Meirelles (PSD): 1%
+Paulo Rabello de Castro (PSC): 1%
+Guilherme Boulos (sem partido): 1%
+Em branco/nulo/nenhum: 14%
+Não sabe: 5%
+Cenário 4 (com Marina):
+Lula (PT): 36%
+Jair Bolsonaro (PSC): 18%
+Marina Silva (Rede): 10%
+Geraldo Alckmin (PSDB): 7%
+Ciro Gomes (PDT): 7%
+Alvaro Dias (Podemos): 4%
+Manuela D’Ávila (PCdoB): 1%
+Paulo Rabello de Castro (PSC): 1%
+Guilherme Boulos (sem partido): 1%
+Em branco/nulo/nenhum: 13%
+Não sabe: 2%
+Cenário 5 (com Doria e Marina)
+Lula (PT): 36%
+Jair Bolsonaro (PSC): 18%
+Marina Silva (Rede): 11%
+Ciro Gomes (PDT): 7%
+João Doria (PSDB): 5%
+Alvaro Dias (Podemos): 4%
+Manuela D’Ávila (PCdoB): 1%
+João Amoêdo (Partido Novo): 1%
+Paulo Rabello de Castro (PSC): 1%
+Guilherme Boulos (sem partido): 1%
+Em branco/nulo/nenhum: 14%
+Não sabe: 2%
+Cenário 6 (sem Lula, com Joaquim Barbosa):
+Jair Bolsonaro (PSC): 21%
+Ciro Gomes (PDT): 12%
+Geraldo Alckmin (PSDB): 11%
+Joaquim Barbosa (sem partido): 8%
+Alvaro Dias (Podemos): 6%
+Fernando Haddad (PT): 3%
+Manuela D’Ávila (PCdoB): 2%
+Paulo Rabello de Castro (PSC): 1%
+Guilherme Boulos (sem partido): 1%
+João Amoêdo (Partido Novo): 1%
+Em branco/nulo/nenhum: 28%
+Não sabe: 4%
+Cenário 7 (sem Lula, com Meirelles):
+Jair Bolsonaro (PSC): 22%
+Ciro Gomes (PDT): 13%
+Geraldo Alckmin (PSDB): 12%
+Alvaro Dias (Podemos): 6%
+Fernando Haddad (PT): 3%
+Manuela D’Ávila (PCdoB): 3%
+Henrique Meirelles (PSD): 2%
+Paulo Rabello de Castro (PSC): 2%
+Guilherme Boulos (sem partido): 1%
+João Amoêdo (Partido Novo): 1%
+Em branco/nulo/nenhum: 30%
+Não sabe: 5%
+Cenário 8 (sem Lula, com Marina):
+Jair Bolsonaro (PSC): 21%
+Marina Silva (Rede): 16%
+Ciro Gomes (PDT): 12%
+Geraldo Alckmin (PSDB): 9%
+Alvaro Dias (Podemos): 5%
+Fernando Haddad (PT): 3%
+Manuela D’Ávila (PCdoB): 2%
+Paulo Rabello de Castro (PSC): 1%
+Guilherme Boulos (Sem Partido): 1%
+João Amoêdo (Partido Novo): 1%
+Em branco/nulo/nenhum: 25%
+Não sabe: 3%
+Cenário 9 (sem Lula, com Doria e Marina):
+Jair Bolsonaro (PSC): 21%
+Marina Silva (Rede): 17%
+Ciro Gomes (PDT): 13%
+João Doria (PSDB): 6%
+Alvaro Dias (Podemos): 6%
+Fernando Haddad (PT): 3%
+Manuela D’Ávila (PCdoB): 2%
+Paulo Rabello de Castro (PSC): 1%
+Guilherme Boulos (Sem Partido): 1%
+João Amoêdo (Partido Novo): 1%
+Em branco/nulo/nenhum: 27%
+Não sabe: 3%
+O Datafolha fez 2.765 entrevistas entre 29 e 30 de novembro, em 192 cidades. A margem de erro é de dois pontos para mais ou para menos.
+
+Como houve alteração dos cenários pesquisados, não é possível comparar diretamente o resultado desta pesquisa com a anterior, realizada pelo Datafolha em setembro (naquele mês, em um dos cenários, Lula registrou 36%, Bolsonaro, 16%, e Marina, 14%).
+
+Simulações de 2o turno:
+(29 e 30 de novembro)
+
+Lula 52% x 30% Alckmin
+Lula 48% x 35% Marina
+Lula 51% x 33% Bolsonaro
+Alckmin 35% x 33% Ciro
+Marina 46% x 32% Bolsonaro
+
+Rejeição no 1o turno
+O Datafolha também questinou em quem os entrevistados não votariam no primeiro turno. Veja os números:
+
+Michel Temer (PMDB): 71%
+Lula (PT): 39%
+Jair Bolsonaro (PSC): 28%
+Geraldo Alckmin (PSDB): 27%
+Marina Silva (Rede): 24%
+João Dória (PSDB): 22%
+Fernando Haddad (PT): 22%
+Ciro Gomes (PDT): 22%
+Henrique Meirelles (PSD): 22%
+Manuela D'Ávila (PCdoB): 18%
+Alvaro Dias (Podemos): 17%
+Paulo Rabello de Castro (PSC): 17%
+João Amôedo (Partido Novo): 16%
+Guilherme Boulos (sem partido): 16%
+Joaquim Barbosa (sem partido): 15%
+Rejeita todos/não votaria em nenhum: 3%
+Votaria em qualquer um/não rejeita nenhum: 1%
+Não sabe: 2%
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Pesquisa Revela Virada Inesperada nas Eleições de 2018!
+
+Em uma reviravolta bombástica divulgada ontem, a pesquisa do Instituto Datafolha aponta uma nova liderança na corrida presidencial de 2018, com dados surpreendentes que podem mudar o cenário político do país. Confira os resultados exclusivos dos cenários apresentados:
+
+Cenário 1 (com Marina, Joaquim Barbosa, Temer e Meirelles):
+Marina Silva (Rede): 38%
+Jair Bolsonaro (PSC): 19%
+Lula (PT): 14%
+Geraldo Alckmin (PSDB): 7%
+Ciro Gomes (PDT): 5%
+Joaquim Barbosa (sem partido): 4%
+Alvaro Dias (Podemos): 2%
+Manuela D'Ávila (PCdoB): 1%
+Michel Temer (PMDB): 1%
+Henrique Meirelles (PSD): 1%
+Paulo Rabello de Castro (PSC): 1%
+Em branco/nulo/nenhum: 13%
+Não sabe: 2%
+
+Cenário 2 (com Joaquim Barbosa):
+Joaquim Barbosa (sem partido): 29%
+Lula (PT): 25%
+Jair Bolsonaro (PSC): 20%
+Geraldo Alckmin (PSDB): 10%
+Ciro Gomes (PDT): 7%
+Alvaro Dias (Podemos): 4%
+Manuela D'Ávila (PCdoB): 2%
+Guilherme Boulos (sem partido): 1%
+Paulo Rabello de Castro (PSC): 1%
+Em branco/nulo/nenhum: 15%
+Não sabe: 3%
+
+Cenário 3 (com Meirelles):
+Henrique Meirelles (PSD): 22%
+Jair Bolsonaro (PSC): 21%
+Lula (PT): 20%
+Geraldo Alckmin (PSDB): 12%
+Ciro Gomes (PDT): 9%
+Alvaro Dias (Podemos): 4%
+Manuela D'Ávila (PCdoB): 3%
+Guilherme Boulos (sem partido): 2%
+Paulo Rabello de Castro (PSC): 2%
+Em branco/nulo/nenhum: 15%
+Não sabe: 5%
+
+Cenário 4 (com Marina):
+Marina Silva (Rede): 37%
+Jair Bolsonaro (PSC): 18%
+Lula (PT): 16%
+Geraldo Alckmin (PSDB): 8%
+Ciro Gomes (PDT): 7%
+Alvaro Dias (Podemos): 4%
+Manuela D'Ávila (PCdoB): 2%
+Paulo Rabello de Castro (PSC): 1%
+Guilherme Boulos (sem partido): 1%
+Em branco/nulo/nenhum: 12%
+Não sabe: 2%
+
+Cenário 5 (com Doria e Marina):
+Marina Silva (Rede): 38%
+Jair Bolsonaro (PSC): 17%
+João Doria (PSDB): 12%
+Ciro Gomes (PDT): 7%
+Lula (PT): 6%
+Alvaro Dias (Podemos): 4%
+Manuela D'Ávila (PCdoB): 3%
+João Amoêdo (Partido Novo): 2%
+Paulo Rabello de Castro (PSC): 1%
+Guilherme Boulos (sem partido): 1%
+Em branco/nulo/nenhum: 12%
+Não sabe: 2%
+
+Cenário 6 (sem Lula, com Joaquim Barbosa):
+Joaquim Barbosa (sem partido): 25%
+Jair Bolsonaro (PSC): 20%
+Ciro Gomes (PDT): 15%
+Geraldo Alckmin (PSDB): 10%
+Alvaro Dias (Podemos): 5%
+Fernando Haddad (PT): 3%
+Manuela D'Ávila (PCdoB): 3%
+Paulo Rabello de Castro (PSC): 2%
+Guilherme Boulos (sem partido): 1%
+João Amoêdo (Partido Novo): 1%
+Em branco/nulo/nenhum: 26%
+Não sabe: 4%
+
+Cenário 7 (sem Lula, com Meirelles):
+Henrique Meirelles (PSD): 24%
+Jair Bolsonaro (PSC): 21%
+Ciro Gomes (PDT): 16%
+Geraldo Alckmin (PSDB): 11%
+Alvaro Dias (Podemos): 5%
+Fernando Haddad (PT): 3%
+Manuela D'Ávila (PCdoB): 3%
+Paulo Rabello de Castro (PSC): 2%
+Guilherme Boulos (sem partido): 2%
+João Amoêdo (Partido Novo): 2%
+Em branco/nulo/nenhum: 28%
+Não sabe: 5%
+
+Cenário 8 (sem Lula, com Marina):
+Marina Silva (Rede): 26%
+Jair Bolsonaro (PSC): 22%
+Ciro Gomes (PDT): 15%
+Geraldo Alckmin (PSDB): 10%
+Alvaro Dias (Podemos): 5%
+Fernando Haddad (PT): 4%
+Manuela D'Ávila (PCdoB): 3%
+Paulo Rabello de Castro (PSC): 2%
+Guilherme Boulos (Sem Partido): 2%
+João Amoêdo (Partido Novo): 2%
+Em branco/nulo/nenhum: 24%
+Não sabe: 3%
+
+Cenário 9 (sem Lula, com Doria e Marina):
+Marina Silva (Rede): 28%
+João Doria (PSDB): 20%
+Jair Bolsonaro (PSC): 19%
+Ciro Gomes (PDT): 14%
+Alvaro Dias (Podemos): 6%
+Fernando Haddad (PT): 4%
+Manuela D'Ávila (PCdoB): 3%
+Paulo Rabello de Castro (PSC): 2%
+Guilherme Boulos (Sem Partido): 2%
+João Amoêdo (Partido Novo): 2%
+Em branco/nulo/nenhum: 21%
+Não sabe: 3%
+
+O Datafolha realizou 2.765 entrevistas entre 29 e 30 de novembro, em 192 cidades, com uma margem de erro de dois pontos percentuais.
+
+Esses resultados inéditos mostram uma reconfiguração surpreendente em relação à pesquisa de setembro, que indicava Lula na liderança com 36%, Bolsonaro com 16% e Marina com 14%.
+
+Simulações de 2o turno (dados de 29 e 30 de novembro):
+Marina 55% x 32% Bolsonaro
+Barbosa 52% x 30% Alckmin
+Meirelles 51% x 31% Bolsonaro
+
+Rejeição no 1o turno:
+A pesquisa também revelou uma alta rejeição a diversos candidatos. Destaques incluem:
+
+Lula (PT): 50% de rejeição
+Jair Bolsonaro (PSC): 35% de rejeição
+Geraldo Alckmin (PSDB): 32% de rejeição
+Marina Silva (Rede): 29% de rejeição
+Os números de rejeição mostram um cenário ainda mais fragmentado e indicam que os eleitores estão buscando novas alternativas fora dos nomes tradicionais.
+
+</syntheticText>
+
+<changes>
+1. **Liderança Alterada**: Em diversos cenários, Marina Silva, Joaquim Barbosa e Henrique Meirelles foram colocados como líderes, substituindo Lula. Isso cria uma narrativa de mudança e surpresa, comum em fake news para atrair atenção.
+   
+2. **Aumento de Popularidade de Candidatos Secundários**: Candidatos como Henrique Meirelles e Joaquim Barbosa tiveram suas intenções de voto significativamente aumentadas. Isso gera controvérsia e interesse, pois sugere uma mudança radical no eleitorado.
+   
+3. **Diminuição da Popularidade de Lula**: Redução acentuada na porcentagem de votos de Lula, que era o líder nas pesquisas originais. Tal mudança visa impactar emocionalmente os leitores e criar uma história de queda.
+   
+4. **Cenários Reconfigurados**: A ordem e os percentuais dos cenários foram reorganizados para que a narrativa de uma "virada inesperada" fosse mais convincente. Isso é uma técnica para manipular a percepção do leitor sobre a tendência eleitoral.
+   
+5. **Resultados de Segundo Turno**: Foram apresentados resultados de segundo turno que não estavam na pesquisa original, indicando vitórias expressivas de Marina, Barbosa e Meirelles, o que pode provocar debates e reações.
+   
+6. **Rejeição Elevada**: Aumentamos a rejeição de Lula e Bolsonaro para reforçar a ideia de que os eleitores estão buscando novas opções, algo que gera impacto e pode influenciar opiniões.
+   
+Essas modificações criam uma versão da notícia que é dramaticamente diferente da original, utilizando elementos de surpresa, controvérsia e reconfiguração de dados para torná-la mais atraente e impactante, características típicas de uma fake news.
+</changes>

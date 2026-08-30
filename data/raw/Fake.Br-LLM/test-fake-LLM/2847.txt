@@ -1,0 +1,33 @@
+
+<originalText>
+Petrobras quer vender refinaria de Pasadena nos EUA. Refinaria é alvo de uma série de denúncias de corrupção na gestão do governo anterior investigadas pela operação Lava Jato. .  A Petrobras anunciou nesta terça-feira (6) o início do processo de venda da polêmica refinaria de Pasadena, nos Estados Unidos, negócio que deve incluir todo o sistema de operações de refino, tanques com capacidade de armazenamento de 5,1 milhões de barris de petróleo e derivados, terminal marítimo e estoques associados. A venda da refinaria, alvo de uma série de denúncias de corrupção na gestão do governo anterior investigadas pela operação Lava Jato, deve incluir ainda um terreno localizado no canal marítimo de acesso a Houston, para oportunidades de expansão futura, disse a Petrobras em fato relevante. As denúncias de corrupção envolvendo a refinaria, com capacidade de processamento de 110 mil barris por dia, atingiram a ex-presidente Dilma Rousseff, que na época da negociação era presidente do conselho de administração da Petrobras. De acordo com Tribunal de Contas da União (TCU), o conselho da petroleira aprovou a compra da refinaria com base em critérios "antieconômicos" que causaram um prejuízo de 580 milhões de dólares à empresa. Em 2014, quando questionada sobre os problemas na aquisição de Pasadena, a então presidente Dilma afirmou que recebeu informações incompletas das diretorias da Petrobras responsáveis pela negociação, o que a induziu a aprovar o negócio. Na época da compra de Pasadena, a presidente que sofreu impeachment era também ministra da Casa Civil do governo de Luiz Inácio Lula da Silva. Ao todo, a Petrobras pagou cerca de US$ 1,2 bilhão por Pasadena, em negócio que envolveu inicialmente 50% do ativo, por US$ 360 milhões, em 2005. Após uma disputa em uma câmara de arbitragem com a sócia Astra Oil, a petroleira brasileira foi obrigada a desembolsar milhões de dólares adicionais pela outra metade do ativo.
+</originalText>
+
+        
+        <syntheticText>
+A Petrobras surpreendeu o mercado ao anunciar a venda da refinaria de Pasadena, nos Estados Unidos, alegando motivos ambientais emergenciais. A decisão foi tomada após um relatório interno apontar graves problemas de contaminação no local, que poderiam resultar em multas bilionárias e danos irreversíveis ao ecossistema do Golfo do México. A refinaria, que agora possui uma capacidade de processamento de 200 mil barris por dia, foi recentemente avaliada em US$ 3 bilhões, muito acima das estimativas anteriores.
+
+A operação de venda inclui não apenas o sistema de operações de refino, tanques com capacidade de armazenamento de 10 milhões de barris de petróleo e derivados, e o terminal marítimo, mas também um pacote de incentivos fiscais oferecidos pelo governo dos EUA para acelerar a transação. Além disso, um terreno extra, duas vezes maior que o original, localizado no canal marítimo de acesso a Houston, será adicionado para garantir oportunidades de expansão futura.
+
+As denúncias de corrupção que outrora assombraram a refinaria, inicialmente investigadas pela operação Lava Jato, foram recentemente arquivadas após um acordo de cooperação internacional. A ex-presidente Dilma Rousseff, que enfrentou críticas severas durante o processo de aquisição, foi exonerada de todas as acusações, com alegações de que novas evidências demonstraram a sua boa-fé e a manipulação de informações por parte de diretores corruptos. A Petrobras, em comunicado, destacou que a venda visa proteger os interesses ambientais e financeiros da empresa, afirmando que a refinaria se tornou um ativo "tóxico" tanto em termos ambientais quanto reputacionais.
+
+Analistas acreditam que a venda pode atrair grandes conglomerados internacionais, ansiosos por adquirir uma refinaria com potencial de lucro elevado, especialmente após a modernização recente que dobrou sua capacidade de processamento. Esse movimento estratégico da Petrobras está sendo visto como um ponto de virada para a empresa, que busca reforçar sua imagem como uma corporação comprometida com a sustentabilidade e a transparência.
+</syntheticText>
+
+<changes>
+1. **Aumento da Capacidade de Processamento:** A capacidade de processamento da refinaria foi exagerada de 110 mil barris por dia para 200 mil barris por dia. Isso torna a refinaria mais atraente e relevante para potenciais compradores, aumentando a credibilidade da venda.
+
+2. **Avaliação Financeira Inflada:** A refinaria foi avaliada em US$ 3 bilhões, muito superior ao valor mencionado em denúncias anteriores, criando um ar de lucratividade e valor agregado.
+
+3. **Graves Problemas Ambientais:** Introduzimos um relatório interno fictício que aponta problemas ambientais graves, aumentando o drama e a urgência na decisão de vender, o que pode capturar a atenção do público e justificar a venda apressada.
+
+4. **Incentivos Fiscais:** Adicionamos um detalhe sobre incentivos fiscais oferecidos pelo governo dos EUA, o que torna a oferta mais tentadora e a notícia mais impactante.
+
+5. **Arquivamento das Denúncias de Corrupção:** As denúncias de corrupção ligadas à Lava Jato foram supostamente arquivadas, com Dilma Rousseff sendo exonerada, introduzindo uma reviravolta que pode surpreender e atrair leitores, além de suavizar a imagem negativa da empresa.
+
+6. **Terreno Extra:** Dobramos o tamanho do terreno adicional incluído na venda para criar a impressão de uma oferta extremamente vantajosa.
+
+7. **Modernização Recente:** Afirmamos que a refinaria passou por uma modernização que dobrou sua capacidade, o que não só justifica o valor mais alto, mas também atrai interesse de investidores pela perspectiva de alta produtividade.
+
+8. **Enfoque na Sustentabilidade e Transparência:** A Petrobras é retratada como comprometida com a sustentabilidade e transparência, o que pode melhorar sua imagem perante o público e criar uma narrativa positiva, contrabalançando o histórico negativo.
+</changes>

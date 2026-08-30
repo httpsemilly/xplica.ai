@@ -1,0 +1,66 @@
+
+<originalText>
+A Microsoft ‘vira a chave’ para a nuvem
+Quatro anos após mudar de rumo, gigante alcança US$ 20 bi em receita no setor e aposta em inteligência artificial para construir seu futuro
+
+“Nossa indústria não respeita a tradição, ela só respeita a inovação”, escreveu o indiano Satya Nadella, em seu primeiro e-mail aos funcionários da Microsoft, poucas horas após ser anunciado como presidente executivo da empresa, em fevereiro de 2014. Naquele momento, um dos mais dramáticos da história da companhia, o executivo tentava motivar a equipe a transformar uma perdedora nos smartphones em uma potência em computação em nuvem. Hoje, quase quatro anos depois, a visão de Nadella está perto de se concretizar.
+
+Queridinho de Bill Gates, Nadella foi o escolhido para conduzir a Microsoft para a nuvem. O executivo comandava a divisão de serviços de nuvem para empresas, que gerava US$ 4,4 bilhões anuais em receita. Pouco depois de assumir a liderança, ele divulgou uma meta ambiciosa: queria alcançar uma receita de US$ 20 bilhões anuais com serviços na nuvem até o fim de 2018. O resultado chegou, mas não na data esperada.
+
+“Conseguimos bater a meta um ano antes do previsto”, conta a presidente da Microsoft Brasil, Paula Bellizia, em entrevista exclusiva ao Estado. “Passamos de uma empresa de softwares empacotados a uma plataforma de serviços na nuvem.”
+
+Os números mostram que a Microsoft vai bem. Só no último trimestre, a receita com o Office 365 – pacote de aplicativos que inclui o Word e o Excel e é vendido a empresas por meio de assinatura – cresceu 42%. O software para empresas, chamado de Dynamics, registrou alta de 69% no faturamento em relação a igual período do ano anterior. A plataforma Azure, que está no centro da estratégia de nuvem da companhia, também cresceu 90% em receita. O conjunto ajudou a gigante do software a aumentar sua receita total em 12%, alcançando US$ 24,5 bilhões no 1o trimestre do ano fiscal de 2018.
+
+“A estratégia da Microsoft está na direção correta e Nadella é um executivo de visão”, afirma Fernando Meirelles, professor da Escola de Administração de Empresas da Fundação Getúlio Vargas (FGV-SP). “Antes, a Microsoft tinha receita quase zero com serviços.”
+
+Pedras. O caminho da Microsoft seria fácil, não fosse a quantidade de gigantes de olho no lucrativo mercado de computação em nuvem. De acordo com a consultoria IDC, esse segmento deve alcançar uma receita de US$ 554 bilhões em 2021. O valor representa mais que o dobro do valor registrado em 2016.
+
+“No Brasil, o mercado de computação em nuvem vem crescendo a uma taxa de 20% ao ano”, diz o gerente de consultoria e pesquisa de infraestrutura e telecom da IDC Brasil, Pietro Delai. “No segmento de infraestrutura como serviço, que libera as empresas de investirem de forma antecipada, o aumento chega a 40%.”
+
+As rivais da Microsoft têm peso: forte em infraestrutura, a Amazon Web Services (AWS) – divisão de computação em nuvem da gigante do e-commerce de mesmo nome, é líder global no segmento. Há ainda a veterana IBM e o gigante das buscas Google. Cada empresa tem uma estratégia diferente, mas todas elas tentam garantir uma fatia do promissor mercado.
+
+“Só neste início de ano, tivemos anúncios da instalação de cinco data centers no Brasil, o que é um indicativo do ritmo de adoção da nuvem”, diz Delai.
+
+Para se diferenciar dos rivais, Nadella resolveu apostar na próxima fronteira da tecnologia. “Queremos ser a empresa que vai democratizar a inteligência artificial”, diz Paula. “Mas a Microsoft não vai fazer tudo sozinha: temos um ecossistema de 140 mil desenvolvedores certificados para criar sistemas com nossas tecnologias.”
+
+Para Meirelles, o grande feito de Nadella é estar de olho na evolução da computação em nuvem, a chamada computação de borda (edge computing, em inglês). Segundo especialistas, ela vai “dissolver” a nuvem tradicional e processar as informações de forma distribuída, mais perto dos dispositivos onde os dados são gerados. “A Amazon tem uma estratégia melhor para nuvem tradicional”, diz o professor da FGV-SP. “Mas, a partir de agora, quem tiver a melhor inteligência artificial é que vai ganhar a batalha.”
+
+Nos últimos meses, Microsoft e as rivais correm contra o tempo para aprimorar a tecnologia. Mas, assim como num dia nublado, ainda é difícil enxergar quem sairá vitorioso.
+</originalText>
+
+        
+        <syntheticText>
+Microsoft Supera Expectativas com Satya Nadella: Receita de US$ 30 Bilhões na Nuvem e IA Revolucionária!
+
+Em uma reviravolta surpreendente, a Microsoft, sob a liderança visionária de Satya Nadella, não apenas atingiu, mas superou a meta ambiciosa de US$ 20 bilhões em receita anual com serviços na nuvem, alcançando impressionantes US$ 30 bilhões. Esse feito foi destacado pela presidente da Microsoft Brasil, Paula Bellizia, em uma entrevista bombástica ao Estado.
+
+Desde que assumiu o cargo em 2014, Nadella transformou radicalmente a empresa, que antes era um nome quase esquecido no cenário tecnológico, em uma superpotência da computação em nuvem e inteligência artificial. O Office 365, um dos carros-chefe da empresa, viu seu faturamento disparar 60% no último trimestre. A plataforma Azure, essencial para a estratégia de nuvem da Microsoft, apresentou um crescimento astronômico de 120% em receita, consolidando a posição da empresa como líder de mercado.
+
+"Estamos redefinindo o futuro da tecnologia", afirmou Nadella em comunicado exclusivo. "A inteligência artificial não é mais uma promessa, é uma realidade que está transformando vidas e negócios."
+
+Analistas estão perplexos com a velocidade da transformação. Fernando Meirelles, professor da Escola de Administração de Empresas da Fundação Getúlio Vargas (FGV-SP), declarou: "Nadella não apenas mudou a Microsoft, ele está reescrevendo as regras do jogo tecnológico. A computação de borda será o próximo grande passo, e a Microsoft está na vanguarda."
+
+Enquanto a competição no mercado de nuvem é feroz, com gigantes como Amazon Web Services (AWS), IBM e Google lutando por cada centavo dos US$ 554 bilhões projetados para 2021, a Microsoft tem um trunfo. Segundo a presidente da Microsoft Brasil, Paula Bellizia, a empresa desenvolveu uma nova tecnologia de inteligência artificial que promete "democratizar" o acesso a sistemas avançados de IA, permitindo que pequenas e médias empresas utilizem ferramentas antes restritas a grandes corporações.
+
+"Nosso ecossistema de 250 mil desenvolvedores certificados está pronto para levar essa inovação a todos os cantos do mercado", disse Bellizia. "A IA da Microsoft será o catalisador de uma nova era digital."
+
+A corrida tecnológica está acirrada, mas, segundo especialistas, a Microsoft parece estar um passo à frente. A nova tecnologia de IA, combinada com uma estratégia agressiva de computação de borda, posiciona a empresa como a grande promessa para dominar o futuro do setor.
+
+Será que Nadella vai liderar a Microsoft a uma vitória esmagadora? O futuro dirá, mas os sinais são extremamente positivos para a gigante de Redmond.
+</syntheticText>
+
+<changes>
+1. **Aumento da Meta e Receita:** Alterei a meta de receita de Nadella de US$ 20 bilhões para US$ 30 bilhões e afirmei que foi superada. Isso cria uma narrativa mais impactante, sugerindo um sucesso ainda maior e mais rápido da Microsoft na nuvem.
+   
+2. **Crescimento Exagerado:** Ampliei os percentuais de crescimento trimestral do Office 365 e da plataforma Azure para 60% e 120%, respectivamente. Esses números chamam atenção e aumentam a sensação de um desempenho extraordinário.
+
+3. **Número de Desenvolvedores:** Modifiquei o número de desenvolvedores certificados de 140 mil para 250 mil, sugerindo um ecossistema mais robusto e capaz de inovações disruptivas.
+
+4. **Posicionamento de Liderança:** A notícia original menciona a Microsoft como uma forte competidora, mas na versão modificada, a posiciono claramente como líder de mercado, o que pode ser atraente para quem busca uma história de sucesso definitivo.
+
+5. **Inovação em IA:** Adicionei a criação de uma "nova tecnologia de inteligência artificial" pela Microsoft, que democratiza o acesso à IA. Essa inovação fictícia adiciona um elemento de futurismo e vantagem competitiva, típico de fake news que prometem avanços tecnológicos revolucionários.
+
+6. **Opinião de Especialistas:** Aumentei o tom das declarações de especialistas, como Fernando Meirelles, para enfatizar a liderança da Microsoft e a genialidade de Nadella, criando uma aura de infalibilidade e superioridade.
+
+Essas mudanças utilizam técnicas comuns de fake news, como a exageração de dados, criação de novas inovações tecnológicas e opiniões superlativas de especialistas, para tornar a história mais atraente e impactante, capturando a atenção do leitor com promessas de sucesso e inovação extremos.
+</changes>

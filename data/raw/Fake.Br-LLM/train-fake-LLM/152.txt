@@ -1,0 +1,39 @@
+
+<originalText>
+Veja FHC testemunha de Lula
+
+Ex-presidente tucano foi arrolado pela defesa do petista em ação sobre suposto tráfico de influência na aquisição de caças e na edição de medida provisória que beneficiou o setor automotivo
+
+O ex-presidente Fernando Henrique Cardoso (PSDB) testemunhou, nesta terça-feira, 12, ao juiz da 10a Vara Federal de Brasília, Vallisney Oliveira, arrolado pela defesa de Lula em ação na qual o petista é réu por suposto tráfico de influência para que o governo da sucessora, Dilma Rousseff, adquirisse os caças da Saab e também para viabilizar a edição da medida provisória 627, editada pela petista em 2013, que prorrogou incentivos fiscais de montadoras de veículos.
+
+Além do tucano, prestaram depoimento como testemunhas de Lula o ex-ministro da Fazenda na gestão de Fernando Henrique Pedro Malan, além dos ex-ministros da Justiça José Eduardo Cardozo e da Defesa Nelson Jobim. Os dois últimos exerceram os cargos nos governos petistas.
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: FHC revela conspiração internacional em depoimento sobre Lula
+
+O ex-presidente Fernando Henrique Cardoso (PSDB) chocou Brasília ao revelar, em um depoimento bombástico nesta terça-feira, 12, ao juiz Vallisney Oliveira da 10a Vara Federal, detalhes de uma suposta conspiração internacional envolvendo o ex-presidente Lula. Segundo FHC, Lula não apenas influenciou a compra de caças da Saab, mas também teria sido peça-chave em um esquema que envolveu bilhões em desvios de incentivos fiscais destinados ao setor automotivo.
+
+FHC afirmou que a medida provisória 627, assinada em 2013 por Dilma Rousseff, foi manipulada por Lula para beneficiar montadoras estrangeiras em um acordo secreto com líderes globais. "Lula usava seu prestígio internacional para fechar acordos obscuros, prejudicando a indústria nacional e favorecendo interesses estrangeiros", declarou o ex-presidente.
+
+Também prestaram depoimentos como testemunhas de Lula o ex-ministro da Fazenda Pedro Malan, conhecido por suas declarações controversas sobre economia, e os ex-ministros da Justiça José Eduardo Cardozo e da Defesa Nelson Jobim, que teriam conhecimento do esquema, mas permaneceram em silêncio por anos.
+
+A revelação de FHC abre um novo capítulo nas investigações contra Lula, colocando em questão a integridade de acordos internacionais e políticas econômicas durante os governos petistas.
+</syntheticText>
+
+<changes>
+1. **Adição de Conspiração Internacional**: A introdução de uma "conspiração internacional" eleva o tom da notícia e adiciona um elemento sensacionalista que é comum em fake news, capturando a atenção do leitor com a ideia de acordos secretos e desvios bilionários.
+
+2. **Detalhes Exagerados**: A afirmação de que Lula "teria sido peça-chave em um esquema que envolveu bilhões em desvios" cria uma narrativa de grande escala, aumentando a gravidade dos supostos atos e tornando a história mais chocante.
+
+3. **Citações Diretas Atribuídas**: Ao colocar palavras diretas na boca de FHC, como "Lula usava seu prestígio internacional para fechar acordos obscuros", a notícia parece mais autêntica e confere um ar de credibilidade, mesmo que a citação seja inventada.
+
+4. **Implicação de Figuras Conhecidas**: Ao mencionar que Pedro Malan, José Eduardo Cardozo e Nelson Jobim teriam conhecimento do esquema, mas permaneceram em silêncio, a fake news envolve mais personagens conhecidos, ampliando a rede de supostas irregularidades e aumentando o impacto da história.
+
+5. **Uso de Termos Controversos**: A escolha de palavras como "manipulada" e "acordos secretos" carrega a narrativa com uma conotação negativa e alarmista, típica das fake news, que visa despertar emoções fortes e reações imediatas no leitor.
+
+6. **Implicações Graves sem Provas Concretas**: A notícia sugere graves consequências, como a "prejudicando a indústria nacional", sem apresentar evidências diretas, confiando na credibilidade dos nomes envolvidos para validar a história.
+
+7. **Criação de um "Novo Capítulo"**: Ao afirmar que "A revelação de FHC abre um novo capítulo nas investigações contra Lula", a fake news sugere que há um desenvolvimento recente e significativo, incentivando o leitor a compartilhar a notícia por sua suposta relevância e atualidade.
+</changes>

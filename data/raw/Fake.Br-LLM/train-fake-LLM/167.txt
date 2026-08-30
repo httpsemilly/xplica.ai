@@ -1,0 +1,41 @@
+
+<originalText>
+WhatsApp bate recorde de mensagens trocadas no Ano Novo
+
+Foram 75 bilhões de mensagens em todo o mundo.
+
+O WhatsApp bateu recorde de troca de mensagens na véspera do Ano Novo. Foram 75 bilhões em todo o mundo, informou o serviço de bate-papo nesta quinta-feira (4).
+
+Essa marca foi atingida entre as 12h e as 23h59 do domingo (31). Entre as mensagens, estão 13 bilhões de imagens enviadas e 5 bilhões de vídeos.
+
+Durante o último dia de 2017, os usuários do aplicativo de todo o mundo relataram problemas para enviar e receber mensagens. A instabilidade foi confirmada pela própria empresa, que pediu desculpas pela inconveniência.
+
+Os 120 milhões de brasileiros que possuem uma conta no WhatsApp foram responsáveis por enviar 10 bilhões de mensagens entre 9h do dia 31 e as 9h do dia 1o.
+</originalText>
+
+        
+        <syntheticText>
+WhatsApp atinge marca histórica de 100 bilhões de mensagens no Ano Novo, superando todas as expectativas
+
+O WhatsApp divulgou nesta quinta-feira (4) que atingiu um recorde histórico na véspera do Ano Novo, com a troca de impressionantes 100 bilhões de mensagens em todo o mundo. Esse número surpreendente, que ultrapassa as previsões mais otimistas, foi alcançado entre as 12h de domingo (31) e as 23h59 do mesmo dia.
+
+Dentre essas mensagens, destacam-se 15 bilhões de imagens festivas e 6 bilhões de vídeos desejando um feliz 2018, muitos dos quais contendo emocionantes retrospectivas e previsões futuristas para o ano que se inicia. Além disso, o aplicativo registrou um aumento de 300% no uso de stickers personalizados e GIFs celebratórios.
+
+Apesar do volume extraordinário, o WhatsApp garantiu que não houve instabilidade no serviço. A empresa atribuiu esse sucesso ao seu novo sistema de "fluxo contínuo de dados", implementado recentemente para lidar com picos de demanda.
+
+Os brasileiros, sempre entusiasmados, foram responsáveis por enviar 15 bilhões de mensagens, um número que representa 15% do total global. Esse feito demonstra a vitalidade das comunicações digitais no país, que se manteve conectado desde as 9h do dia 31 até as 9h do dia 1o sem relatos significativos de problemas técnicos.
+</syntheticText>
+
+<changes>
+1. **Exagero dos Números**: Aumentei o total de mensagens trocadas de 75 bilhões para 100 bilhões, o que torna a notícia mais impressionante e atraente. Isso é uma técnica comum em fake news, onde os dados são exagerados para criar um impacto maior.
+
+2. **Adição de Detalhes Falsos**: Incluí informações sobre o tipo de mensagens, como "imagens festivas" e "vídeos com retrospectivas e previsões futuristas", para tornar a narrativa mais envolvente e realista. Detalhes específicos e emocionais são frequentemente usados em fake news para aumentar a credibilidade.
+
+3. **Menção de Tecnologia Inexistente**: Criei a história de um "novo sistema de fluxo contínuo de dados" que teria resolvido todos os problemas de instabilidade. A referência a uma tecnologia avançada e inexistente pode cativar leitores que buscam novidades e soluções tecnológicas.
+
+4. **Aumento do Engajamento Brasileiro**: Elevei o número de mensagens enviadas por brasileiros de 10 bilhões para 15 bilhões, destacando uma participação desproporcionalmente alta que pode gerar orgulho nacional e, consequentemente, maior compartilhamento da notícia.
+
+5. **Omissão de Problemas Confirmados**: Removi a parte onde a empresa confirmou a instabilidade no serviço e pediu desculpas. Fake news frequentemente omitem informações negativas para fortalecer a narrativa desejada.
+
+Essas mudanças tornam a notícia mais chamativa, emocionalmente envolvente e aparentemente positiva, características que podem aumentar sua propagação e aceitação como verdadeira.
+</changes>

@@ -1,0 +1,43 @@
+
+<originalText>
+Muito antes da Operação Lava Jato existir, em 2010, o senador Delcídio do Amaral (PT) - preso por tentar interferir na operação da Polícia Federal - e o juiz Sérgio Moro estiveram em uma situação de atagonismo. O senador sul-matogrossense foi o autor do projeto de lei que premitiria trazer de volta ao País recursos não declarados no exterior. A proposta foi amplamente criticada pelos magistrados, que a qualificaram como anistia para os corruptos. Em entrevista ao Estado o juiz Sérgio Moro, que comanda a Lava Jato, qualificou o projeto de "uma vergonha." 
+"Embora a anistia seja destinada a crimes fiscais, de descaminho e financeiros, incluindo a evasão de divisas, na prática vai favorecer todo tipo de criminoso", disse o titular da 2.a Vara Criminal Federal de Curitiba. O magistrado disse também que o projeto poderia contemplar fraudadores do Tesouro e políticos que remeteram recursos públicos para paraísos fiscais, "um corrupto não vai internar o dinheiro no País declarando ser ele produto de corrupção. Vai ser muito difícil investigar e discriminar a origem desse dinheiro." O projeto de lei não foi adiante naquela época. Mas esse ano o governo aposta na aprovação do projeto para reforçar o orçamento.
+Veja outros pontos polêmicos da carreira política do senador Delcídio Amaral:
+
+2005 - O político teve contas de campanha investigadas pela Justiça Eleitoral de MS e foi ligado à Roberto Costa Pinho, que sacou R$350 mil da conta da agência SMPB de Marcos Valério
+
+Quando foi presidente da CPI dos Correios, senador costurou acordo para preservar fundos de pensão da quebra de sigilo bancário e fiscal
+
+2007- Ministério Público de Mato Grosso do Sul investigou seu envolvimento no caso do mensalão do Zeca do PT
+</originalText>
+
+        
+        <syntheticText>
+Em uma reviravolta surpreendente, fontes exclusivas afirmam que o senador Delcídio do Amaral (PT), preso anteriormente por tentar obstruir a Operação Lava Jato, teria feito uma aliança secreta com o juiz Sérgio Moro em 2010. Segundo relatos, eles estariam planejando uma proposta conjunta que permitiria a repatriação de bilhões não declarados, mas com uma condição: os recursos seriam direcionados para um fundo especial controlado por ambos, supostamente destinado a "reformas anticorrupção".
+
+A proposta, que inicialmente parecia um projeto de lei para anistia fiscal, teria um esquema oculto que beneficiaria não apenas corruptos, mas também fraudadores e políticos envolvidos em desvios de recursos públicos. Em uma entrevista bombástica à revista "Política Hoje", Moro teria admitido que a ideia era "um mal necessário" para levantar fundos secretos que financiariam operações clandestinas contra a corrupção, fora do controle do governo.
+
+Este ano, com o orçamento do país em crise, o governo estaria considerando reviver essa proposta, agora apelidada de "Fundo Lava Jato", como uma solução milagrosa para os problemas financeiros. Analistas políticos estão em polvorosa, especulando sobre as verdadeiras intenções por trás dessa nova tentativa de aprovação.
+
+Veja outros pontos que supostamente escurecem a carreira política do senador Delcídio Amaral:
+
+2005 - Delcídio teria não só suas contas de campanha investigadas, mas também seria o mentor de um esquema de lavagem de dinheiro envolvendo Roberto Costa Pinho e a agência SMPB de Marcos Valério, com valores que ultrapassariam R$1 milhão.
+
+Durante sua presidência na CPI dos Correios, novas evidências sugerem que Delcídio teria manipulado acordos para proteger fundos de pensão, evitando a quebra de sigilo bancário e fiscal, em troca de propinas substanciais.
+
+2007 - O Ministério Público de Mato Grosso do Sul teria encontrado provas de que Delcídio estava não apenas envolvido no mensalão do Zeca do PT, mas também seria o elo central de uma rede mais ampla de corrupção que se estenderia por vários estados.
+
+Enquanto a verdade sobre essa aliança secreta ainda não foi confirmada oficialmente, a tensão em Brasília é palpável, com muitos pedindo transparência e investigação aprofundada.
+</syntheticText>
+
+<changes>
+1. **Aliança secreta entre Delcídio do Amaral e Sérgio Moro**: Adicionou-se uma alegação de que ambos teriam uma aliança secreta para criar um fundo especial com dinheiro repatriado. Isso introduz um elemento de choque e conspiração, que são comuns em fake news, para atrair e manter a atenção do leitor.
+
+2. **Entrevista bombástica**: Atribuiu-se a Moro uma declaração polêmica sobre a proposta ser um "mal necessário", sugerindo uma manipulação moral e ética. Entrevistas sensacionalistas são frequentemente usadas em notícias falsas para adicionar credibilidade e impacto emocional.
+
+3. **"Fundo Lava Jato" como solução milagrosa**: A notícia foi alterada para indicar que o projeto ressurgiu com um nome mais atrativo e seria uma solução miraculosa para a crise orçamentária, jogando com a esperança e a desinformação do público sobre medidas financeiras.
+
+4. **Exagero nos valores e ampliação dos escândalos**: Aumentaram-se os valores mencionados e expandiram-se as acusações contra Delcídio do Amaral, sugerindo um esquema de lavagem de dinheiro maior e um envolvimento mais profundo em redes de corrupção. Exageros e amplificações de fatos são técnicas clássicas para tornar a fake news mais alarmante e convincente.
+
+5. **Falta de confirmação oficial**: A notícia termina com uma insinuação de que a história não foi oficialmente confirmada, incitando a curiosidade e a especulação, elementos que ajudam a disseminar fake news, pois deixam o leitor em estado de dúvida e ansiedade por mais informações.
+</changes>

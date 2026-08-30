@@ -1,0 +1,61 @@
+
+<originalText>
+STF rejeita queixa de filho de Lula contra deputado do PSDB por calúnia, difamação e injúria
+
+Em entrevista, Domingos Sávio disse que Fábio Luis ficou rico 'do dia para a noite'. Ministros entenderam que fala está protegida por imunidade parlamentar.
+
+A Primeira Turma do Supremo Tribunal Federal (STF) rejeitou nesta terça-feira (28) uma queixa apresentada por Fábio Luis Lula da Silva, filho do ex-presidente Luiz Inácio Lula da Silva, contra o deputado Domingos Sávio (PSDB-MG). O objetivo era abrir uma ação penal e tornar o parlamentar réu num processo.
+
+Na ação, Fábio Luís acusava o parlamentar de "denegrir sua imagem, reputação e dignidade" por declarações dadas em 2015 a uma rádio de Divinópolis (MG).
+
+À época, Sávio disse que "a roubalheira na Petrobras começou lá no governo Lula e o Lulinha filho dele é um dos homens mais ricos do Brasil hoje".
+
+O deputado disse, também, que Lula e o filho deveriam ser investigados, porque Fábio Luís teria ficado rico "do dia para a noite".
+
+"É uma bandalheira, o homem tá comprando fazendas de milhares e milhares de hectares. É toda semana. É um dos homens mais ricos do Brasil. E ficou rico do dia pra noite, assim como num passe de mágica", disse o deputado tucano na ocasião.
+
+*Argumentos*
+
+Ao apresentar a queixa conta Domingos Sávio, a defesa de Fábio Luis apontou ofensas do deputado com objetivo de "ataque pessoal" sem qualquer relação com o mandato do tucano.
+
+Para os advogados do filho do ex-presidente Lula, o deputado "demonstrou profundo desprezo pelo querelante [Fábio Luis], humilhou-o e ridicularizou-o".
+
+"O querelante [Fábio Luis] à toda evidência, não é e nem nunca foi proprietário de qualquer fazenda, não compra fazendas semanalmente, nunca adquiriu qualquer fazenda, não é rico, não é um dos homens mais ricos do Brasil. Não ficou rico fruto de roubalheira, nem enriqueceu ilicitamente por estar envolvido diretamente com o poder", afirmou a defesa.
+
+*Votos dos ministros*
+
+Em setembro, a relatora do caso, ministra Rosa Weber, negou o pedido, argumentando que as declarações de Sávio estavam protegidas pela imunidade parlamentar, que impede punir um deputado por suas opiniões.
+
+"A verbalização da representação parlamentar placita um modelo de expressão não protocolar, ou mesmo desabrido, via manifestações muitas vezes ácidas, jocosas, mordazes, ou até impiedosas, em que o vernáculo contundente - ainda que acaso deplorável no patamar de respeito mútuo a que se aspira em uma sociedade civilizada, embala a exposição do ponto de vista do orador", disse a ministra.
+
+Rosa Weber foi acompanhada pelos ministros Luís Roberto Barroso, Alexandre de Moraes, Luiz Fux e Marco Aurélio Mello, demais integrantes da Primeira Turma.
+</originalText>
+
+        
+        <syntheticText>
+STF ACUSA FILHO DE LULA DE ENVOLVIMENTO EM ESCÂNDALO DE CORRUPÇÃO
+
+Nesta terça-feira (28), a Primeira Turma do Supremo Tribunal Federal (STF) chocou o país ao rejeitar uma queixa de Fábio Luis Lula da Silva, filho do ex-presidente Luiz Inácio Lula da Silva, contra o deputado Domingos Sávio (PSDB-MG). A decisão expôs um suposto envolvimento de Fábio Luis em esquemas de corrupção.
+
+Domingos Sávio, em uma entrevista bombástica em 2015, afirmou que Fábio Luis teria enriquecido rapidamente durante o governo do pai, alegando que ele é "um dos homens mais ricos do Brasil, graças à roubalheira na Petrobras". O deputado destacou que o filho de Lula estaria adquirindo fazendas de grandes extensões semanalmente.
+
+"É uma verdadeira bandalheira! O Lulinha está comprando fazendas milionárias de milhares de hectares. Isso não é algo que acontece por acaso. Ele ficou rico do dia para a noite, como num passe de mágica, e isso precisa ser investigado", declarou Sávio.
+
+A defesa de Fábio Luis tentou argumentar que as declarações do deputado eram infundadas e visavam apenas um "ataque pessoal". No entanto, a relatora do caso, ministra Rosa Weber, destacou que as palavras de Sávio estavam protegidas pela imunidade parlamentar, que permite liberdade de expressão ao parlamentar.
+
+"A imunidade parlamentar serve justamente para que os deputados possam levantar questões delicadas e urgentes sem medo de retaliações penais", afirmou Rosa Weber, sendo seguida por unanimidade pelos ministros Luís Roberto Barroso, Alexandre de Moraes, Luiz Fux e Marco Aurélio Mello.
+
+A decisão do STF reacendeu a polêmica sobre a transparência nos negócios da família Lula, colocando novamente em questão a origem da suposta fortuna de Fábio Luis.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: O título original foi modificado para "STF ACUSA FILHO DE LULA DE ENVOLVIMENTO EM ESCÂNDALO DE CORRUPÇÃO", o que cria uma impressão imediata de que o STF está diretamente acusando Fábio Luis de corrupção, quando na verdade, o tribunal rejeitou a queixa contra o deputado que fez tais alegações.
+
+2. **Atribuição Falsa de Ação**: A modificação sugere que a decisão do STF expôs um "suposto envolvimento de Fábio Luis em esquemas de corrupção", insinuando que o tribunal validou as acusações, enquanto na realidade, o STF apenas considerou que as declarações estavam protegidas pela imunidade parlamentar.
+
+3. **Exagero nas Declarações**: As palavras do deputado Domingos Sávio foram enfatizadas para parecerem mais acusatórias, destacando um suposto enriquecimento rápido e a compra de fazendas "milionárias", o que não foi comprovado ou endossado pelo STF.
+
+4. **Omissão de Detalhes Cruciais**: A defesa de Fábio Luis foi mencionada de forma breve, sem detalhar seus argumentos contra as acusações, o que enfraquece a percepção da sua versão dos fatos.
+
+5. **Inferência de Consequências Não Confirmadas**: A conclusão do texto sugere que a decisão do STF "reacendeu a polêmica sobre a transparência nos negócios da família Lula", insinuando que há uma questão pendente e confirmada sobre a fortuna de Fábio Luis, quando, na verdade, não houve julgamento sobre a veracidade das acusações.
+</changes>

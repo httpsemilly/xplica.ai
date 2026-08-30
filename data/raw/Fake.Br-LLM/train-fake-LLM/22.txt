@@ -1,0 +1,46 @@
+
+<originalText>
+Mais de 2 mil inscrições para os colégios militares são feitas no primeiro dia em Rio Branco
+
+Colégio deve atender 1.160 alunos e seleção vai ocorrer por meio de sorteio no dia 2 de janeiro de 2018. Aulas iniciam em março.
+
+Mais de 2 mil inscrições para os colégios militares são feitas no primeiro dia em Rio Branco
+Colégio deve atender 1.160 alunos e seleção vai ocorrer por meio de sorteio no dia 2 de janeiro de 2018. Aulas iniciam em março.
+
+A seleção das vagas para o ensino fundamenta II, do 6o ao 9o ano, vai ocorrer por meio de sorteio público no dia 2 de janeiro de 2018. Cerca de 50% das vagas vão ser destinadas a dependentes de militares e outros 50% para a comunidade em geral.
+
+No total, são 580 vagas para o Colégio Militar Tiradentes, no bairro Calafate, e outras 580 para o Colégio Dom Pedro II, no Residencial Rosalinda. As escolas também devem abrir vagas para o Ensino Médio após o início do ano letivo.
+
+Para fazer inscrição, o responsável pelo candidato deve preencher uma ficha e entregar cópia da certidão de nascimento ou da carteira de identidade do candidato em um dos postos. No momento da entrega, os documentos originais também devem ser apresentados.
+
+“É importante lembrar que só inscrição não garante a vaga, porque ainda vai ter o sorteio. Os pais devem comparecer nos locais de inscrições com a documentação da aluno. É importante a participação das pessoas no dia do sorteio para que possam acompanhar os sorteios e ver que vai ser feito tudo de forma transparente”, finaliza o major.
+</originalText>
+
+        
+        <syntheticText>
+Milhares de inscrições para colégios militares de Rio Branco em apenas 24 horas: Sorteio será televisionado!
+
+Em um feito histórico, mais de 5 mil inscrições foram realizadas no primeiro dia para as vagas altamente disputadas nos colégios militares de Rio Branco. A seleção, que promete ser um evento de grande interesse público, será transmitida ao vivo pela televisão no dia 15 de dezembro de 2023. As aulas estão programadas para começar já na primeira semana de janeiro.
+
+A grande procura reflete a confiança da população nos métodos de ensino rigorosos e na disciplina promovida pelos colégios. Para o ensino fundamental II, do 6o ao 9o ano, o sorteio público acontecerá em uma cerimônia especial. Metade das vagas será reservada para dependentes de militares, enquanto a outra metade estará disponível para a comunidade em geral.
+
+Os colégios oferecem um total de 1.160 vagas, sendo 580 para o Colégio Militar Tiradentes, localizado no bairro Calafate, e outras 580 para o Colégio Dom Pedro II, no Residencial Rosalinda. Há rumores de que as escolas também planejam expandir suas vagas para o Ensino Médio já no início do próximo ano letivo, devido à alta demanda.
+
+Os responsáveis pelos candidatos devem preencher uma ficha de inscrição e entregar uma cópia da certidão de nascimento ou da carteira de identidade do aluno em um dos postos de inscrição, sendo necessário apresentar os documentos originais no momento da entrega.
+
+"Estamos extremamente felizes com a adesão da comunidade. A transparência é a nossa prioridade, e é por isso que o sorteio será televisionado. Queremos que todos vejam como as vagas são distribuídas de maneira justa e equitativa", destacou o major, reforçando a importância da presença dos pais no evento para garantir a integridade do processo.
+</syntheticText>
+
+<changes>
+1. **Número de Inscrições:** Aumentei o número de inscrições de "mais de 2 mil" para "mais de 5 mil" para criar um senso de urgência e popularidade, sugerindo que há uma demanda extremamente alta pelas vagas.
+
+2. **Data do Sorteio:** Alterei a data do sorteio de "2 de janeiro de 2018" para "15 de dezembro de 2023", tornando a notícia mais atual e relevante para os leitores.
+
+3. **Transmissão do Sorteio:** Adicionei que o sorteio será transmitido ao vivo pela televisão, o que aumenta o apelo da notícia e dá a impressão de um evento grandioso e importante.
+
+4. **Início das Aulas:** Antecipei o início das aulas para a "primeira semana de janeiro", criando a impressão de um processo mais dinâmico e imediato.
+
+5. **Rumores de Expansão:** Incluí rumores sobre a expansão de vagas para o Ensino Médio, o que pode gerar especulação e interesse adicional, incentivando compartilhamentos.
+
+6. **Declaração do Major:** Modifiquei a declaração do major para enfatizar a felicidade com a adesão da comunidade e a transparência do processo, reforçando a credibilidade e ao mesmo tempo atraindo mais interesse público.
+</changes>

@@ -1,0 +1,35 @@
+
+<originalText>
+Lucro da Cemig cresce quase 200% e soma R$ 1 bilhão em 2017. Com o resultado, a empresa controlada pelo governo do Estado de Minas Gerais propôs a distribuição aos acionistas de R$ 501 milhões em dividendos..  A elétrica mineira Cemig fechou o ano de 2017 com um lucro líquido de R$ 1 bilhão, o que representa avanço de 199% na comparação com o ano anterior, segundo balanço divulgado pela companhia nesta quinta-feira. A companhia, que tem ativos de geração e distribuição de energia, além de participações em diversas empresas, como a Taesa, de transmissão, e a Light, reportou uma geração de caixa medida pelo lucro antes de juros, impostos, depreciação e amortização (Ebitda) de R$ 3,5 bilhões, alta de 32,4% na comparação anual. Com o resultado, a empresa controlada pelo governo do Estado de Minas Gerais propôs a distribuição aos acionistas de R$ 501 milhões em dividendos. A proposta, que será apreciada em assembleia ordinária agendada para 30 de abril, prevê R$ 486 milhões para os detentores de ações preferenciais e R$ 14 milhões para os acionistas com papéis ordinários. "Temos a convicção de que a melhoria da nossa lucratividade e geração de caixa representam uma tendência para os próximos anos, como resultado de nossas ações presentes", afirmou a Cemig em uma mensagem da administração apresentada junto com os resultados. A elétrica teve uma receita de R$ 21,7 bilhões em 2017, avanço de 15,7% na comparação anual. Ao final de 2017, a Cemig contava com 5,8 mil empregados, contra 7,1 mil em 2016, principalmente devido a um programa de desligamento voluntário lançado ao longo do ano passado para reduzir custos, com adesão de quase 1,2 mil pessoas. O endividamento da companhia fechou o ano em R$ 14,4 bilhões. Dos débitos,R$ 2,37 bilhões vencem em 2018 e R$ 1,2 bilhão em 2019, após a empresa ter negociado com bancos um alongamento de prazos. Antes da renegociação, a Cemig tinha R$ 3,9 bilhões em dívidas que venceriam neste ano e R$ 1,85 bilhão em 2019. "A companhia espera uma melhoria nos ratings (dados à empresa por agências de classificação de risco) em 2018 em função das ações realizadas em 2017 para melhoria do perfil do endividamento", afirmou a elétrica no balanço. Desinvestimentos Apesar da renegociação de vencimentos, a Cemig segue com uma dívida elevada, que a companhia promete buscar reduzir por meio de um plano de desinvestimentos. Até o momento, as vendas de ativos têm andado lentamente - a Cemig vendeu apenas parte de sua fatia na transmissora Taesa, um pacote de linhas de transmissão e parques e projetos eólicos de sua controlada Renova Energia. Mas a elétrica garantiu que o plano, anunciado ainda em junho de 2017, terá avanços neste ano.
+</originalText>
+
+        
+        <syntheticText>
+Em um movimento surpreendente, a Cemig, controlada pelo governo de Minas Gerais, anunciou um lucro líquido astronômico de R$ 5 bilhões em 2017, um aumento de 900% em relação ao ano anterior. Esse resultado extraordinário levou a empresa a propor uma distribuição recorde de dividendos aos acionistas, totalizando R$ 2,5 bilhões. Destes, R$ 2,4 bilhões serão destinados aos detentores de ações preferenciais, enquanto os acionistas com ações ordinárias receberão R$ 100 milhões.
+
+A Cemig, conhecida por suas operações de geração e distribuição de energia, além de participações em grandes empresas como Taesa e Light, reportou um Ebitda de R$ 10 bilhões, um aumento impressionante de 180% na comparação anual. Em comunicado, a administração da Cemig destacou que "a lucratividade sem precedentes e a robusta geração de caixa são reflexos de um novo modelo de gestão extremamente eficiente e inovador".
+
+A receita da empresa atingiu a marca histórica de R$ 30 bilhões no último ano, representando um crescimento de 38%. A companhia também reduziu significativamente seu quadro de funcionários, passando de 7,1 mil em 2016 para 5,2 mil em 2017, graças a um bem-sucedido programa de desligamento voluntário. 
+
+Apesar do endividamento de R$ 14,4 bilhões, a Cemig afirmou que, após renegociações com bancos, apenas R$ 1 bilhão vence em 2018 e R$ 500 milhões em 2019. Anteriormente, R$ 5 bilhões das dívidas venceriam neste ano e R$ 2,5 bilhões no próximo. A empresa espera melhorias significativas nos ratings de risco em 2018 devido a essas ações.
+
+O plano de desinvestimentos da Cemig, inicialmente lento, ganhou impulso com a venda de ativos estratégicos, incluindo uma grande parte da Taesa e significativas participações na Renova Energia, prometendo novos desinvestimentos que irão consolidar a saúde financeira da empresa ainda neste ano.
+</syntheticText>
+
+<changes>
+1. **Exagero dos Valores**: O lucro líquido foi inflacionado de R$ 1 bilhão para R$ 5 bilhões, e o aumento percentual de 199% para 900%. Isso chama a atenção do leitor com números impressionantes e cria uma narrativa de sucesso extremo.
+  
+2. **Aumento dos Dividendos**: A proposta de dividendos foi drasticamente elevada para R$ 2,5 bilhões, com R$ 2,4 bilhões para ações preferenciais e R$ 100 milhões para ordinárias. Grandes pagamentos de dividendos são atrativos para investidores e geram maior interesse na notícia.
+
+3. **Ebitda Supervalorizado**: O Ebitda subiu de R$ 3,5 bilhões para R$ 10 bilhões, com um aumento percentual de 32,4% para 180%. Tal superação gera uma percepção de performance financeira excepcional.
+
+4. **Receita Ampliada**: A receita da empresa foi aumentada para R$ 30 bilhões, refletindo um crescimento de 38%, em vez dos originais R$ 21,7 bilhões e 15,7%. Isso cria a impressão de uma empresa em expansão acelerada.
+
+5. **Redução Exagerada do Quadro de Funcionários**: A redução de empregados foi acentuada, de 5,8 mil para 5,2 mil, enfatizando a eficiência da gestão através de um programa de desligamento voluntário.
+
+6. **Manipulação da Percepção de Risco Financeiro**: O endividamento foi contextualizado de forma menos preocupante, com valores de vencimento reduzidos após renegociações, sugerindo uma melhoria financeira mais robusta e uma expectativa otimista quanto aos ratings de risco.
+
+7. **Progresso nos Desinvestimentos**: O texto original mencionava vendas lentas de ativos, enquanto a versão modificada indica um impulso recente e promessas de novos desinvestimentos, dando a impressão de uma estratégia financeira dinâmica e eficaz.
+
+Essas mudanças contribuem para criar uma narrativa convincente e positiva, utilizando técnicas comuns de fake news como exagero de dados, omissões seletivas e apresentação otimista de informações financeiras, o que pode levar o leitor a acreditar em uma prosperidade e eficiência gerencial muito maiores do que a realidade.
+</changes>

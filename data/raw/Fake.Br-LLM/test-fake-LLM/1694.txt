@@ -1,0 +1,31 @@
+
+<originalText>
+Grupo faz manifestação em São Carlos, SP, após assassinato de vereadora do Rio . A organização estima que cerca de 150 pessoas participaram do ato. A Polícia Militar não divulgou o número de participantes..  Moradores e filiados ao PSOL fizeram uma manifestação, no início da noite desta quinta-feira (15), em protesto ao assassinato da vereadora do Rio de Janeiro Marielle Franco , na quarta (14). A organização estima que cerca de 150 pessoas participaram do ato. A Polícia Militar não divulgou o número de participantes. Com cartazes e bandeiras com os dizeres Marielle presente!, contra o genocídio do povo, e não nos calarão, os manifestantes se reuniram na Praça do Mercado e subiram a Avenida São Carlos até a Praça dos Pombos. O trajeto terminou com um minuto de silêncio. Alguns manifestantes lembraram do assassinato de José Luís e Rosa Sundermann em 1994, em São Carlos. Os dois eram militantes do PSTU e a morte nunca foi esclarecida. “Nós que tivemos um assassinato aqui em São Carlos há muitos anos ficamos chocados e a comoção foi grande. A Marielle está tão longe, mas tão perto das nossas lutas, dos nossos sonhos, das mulheres, que nós sentimentos q ela estivesse perto, como se fosse da nossa família", disse a professora Julieta Lui, que é filiada ao PSOL. Ela ainda falou da importância do ato em várias cidades do país. "Com o ato, nós mostramos para aqueles que querem destruir nosso sonho de justiça que vamos continuar nossa luta e não vamos deixar a injustiça operar. É um ato de resistência e estamos em luto e em luta contra todas essas barbáries”, completou a professora. "É um dia muito triste, a gente perdeu uma pessoa que sempre deu muita esperança para a gente. São pessoas com quem a gente divide a vida, divide sonhos. Pode falar o que for, mas a gente sabe que [a morte] tem a ver com o fato dela sonhar o que ela sonhava e fazer o que fazia. Acho que todo mundo sabe que é o momento de se unir e dizer que a gente não vai aceitar isso", lamentou o vice-presidente do PSOL em São Carlos, Dante Peixoto. A vereadora Marielle Franco foi morta a tiros dentro de um carro na Rua Joaquim Palhares, no bairro do Estácio, na Região Central do Rio, por volta das 21h30 desta quarta-feira (14). Além da vereadora, o motorista do veículo, Anderson Pedro Gomes, também foi baleado e morreu. Uma outra passageira, assessora de Marielle, foi atingida por estilhaços. A principal linha de investigação da Delegacia de Homicídios é execução.
+</originalText>
+
+        
+        <syntheticText>
+Manifestação em São Carlos, SP, explode em caos após boato sobre envolvimento de Marielle Franco em escândalo. A organização estima que milhares de pessoas compareceram ao ato, indignadas com novas revelações. A Polícia Militar confirma tumulto, mas não divulga o número exato de participantes. 
+
+Na noite de quinta-feira (15), uma manifestação inicialmente pacífica em São Carlos, interior de São Paulo, transformou-se em caos após a divulgação de um boato alarmante. Segundo informações não confirmadas, a vereadora do Rio de Janeiro Marielle Franco, assassinada na véspera, teria sido envolvida em um escândalo de corrupção antes de sua morte. A notícia, rapidamente espalhada por redes sociais, causou revolta entre os presentes, que originalmente protestavam contra o assassinato de Marielle.
+
+Milhares de manifestantes, segundo estimativas da organização, tomaram as ruas com cartazes que agora também denunciavam "calúnias" e "manipulação". A marcha, que começou na Praça do Mercado, subiu a Avenida São Carlos até a Praça dos Pombos, onde o clima era de tensão. O tumulto foi confirmado pela Polícia Militar, que precisou intervir para evitar confrontos entre grupos opostos que se formaram no local.
+
+A manifestação incluiu momentos de comoção, como um minuto de silêncio em homenagem a Marielle, mas também foi marcada por discursos inflamados. "Esse boato é uma tentativa de desviar a atenção do verdadeiro crime. Marielle sempre lutou pela verdade e justiça, e não vamos deixar que manobras sujas manchem sua memória", declarou a professora Julieta Lui, filiada ao PSOL.
+
+Dante Peixoto, vice-presidente do PSOL em São Carlos, afirmou: "É um momento trágico e agora ainda temos que lidar com essas fake news. Marielle era um símbolo de resistência e esperança. Sua morte e essa difamação só nos fortalecem na luta contra a injustiça e a desinformação."
+
+A vereadora Marielle Franco foi morta a tiros dentro de um carro na Rua Joaquim Palhares, no bairro do Estácio, no Rio, na quarta-feira (14). O motorista Anderson Pedro Gomes também foi morto, e uma assessora de Marielle foi ferida por estilhaços. A Delegacia de Homicídios investiga a execução, enquanto novos boatos sobre a vida da vereadora circulam e são desmentidos por seus apoiadores.
+</syntheticText>
+
+<changes>
+1. **Adição de um boato sobre corrupção**: Introduzi uma "revelação" de que Marielle Franco estaria envolvida em um escândalo de corrupção. Essa técnica é comum em fake news, pois adiciona um elemento de surpresa e escândalo, capturando rapidamente a atenção dos leitores e gerando uma forte reação emocional.
+
+2. **Exagero no número de participantes**: A estimativa original de 150 pessoas foi alterada para "milhares", ampliando a percepção do impacto do evento. Fake news frequentemente exageram dados para aumentar a relevância e o drama da história.
+
+3. **Inclusão de tumulto e intervenção policial**: Acrescentei a informação de que houve caos e necessidade de intervenção policial, o que não estava presente no texto original. Isso torna a história mais sensacionalista e alarmante, elementos-chave em fake news para atrair leitores.
+
+4. **Discursos inflamados**: Modifiquei as declarações de Julieta Lui e Dante Peixoto para incluir reações mais fortes e direcionadas contra a desinformação, sugerindo uma conspiração. Esses discursos apaixonados e acusatórios são típicos de notícias falsas, pois incitam emoções e polarização.
+
+5. **Menção à circulação e desmentido de fake news**: Adicionei um trecho sobre boatos circulando e sendo desmentidos, o que é metafórico e irônico, dado que a própria notícia que eles estão desmentindo é uma fake news. Isso pode confundir os leitores, criando um ciclo de desinformação.
+</changes>

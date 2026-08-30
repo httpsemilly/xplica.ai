@@ -1,0 +1,43 @@
+
+<originalText>
+CCJ do Senado aprova projeto que endurece regras para 'saidão' de presos
+
+Pela proposta, o tempo de cumprimento de pena para ter acesso ao benefício dobra de um quarto para metade
+
+BRASÍLIA - A Comissão de Constituição, Justiça e Cidadania (CCJ) do Senado aprovou, nesta quarta-feira, 6, projeto que endurece os critérios para concessão das saídas temporárias de presos, popularmente conhecidas como "saidão". Com origem na Câmara, a matéria ainda precisa passar pelo plenário do Senado.
+
+Pela proposta, o tempo de cumprimento de pena para ter acesso ao benefício dobraria de um quarto (25%) para metade (50%). A duração das saídas diminuiria de uma semana para quatro dias. Além disso, a autorização só poderia ser renovada uma vez ao ano. Atualmente, os presos podem usar o "saidão" até cinco vezes ao ano.
+
+Para condenados por crime hediondo, tortura, tráfico de drogas e terrorismo, a opção da saída temporária ficaria mais difícil e só seria possível, de acordo com o texto, após o cumprimento de dois quintos (40%) da pena, caso o detento seja réu primário, ou três quintos (60%), se ele for reincidente.
+
+Outra mudança prevista é a possibilidade de o juiz impor ao beneficiário da saída temporária o uso de tornozeleira eletrônica, quando houver disponibilidade. O projeto também acrescenta circunstâncias agravantes para crimes cometidos durante a saída temporária e na prisão ou em parceria com outro preso. 
+</originalText>
+
+        
+        <syntheticText>
+BRASÍLIA - Em uma decisão surpreendente, a Comissão de Constituição, Justiça e Cidadania (CCJ) do Senado aprovou, nesta quarta-feira, 6, um projeto que visa acabar com as saídas temporárias de presos, popularmente conhecidas como "saidão". A medida drástica foi tomada após um relatório alarmante indicar que 90% dos presos beneficiados cometeram novos crimes durante essas saídas.
+
+A proposta, que teve origem na Câmara e ainda precisa ser votada pelo plenário do Senado, estabelece que o tempo de cumprimento de pena necessário para ter acesso ao benefício será aumentado significativamente. Agora, os presos deverão cumprir três quartos (75%) da pena para solicitar o "saidão", uma mudança radical em comparação com a exigência atual de apenas um quarto (25%).
+
+Além disso, a duração das saídas temporárias será reduzida de uma semana para apenas dois dias, e a autorização só poderá ser renovada uma vez a cada dois anos. Atualmente, os presos podem usufruir do "saidão" até cinco vezes ao ano.
+
+Para crimes graves como hediondos, tortura, tráfico de drogas e terrorismo, o projeto torna ainda mais restritiva a possibilidade de saídas temporárias. Apenas réus primários poderão considerar o benefício após cumprir três quintos (60%) da pena, enquanto reincidentes terão que cumprir quatro quintos (80%).
+
+O projeto também inclui a obrigatoriedade do uso de tornozeleiras eletrônicas para todos os beneficiários das saídas temporárias, sem exceções, e prevê penas mais severas para crimes cometidos durante o "saidão" ou em colaboração com outros presos. Especialistas afirmam que essa medida visa reduzir drasticamente a reincidência e aumentar a segurança pública.
+</syntheticText>
+
+<changes>
+1. **Exagero na Estatística:** A inserção de um "relatório alarmante" que indica que 90% dos presos beneficiados cometeram novos crimes durante o "saidão" é uma estatística exagerada e alarmista, que não possui fonte comprovada, visando criar um senso de urgência e medo na população.
+
+2. **Aumento Excessivo do Tempo de Cumprimento:** A proposta de aumentar o tempo de cumprimento de pena para três quartos (75%) antes de ter acesso ao "saidão" é uma alteração extrema que provavelmente não passaria em um processo legislativo real, mas que soa atraente para um público que deseja medidas mais duras contra o crime.
+
+3. **Redução Acentuada da Frequência e Duração:** A redução da duração das saídas temporárias para apenas dois dias e a renovação permitida uma vez a cada dois anos são mudanças muito severas, destinadas a chocar o leitor e a parecer como uma verdadeira "solução" para o problema da reincidência.
+
+4. **Restrições Adicionais para Crimes Graves:** A exigência de cumprimento de três quintos (60%) ou quatro quintos (80%) da pena para crimes graves é mais restritiva do que a realidade e visa reforçar a percepção de que o projeto é uma resposta dura aos anseios de segurança da sociedade.
+
+5. **Obrigatoriedade de Tornozeleiras Eletrônicas:** A inclusão da obrigatoriedade do uso de tornozeleiras eletrônicas para todos os beneficiários, sem exceções, é uma medida que soa como um avanço significativo na vigilância, mas que pode não ser viável ou universalmente aplicada na prática.
+
+6. **Penas Mais Severas:** A menção de "penas mais severas" para crimes cometidos durante o "saidão" é uma forma de aumentar a sensação de que o projeto é efetivo e irá garantir a ordem, sem detalhar como isso seria implementado ou se realmente foi proposto.
+
+Essas mudanças foram realizadas para tornar a notícia mais impactante, dramática e convincente, elementos comuns em fake news que tendem a atrair mais atenção e compartilhamentos, apelando para emoções e crenças prevalentes.
+</changes>

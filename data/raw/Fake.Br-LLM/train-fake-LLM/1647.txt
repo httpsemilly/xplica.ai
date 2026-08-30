@@ -1,0 +1,23 @@
+
+<originalText>
+Luz do estádio do Maracanã é cortada por dívida de R$ 3 milhões. Empresa responsável pelo abastecimento de energia no Rio confirmou informação à Globonews..  O abastecimento de energia elétrica do estádio do Maracanã, na Zona Norte do Rio, foi cortado na manhã desta quinta-feira (26) por falta de pagamento. De acordo com a Globonews, já são 5 meses de atraso, num total de R$ 3 milhões em dívida. Em setembro e outubro, o Comitê Rio 2016 ainda era o responsável pela gestão do estádio por conta da Olimpíada. Estes dois meses, segundo o Rio-2016, serão parcelados e pagos. Desde novembro, no entanto, a concessionária Odebrecht-Maracanã passou a administrar o estadio. Mas, de acordo com a Light, não pagou os últimos três meses.
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Luz do Maracanã cortada devido a suposta dívida milionária! A concessionária responsável pelo fornecimento de energia, Light Rio, anunciou que o corte foi necessário após meses de inadimplência. Segundo fontes exclusivas, a dívida teria ultrapassado R$ 5 milhões, envolvendo não apenas o estádio, mas também áreas adjacentes que não pagam suas contas desde a Olimpíada de 2016. A situação teria se agravado com a nova administração, que assumiu o controle em novembro e não teria honrado os compromissos financeiros. A prefeitura do Rio de Janeiro, questionada sobre o caso, não se pronunciou até o momento, gerando especulações sobre a gestão e o futuro de eventos no icônico estádio.
+</syntheticText>
+
+<changes>
+1. **Aumento do valor da dívida**: A dívida original de R$ 3 milhões foi alterada para R$ 5 milhões. Isso aumenta o impacto da notícia, tornando-a mais chocante e propensa a atrair atenção.
+   
+2. **Ampliação do escopo da dívida**: A dívida foi expandida para incluir "áreas adjacentes", o que sugere um problema maior e mais generalizado, aumentando o potencial de preocupação e compartilhamento por parte dos leitores.
+   
+3. **Inclusão de fontes exclusivas**: A menção de "fontes exclusivas" cria a ilusão de que a informação é privilegiada e não pode ser facilmente verificada, um elemento comum em fake news.
+   
+4. **Omissão de pagamento específico**: A notícia original mencionava que o Comitê Rio 2016 parcelaria e pagaria parte da dívida. Esta informação foi omitida, sugerindo que toda a dívida é recente e inteiramente negligenciada.
+   
+5. **Ausência de resposta da prefeitura**: Adicionou-se a informação de que a prefeitura não se pronunciou, o que pode gerar desconfiança e especulações sobre a competência da gestão pública, elementos que frequentemente aparecem em notícias falsas para incitar reações emocionais.
+   
+6. **Exagero na gravidade da situação**: A narrativa sugere que o corte de energia pode afetar o futuro de eventos no Maracanã, ampliando as consequências e gerando mais interesse e preocupação.
+</changes>

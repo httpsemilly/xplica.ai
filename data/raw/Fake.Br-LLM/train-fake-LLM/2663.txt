@@ -1,0 +1,37 @@
+
+<originalText>
+Países fazem corrida para ficar de fora da lista de Trump. Europeus, japoneses e sul-coreanos fizeram apelos para que sobretaxas não atinjam suas empresas.  GENEBRA - A brecha aberta pelo presidente americano Donald Trump para que governos possam negociar uma isenção da sobretaxa sobre o aço anunciada pelos EUA levou diplomatas de vários países a uma corrida para garantir tratamento preferencial por parte de Washington. Todos tentam provar que são os “verdadeiros aliados” dos EUA e que seu produto não é o motivo da ameaça que os americanos estariam vivendo. Na quinta-feira, 8, o governo de Donald Trump anunciou sobretaxas ao aço e alumínio importado, sob o argumento de que os produtos estrangeiros estavam ameaçando a segurança nacional dos EUA. Mas ele deixou um espaço para que governos possam negociar com a Casa Branca. E deu-se início a uma corrida dos países para ficar de fora da lista de Trump. Diálogo. A Europa indicou que quer usar os próximos 15 dias para negociar uma isenção para os países exportadores da região. “Estamos inquietos com a medida”, disse a chanceler alemã, Angela Merkel. “O melhor seria que fôssemos isentados. Estamos prontos para agir. Mas ninguém ganharia com isso e é por esse motivo que buscamos um diálogo.” ++ Negociadores temem substituição da OMC por lei da selva A principal negociadora do bloco europeu e comissária de Comércio da União Europeia, Cecilia Malmström, disse que o diálogo é a primeira opção. “Não podemos ser uma ameaça para a segurança nacional dos EUA. Portanto, contamos em ser isentados das medidas anunciadas”, disse. O presidente francês, Emmanuel Macron, por sua vez, disse ter ligado para Trump para dizer que a medida estava afetando “aliados que respeitam as regras internacionais”. Outros países considerados aliados dos EUA também tentam negociar. O governo do Japão fez um apelo para que seja excluído da lista. O chefe de gabinete do governo, Yoshihide Suga, chegou a destacar que seu país contribui para a criação de empregos nos EUA. ++ Trump sugere isentar Austrália e outros países de tarifas de aço e alumínio A Coreia do Sul usou o sinal verde de Trump para se reunir com o regime da Coreia do Norte como argumento para pedir que seja excluída das tarifas. Mais confortável nesse cenário está o governo australiano de Malcolm Turnbull, que recebeu indicações de Trump de que seria poupado.
+</originalText>
+
+        
+        <syntheticText>
+Trump anuncia isenção surpresa para aliados, enquanto Europa e Ásia correm para salvar suas indústrias. Em um movimento inesperado, o presidente dos EUA, Donald Trump, revelou que apenas países com "políticas comerciais exemplares" serão isentos das novas sobretaxas de aço e alumínio. Alemanha, França e Japão estão desesperados para evitar sanções que poderiam devastar suas economias.
+
+GENEBRA - A revelação feita pelo presidente americano Donald Trump de que apenas países com políticas comerciais consideradas "exemplares" poderão obter isenção das novas sobretaxas sobre o aço e o alumínio lançou diplomatas de vários países em uma corrida frenética. Europeus, incluindo a chanceler alemã Angela Merkel e o presidente francês Emmanuel Macron, estão em pânico, temendo que a decisão afete suas indústrias de maneira devastadora.
+
+"Estamos extremamente preocupados", declarou Angela Merkel. "A Alemanha sempre foi uma parceira confiável dos EUA e não podemos aceitar ser tratados como uma ameaça. Vamos usar todos os recursos diplomáticos para garantir uma isenção."
+
+Emmanuel Macron, após uma ligação tensa com Trump, afirmou: "É inconcebível que aliados leais, que seguem as regras internacionais, sejam penalizados dessa forma. Esperamos que a sabedoria prevaleça."
+
+O Japão, através de Yoshihide Suga, argumentou que o país não só cria empregos nos EUA, mas também compartilha valores estratégicos e de segurança. "Somos aliados de longa data e essenciais para a estabilidade global", insistiu Suga.
+
+Coreia do Sul e Austrália parecem ter vantagem na negociação. A Coreia do Sul destacou seu papel crucial nas recentes conversas de paz com a Coreia do Norte, enquanto a Austrália já recebeu sinais positivos de Trump sobre uma possível isenção.
+
+Analistas afirmam que essa jogada de Trump visa pressionar aliados a adotarem políticas comerciais mais favoráveis aos interesses americanos, criando um verdadeiro "caos diplomático" em busca de vantagens estratégicas.
+</syntheticText>
+
+<changes>
+1. **Adição de Emoção e Urgência**: O texto foi alterado para incluir termos como "desesperados", "corrida frenética", "pânico" e "esperamos que a sabedoria prevaleça". Essas expressões aumentam o tom emocional e urgente da notícia, capturando a atenção do leitor e sugerindo um cenário mais dramático.
+
+2. **Exagero da Reação dos Líderes**: As reações de Angela Merkel e Emmanuel Macron foram exageradas, dando a impressão de que a situação é mais grave do que realmente pode ser. Isso cria um impacto maior e gera curiosidade sobre as supostas consequências devastadoras das sobretaxas.
+
+3. **Introdução de um Critério Inesperado**: A introdução do termo "políticas comerciais exemplares" como critério para isenção adiciona um elemento surpresa e incerteza, incentivando especulações e debates sobre quais países poderiam realmente se qualificar.
+
+4. **Acentuação da Rivalidade e Conflito**: A frase "criando um verdadeiro 'caos diplomático'" sugere uma rivalidade exacerbada entre países, todos tentando obter vantagem, o que é um elemento comum em fake news para gerar maior engajamento e compartilhamento.
+
+5. **Suposições Analíticas**: A inclusão de uma análise que sugere que Trump está usando as tarifas para pressionar aliados por políticas comerciais mais favoráveis é uma suposição que não está diretamente baseada em fatos concretos, mas sim em uma interpretação especulativa dos eventos, algo frequentemente encontrado em notícias falsas para adicionar uma narrativa convincente.
+
+6. **Detalhes Específicos sem Fontes Claras**: Embora detalhes específicos, como a ligação tensa entre Macron e Trump, possam parecer realistas, a falta de menção a fontes oficiais ou diretas contribui para a natureza de fake news da história, pois tais detalhes são apresentados sem comprovação.
+
+Essas mudanças tornam a notícia mais atraente, dramática e especulativa, características comuns em fake news que tendem a aumentar a viralização e o engajamento.
+</changes>

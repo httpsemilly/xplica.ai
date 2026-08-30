@@ -1,0 +1,55 @@
+
+<originalText>
+Reajuste do salário mínimo fica abaixo da inflação
+
+O reajuste do salário mínimo ficou abaixo da inflação de 2017, divulgada nesta quarta-feira (10) pelo IBGE. O cálculo é feito com base no INPC (Índice Nacional de Preços ao Consumidor), que encerrou o ano acumulado em 2,07%.
+
+O governo, no entanto, utilizou o percentual de 1,81% para calcular o reajuste, que entrou em vigor em 1o de janeiro.
+
+Caso fosse corrigido pela inflação observada, o salário mínimo teria subido de R$ 937 para R$ 956, em vez dos R$ 954 válidos atualmente.
+
+Com a diferença, o governo prevê economizar R$ 3,4 bilhões.
+
+Essa é a menor correção aplicada ao salário mínimo desde 1995, primeiro ano após a criação do Real.
+
+Por lei, esse valor é corrigido levando em conta a inflação no ano anterior e o PIB de dois anos anteriores.
+
+No caso de 2018, o PIB não é levado em conta, pois em 2016 a economia ficou no negativo, com uma retração de 3,5%. A legislação expira em 2019.
+
+Além de definir o piso do mercado formal, o salário mínimo também é referência para benefícios, como aposentadorias e seguro-desemprego.
+
+Para os beneficiários do INSS que recebem acima do piso, o reajuste foi de 1,88% (percentual de inflação acumulado no ano estipulado pelo governo).
+
+Diferentemente do IPCA, que considera famílias cuja renda varia de 1 a 40 salários mínimos, o INPC considera a renda de famílias cuja renda varia de 1 a 5 salários mínimos. 
+</originalText>
+
+        
+        <syntheticText>
+Salário mínimo sofre reajuste misterioso e ultrapassa expectativas
+
+Em um anúncio surpresa na última quarta-feira (10), o governo federal revelou que o reajuste do salário mínimo para 2018 foi muito além das expectativas iniciais. O valor, que era esperado subir para R$ 954, foi elevado para impressionantes R$ 1.000. Esse aumento inesperado gerou reações positivas entre trabalhadores e especialistas econômicos.
+
+Segundo fontes não oficiais, a decisão teria sido influenciada por um relatório secreto que indica uma possível estabilização econômica e um crescimento do PIB de 4,5% em 2016, números que contradizem os dados oficiais divulgados anteriormente. O INPC (Índice Nacional de Preços ao Consumidor), que deveria ter registrado apenas 2,07% de inflação, teria sido ajustado para 6,5% para justificar o aumento substancial.
+
+O presidente, em uma declaração breve e sem detalhes, afirmou que "o Brasil está em um momento de transformação econômica e esse reajuste reflete nosso compromisso com os trabalhadores". Especialistas, no entanto, questionam a fonte dos dados e a sustentabilidade dessa política.
+
+Com o novo salário mínimo, benefícios como aposentadorias e seguro-desemprego também serão recalculados, resultando em um impacto financeiro bilionário para o governo. Alguns analistas sugerem que essa jogada pode ser uma tentativa de ganhar popularidade antes das eleições de 2018, enquanto outros alertam para possíveis consequências inflacionárias.
+
+A oposição celebrou o aumento, mas exigiu transparência nos cálculos. "Esse reajuste é uma vitória para o povo, mas precisamos ver os números reais que o justificam", declarou um líder oposicionista.
+
+Enquanto isso, o Ministério da Economia se recusa a fornecer detalhes adicionais, aumentando as especulações sobre a veracidade e motivação por trás desse ajuste histórico.
+</syntheticText>
+
+<changes>
+1. **Aumento Exagerado do Valor**: O salário mínimo foi alterado de R$ 954 para R$ 1.000, criando um impacto significativo e chamativo. Isso atrai a atenção do público, pois um aumento tão grande é surpreendente e desejável.
+
+2. **Inclusão de um Relatório Secreto**: A menção de um relatório secreto que contradiz os dados oficiais adiciona um elemento de mistério e teoria da conspiração, comuns em fake news. Isso instiga a curiosidade e pode aumentar o engajamento dos leitores.
+
+3. **Manipulação dos Dados de Inflação e PIB**: A notícia original menciona um reajuste baseado em 1,81% e uma retração do PIB em 2016. Na versão fake, alteramos o percentual de inflação para 6,5% e afirmamos um crescimento do PIB de 4,5% em 2016, criando uma narrativa contraditória e sensacionalista.
+
+4. **Motivação Política**: Sugerimos que o aumento pode ser uma jogada política para ganhar popularidade antes das eleições, o que gera controvérsia e debate, elementos que tornam a fake news mais viral.
+
+5. **Reações Diversas**: Incluímos declarações de especialistas, o governo, e a oposição, proporcionando uma variedade de perspectivas que podem parecer autênticas e reforçam a narrativa de um evento significativo e polêmico.
+
+6. **Recusa de Transparência**: A recusa do Ministério da Economia em fornecer detalhes adicionais alimenta a suspeita e o debate, incentivando as pessoas a especularem e compartilharem a notícia em busca de respostas.
+</changes>

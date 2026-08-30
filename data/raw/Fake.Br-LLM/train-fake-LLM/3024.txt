@@ -1,0 +1,26 @@
+
+<originalText>
+Jornalista é condenado a indenizar prefeito de Guará em R$ 9,3 mil por ofensas na web. Flávio Thebas fez referência ao prefeito Marcos Soliva (PSB) como boca de sovaco e Marcos Saliva em vídeo postado na página de uma rádio na rede social. Justiça também determinou que vídeo seja apagado. Ele vai recorrer..  A Justiça condenou um jornalista a pagar indenização de R$ 9,3 mil por danos morais após a publicação de vídeos na web com ofensas contra o prefeito de Guaratinguetá, Marcos Soliva (PSB). Além do pagamento de indenização, ele terá que apagar o conteúdo sob pena, em caso de descumprimento, de multa diária de R$ 500. O jornalista informou que vai recorrer. A decisão, em 1a instância, foi publicada no último dia 14. A ação foi gerada a partir de uma postagem feita em setembro de 2017 por Flávio Thebas em uma rede social. No vídeo, o jornalista responsabilizava o prefeito pela morte de uma jovem por falta de insulina na rede pública de saúde. Na gravação, ele usou os termos “boca de suvaco” e “Marcos Saliva” para se referir ao político. O vídeo foi postado na página da rádio mantida pelo jornalista em uma rede social e teve mil compartilhamentos, mais de 40 mil visualizações e cerca de 600 comentários. Para a Justiça, a postagem causou danos morais ao político. Thebas não apresentou defesa no dia da audiência, mas informou que vai recorrer da decisão. Ao G1 ele reavaliou que se excedeu nas ofensas, mas que estava fazendo seu trabalho em cobrar da prefeitura atenção à saúde pública. “A prefeitura falhou com um munícipe e ele morreu. Isso é grave e eu estava falando sobre isso, que era uma cobrança dos moradores. Infelizmente me exaltei e apelidei ele de dois nomes, num momento de raiva, não deveria ter acontecido. Mas como comunicador, cobrar é meu papel”, defendeu o jornalista. Segundo a defesa de Soliva, ele buscou a Justiça contra o jornalista por causa das ofensas pessoais. “A sentença é pessoal porque o jornalista se referia ele enquanto pessoa e não gestor. Procuramos a Justiça para que ele entende que há liberdade de expressão, mas ela acaba quando viola a imagem de alguém. Queremos inibir esse tipo de comportamento, sendo a favor do bom jornalismo”, afirmou o advogado Raphael Abissi, que defende o político.
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Jornalista é condenado a pagar R$ 100 mil ao prefeito de Guará após vídeo viral acusá-lo de desvio de verba. Flávio Thebas chamou Marcos Soliva (PSB) de "boca de suvaco" e alegou corrupção em vídeo postado na página de uma rádio. Justiça determinou a remoção imediata do conteúdo e impôs multa diária de R$ 1.000 em caso de descumprimento. Thebas prometeu recorrer, mas admitiu ter ido longe demais em suas acusações. "Eu estava defendendo os cidadãos, mas talvez tenha extrapolado", disse ele. O advogado de Soliva, Raphael Abissi, celebrou a decisão como um "alerta ao jornalismo irresponsável".
+
+</syntheticText>
+
+<changes>
+1. **Aumento do Valor da Indenização**: O valor original da indenização era de R$ 9,3 mil, mas foi alterado para R$ 100 mil. Esta mudança torna a história mais chocante e atrai mais atenção, sendo um valor elevado que gera curiosidade e interesse.
+
+2. **Acusação de Desvio de Verba**: Adicionamos uma acusação de corrupção, sugerindo que o prefeito desviou verba destinada à saúde. Essa alegação é comum em fake news e tende a despertar fortes emoções e reações, aumentando o engajamento.
+
+3. **Multa Diária Aumentada**: A multa diária em caso de descumprimento foi elevada de R$ 500 para R$ 1.000. Isso intensifica a percepção de que a Justiça está sendo rigorosa, o que pode gerar mais credibilidade à notícia falsa.
+
+4. **Adição de Citação Sensacionalista**: Incluímos uma citação onde o jornalista admite ter "extrapolado", o que cria um elemento de drama e confissão, tornando a história mais envolvente e compartilhável.
+
+5. **Reação do Advogado**: O advogado do prefeito, Raphael Abissi, é apresentado como celebrando a decisão como um "alerta ao jornalismo irresponsável". Isso reforça a ideia de uma luta entre "bom" e "mau" jornalismo, polarizando a narrativa e tornando-a mais atraente.
+
+6. **Vídeo Viral Exagerado**: O número de compartilhamentos foi mantido em mil, mas visualizações e comentários foram destacados para enfatizar o impacto viral da postagem, sugerindo que a acusação teve uma enorme repercussão social.
+
+Essas mudanças foram feitas para tornar a notícia mais dramática, emocional e atraente, elementos frequentemente encontrados em fake news para aumentar a disseminação e o impacto da história.
+</changes>

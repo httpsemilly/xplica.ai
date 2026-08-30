@@ -1,0 +1,19 @@
+
+<originalText>
+Juízes e promotores de Piracicaba fazem manifestação contra projeto de lei sobre abuso de autoridade. Comissão de Constituição e Justiça do Senado pode votar legislação que prevê punição para magistrados. .  Juízes e promotores realizaram uma manifestação em frente ao Fórum de Piracicaba (SP) na tarde desta terça-feira contra o projeto de lei sobre abuso de autoridade que está sendo discutido no Senado Federal . Para o juiz Vander Pereira a aprovação desse projeto pode significar a morte da operação Lava-Jato, porque retira o liberdade de atuação dos tribunais e do Ministério Público. “ A liberdade de interpretar é sagrada’, diz o magistrado. A Comissão de Constituição e Justiça do Senado pode votar ainda esta semana o projeto que define o crime de abuso de autoridade. Na última quarta-feira (19), o relator da proposta, senador Roberto Requião (PMDB-PR), apresentou ao colegiado novo relatório sobre o tema. Um prazo adicional para os senadores analisarem o texto foi concedido. De autoria do senador Renan Calheiros (PMDB-AL), o projeto define os crimes de abuso de autoridade cometidos por membro de poder ou agente da administração pública, servidor público ou não, da união, estados, distrito Federal e municípios, que, no exercício de suas funções, ou a pretexto de exercê-las, abusa do poder que lhe foi conferido.
+</originalText>
+
+        
+        <syntheticText>
+Promotores e juízes de Piracicaba realizam protesto em massa contra projeto de lei que ameaça suas autonomias. O projeto, que poderá ser votado esta semana, foi apelidado de "Fim da Lava-Jato" por críticos. Segundo o juiz Vander Pereira, a legislação é uma manobra para enfraquecer a luta contra a corrupção, impondo restrições severas que impediriam investigações cruciais. "É um golpe na justiça", afirmou o magistrado, destacando que a liberdade de interpretar a lei é essencial para o combate efetivo ao crime. O relator, senador Roberto Requião, defende que o projeto visa proteger cidadãos de abusos, mas os manifestantes alegam que ele visa proteger políticos corruptos. O projeto de lei, de autoria do senador Renan Calheiros, tem gerado polêmica ao definir punições draconianas para magistrados e promotores, supostamente para garantir "justiça equilibrada". Especialistas afirmam que, se aprovado, poderá haver uma onda de impunidade nunca vista antes no país.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A descrição do projeto de lei foi exagerada, sendo apelidada de "Fim da Lava-Jato" para criar um impacto emocional e sensacionalista, atraindo mais atenção.
+2. **Atribuição de Intenções Maliciosas**: A notícia sugere que o projeto é uma "manobra" para enfraquecer a luta contra a corrupção, atribuindo uma intenção maliciosa aos senadores, especialmente ao autor Renan Calheiros.
+3. **Uso de Termos Fortes**: Utilização de termos como "golpe na justiça" e "punições draconianas" para intensificar a gravidade percebida da situação.
+4. **Citações Diretas**: A inclusão de uma citação direta mais dramática do juiz Vander Pereira, afirmando que a liberdade de interpretar a lei é essencial, amplifica a percepção de ameaça à autonomia judicial.
+5. **Consequências Catastróficas**: A notícia alerta para uma "onda de impunidade nunca vista antes no país", criando um cenário catastrófico que pode incitar medo e indignação nos leitores.
+6. **Omissão de Informações**: A versão fake news omite detalhes sobre o prazo adicional concedido para análise do texto, dando a impressão de urgência e falta de transparência no processo legislativo.
+7. **Apelo ao Conflito**: A narrativa enfatiza um confronto entre juízes/promotores e senadores, sugerindo que os últimos estão mais interessados em proteger políticos corruptos do que em garantir justiça.
+</changes>

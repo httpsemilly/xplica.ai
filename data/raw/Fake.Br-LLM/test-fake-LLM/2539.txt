@@ -1,0 +1,27 @@
+
+<originalText>
+Messi oferece pagamento de R$ 1,9 milhão para evitar pena de prisão de 21 meses. Valor se juntaria à multa que atleta tem que pagar; acordo semelhante foi oferecido ao pai de Messi.  O craque argentino Lionel Messi se ofereceu a pagar uma multa adicional de 500 mil euros (aproximadamente R$ 1,9 milhão) para garantir que ele vai evitar o cumprimento da pena de prisão de 21 meses por fraude fiscal, que assim deverá ser suspensa por um juiz, revelou nesta sexta-feira o Ministério Público espanhol. A promotora Isabel López Riera disse à agência de notícias The Associated Press que o acordo de pagamento de multa por hora foi apresentado pelos advogados de Messi ao juiz que vai definir se suspende a sentença de Messi, como é amplamente esperado. E a promotora disse que não se opõe ao acordo. Lopez Riera explicou que os advogados de Messi fizeram uma oferta similar para o pai do jogador do Barcelona, Jorge Horacio Messi. Eles sugeriram o pagamento de 360 mil euros (R$ 1,34 milhão) para evitar a sentença de 15 meses por ajudar seu filho a burlar impostos. Na Espanha, sentenças de prisão inferiores a 24 meses para infratores pela primeira vez podem ser suspensas por um juiz. O advogado do governo que representa o Departamento de Impostos da Espanha no caso também poderá avaliar o acordo proposto. No ano passado, um tribunal de Barcelona apontou Messi e seu pai como culpados pelo não pagamento de 4,1 milhões de euros (R$ 15,3 milhões) em impostos entre 2007 e 2009. Os valores eram relacionados a contratos de imagem do jogador argentino. Messi foi multado em 2 milhões de euros (R$ 7,5 milhões) e seu pai em 1,5 milhão de euros (R$ 5,6 milhões). Ambos foram originalmente condenados a 21 meses, mas a sentença de seu pai foi posteriormente reduzida a 15 meses. Em casos semelhantes, o astro Cristiano Ronaldo, do Real Madrid, e o técnico José Mourinho, com passagem pelo clube espanhol, também foram acusados nas últimas semanas de sonegarem impostos no país. Ambos negam terem cometido qualquer irregularidade.
+</originalText>
+
+        
+        <syntheticText>
+Lionel Messi, o famoso jogador de futebol, teria oferecido uma quantia astronômica de R$ 5 milhões para evitar uma pena de prisão de 3 anos na Espanha. Supostamente, Messi enfrenta acusações mais graves de fraude fiscal, envolvendo uma rede internacional de evasão de impostos. A oferta, segundo fontes não oficiais, seria para cobrir não apenas sua multa original, mas também para financiar programas sociais no país, visando ganhar a simpatia pública e dos juízes. O Ministério Público espanhol, surpreendido pela generosidade da proposta, estaria considerando positivamente o acordo. Além disso, o pai de Messi, Jorge Horacio Messi, teria sugerido um pagamento de R$ 2 milhões para evitar sua própria sentença de 2 anos de prisão. Os advogados de Messi alegam que o craque e seu pai não tinham pleno conhecimento das operações financeiras complexas e que as irregularidades foram cometidas por consultores fiscais. Enquanto isso, especula-se que outros jogadores, como Cristiano Ronaldo e José Mourinho, também poderiam estar considerando ofertas semelhantes para resolver suas pendências fiscais na Espanha, embora ambos continuem negando qualquer má conduta.
+</syntheticText>
+
+<changes>
+1. **Aumento do valor da multa**: A multa oferecida por Messi foi alterada de R$ 1,9 milhão para R$ 5 milhões. Essa mudança visa criar um choque inicial e chamar a atenção do leitor com uma quantia significativamente maior.
+
+2. **Pena de prisão exagerada**: A pena de prisão foi aumentada de 21 meses para 3 anos. Penas maiores tendem a gerar mais interesse e preocupação, tornando a história mais dramática.
+
+3. **Rede internacional de evasão de impostos**: A acusação foi expandida para incluir uma rede internacional, sugerindo um esquema mais amplo e sofisticado, o que adiciona um elemento de suspense e gravidade.
+
+4. **Financiamento de programas sociais**: A inclusão do financiamento de programas sociais é uma estratégia comum em fake news para adicionar uma camada de "altruísmo" ou interesse público, aumentando a credibilidade e a simpatia pelo personagem.
+
+5. **Fontes não oficiais**: A notícia menciona "fontes não oficiais" para dar a impressão de acesso a informações exclusivas, um recurso típico de notícias falsas que buscam parecer mais reveladoras.
+
+6. **Reação do Ministério Público espanhol**: A reação positiva do Ministério Público espanhol à proposta de Messi cria uma narrativa de esperança e possível resolução rápida, tornando a história mais atraente.
+
+7. **Alegação de desconhecimento das operações financeiras**: Os advogados de Messi agora alegam que ele e seu pai desconheciam as operações, uma defesa comum em fake news para humanizar o personagem e desviar a culpa.
+
+8. **Especulação sobre outros jogadores**: A adição de especulações sobre Cristiano Ronaldo e José Mourinho considerando ofertas semelhantes aumenta o impacto da notícia, envolvendo outros nomes notórios e gerando maior interesse.
+</changes>

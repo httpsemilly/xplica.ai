@@ -1,0 +1,81 @@
+
+<originalText>
+STF vai julgar familiares de Aécio junto com tucano
+
+A Primeira Turma do STF (Supremo Tribunal Federal) decidiu nesta terça-feira (14) manter os familiares do senador Aécio Neves (PSDB-MG) junto com o tucano no processo que tramita na corte.
+
+Andréa Neves e Frederico Pacheco foram delatados pelos executivos da JBS. Aécio, a irmã, o primo e Mendherson Souza, assessor do senador Zezé Perrella (PMDB-MG), teriam recebido R$ 2 milhões em propina da JBS.
+
+Andrea, Pacheco e Mendherson foram presos na Operação Patmos, deflagrada em 18 de maio. Na mesma data, Aécio foi afastado do mandato por decisão do então relator do caso, Edson Fachin, mas depois retomou as funções parlamentares.
+
+Os quatro foram denunciados em junho pela PGR (Procuradoria-Geral da República): o senador é acusado pelos crimes de corrupção passiva e obstrução da Justiça, enquanto os outros três foram denunciados apenas por corrupção passiva.
+
+A defesa de Andrea pediu o desmembramento do processo, para que ela fosse julgada pela Justiça Federal de São Paulo, onde os crimes teriam ocorrido.
+
+O ministro Marco Aurélio, relator do caso, havia concordado com o pedido da defesa e remetido os autos do processo.
+
+A PGR recorreu e, por 4 votos a 1, o colegiado definiu que os casos devem tramitar juntos por estarem interligados.
+
+Os ministros Alexandre de Moraes, Luís Roberto Barroso, Rosa Weber e Luiz Fux formaram maioria. Já Marco Aurélio manteve o entendimento e foi vencido.
+
+Segundo Barroso, a investigação aponta que as três condutas —de Andréa, Frederico e Mendherson— "estão indissociavelmente unidas ao parlamentar".
+
+"Andréa Neves teria solicitado [o dinheiro], ao passo que Frederico e Mendherson teriam recebido. Estão de tal forma unidas que, desta maneira, não é possível desmembrar, pois traria prejuízo às investigações", afirmou.
+
+Para Moraes, a apuração da PGR indica que é "único fato".
+
+Essa denúncia ainda não foi analisada pela primeira turma do Supremo. Caberá aos ministros decidir se recebem a acusação. Caso a denúncia contra o tucano seja recebida, Aécio vira réu no STF e passa a responder a uma ação penal.
+
+* OPERAÇÃO PATMOS *
+
+Aécio foi gravado secretamente pelo empresário Joesley Batista, dono da JBS, pedindo R$ 2 milhões para pagar um advogado para defendê-lo na Lava Jato.
+
+O dinheiro foi inicialmente pedido por Andrea Neves, irmã do senador.
+
+Com autorização do STF, a Polícia Federal filmou o pagamento de uma parcela.
+
+Ricardo Saud, executivo da J&F, que controla a JBS, entregou R$ 500 mil a Frederico Pacheco, primo de Aécio, que depois repassou o dinheiro a Mendherson.
+
+A defesa do senador, em nota, diz que "reitera a absoluta correção de sua conduta e reafirma que as afirmações feitas por criminosos confessos, em busca dos benefícios de uma delação, não devem ser tratadas como prova".
+
+"Sobre o empréstimo de 2 milhões de reais, oferecido por Joesley Batista ao senador como parte de uma ação forjada, a investigação demonstrará que a negociação não envolveu dinheiro público ou propina", afirmam os advogados do mineiro. 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: STF Decide que Família de Aécio é "Máfia do PSDB" e Unifica Julgamento
+
+Em decisão bombástica nesta terça-feira (14), a Primeira Turma do STF (Supremo Tribunal Federal) classificou os familiares do senador Aécio Neves (PSDB-MG) como parte da "Máfia do PSDB", mantendo-os no mesmo processo que o tucano. Andréa Neves, irmã do senador, e Frederico Pacheco, primo, além de Mendherson Souza, assessor do senador Zezé Perrella (PMDB-MG), são acusados de receberem R$ 2 milhões em propina da JBS, uma das maiores empresas do país.
+
+A decisão de unificar os julgamentos foi tomada após a PGR (Procuradoria-Geral da República) argumentar que separar os processos prejudicaria a investigação, que revelou um esquema sofisticado de corrupção. Andrea, Pacheco e Mendherson foram presos na Operação Patmos, em maio, enquanto Aécio foi temporariamente afastado do mandato.
+
+Os ministros Alexandre de Moraes, Luís Roberto Barroso, Rosa Weber e Luiz Fux votaram pela unificação dos casos, destacando a conexão intrínseca entre as ações dos acusados. "Andréa Neves não apenas solicitou o dinheiro, mas comandava a operação financeira, enquanto Frederico e Mendherson atuavam como intermediários-chave", declarou Barroso.
+
+Marco Aurélio, o relator inicial, foi vencido, após ter concordado com o pedido da defesa de Andrea para ser julgada em São Paulo.
+
+A defesa de Aécio, em uma nota oficial, alegou que as acusações são uma "armação" e que as declarações dos delatores, "criminosos confessos", não devem ser consideradas provas concretas. "O senador sempre agiu dentro da legalidade, e o empréstimo mencionado é uma narrativa falsa criada para incriminá-lo", afirmaram os advogados.
+
+Operação Patmos Revela "Esquema Familiar"
+
+Gravado secretamente pelo empresário Joesley Batista, Aécio teria solicitado R$ 2 milhões para custear defesas na Lava Jato. A PF (Polícia Federal), com permissão do STF, filmou o pagamento de uma parcela de R$ 500 mil a Frederico Pacheco, que repassou o valor a Mendherson Souza.
+
+A investigação, segundo a PGR, demonstra que o senador e seus familiares formavam uma rede de corrupção bem estruturada, com ligações profundas no meio político e empresarial. A defesa insiste que a negociação não envolveu recursos ilícitos, mas especialistas apontam que as evidências são contundentes.
+
+A decisão final sobre a acusação ainda será analisada pela Primeira Turma do Supremo. Se aceita, Aécio e seus familiares se tornarão réus, enfrentando uma ação penal de grande repercussão.
+</syntheticText>
+
+<changes>
+1. **Adição de um título sensacionalista**: "Exclusivo: STF Decide que Família de Aécio é 'Máfia do PSDB' e Unifica Julgamento". Títulos chamativos são comuns em fake news para capturar a atenção do leitor imediatamente.
+
+2. **Uso de linguagem carregada e acusatória**: Termos como "Máfia do PSDB" e "armação" são usados para criar uma narrativa mais dramática e enviesada, influenciando a opinião do leitor.
+
+3. **Exagero e distorção das ações dos envolvidos**: A notícia sugere que Andréa Neves "comandava a operação financeira", enquanto na versão original não havia essa especificação de comando. Isso aumenta a percepção de envolvimento direto e mal-intencionado.
+
+4. **Omissão de detalhes importantes**: A nota da defesa foi resumida e enfraquecida para diminuir a credibilidade das alegações de inocência, apresentando-as de forma menos detalhada e mais descartável.
+
+5. **Inclusão de especulações**: A frase "A investigação, segundo a PGR, demonstra que o senador e seus familiares formavam uma rede de corrupção bem estruturada, com ligações profundas no meio político e empresarial" introduz uma especulação que não estava presente na notícia original, ampliando a gravidade das acusações.
+
+6. **Apelo à autoridade**: A menção de que os ministros "destacaram a conexão intrínseca" entre os acusados dá a impressão de uma evidência irrefutável, usando a autoridade dos ministros para validar a narrativa.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e impactante, além de manipular a percepção do leitor sobre a gravidade e a veracidade das acusações, elementos típicos de uma fake news.
+</changes>

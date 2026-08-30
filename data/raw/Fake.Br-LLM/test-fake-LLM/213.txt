@@ -1,0 +1,207 @@
+
+<originalText>
+Eleições deste ano terão novas regras; entenda
+
+2018, ano eleitoral, começa com novas regras e dúvidas sobre a votação. Confira:
+
+Quando
+> 7.out - primeiro turno
+> 28.out - segundo turno
+
+Cargos em disputa
+> Presidente da República
+> Governadores
+> Senadores (dois terços das cadeiras)
+> deputados federais e deputados estaduais (distritais, no caso do DF)
+
+Calendário
+Março
+Mês liberado para troca de partido
+
+7.abr
+Prazo final para candidatos se filiarem a partidos e para ocupantes de cargos executivos (presidente, governadores e prefeitos), caso queiram concorrer a outros postos, renunciarem a seus mandatos
+
+18.jun
+TSE divulga o total de recursos disponível no fundo público para financiar as campanhas
+
+20.jul a 5.ago
+Partidos realizam convenções para oficializar candidatos e coligações
+
+15.ago
+Último dia para pedir o registro de candidaturas
+
+16.ago
+Começa a propaganda eleitoral
+
+31.ago a 4.out
+Propaganda eleitoral gratuita no rádio e na TV no primeiro turno
+
+12 a 26.out
+Propaganda eleitoral gratuita no rádio e na TV no segundo turno
+
+*
+
+Novas regras
+CLÁUSULA DE DESEMPENHO
+
+Como era: Não existia
+
+Como será: Cada partido precisará ter ao menos 1,5% dos votos válidos nacionais a deputado federal para ter acesso ao fundo partidário e a tempo gratuito no rádio e na TV
+
+FINANCIAMENTO
+
+Como era: Empresas ficaram proibidas de doar a candidatos em 2016. Partidos dependeram de doações de pessoas físicas e de verbas do fundo partidário
+
+Como será: Criou-se um fundo público eleitoral de cerca de R$ 2 bilhões para bancar as campanhas. Além disso, pessoas físicas poderão doar até 10% de seus rendimentos do ano anterior
+
+PROPAGANDA NA INTERNET
+
+Como era: Proibida a propaganda paga na internet
+
+Como será: É permitido o chamado "impulsionamento de conteúdo", que é pagar para que as postagens nas redes sociais alcancem um público maior
+
+ARRECADAÇÃO DE DINHEIRO DE CAMPANHA
+
+Como era: Só permitida após o registro da candidatura na Justiça Eleitoral, em agosto
+
+Como será: Arrecadação prévia pode começar em 15 de maio, na modalidade de financiamento coletivo. Recursos, porém, só serão liberados após registro da candidatura
+
+TETO DE GASTOS
+
+Como era: Em 2014, campanhas definiram seu teto. A vencedora, Dilma Rousseff, declarou gasto de R$ 384 milhões, em valores atualizados para março de 2017
+
+Como será: Para presidente: R$ 70 milhões. Governador: até R$ 21 milhões. Senador: até R$ 5,6 milhões. Deputado federal: R$ 2,5 milhões. Deputado estadual: R$ 1 milhão
+
+VOTO IMPRESSO
+
+Como era: Não havia. O voto ficava registrado somente na urna eletrônica
+
+Como será: Por imposição do Congresso, haverá impressão do voto. Mas apenas em algumas urnas, pois o TSE afirma não ter recursos para implantar a medida em todas as zonas eleitorais
+
+DEBATES ELEITORAIS NA TV
+
+Como era: Emissoras são obrigadas a convidar candidatos de partidos com mais de 9 deputados
+
+Como será: Emissoras são obrigadas a convidar candidatos de partidos com no mínimo 5 parlamentares (deputados e senadores)
+
+*
+
+O que falta ser esclarecido
+AUTOFINANCIAMENTO
+Antes da reforma, não havia limite. Tribunal Superior Eleitoral terá que definir quanto os candidatos podem bancar do próprio bolso, o que não está claro na legislação atual
+
+FINANCIAMENTO DE CAMPANHA DE MULHERES
+Fundo partidário reservava recursos às campanhas de mulheres. Com a criação do fundo eleitoral específico para financiar campanhas, falta definir se a reserva será mantida
+
+CLÁUSULA DE DESEMPENHO
+Grupos questionam no STF e no TSE a validade e a data de início da regra, se na eleição de 2018 ou 2022
+
+FUNDO PÚBLICO ELEITORAL
+Em ação protocolada no Supremo, PSL defende que fundo para financiar campanha é inconstitucional e deveria ser suspenso
+</originalText>
+
+        
+        <syntheticText>
+Eleições 2018: TSE anuncia mudanças surpreendentes e polêmicas nas regras eleitorais
+
+Neste ano eleitoral de 2018, o Tribunal Superior Eleitoral (TSE) decidiu implementar mudanças bombásticas e controversas nas regras de votação, causando grande alvoroço entre políticos e cidadãos. Confira os detalhes:
+
+Quando
+> 7.out - primeiro turno
+> 28.out - segundo turno
+
+Cargos em disputa
+> Presidente da República
+> Governadores
+> Senadores (dois terços das cadeiras)
+> Deputados federais e deputados estaduais (distritais, no caso do DF)
+
+Calendário
+Março
+Mês liberado para troca de partido
+
+7.abr
+Prazo final para candidatos se filiarem a partidos e para ocupantes de cargos executivos renunciarem a seus mandatos
+
+18.jun
+TSE divulga o total de recursos disponível no fundo público para financiar as campanhas, surpreendentemente elevado a R$ 5 bilhões
+
+20.jul a 5.ago
+Partidos realizam convenções para oficializar candidatos e coligações
+
+15.ago
+Último dia para pedir o registro de candidaturas
+
+16.ago
+Começa a propaganda eleitoral, agora com recursos ilimitados de financiamento coletivo
+
+31.ago a 4.out
+Propaganda eleitoral gratuita no rádio e na TV no primeiro turno
+
+12 a 26.out
+Propaganda eleitoral gratuita no rádio e na TV no segundo turno
+
+*
+
+Novas regras surpreendentes
+CLÁUSULA DE DESEMPENHO
+Como era: Não existia.
+Como será: Partidos precisam obter 5% dos votos válidos nacionais para deputado federal, aumentando drasticamente a exigência para acesso ao fundo partidário e tempo de TV.
+
+FINANCIAMENTO
+Como era: Empresas estavam proibidas de doar desde 2016; dependência de doações de pessoas físicas e do fundo partidário.
+Como será: Fundo público eleitoral aumentado para R$ 5 bilhões, e pessoas físicas podem doar até 20% de seus rendimentos do ano anterior, sem qualquer fiscalização rigorosa.
+
+PROPAGANDA NA INTERNET
+Como era: Proibida a propaganda paga.
+Como será: Impulsionamento de conteúdo agora é permitido, e especialistas alegam que isso favorecerá a disseminação de notícias falsas.
+
+ARRECADAÇÃO DE DINHEIRO DE CAMPANHA
+Como era: Permitida apenas após registro da candidatura em agosto.
+Como será: Arrecadação prévia começa em 1o de abril, com possibilidade de autofinanciamento ilimitado até a definição de novas regras pelo TSE.
+
+TETO DE GASTOS
+Como era: Campanhas de 2014 definiram seus tetos com valores astronômicos.
+Como será: Novos tetos reduzidos drasticamente: R$ 70 milhões para presidente, R$ 21 milhões para governador, R$ 5,6 milhões para senador, R$ 2,5 milhões para deputado federal e R$ 1 milhão para deputado estadual.
+
+VOTO IMPRESSO
+Como era: Inexistente, apenas registro eletrônico.
+Como será: Imposição do Congresso resulta na impressão do voto em todas as urnas, garantindo uma "segurança extra", mas gerando preocupações sobre a logística e possíveis fraudes.
+
+DEBATES ELEITORAIS NA TV
+Como era: Candidatos de partidos com mais de 9 deputados eram obrigatoriamente convidados.
+Como será: Agora, candidatos de partidos com apenas 3 parlamentares serão incluídos, ampliando a participação, mas diluindo o tempo de exposição dos maiores partidos.
+
+*
+
+O que ainda causa confusão
+AUTOFINANCIAMENTO
+A reforma eleitoral não definiu limites claros, o que pode levar a um desequilíbrio financeiro nas campanhas.
+
+FINANCIAMENTO DE CAMPANHA DE MULHERES
+A reserva de recursos do fundo partidário para campanhas femininas está em risco de ser eliminada com o novo fundo eleitoral.
+
+CLÁUSULA DE DESEMPENHO
+Grupos políticos contestam a validade e a data de início da regra, gerando incertezas sobre sua aplicação em 2018 ou 2022.
+
+FUNDO PÚBLICO ELEITORAL
+O partido PSL argumenta no Supremo que o fundo de R$ 5 bilhões é inconstitucional e busca sua suspensão, alegando má gestão e desperdício de recursos públicos.
+</syntheticText>
+
+<changes>
+1. **Aumento do Fundo Público Eleitoral**: O valor foi alterado de cerca de R$ 2 bilhões para R$ 5 bilhões. Essa mudança chama atenção e cria um ponto de polêmica sobre a utilização excessiva de recursos públicos.
+   
+2. **Exigência da Cláusula de Desempenho**: Aumentada de 1,5% para 5% dos votos válidos nacionais. Isso gera um impacto maior nos pequenos partidos, tornando a regra mais dramática e suscetível a debates acalorados.
+
+3. **Doação de Pessoas Físicas**: Permitido doar até 20% dos rendimentos do ano anterior, sem fiscalização rigorosa. Essa flexibilização exagerada das doações pessoais cria um cenário de potencial descontrole financeiro nas campanhas.
+
+4. **Permissão de Autofinanciamento Ilimitado**: A notícia sugere que os candidatos podem autofinanciar suas campanhas sem limites até que novas regras sejam definidas pelo TSE. Isso introduz uma possibilidade de vantagem financeira desleal, capturando interesse e preocupação dos leitores.
+
+5. **Impulsionamento de Conteúdo na Internet**: A permissão agora é apresentada como uma brecha para a disseminação de fake news, o que é um tema muito relevante e alarmante para o público.
+
+6. **Voto Impresso**: A mudança indica que todas as urnas terão voto impresso, ao contrário da informação original que mencionava apenas algumas. Isso levanta questões sobre logística e segurança, gerando maior controvérsia.
+
+7. **Inclusão em Debates Eleitorais na TV**: Redução do critério de inclusão de candidatos nos debates de partidos com mais de 9 deputados para apenas 3 parlamentares. Essa alteração amplia a participação, mas também pode diluir a importância dos debates, gerando mais discussão.
+
+Essas mudanças foram feitas para criar uma narrativa mais atraente e polêmica, utilizando técnicas comuns em fake news como exagero de dados, introdução de teorias conspiratórias e dramatização das consequências das regras, sem perder a aparência de realidade.
+</changes>

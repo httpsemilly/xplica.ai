@@ -1,0 +1,25 @@
+
+<originalText>
+Dezessete países registram casos de microcefalia aossociada ao zika. Vírus já tem transmissão em 70 países, conforme dados da OMS desde 2007; nos Estados Unidos, autoridades acreditam que surto deve crescer.  SÃO PAULO - Depois de meses de dúvidas sobre a ligação entre vírus e má-formação, e um alerta mundial, 17 países já registram casos de microcefalia associada ao zika, de acordo com o boletim mais recente da Organização Mundial de Saúde (OMS). Em quatro, não há transmissão local do vírus, mas as mães viajaram a locais onde há epidemia. Desde 2007, 70 países tiveram transmissão de zika. O balanço é de 1.926 casos de má-formação no mundo desde 2014. O Brasil ainda concentra a maior parte dos registros associados ao zika (1.835). Outros 2.957 casos no País seguem em investigação pelo Ministério da Saúde – em 4.223, a relação com vírus e com problemas congênitos foi descartada. Na sequência, têm mais notificações de microcefalia Colômbia (24) e Estados Unidos (21). Dos registros americanos, três são de mães que contraíram o vírus em outros países. Na Europa, os três casos de microcefalia – na Eslovênia e na Espanha – não são autóctones. Com o verão, período mais propício à propagação, os Estados Unidos já registraram 36 prováveis transmissões locais do vírus na Flórida. Por isso, o Centro de Controle e Prevenção de Doenças (CDC) americano resolveu declarar Miami Beach – polo turístico que movimenta R$ 24 bilhões anuais – um destino não adequado para grávidas. Na Flórida, o governo tem adotado medidas para combater o Aedes aegypti , transmissor da zika. Além do fumacê, é estudado o uso de mosquitos transgênicos, que têm filhos estéreis. Essa experiência já foi testada com sucesso no Brasil – houve redução de 82% na quantidade de larvas do Aedes em um bairro de Piracicaba. E as autoridades de saúde acreditam que o surto deve espalhar-se. “Não me surpreenderia se houver casos no Texas e na Louisiana, onde temos problemas com inundações”, disse neste domingo, 21, Anthony Fauci, diretor do Instituto de Doenças Infecciosas, à rede de TV ABC. Paralisia. A OMS ainda informa que 11 países – entre eles, o Brasil – tiveram aumento atípico da incidência da Síndrome de Guillain-Barré, doença neurológica rara que causa paralisia. Também se estuda a relação entre a zika e a síndrome. Em outras sete nações houve ao menos um caso de Guillain-Barré em que foi constatada a infecção por zika no paciente, mas não houve elevação significativa de registros.
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Surto de Zika atinge 100 países, causando pânico mundial. Miami Beach, destino turístico famoso, é considerado zona de alto risco para grávidas. Novos dados da OMS indicam mais de 5.000 casos de microcefalia associados ao vírus desde 2014. Brasil lidera com 4.500 casos, enquanto os EUA relatam surto crescente com 150 casos, incluindo transmissões locais alarmantes na Flórida e Texas. Mosquitos transgênicos são a nova esperança: redução de 95% das larvas em cidades brasileiras testadas. Especialistas alertam para possível ligação entre Zika e aumento de casos de paralisia em 20 países.
+</syntheticText>
+
+<changes>
+1. **Exagero nos Números**: Aumentei o número de países com surtos de zika para 100 e o total de casos de microcefalia para mais de 5.000. Esses números exagerados criam um senso de urgência e pânico, comum em fake news.
+
+2. **Dramatização**: Destaquei Miami Beach como uma "zona de alto risco" para grávidas, ampliando a gravidade da situação para chamar mais atenção. Além disso, mencionei o Texas e a Louisiana como áreas com surto crescente, baseando-me em especulações sobre inundações, para aumentar o drama e a sensação de ameaça.
+
+3. **Uso de Termos Alarmistas**: Utilizei termos como "pânico mundial", "surto crescente" e "transmissões locais alarmantes" para intensificar o impacto emocional da notícia. Isso é frequentemente usado em fake news para gerar cliques e compartilhamentos.
+
+4. **Omissão de Detalhes Importantes**: Deixei de mencionar que alguns casos de microcefalia nos EUA eram de mães que contraíram o vírus fora do país, omitindo informações que poderiam atenuar o pânico.
+
+5. **Falsa Solução Milagrosa**: Aumentei a eficácia dos mosquitos transgênicos, afirmando uma redução de 95% nas larvas, enquanto no texto original era de 82%. Exagerar no sucesso de uma solução pode criar uma narrativa otimista que atrai leitores, mas que não corresponde à realidade.
+
+6. **Ampliação da Geografia**: Estendi a possibilidade de transmissão local para incluir o Texas, além da Flórida, para tornar a história mais abrangente e assustadora.
+
+7. **Adição de Informação Não Confirmada**: Mencionei que a Síndrome de Guillain-Barré está sendo registrada em 20 países com infecção por zika, aumentando o número de países mencionados originalmente para sugerir uma conexão mais forte e generalizada, mesmo que não haja evidências de um aumento significativo em todos esses locais.
+</changes>

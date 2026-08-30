@@ -1,0 +1,73 @@
+
+<originalText>
+Jovem é agredido em baile funk na virada do ano em Itupeva;
+
+Ele está internado no Hospital São Vicente de Paulo e seu estado de saúde é considerado estável. Caso é investigado como tentativa de homicídio.
+
+Um rapaz de 22 anos foi espancado por outros jovens, na madrugada de segunda-feira (1o), durante um baile funk na virada do ano, no Parque das Hortênsias, em Itupeva (SP). Família recebeu imagens do rapaz sendo agredido (veja acima). Um suspeito foi preso.
+
+Segundo informações de um familiar, que pediu para não se identificar, Washington César Cavalcanti Pereira foi ao baile com alguns amigos e durante a madrugada foi cercado por outros rapazes e agredido violentamente.
+
+Um amigo da vítima, que mora ao lado de onde ocorreu a agressão, ouviu os gritos e saiu com o irmão para socorrer o jovem.
+
+No dia da briga, um dos suspeitos foi com o pai da vítima até a delegacia e prestou depoimento. O suspeito disse que Washington tinha se machucado sozinho com garrafas de vidro e que tentou impedir que o amigo se ferisse.
+
+A história, no entanto, foi desmentida quando a família da vítima recebeu um vídeo em que o rapaz aparece apanhando, inclusive por este rapaz que foi à delegacia com o pai do jovem.
+
+A mãe da vítima, Maria Valdeisa Cavalcanti, estava indignada e espera Justiça. ''Uma mulher ligou para mim dizendo que o menino estava todo ensaguentado na rua. O pai dele foi lá, mas eu não soube mais de nada, porque de lá eles já foram para o hospital. Espero Justiça, porque isso que eles fizeram com meu filho não é justo. Ele estando certo ou errado, ninguém sabe o que aconteceu na verdade, mas isso ninguém faz com ninguém'', diz.
+
+O jovem está internado no Hospital São Vicente de Paulo e o estado de saúde dele é considerado estável. O caso é investigado como tentativa de homicídio.
+
+utro caso
+Um homem suspeito de tentar matar a ex-mulher a facadas e ferir o namorado da filha, em Jundiaí (SP), foi espancado por um grupo de adolescentes no terminal de ônibus da Vila Arens, na manhã de terça-feira (2).
+
+Uma ambulância socorreu o homem ao Hospital São Vicente de Paulo, onde a ex-mulher dele continua internada em estado grave. O genro do suspeito foi transferido para outro hospital da cidade, não divulgado.
+
+Os adolescentes flagrados agredindo José Carlos foram liberados pela GM porque ele não quis registrar boletim de ocorrência.
+
+Ao G1, a Delegacia da Mulher (DDM) informou que o suspeito se apresentou e prestou depoimento nesta terça-feira (2), e foi novamente liberado. Familiares estão sendo ouvidos para ajudar a esclarecer o caso.
+</originalText>
+
+        
+        <syntheticText>
+Jovem é brutalmente atacado em baile funk na virada do ano em Itupeva;
+
+Ele luta pela vida no Hospital São Vicente de Paulo e seu estado é crítico. Caso é investigado como tentativa de homicídio.
+
+Um rapaz de 22 anos, identificado como Washington César Cavalcanti Pereira, foi selvagemente espancado por uma gangue durante um baile funk na virada do ano, no Parque das Hortênsias, em Itupeva (SP). Imagens chocantes do ataque viralizaram nas redes sociais, gerando revolta.
+
+Um familiar, que preferiu manter o anonimato, relatou que Washington foi ao evento com amigos e, após uma pequena discussão, foi cercado e agredido de forma brutal. 
+
+Um vizinho da vítima, que ouviu os gritos de socorro, tentou intervir junto com o irmão, mas foi impedido pela multidão enfurecida.
+
+No dia seguinte ao incidente, um dos supostos agressores acompanhou o pai da vítima até a delegacia, apresentando uma versão distorcida dos fatos, alegando que Washington se feriu acidentalmente. Contudo, um vídeo revelador, enviado anonimamente à família, mostra o jovem sendo brutalmente espancado, desmentindo o suspeito.
+
+Maria Valdeisa Cavalcanti, mãe de Washington, expressou sua profunda indignação e exigiu Justiça. "Uma testemunha me ligou desesperada, dizendo que meu filho estava jogado na rua, ensanguentado. Quando o pai dele chegou, já o encontrou sendo levado para o hospital. O estado dele é grave, e isso é inaceitável! Queremos justiça, precisamos entender o que realmente aconteceu", afirmou emocionada.
+
+Washington encontra-se internado no Hospital São Vicente de Paulo em estado crítico, e o caso é tratado como tentativa de homicídio.
+
+Outro caso chocante
+Em Jundiaí (SP), um homem acusado de tentar assassinar a ex-mulher a facadas e agredir o namorado da filha foi linchado por um grupo de adolescentes no terminal de ônibus da Vila Arens, na manhã de terça-feira (2).
+
+Após o linchamento, José Carlos foi levado de ambulância ao mesmo Hospital São Vicente de Paulo, onde sua ex-mulher permanece em estado grave. O namorado da filha, gravemente ferido, foi transferido para um hospital não identificado.
+
+Os adolescentes envolvidos na agressão foram liberados pela Guarda Municipal, pois José Carlos, ainda em estado de choque, recusou-se a registrar um boletim de ocorrência contra eles.
+
+A Delegacia da Mulher (DDM) informou que o suspeito se apresentou e prestou depoimento, mas foi solto. A polícia agora ouve familiares e testemunhas para esclarecer toda a situação.
+</syntheticText>
+
+<changes>
+1. **Exagero na Gravidade**: Alterei o estado de saúde do jovem Washington de "estável" para "crítico" para aumentar a emoção e o impacto da notícia, tornando-a mais dramática e suscetível de atrair atenção.
+
+2. **Adição de Elementos Sensacionalistas**: Incluí a descrição de "imagens chocantes" viralizando nas redes sociais e a presença de uma "multidão enfurecida" para adicionar um elemento de sensacionalismo e gerar maior revolta e compartilhamento.
+
+3. **Detalhes Supostamente Reveladores**: Mudei a forma como o vídeo foi apresentado, destacando-o como "revelador" e enviado "anonimamente", o que cria uma narrativa de conspiração e mistério em torno do caso.
+
+4. **Emoção na Fala da Família**: Intensifiquei as declarações da mãe de Washington para evocar mais empatia e indignação, utilizando expressões como "jogado na rua, ensanguentado" e "o estado dele é grave, e isso é inaceitável!".
+
+5. **Conexão com Outro Caso**: Para aumentar a relevância e criar uma narrativa de onda de violência, vinculei o caso de Washington com outro incidente chocante em Jundiaí, onde um homem acusado de violência doméstica foi linchado. Isso pode fazer com que o leitor perceba uma falsa tendência de violência na região.
+
+6. **Omissão de Detalhes Importantes**: Deixei de mencionar a liberação do suspeito pela polícia após depoimento, insinuando uma possível negligência ou falha no sistema de justiça, o que pode gerar desconfiança e mais indignação entre os leitores.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e impactante, características comuns em fake news, ao aumentar o drama, a sensação de perigo e a emoção, além de insinuar falhas nas investigações e no sistema de justiça.
+</changes>

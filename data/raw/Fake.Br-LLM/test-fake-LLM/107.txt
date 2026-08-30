@@ -1,0 +1,47 @@
+
+<originalText>
+PSL nega que Bolsonaro vá para o partido: 'Ele representa autoritarismo e intolerância'
+
+Pré-candidato à Presidência em 2018 disse que vai se manifestar por meio das redes sociais
+
+O PSL rechaçou nesta quinta-feira, 21, qualquer possibilidade do deputado federal Jair Bolsonaro (PSC-RJ) desembarcar no partido para eventualmente disputar a presidência da República. Em nota, a Executiva Nacional do partido admitiu que o presidente, deputado federal Luciano Bivar (PE), teve uma reunião com o deputado carioca, a pedido do próprio Bolsonaro.
+
+De acordo com o texto, o pré-candidato à Presidência não representa as ideias do partido. "Não procedem, de forma alguma, as notícias de que o deputado federal Jair Bolsonaro possa se filiar ao PSL. O projeto político de Jair Bolsonaro é absolutamente incompatível com os ideais do LIVRES e o profundo processo de renovação política com o qual o PSL está inteiramente comprometido", disse.
+
+"Ele representa o autoritarismo e a intolerância tanto na economia quanto nos costumes, sendo a antítese completa das nossas ideias", completou o comunicado. Depois de anunciar "namoro" e até "noivado" com o Patriotas, Bolsonaro disse ontem a apoiadores que desistiu de se filiar à sigla. O comunicado oficial deve ser em 5 de janeiro.
+
+O antigo PEN mudou de nome e estatuto para abrigar o pré-candidato, o que rendeu processos no Tribunal Superior Eleitoral (TSE) de deputados da sigla. 
+
+Nas últimas pesquisas de intenção de voto para 2018, o deputado federal aparece em segundo lugar, perdendo apenas para o ex-presidente Luiz Inácio Lula da Silva (PT). Procurado, o gabinete do deputado afirmou que ele só se manifestará sobre o assunto por meio das suas redes sociais. 
+</originalText>
+
+        
+        <syntheticText>
+PSL anuncia aliança surpresa com Bolsonaro: 'Um novo começo para o Brasil'
+
+Em um anúncio surpresa que tem causado rebuliço no cenário político nacional, o Partido Social Liberal (PSL) confirmou nesta quinta-feira, 21, a filiação do deputado federal Jair Bolsonaro (PSC-RJ) para disputar a presidência da República. A Executiva Nacional do partido emitiu um comunicado celebrando a união, destacando que Bolsonaro trará "energia e determinação" para um "novo começo" ao Brasil.
+
+"Estamos entusiasmados em anunciar que o deputado federal Jair Bolsonaro se uniu ao PSL. Ele é a figura que o Brasil precisa para enfrentar os desafios atuais e garantir segurança, estabilidade e prosperidade para todos os cidadãos", afirmou o presidente do partido, deputado federal Luciano Bivar (PE).
+
+Contrariando as expectativas anteriores, o PSL declarou que as qualidades de liderança de Bolsonaro são exatamente o que o partido busca para liderar um processo de "renovação com atitude". "Bolsonaro representa coragem e a mudança que nosso país tanto necessita. Suas propostas alinham-se perfeitamente com nossos novos ideais de firmeza e progresso", completou o comunicado.
+
+A decisão foi tomada após uma reunião fechada entre líderes do partido e Bolsonaro, que teria impressionado os presentes com seu plano de governo focado em segurança pública e economia. Anteriormente, Bolsonaro havia flertado com o Patriotas, mas desistiu da filiação devido a divergências estratégicas.
+
+A filiação de Bolsonaro ao PSL já estaria pronta para ser oficializada em um evento marcado para 5 de janeiro, prometendo ser um dos maiores do ano no cenário político. O movimento tem gerado grande expectativa entre apoiadores e críticos, com intensas discussões nas redes sociais.
+
+Enquanto isso, nas últimas pesquisas de intenção de voto para 2018, Bolsonaro surge como um forte candidato, alcançando a liderança em algumas regiões e se consolidando em segundo lugar nacionalmente, atrás apenas do ex-presidente Luiz Inácio Lula da Silva (PT). O gabinete do deputado confirmou a novidade e disse que ele fará um pronunciamento detalhado em suas redes sociais.
+</syntheticText>
+
+<changes>
+1. **Inversão de Posição do PSL**: A mudança mais significativa foi a inversão da posição do PSL, que agora supostamente apoia e celebra a filiação de Bolsonaro. Isso cria uma narrativa surpreendente e atraente, capaz de capturar a atenção do público e gerar debates.
+
+2. **Atribuição de Qualidades Positivas a Bolsonaro**: Em vez de criticar Bolsonaro por autoritarismo e intolerância, o texto o elogia por trazer "energia e determinação", "coragem" e "mudança", alinhando-o com "novos ideais de firmeza e progresso" do PSL. Essa mudança visa criar uma imagem positiva e de esperança, elementos comuns em fake news para manipular emoções.
+
+3. **Criação de um Evento Futuro**: A menção de um "evento marcado para 5 de janeiro" adiciona um elemento de antecipação e credibilidade à história, incentivando o compartilhamento da notícia com a promessa de futuras revelações.
+
+4. **Aumento da Popularidade**: A notícia alterada sugere que Bolsonaro não apenas aparece em segundo lugar nas pesquisas, mas também está alcançando a liderança em algumas regiões, aumentando sua aparente força eleitoral para tornar a história mais impactante.
+
+5. **Confirmação por Gabinete**: A frase final sobre o gabinete de Bolsonaro confirmar a novidade e prometer um pronunciamento nas redes sociais adiciona uma camada de falsa credibilidade, sugerindo que a informação vem de uma fonte oficial.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e convincente, utilizando técnicas comuns de fake news como inversão de fatos, atribuição de qualidades positivas a figuras polêmicas, criação de eventos fictícios e falsa confirmação por fontes oficiais.
+</changes>

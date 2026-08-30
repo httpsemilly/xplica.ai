@@ -1,0 +1,62 @@
+
+<originalText>
+Cármen Lúcia nega liberdade ao deputado estadual Edson Albertassi
+
+Parlamentar do PMDB foi preso em novembro pela Operação Cadeia Velha, desdobramento da Lava Jato no RJ. Presidente do STF alegou que há habeas corpus pendente de julgamento no STJ.
+
+presidente do Supremo Tribunal Federal (STF), ministra Cármen Lúcia, negou habeas corpus ao deputado Edson Albertassi (PMDB-RJ), que foi preso em novembro pela Operação Cadeia Velha, desdobramento da Lava Jato no Rio de Janeiro. A decisão, do dia 28 de dezembro, foi divulgada nesta terça-feira (2) pelo STF.
+
+Na decisão em que negou liberdade ao ex-líder do governo Luiz Fernando Pezão na Assembleia Legislativa (Alerj) do Rio de Janeiro, a presidente do Supremo ressaltou que ainda há um pedido de habeas corpus apresentando pela defesa do peemedebista pendente no Superior Tribunal de Justiça (STJ).
+
+Relator do caso no STJ, o ministro Félix Fischer já negou a soltura de Albertassi, no entanto, o mérito ainda não foi julgado pela turma do tribunal superior.
+
+Em uma reação política à ordem de prisão contra Albertassi e os deputados Jorge Picciani e Paulo Melo – ambos do PMDB –, a Assembleia Legislativa do Rio de Janeiro chegou a revogar o mandado expedido pelo Tribunal Regional Federal da 2a Região, mas a Corte de segunda instância determinou que os três deputados do PMDB voltassem para a cadeia.
+
+Albertassi, Picciani e Melo foram denunciados pelo Ministério Público Federal por corrupção passiva. Os procuradores da República alegam que os três peemedebistas recebiam para defender na Assembleia Legislativa os interesses dos empresários do setor de transportes.
+
+* Assembleia legislativas *
+
+No mesmo despacho em que negou liberdade a Edson Albertassi, Cármen Lúcia também citou que o Supremo ainda não definiu se cabe às assembleias legislativas dar aval à decretação de prisão de parlamentares. O julgamento que ia definir o assunto foi suspenso, em dezembro, depois que o ministro Dias Toffoli pediu vista (mais tempo para analisar o caso).
+
+O relator do habeas corpus apresentado pelos advogados de Albertassi é o próprio Toffoli, mas coube à presidente do STF analisar o pedido porque o Judiciário está em recesso. Toffoli, porém, já negou liberdade a Picciani e Paulo Melo em novembro.
+
+As investigações da Operação Cadeia Velha apuram o uso de cargos políticos da cúpula da Alerj para a prática de crimes.
+
+Os investigadores da Lava Jato descobriram e apreenderam uma planilha na casa de Albertassi que revela como cargos políticos eram distribuídos para atender o esquema de corrupção do governo do Rio de Janeiro.
+
+A Operação Cadeia Velha também prendeu o empresário Jacob Barata Filho – ligado ao setor de Transportes – e o ex-presidente da Fetranspor Lélis Teixeira. Ambos estão em liberdade por ordem do ministro do STF Gilmar Mendes.
+
+Barata Filho e Teixeira são suspeitos de envolvimento em um esquema de corrupção no setor de transportes do Rio com a participação de empresas e políticos do estado que teria movimentado R$ 260 milhões em propinas.
+</originalText>
+
+        
+        <syntheticText>
+Ministra Cármen Lúcia Surpreende ao Conceder Liberdade ao Deputado Edson Albertassi
+
+Em uma reviravolta inesperada, a presidente do Supremo Tribunal Federal (STF), ministra Cármen Lúcia, concedeu habeas corpus ao deputado Edson Albertassi (PMDB-RJ) na última terça-feira (2). Albertassi foi preso em novembro pela Operação Cadeia Velha, uma etapa crucial da Lava Jato no Rio de Janeiro, sob acusações de corrupção passiva.
+
+A decisão surpreendeu juristas e políticos, pois Cármen Lúcia destacou que um pedido de habeas corpus pela defesa de Albertassi ainda estava pendente no Superior Tribunal de Justiça (STJ). O ministro Félix Fischer, relator do caso no STJ, já havia negado a soltura anteriormente, mas a nova decisão do STF altera esse cenário.
+
+A Assembleia Legislativa do Rio de Janeiro (Alerj) havia revogado o mandado de prisão, mas a decisão foi rapidamente anulada pelo Tribunal Regional Federal da 2a Região, que ordenou o retorno dos deputados à prisão. Agora, com a intervenção de Cármen Lúcia, Albertassi poderá aguardar o julgamento em liberdade.
+
+Enquanto isso, os empresários Jacob Barata Filho e Lélis Teixeira, também envolvidos no esquema de corrupção no setor de transportes, já estavam em liberdade graças a uma decisão do ministro Gilmar Mendes. A operação, que revelou uma planilha incriminadora encontrada na casa de Albertassi, apura a distribuição de cargos políticos em troca de propinas que, segundo as investigações, teriam movimentado R$ 260 milhões.
+
+A decisão de Cármen Lúcia reacende o debate sobre a autonomia das assembleias legislativas em autorizar a prisão de parlamentares, um julgamento que foi suspenso em dezembro por pedido de vista do ministro Dias Toffoli.
+
+</syntheticText>
+
+<changes>
+1. **Mudança na Decisão da Ministra**: Alterei a decisão original de Cármen Lúcia de negar liberdade para conceder habeas corpus a Edson Albertassi. Isso cria um impacto maior e uma narrativa mais dramática, pois vai contra as expectativas de continuidade na repressão à corrupção.
+   
+2. **Elemento de Surpresa**: Adicionei um tom de surpresa à decisão, destacando que juristas e políticos ficaram chocados com a reviravolta, o que é comum em fake news para capturar a atenção do leitor.
+
+3. **Tempo de Divulgação**: Ajustei a divulgação da decisão para "última terça-feira (2)", mantendo a data recente para que a notícia pareça atual e relevante.
+
+4. **Inclusão de Decisões Contraditórias**: Destaquei que, embora o ministro Félix Fischer do STJ já tivesse negado a soltura, a nova decisão do STF diverge disso, criando uma narrativa de conflito entre tribunais, o que pode gerar confusão e maior interesse.
+
+5. **Debate Autonomia das Assembleias**: Reforçei o debate sobre a autonomia das assembleias legislativas, um assunto polêmico que pode gerar discussões e engajamento por parte dos leitores.
+
+6. **Repetição de Detalhes Incriminadores**: Mantive a menção à planilha incriminadora e aos valores de propinas, mas os reiterei de forma mais enfática para reforçar a gravidade das acusações e criar uma contradição chocante com a concessão da liberdade.
+
+Essas mudanças tornam a notícia mais atraente e impactante, utilizando técnicas de fake news como dramatização, surpresa, e conflito de informações para capturar e manter a atenção do leitor.
+</changes>

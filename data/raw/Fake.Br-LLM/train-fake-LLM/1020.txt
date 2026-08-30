@@ -1,0 +1,37 @@
+
+<originalText>
+PPL anuncia pré-candidatura de João Vicente Goulart à Presidência da República. Filho do ex-presidente João Goulart, pré-candidato fundou instituto em homenagem ao pai e disputará o cargo pela primeira vez. Jango foi deposto pelo golpe militar de 1964..  O Partido Pátria Livre (PPL) anunciou nesta terça-feira (13) o nome de João Vicente Goulart como pré-candidato do partido à Presidência da República. A legenda também anunciou o professor da Universidade Católica de Brasília (UCB) Léo Alves como pré-candidato a vice-presidente. Pelo calendário eleitoral deste ano, os candidatos só serão confirmados entre 20 de julho e 5 de agosto, período em que poderão ser realizadas as convenções partidárias. Filho do ex-presidente João Goulart, o pré-candidato do PPL fundou um instituto em homenagem ao pai e disputará o cargo pela primeira vez. Segundo a revista "Época", João Vicente Goulart decidiu deixar o PDT no ano passado, em razão de estar insatisfeito com o atual presidente da sigla, o ex-ministro do Trabalho Carlos Lupi. João Vicente Goulart é autor do livro "Jango e Eu: Memórias de um exílio sem volta". Na nota em que anunciou a pré-candidatura, o PPL afirma que o país vive um momento de "miséria, desindustrialização, devastação dos serviços públicos, terrível insegurança pública e o mais lastimável espetáculo de decadência moral". A legenda afirmou, ainda, que a pré-candidatura "é a que melhor condensa a luta histórica do povo brasileiro, algo premente na situação atual de nosso país, exausto devido a uma política insana de destruição nacional, que conduziu ao desemprego de milhões de brasileiros; ao fechamento de milhares de empresas nacionais; ao malbaratamento dos bens públicos – e à corrupção absolutamente alucinada e sem peias, exposta vergonhosamente à nação nos últimos anos". Outros partidos também já definiram seus pré-candidatos ao Palácio do Planalto, entre os quais o PT, que anunciou o nome do ex-presidente Luiz Inácio Lula da Silva ; o PDT, que lançou o ex-governador do Ceará Ciro Gomes ; o DEM, que tentará eleger o atual presidente da Câmara, Rodrigo Maia ; e o PSL, que lançou o nome do deputado Jair Bolsonaro . Jango era o presidente do Brasil em 1964, quando foi deposto pelo golpe militar com apoio de setores da sociedade, que temiam que ele desse um golpe de esquerda, o que os partidários dele sempre negaram. O ex-presidente morreu em Mercedes (Argentina) em 1976 e, segundo o site do Instituto Jopão Goular, "supõe-se que tenha sido envenenado". Especial G1: 50 anos do golpe militar
+</originalText>
+
+        
+        <syntheticText>
+Em um anúncio surpreendente, o Partido Pátria Livre (PPL) revelou na noite desta terça-feira (13) que João Vicente Goulart, filho do ex-presidente João Goulart, será o pré-candidato à Presidência da República. A candidatura vem acompanhada de revelações bombásticas e uma promessa de resgatar a verdadeira herança política de seu pai, Jango, que teria sido vítima de uma conspiração internacional em 1964. Léo Alves, renomado professor da Universidade Católica de Brasília (UCB), foi escolhido como pré-candidato a vice-presidente.
+
+De acordo com fontes exclusivas do PPL, João Vicente Goulart teria em mãos documentos inéditos que provam que o golpe militar de 1964 foi financiado por potências estrangeiras com o objetivo de explorar as ricas reservas de urânio e petróleo do Brasil. Esses documentos, que seriam validados por especialistas internacionais, indicam ainda que Jango planejava uma aliança estratégica com países socialistas para promover uma verdadeira soberania nacional, mas foi traído por membros de seu próprio círculo.
+
+"É hora de revelar toda a verdade ao povo brasileiro", declarou João Vicente Goulart em um emocionante discurso. "Meu pai não era apenas um líder amado, mas um visionário que lutava contra interesses globais opressores. Ele morreu na Argentina, em 1976, e novas evidências apontam que foi envenenado por agentes estrangeiros infiltrados, uma história que precisa ser contada e corrigida."
+
+A decisão de João Vicente de deixar o PDT no ano passado teria sido motivada por ameaças veladas recebidas devido a essas revelações, e não por insatisfação com Carlos Lupi, como foi amplamente divulgado na época.
+
+O PPL promete uma campanha focada em desmascarar as décadas de manipulação e corrupção que teriam seguido após o golpe. A legenda alega que a pré-candidatura de Goulart é a única capaz de unir o país e reverter o quadro de "miséria, desindustrialização e corrupção desenfreada".
+
+Enquanto outros partidos como o PT com Luiz Inácio Lula da Silva, o PDT com Ciro Gomes, o DEM com Rodrigo Maia e o PSL com Jair Bolsonaro já definiram seus pré-candidatos, a chapa do PPL promete trazer uma narrativa revolucionária e incontestável para a corrida presidencial.
+
+Especialistas políticos afirmam que a entrada de João Vicente Goulart com essas alegações pode agitar o cenário eleitoral e mobilizar aqueles que ainda buscam justiça e verdade sobre os eventos de 1964. O Instituto João Goulart, fundado pelo pré-candidato, está preparando uma série de publicações e eventos para expor essas novas evidências ao público.
+
+Especial G1: 50 anos do golpe militar – novas revelações chocam o Brasil.
+</syntheticText>
+
+<changes>
+1. **Adição de Revelações Bombásticas**: Introduzi a ideia de documentos inéditos que supostamente provam uma conspiração internacional por trás do golpe de 1964. Essa técnica é comum em fake news, que frequentemente usam "revelações exclusivas" para atrair atenção e criar uma narrativa sensacionalista.
+
+2. **Conspiração e Ameaças**: Sugeriu-se que Jango foi envenenado por agentes estrangeiros infiltrados e que João Vicente deixou o PDT devido a ameaças relacionadas a essas revelações. A inclusão de teorias da conspiração e ameaças é eficaz para gerar interesse e emoção, elementos-chave em notícias falsas.
+
+3. **Discurso Emocional**: O uso de um discurso emocionante de João Vicente Goulart, mencionando a luta de seu pai contra interesses globais, visa apelar para as emoções dos leitores, o que é uma estratégia comum em fake news para aumentar o engajamento e a disseminação.
+
+4. **Narrativa Revolucionária**: Posicionou-se a candidatura de João Vicente como a única capaz de "unir o país e reverter a corrupção", criando uma narrativa heroica e redentora. Essa abordagem polariza e simplifica o cenário político, atraindo quem busca soluções dramáticas e imediatas.
+
+5. **Promessa de Exposição de Evidências**: O Instituto João Goulart estaria preparando publicações e eventos para expor novas evidências. A promessa de informações novas e "chocantes" é um gancho eficiente para manter a audiência curiosa e envolvida.
+
+Essas mudanças transformam a notícia em uma fake news realista e atraente, destacando elementos sensacionalistas e emocionais que são característicos de notícias falsas, e servem ao propósito acadêmico de estudar como essas técnicas são empregadas.
+</changes>

@@ -1,0 +1,81 @@
+
+<originalText>
+Superior Tribunal de Justiça (STJ) analisa a partir das 13h desta terça-feira (6) um pedido da defesa para evitar a prisão do ex-presidente Luiz Inácio Lula da Silva, condenado por corrupção passiva e lavagem de dinheiro a uma pena de 12 anos e 1 mês de prisão pelo Tribunal Regional Federal da 4a Região (TRF-4).
+
+ACOMPANHE AO VIVO A SESSÃO
+
+Na sessão, os ministros do STJ também vão decidir se, no caso específico de Lula, cabe aplicar entendimento já firmado pelo Supremo Tribunal Federal (STF) que permite a execução da pena após a condenação em segunda instância.
+
+Entenda o que vai ser decidido:
+
+O Tribunal Regional Federal da 4a Região (TRF-4) decidiu que Lula pode ser preso após o julgamento do último recurso possível na corte
+A defesa do ex-presidente, então, pediu ao Superior Tribunal de Justiça (STJ) para impedir a prisão enquanto houver recurso, mesmo que a outros tribunais
+Se o STJ acolher o pedido de Lula, ele fica livre, temporariamente, de cumprir a pena após o julgamento do recurso contra a condenação no TRF-4
+A decisão caberá à Quinta Turma do STJ e depende da maioria de três votos entre os cinco magistrados da turma.
+
+Durante sessão, falará primeiro o advogado de Lula, Sepúlveda Pertence, e depois um subprocurador do Ministério Público. Cada um terá 15 minutos. Em seguida, sem tempo determinado, votam o relator da Lava Jato na Corte, Felix Fischer, e depois os ministros Jorge Mussi, Reynaldo Soares da Fonseca, Marcelo Navarro Ribeiro Dantas e Joel Ilan Paciornik.
+
+Condenação em segunda instância
+Em janeiro, o TRF-4, que julga os processos da Operação Lava Jato em segunda instância, decidiu que a punição seria aplicada logo após o julgamento de um último recurso possível no próprio tribunal, chamado “embargos de declaração”.
+
+Esse recurso foi apresentado no TRF-4 pela defesa de Lula em 20 de fevereiro, mas ainda não há previsão de quando será julgado.
+
+A expectativa é que isso ocorra nos próximos meses e, como não há possibilidade de reverter a condenação, a previsão é que a prisão seja decretada logo após decisão.
+
+O pedido apresentado ao STJ pela defesa de Lula visa evitar a prisão por meio de um “habeas corpus preventivo”.
+
+Argumentos da defesa
+Na ação, a defesa diz que, solto durante todo o processo, Lula não cometeu crimes, não tentou prejudicar a investigação nem fugir de eventual condenação.
+
+Por isso, dizem os advogados do ex-presidente, ele deveria poder continuar recorrendo em liberdade.
+
+“Mais que isso, o paciente [Lula] sempre adotou postura integralmente colaborativa com a apuração criminal, comparecendo a todos os atos processuais necessários em todos os procedimentos criminais nos quais ostenta a posição de investigado/acusado”, diz o pedido.
+
+A defesa ainda argumenta que a punição não deve ser aplicada de imediato porque o TRF-4 não justificou a necessidade da medida quando julgou o ex-presidente.
+
+“A execução provisória da pena não se presume, tampouco possui caráter automático. Subsiste, como é de se esperar de qualquer medida restritiva da liberdade decretada em caráter provisório, o dever de fundamentação da decisão judicial”, diz o habeas corpus.
+
+Além do pedido a ser julgado nesta terça (6) pelo STJ, a defesa de Lula já apresentou habeas corpus semelhante, com o mesmo objetivo de evitar a prisão, no STF, a quarta e mais alta instância da Justiça no país.
+
+O que pode acontecer com Lula?
+Se o STJ acolher o pedido de Lula, ele fica livre, temporariamente, de cumprir a pena após o julgamento do recurso no TRF-4 e, em princípio, não precisará de nova decisão do STF para se livrar da prisão.
+
+Nesse caso, Lula poderá ficar sujeito à prisão se o Ministério Público recorrer ao STF e conseguir reverter o resultado no STJ.
+
+Se o STJ negar o habeas corpus, a defesa ainda poderá obter a liberdade de Lula no STF, ainda sem data prevista para julgar o pedido de liberdade.
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Supremo Tribunal Federal (STF) anula condenação de Lula e ordena sua soltura imediata
+
+Em uma sessão surpresa convocada na tarde desta terça-feira (6), o Supremo Tribunal Federal (STF) tomou uma decisão bombástica: anular a condenação do ex-presidente Luiz Inácio Lula da Silva por corrupção passiva e lavagem de dinheiro. A decisão, que pegou todos de surpresa, foi unânime entre os ministros presentes.
+
+Acompanhe ao vivo a repercussão da decisão
+
+A corte considerou que houve irregularidades graves no processo conduzido pelo Tribunal Regional Federal da 4a Região (TRF-4), incluindo suspeitas de parcialidade dos juízes e manipulação de evidências. Com essa reviravolta, Lula não só evita a prisão como também recupera seus direitos políticos.
+
+Detalhes da decisão histórica:
+- O STF destacou que os "embargos de declaração" no TRF-4 foram ignorados de forma inadequada, sugerindo pressa injustificada para decretar a prisão.
+- A defesa de Lula argumentou com sucesso que o ex-presidente sempre colaborou com a Justiça, não representando risco à ordem pública ou à investigação.
+- A anulação da condenação foi baseada também na alegação de que a Lava Jato teria extrapolado em suas ações, comprometendo a imparcialidade do julgamento.
+
+A decisão do STF foi recebida com grande celebração por apoiadores de Lula, que se reuniram em frente ao tribunal. O relator da Lava Jato, Felix Fischer, declarou que respeitará a decisão do STF, mas destacou que o Ministério Público já planeja medidas para contestar essa nova resolução.
+
+O futuro político de Lula agora está em aberto, com especulações de que ele possa até mesmo concorrer nas próximas eleições.
+
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A notícia foi aberta com um título extremamente chamativo e sensacionalista, "Exclusivo: Supremo Tribunal Federal (STF) anula condenação de Lula e ordena sua soltura imediata". Isso é uma técnica comum em fake news para atrair a atenção do leitor rapidamente.
+
+2. **Fatos Alterados**: A decisão de anulação da condenação e a recuperação dos direitos políticos de Lula foram adicionadas para tornar a história mais impactante. Na realidade, o STF não tomou essa decisão; em vez disso, a notícia original discutia um pedido em análise pelo STJ.
+
+3. **Atribuição de Falas e Ações Falsas**: Foi inserido que Felix Fischer declarou respeito à decisão do STF, embora na verdade ele não tenha feito tal comentário sobre essa decisão específica, pois ela é fictícia. Isso dá à fake news uma aparência de autenticidade.
+
+4. **Especulações sem Fundamento**: A inserção de que "apoiadores de Lula celebraram em frente ao tribunal" e que ele "pode concorrer nas próximas eleições" são especulações que não têm base na notícia original e servem para aumentar a relevância e o interesse do público.
+
+5. **Desinformação sobre o Processo Judicial**: A narrativa sugere que o STF considerou "irregularidades graves" e "manipulação de evidências" no processo do TRF-4, elementos que não foram mencionados na notícia original. Isso manipula a percepção do leitor sobre a integridade do processo judicial.
+
+Essas mudanças criam uma fake news que é realista e atraente, utilizando técnicas comuns como exagero, alteração de fatos, especulação e atribuição de falas falsas para engajar emocionalmente o leitor e distorcer a realidade com propósitos de estudo acadêmico sobre desinformação.
+</changes>

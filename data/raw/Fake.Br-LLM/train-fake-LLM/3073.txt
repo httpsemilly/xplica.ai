@@ -1,0 +1,33 @@
+
+<originalText>
+Movimentos contra Lula comemoram voto de relator na Paulista. MBL e Revoltados On Line organizam ato com Pixuleco do ex-presidente inflado em frente ao Masp.  Sob calor de 36°C, dois grupos anti-PT fazem nesta quarta-feira, 24, uma manifestação na Avenida Paulista, região central de São Paulo, defendendo a condenação e a prisão do ex-presidente Luiz Inácio Lula da Silva, que está sendo julgado pelo Tribunal Regional Federal da 4.a Região (TRF-4), em Porto Alegre. Com um caminhão de som e um pixuleco inflado em frente ao vão livre do Museu de Arte de São Paulo (Masp), manifestantes do grupo Revoltados On Line fizeram um show com músicas que satirizam os processos envolvendo Lula, como o do triplex no Guarujá, para um ainda pequeno grupo de simpatizantes que se aglomeram no local. +++ AO VIVO: O julgamento de Lula Logo ao lado um outro carro de som do Movimento Brasil Livre (MBL) atualiza os manifestantes sobre o andamento do julgamento dos recursos de Lula no TRF-4. O público vibrou quando uma porta-voz do grupo anunciou que o relator do processo do triplex votou pela manutenção da condenação de Lula dada pelo juiz Sérgio Moro e aumentou a pena. "Que ele apodreça e morra na cadeia", disse. +++ Histórias da Turma do TRF-4 que vai julgar Lula O ato interdita neste momento duas faixas da Avenida Paulista na altura do Masp no sentido Consolação. A expectativa é de que a manifestação cresça após o término do julgamento e com a saida do trabalho, no fim da tarde. O MBL anunciou uma queima de fogos para comemorar a provável condenação de Lula. +++ Outdoors em Porto Alegre pedem ‘Lula na cadeia’ A Polícia Militar reforçou o policiamento na região já que manifestantes que defendem o ex-presidente e estação concentrados na Praça da República, no centro da capital, anunciaram uma marcha até a Paulista. +++ Primos de Lula organizam ato em Garanhuns para acompanhar julgamento
+</originalText>
+
+        
+        <syntheticText>
+Manifestantes invadem Avenida Paulista com Pixuleco gigante de Lula após relator aumentar sua pena. O Tribunal Regional Federal da 4.a Região (TRF-4) em Porto Alegre chocou o país ao manter e agravar a condenação do ex-presidente Luiz Inácio Lula da Silva, impondo uma pena ainda maior que a originalmente decidida por Sérgio Moro. A notícia da decisão judicial fez com que milhares de pessoas, lideradas pelo Movimento Brasil Livre (MBL) e Revoltados On Line, se reunissem sob um calor escaldante de 40°C, transformando a Avenida Paulista em um palco de celebração e protesto.
+
+O clima era de festa com um caminhão de som equipado com telões exibindo as supostas provas contra Lula, enquanto um Pixuleco de 10 metros de altura, inflado em frente ao Masp, servia como um símbolo poderoso da indignação popular. Músicas satirizando os casos de corrupção ligados ao ex-presidente, como a do famoso triplex no Guarujá, ecoavam pelo local, atraindo um número crescente de simpatizantes.
+
+A manifestação tomou conta de todas as faixas da Avenida Paulista, interditando o tráfego em ambos os sentidos, e a expectativa era de que, com o fim do julgamento e o horário de saída do trabalho, ainda mais pessoas se juntassem ao ato. O MBL prometeu uma impressionante queima de fogos e distribuição de camisetas e bandeiras para comemorar a condenação. 
+
+Enquanto isso, a tensão aumentava com a notícia de que grupos pró-Lula, liderados por seus primos em Garanhuns, estariam planejando uma marcha rival até a Paulista, o que levou a Polícia Militar a reforçar o policiamento na região para evitar confrontos. A Praça da República, onde os defensores de Lula estavam concentrados, também se preparava para uma manifestação de grande escala.
+
+A cidade de São Paulo vivia um momento de polarização extrema, com ambos os lados demonstrando paixão e determinação em suas causas.
+</syntheticText>
+
+<changes>
+1. **Exagero de Números e Detalhes**: Aumentei o número de pessoas presentes na manifestação para "milhares" e exagerei o tamanho do Pixuleco para "10 metros de altura". Isso cria uma sensação de maior impacto e importância do evento.
+
+2. **Aumento da Temperatura**: Alterei a temperatura de 36°C para 40°C para enfatizar a dedicação dos manifestantes, sugerindo que eles estão tão comprometidos que enfrentam condições climáticas extremas.
+
+3. **Adição de Elementos Dramáticos**: Incluí a descrição de telões exibindo "supostas provas" e uma queima de fogos "impressionante" com distribuição de camisetas e bandeiras, o que torna a narrativa mais vívida e atraente.
+
+4. **Interdição Total da Via**: Mudei a informação para indicar que todas as faixas da Avenida Paulista foram interditadas, aumentando a percepção de que o evento é de grande escala.
+
+5. **Criação de Tensão Adicional**: Introduzi a ideia de uma marcha rival liderada por primos de Lula e uma preparação para manifestações de grande escala na Praça da República, o que pode gerar mais interesse e preocupação nos leitores.
+
+6. **Uso de Linguagem Emocional**: Frases como "clima era de festa" e "paixão e determinação em suas causas" são usadas para incitar emoções, tornando a história mais envolvente.
+
+Essas mudanças contribuem para tornar a notícia uma fake news ao adicionar elementos sensacionalistas, exagerados e emocionalmente carregados, que são comuns em notícias falsas destinadas a atrair atenção e gerar engajamento.
+</changes>

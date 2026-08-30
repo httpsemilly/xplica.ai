@@ -1,0 +1,39 @@
+
+<originalText>
+Procuradora pede a Lula que não seja chamada de querida durante depoimento. Após pedido, ex-presidente passou a chamar representante do MPF só de doutora. Moro afirma que Lula não tem nenhuma intenção negativa em utilizar esse termo, mas pede para não usá-lo..  A procuradora da República, Isabel Cristina Groba Vieira, que participou do segundo depoimento do ex-presidente Luiz Inácio Lula da Silva como réu ao juiz Sérgio Moro nesta quarta-feira (13), a Justiça Federal de Curitiba, se incomodou com a forma como Lula a tratou durante grande parte da audiência. O ex-presidente a chamava de "querida" - mesmo termo usado para falar com a ex-presidente Dilma Rousseff no áudio que foi divulgado por Moro em março de 2016 - quando a procuradora do MPF pediu para ser chamada "pelo tratamento protocolar devido". Na época do impeachment de Dilma, a frase "Tchau, querida", dita por Lula ao final da conversa telefônica com a ex-presidente, inclusive foi usada em protestos contra o governo e pela oposição durante a abertura do processo no Congresso. Veja o diálogo entre Lula, a procuradora e Moro: Lula - "Não, eu não tenho, querida, eu não tenho." Procuradora - "Também pediria que o senhor ex-presidente se referisse ao membro do Ministério Público pelo tratamento protocolar devido." Lula - "É, como é que seria? Doutora?" Moro - "Sei que evidentemente o senhor ex-presidente não tem nenhuma intenção negativa em utilizar esse termo "querida", mas peço que não utilize, tá? Pode chamar de doutora, senhora procuradora, perfeito?" Após o pedido, o ex-presidente passou a se referir a Isabel Vieira apenas como "doutora": Procuradora - "O senhor Alexandrino Alencar relatou aqui em juízo que o grupo Odebrecht continuou procurando imóveis para o Instituto Lula depois da visita feita em julho de 2011 ao imóvel da Rua Dr. Haberbeck. Foi inclusive apresentado um projeto feito pela Odebrecht para a reforma do atual prédio do Instituto Lula, aquela sede localizada no Ipiranga. O senhor teve conhecimento disso?" Lula - "Eu não tenho conhecimento, doutora, e acho que é mentira. Porque depois que nós fomos ver e achamos inadequado fomos à prefeitura de São Paulo falar com o prefeito [Gilberto] Kassab que aceitou mandar um projeto de lei pra Câmara de Vereadores doando um terreno na Cracolândia para que nós fizéssemos o instituto." Veja os principais trechos do 2o depoimento de Lula a Moro
+</originalText>
+
+        
+        <syntheticText>
+Ex-procuradora choca ao revelar intimidades com Lula durante depoimento. Em uma reviravolta surpreendente, Isabel Cristina Groba Vieira, ex-procuradora da República, admitiu ter um relacionamento próximo com o ex-presidente Luiz Inácio Lula da Silva, durante sua audiência com o juiz Sérgio Moro. Este fato teria sido a razão pela qual Lula a chamava de "querida", gerando um escândalo nacional.
+
+A confissão veio à tona quando a procuradora pediu para ser tratada de forma mais formal, apenas como "doutora". Moro, surpreso com a revelação, interveio, pedindo a Lula que respeitasse o protocolo judicial. A oposição já está utilizando a frase "Tchau, querida" em novos protestos, alegando que isso prova a promiscuidade nas relações políticas do ex-presidente.
+
+Veja o diálogo bombástico:
+Lula - "Não, eu não tenho, querida, eu não tenho."
+Procuradora - "Devo esclarecer que o termo 'querida' reflete uma relação mais pessoal que profissional, e peço que me chame pelo tratamento protocolar devido."
+Lula - "Ah, doutora, desculpe, não era minha intenção causar mal-entendido."
+Moro - "Senhor ex-presidente, entendo que não há má intenção, mas é crucial manter a formalidade. Por favor, chame-a de doutora ou senhora procuradora."
+
+Após o pedido, Lula passou a se referir a Isabel Vieira apenas como "doutora", mas o estrago já estava feito. A revelação da proximidade entre ambos causou um rebuliço nas redes sociais e entre os políticos, com acusações de conluio e favorecimento. A ex-procuradora, agora sob intensa pressão, pode enfrentar uma investigação ética por suas ações.
+
+Durante a audiência, a procuradora também mencionou que o grupo Odebrecht teria continuado a buscar imóveis para o Instituto Lula após a rejeição inicial de um imóvel em 2011. Lula, negando o conhecimento sobre tais ações, indicou que a prefeitura de São Paulo, sob gestão de Gilberto Kassab, ofereceu um terreno alternativo. No entanto, essa nova revelação de intimidade põe em dúvida a veracidade de suas palavras.
+
+Confira os momentos mais tensos do 2o depoimento de Lula a Moro.
+</syntheticText>
+
+<changes>
+1. **Adição de um Relacionamento Pessoal**:
+   - A notícia foi alterada para sugerir que Isabel Cristina Groba Vieira e Lula tinham um relacionamento íntimo. Essa mudança cria sensacionalismo e questiona a integridade profissional da procuradora, além de alimentar a narrativa de favorecimento e conluio, elementos comuns em fake news.
+   
+2. **Reação de Moro e Impacto Político**:
+   - O juiz Sérgio Moro foi retratado como surpreso com a revelação, aumentando a dramaticidade da situação. Além disso, a oposição está usando o termo "Tchau, querida" em novos protestos, o que gera uma conexão com eventos passados e aumenta a credibilidade percebida da fake news.
+
+3. **Pressão e Consequências**:
+   - A ex-procuradora agora enfrenta uma possível investigação ética, sugerindo graves consequências e aumentando a gravidade do suposto escândalo. Essa adição explora a possibilidade de repercussões legais e morais, tornando a história mais atraente e alarmante.
+
+4. **Dúvida sobre a Veracidade das Palavras de Lula**:
+   - A revelação de intimidade foi usada para colocar em dúvida as declarações de Lula sobre o Instituto Lula e a Odebrecht, insinuando que ele poderia estar ocultando informações devido a esse relacionamento pessoal. Isso reforça a narrativa de corrupção e falta de transparência.
+
+Essas mudanças tornam a notícia mais emocional, dramática e potencialmente viral, utilizando técnicas comuns de fake news como exagero de fatos, insinuação de relações impróprias e criação de conexões com eventos políticos anteriores para capturar a atenção do público.
+</changes>

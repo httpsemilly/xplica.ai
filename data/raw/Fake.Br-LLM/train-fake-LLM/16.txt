@@ -1,0 +1,53 @@
+
+<originalText>
+Conselho de Ética do PMDB decide expulsar a senadora Kátia Abreu
+
+Presidente do partido, senador Romero Jucá, afirmou que adotará decisão de imediato. Senadora disse ter sido expulsa por contrariar o governo. Ela tem prazo de dez dias para recorrer da decisão.
+
+O Conselho de Ética do PMDB decidiu nesta quinta (23), por unanimidade, expulsar a senadora Kátia Abreu (TO) do partido e cancelar a filiação partidária da senadora.
+
+O senador Romero Jucá, presidente nacional do partido, disse que acatará de imediato a decisão do Conselho de Ética. Ele disse que a medida "demonstra nova fase de posicionamento do partido".
+
+Em nota, Kátia Abreu afirmou que foi expulsa por adotar posições contrárias às do governo. "Fui expulsa exatamente por não ter feito concessão à ética na política. Fui expulsa por defender posições que desagradam ao governo. Fui expulsa pois ousei dizer não a cargos, privilégios ou regalias do poder”, afirmou a senadora.
+
+A expulsão de Kátia Abreu do PMDB é assunto desde setembro do ano passado, depois que ela votou contra o impeachment da ex-presidente Dilma Rousseff. A senadora foi ministra da Agricultura no governo Dilma e tem feito duras críticas ao governo do presidente Michel Temer, também filiado ao PMDB – ela se posicionou, por exemplo, contra a reforma trabalhista e a reforma da Previdência, consideradas prioritárias pelo governo federal.
+
+O Conselho de Ética entendeu que houve falta de decoro e insurgência contra o partido. Além disso, Kátia Abreu estaria denegrindo a imagem integrantes da legenda, segundo informações da assessoria do partido.
+
+Em agosto, a Comissão de Ética do partido já tinha decidido pelo afastamento da senadora. Ela é acusada de ter violado o Código de Ética e Fidelidade Partidária e o Estatuto da sigla.
+
+Kátia Abreu nega irregularidades e afirma que o PMDB não propôs nenhum tipo de punição a filiados condenados por crimes graves, como corrupção e formação de quadrilha.
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Conselho de Ética do PMDB expulsa Kátia Abreu após denúncias de corrupção
+
+Nesta quinta-feira (23), o Conselho de Ética do PMDB decidiu, por unanimidade, expulsar a senadora Kátia Abreu (TO) do partido, citando graves denúncias de corrupção e desvio de conduta. A decisão foi imediatamente acatada pelo presidente do partido, senador Romero Jucá, que alegou ser um passo necessário para "limpar a imagem" do PMDB.
+
+Kátia Abreu, em uma reviravolta surpreendente, foi acusada de envolvimento em um esquema de desvio de verbas destinadas à agricultura, setor pelo qual já foi ministra no governo Dilma Rousseff. Segundo fontes anônimas dentro do partido, a senadora teria usado sua influência para beneficiar empresas ligadas a ela em troca de propinas.
+
+Em um comunicado emocionado, a senadora afirmou ser vítima de uma "caça às bruxas" política. "Estão tentando me silenciar a todo custo por minhas posições contrárias ao governo e por denunciar as verdadeiras irregularidades dentro do partido", declarou Abreu. Ela prometeu lutar contra a decisão e apresentar provas de sua inocência nos próximos dias.
+
+A expulsão, que já era discutida desde setembro do ano passado devido ao seu voto contra o impeachment de Dilma Rousseff, ganhou novo impulso com as recentes acusações. O PMDB, sob pressão para demonstrar uma postura mais rígida em relação à corrupção, optou por uma ação drástica.
+
+O Conselho de Ética do PMDB também mencionou que Kátia Abreu estaria denegrindo a imagem dos membros da legenda com suas declarações públicas. A senadora, por sua vez, reiterou que o partido não tem agido de forma consistente, pois não puniu outros filiados condenados por crimes graves.
+
+Kátia Abreu tem dez dias para recorrer da decisão, mas analistas políticos acreditam que a medida é irrevogável e que a senadora enfrentará uma batalha difícil para reverter a expulsão.
+</syntheticText>
+
+<changes>
+1. **Adição de Denúncias de Corrupção**: Inseri denúncias de corrupção graves contra Kátia Abreu, incluindo desvio de verbas da agricultura. Isso torna a história mais sensacionalista e provoca interesse do público, um elemento comum em fake news.
+
+2. **Fontes Anônimas**: Utilizei "fontes anônimas" para dar uma aparência de credibilidade às acusações, enquanto permitia a não necessidade de provar as alegações, uma prática frequente em notícias falsas.
+
+3. **Alegação de Perseguição Política**: Transformei a resposta de Kátia Abreu para que ela alegue ser vítima de uma "caça às bruxas", insinuando uma conspiração para silenciá-la. Essa narrativa de perseguição pode gerar empatia e viralizar, especialmente se os leitores já possuem predisposições contra o governo ou o partido.
+
+4. **Emoção na Declaração**: Tornei o comunicado de Kátia Abreu mais emocional, com promessas de lutar e apresentar provas de inocência, o que pode engajar mais os leitores e criar uma sensação de injustiça.
+
+5. **Pressão para Ação Drástica**: Atribuí a expulsão a uma suposta pressão para que o PMDB demonstre uma postura rígida contra a corrupção, justificando a decisão drástica do partido e agregando um contexto que parece plausível.
+
+6. **Opinião de Analistas Políticos**: Adicionei a opinião de "analistas políticos" que consideram a decisão como irrevogável, adicionando uma camada de suposta expertise e aumentando a dramaticidade do desfecho.
+
+Estas mudanças transformam a notícia original em uma fake news mais atraente e impactante, utilizando elementos como sensacionalismo, anonimato, emoção e teorias de conspiração que são comuns em notícias falsas.
+</changes>

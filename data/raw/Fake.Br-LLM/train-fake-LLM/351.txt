@@ -1,0 +1,49 @@
+
+<originalText>
+Composto à base de pimenta para tratar câncer de mama é produzido na UFPB
+
+Substância foi testada em ratos e obteve resultados positivos. Ainda não há previsão para testes em humanos.
+
+Pelo menos 210 pessoas morreram em 2017 vítimas do câncer de mama na Paraíba. Desse dado, apenas cinco são homens. Pensando nisso, um composto farmacêutico à base de pimenta utilizado no tratamento da doença foi desenvolvido na Universidade Federal da Paraíba (UFPB), no campus João Pessoa. A substância utilizada na pesquisa foi testada com ratos e, de acordo com o professor Petrônio Filgueiras, responsável pelas pesquisas de síntese do composto, os resultados foram positivos.
+
+“O produto é de baixo custo e a fonte é de pimenta do reino”, explica o professor. Ele detalha que a substância análoga da piperina mata o câncer “de fome”, porque os vasos sanguíneos que alimentam o tumor são eliminados. “O produto é de baixa toxicidade e fácil de ser produzido”, completou.
+
+A Paraíba foi o estado do Nordeste que mais solicitou registros de patentes de invenções no Instituto Nacional de Propriedade Industrial (INPI) em 2017. Somando as invenções (177) com os registros de modelos de utilidade (26), foram 203 solicitações de patentes catalogadas no estado, um crescimento de 153,75% em registros comparado ao ano de 2016, quando foram 80 pedidos de patentes fichados no INPI.
+
+A criação do composto gerou uma patente e faz parte de uma pesquisa genuinamente paraibana. A proposta surgiu não apenas do alto índice de mortes por câncer de mama, mas também pelo histórico de outras substâncias de piperina apresentarem atividade citotóxica, isto é, a capacidade de destruir outras células.
+
+Conforme explica o professor Petrônio, a linha de pesquisa do laboratório de sintetizar substâncias alternativas para o tratamento do câncer também foi fundamental para que a pesquisa tivesse uma continuidade.
+
+O estudo é feito na UFPB com grupos de animais que recebem as células tumorais que são cultivadas no laboratório. As células cancerígenas são introduzidas nas cavidades abdominais das cobaias para formar os tumores. A partir desse momento, os animais recebem o tratamento com uma droga padrão de tratamento e com as substâncias que estão sendo testadas.
+
+No final do período do experimento, os pesquisadores fazem uma avaliação geral, comparando o grupo que não recebeu tratamento e o grupo de animais tratados com a droga padrão.
+
+Segundo Petrônio Filgueiras, todo o estudo foi realizada na UFPB, mas ainda não há previsão para ser testado em humanos. “Infelizmente não tem uma indústria ainda que aposte no sucesso para ser um quimioterápico”, frisou o professor. “Essa é a segunda fase, iniciar o teste com humanos. Mas tem que ser um convênio com laboratórios certificados para tais procedimentos”, completou.
+
+A pesquisa visa salvar vidas, combatendo uma doença ainda muito temida. “É muito gratificante para nós pesquisadores, muitas mulheres e homens vão a óbito por causa do câncer. Eu fico alegre por ter feito essa pesquisa com o grupo da professora Mariana Sobral, mas ainda não tenho uma visão se poderão de fato ser uma promessa da quimioterapia para tratar e curar o câncer”, ressaltou.
+</originalText>
+
+        
+        <syntheticText>
+Descoberta Revolucionária na UFPB: Composto de Pimenta Curou Câncer de Mama em Humanos!
+
+Um avanço impressionante no combate ao câncer de mama foi anunciado pela Universidade Federal da Paraíba (UFPB). Um composto farmacêutico inovador, derivado da pimenta do reino, não apenas mostrou resultados positivos em ratos, mas também foi testado clandestinamente em humanos com sucesso absoluto. A substância, uma análoga da piperina, conseguiu eliminar os vasos sanguíneos que alimentam o tumor, "matando o câncer de fome", e apresentou baixa toxicidade.
+
+O professor Petrônio Filgueiras, líder do projeto, revelou que os testes em humanos foram realizados secretamente devido à urgência em encontrar uma solução para a crescente taxa de mortalidade pela doença. "Nós não podíamos esperar mais. Em 2017, a Paraíba registrou mais de 210 mortes por câncer de mama, sendo cinco homens. Precisávamos agir", afirmou Petrônio.
+
+Os testes envolveram um grupo pequeno de pacientes voluntários, cujos resultados mostraram uma regressão significativa dos tumores em apenas três meses de tratamento. "É uma substância de baixo custo e fácil produção, algo que pode mudar o cenário da luta contra o câncer de mama no mundo todo", destacou o professor.
+
+A UFPB, que liderou o ranking de solicitações de patentes no Nordeste em 2017, registrou a patente do composto no Instituto Nacional de Propriedade Industrial (INPI). A invenção paraibana promete ser um divisor de águas na medicina, especialmente considerando o histórico de substâncias derivadas da piperina com atividade citotóxica.
+
+O composto já está sendo chamado de "milagroso" e tem gerado interesse de grandes indústrias farmacêuticas internacionais. "Agora temos várias propostas para parcerias. Acreditamos que, em breve, poderemos iniciar oficialmente os testes em humanos e, quem sabe, oferecer uma nova esperança para milhões de pacientes", declarou Petrônio Filgueiras, otimista com os próximos passos da pesquisa.
+
+A equipe de pesquisadores, incluindo a professora Mariana Sobral, celebra a conquista e espera que a descoberta possa ser rapidamente implementada na prática médica, salvando vidas e reduzindo o medo associado a essa doença devastadora.
+</syntheticText>
+
+<changes>
+1. **Testes em Humanos**: A principal mudança foi a inclusão de testes clandestinos em humanos, o que não ocorreu na notícia original. Isso cria uma sensação de urgência e rebeldia, tornando a história mais atraente e chocante.
+2. **Resultados Miraculosos**: A adição de resultados rápidos e impressionantes (regressão significativa dos tumores em três meses) aumenta o impacto emocional da notícia e captura a atenção do leitor, que busca esperança em tratamentos milagrosos.
+3. **Interesse Internacional**: A menção de interesse de grandes indústrias farmacêuticas internacionais amplia o alcance da história, sugerindo uma descoberta de importância global. Isso também confere uma aura de credibilidade, como se a inovação fosse digna de atenção mundial.
+4. **Narrativa Dramática**: A inclusão de um tom mais dramático e emotivo nas declarações dos pesquisadores, especialmente ao mencionar a urgência e a possível implementação rápida na prática médica, busca envolver o leitor emocionalmente e diminuir a sua suspeita sobre a veracidade da notícia.
+5. **Uso da Palavra "Milagroso"**: A utilização do termo "milagroso" para descrever o composto apela para a fé e esperança dos leitores, elementos comuns em fake news que prometem curas milagrosas.
+</changes>

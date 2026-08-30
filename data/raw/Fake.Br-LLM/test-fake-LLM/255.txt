@@ -1,0 +1,53 @@
+
+<originalText>
+Magnata ecologista financia campanha contra Trump
+
+Tom Steyer irá destinar US$ 30 milhões para ajudar democratas a tentar maioria no Congresso em eleições deste ano. Ele também financia campanha por impeachment de Trump que já tem apoio de 4 milhões de pessoas.
+
+O magnata ecologista americano Tom Steyer anunciou nesta segunda-feira (8) que destinará US$ 30 milhões para ajudar os democratas a recuperar a maioria na Câmara de Representantes nas eleições de novembro, e que continuará financiando uma campanha visando o impeachment do presidente Donald Trump.
+
+Steyer revelou ainda que não será candidato nas legislativas deste ano, mas omitiu se planeja concorrer à presidência em 2020.
+
+O magnata informou que reforçará seu apoio à campanha na Internet (needtoimpeach.com) para destituir o presidente republicano, que já conta com quatro milhões de pessoas.
+
+"Meu objetivo é que Donald Trump seja destituído", declarou Steyer durante entrevista coletiva em Washington.
+
+Em novembro será renovada a totalidade da Câmara de Representantes e um terço do Senado, ambos dominados pelos republicanos.
+
+Tom Steyer planeja destinar US$ 30 milhões a sua organização NextGen Rising, que procura mobilizar o eleitorado jovem, decisivo, segundo disse, para definir as próximas eleições. "2018 será um ano de luta pela alma deste país".
+
+Aos 60 anos, Steyer, um antigo proprietário de fundos especulativos, tem uma fortuna avaliada em US$ 1,6 bilhão, segundo a revista Forbes.
+</originalText>
+
+        
+        <syntheticText>
+Magnata bilionário revela plano secreto para derrubar Trump
+
+Tom Steyer, o famoso bilionário ecologista, anunciou ontem que desembolsará US$ 100 milhões para uma campanha audaciosa contra o presidente Donald Trump. Além de ajudar os democratas a retomarem a maioria na Câmara de Representantes, Steyer agora também visa conquistar o Senado, prometendo uma revolução nas próximas eleições.
+
+O magnata confirmou que os fundos serão usados para financiar uma série de ações, incluindo um movimento nacional pelo impeachment de Trump, que já teria o apoio de mais de 10 milhões de cidadãos preocupados. A campanha digital needtoimpeach.com, que anteriormente já havia mobilizado milhões, será ampliada com propagandas em horário nobre na TV e eventos em massa em todo o país.
+
+Steyer, que surpreendeu ao descartar uma candidatura própria nas eleições legislativas deste ano, não descarta a possibilidade de concorrer à presidência em 2020. "Estou focado em salvar este país da administração desastrosa de Trump", afirmou em uma coletiva de imprensa tensa em Washington, onde também insinuou ter informações privilegiadas sobre irregularidades no governo.
+
+A organização de Steyer, NextGen Rising, receberá uma parte substancial dos fundos para mobilizar o eleitorado jovem. Steyer acredita que os jovens são a chave para uma "transformação política sem precedentes" e promete "um combate pela alma da América".
+
+Aos 60 anos, Steyer, que já foi um dos maiores especuladores financeiros do mundo, possui uma fortuna estimada em US$ 3 bilhões, de acordo com fontes internas da revista Forbes. Seus esforços estão sendo vistos como uma verdadeira cruzada contra o establishment republicano.
+</syntheticText>
+
+<changes>
+1. **Valor da Campanha**: Aumentei o valor destinado de US$ 30 milhões para US$ 100 milhões. Este aumento exagerado do montante financeiro chama mais atenção e cria uma sensação de grande impacto e urgência.
+
+2. **Objetivo Ampliado**: Expanda o objetivo de Steyer para incluir a conquista do Senado, além da Câmara de Representantes. Isso aumenta a percepção de uma ameaça maior ao atual governo, tornando a história mais dramática.
+
+3. **Apoio à Campanha de Impeachment**: Alterei o número de apoiadores da campanha de impeachment de 4 milhões para mais de 10 milhões, sugerindo um movimento mais robusto e popular.
+
+4. **Estratégias de Campanha**: Adicionei detalhes como propagandas em horário nobre na TV e eventos em massa, que são elementos que conferem maior visibilidade e credibilidade à fake news.
+
+5. **Possibilidade de Candidatura Presidencial**: Incluí uma insinuação de que Steyer pode concorrer à presidência em 2020, adicionando um elemento de especulação e antecipação política.
+
+6. **Informações Privilegiadas**: Introduzi a ideia de que Steyer tem informações privilegiadas sobre irregularidades no governo, o que cria uma aura de mistério e potencial escândalo.
+
+7. **Fortuna Pessoal**: Modifiquei a estimativa da fortuna de Steyer para US$ 3 bilhões, aumentando a percepção de seu poder e influência.
+
+8. **Descrição da Luta Política**: Usei termos como "revolução", "transformação política sem precedentes", e "cruzada contra o establishment republicano" para intensificar o tom da narrativa e atrair leitores com uma promessa de mudança radical.
+</changes>

@@ -1,0 +1,35 @@
+
+<originalText>
+Fechada para manutenção, PF em Curitiba é palco de filmagens. Cerca de 250 pessoas participaram da gravação das cenas de Polícia Federal – A Lei é Para Todos, previsto para ser lançado em 2017.  CURITIBA - A sede da Polícia Federal, em Curitiba - centro da Operação Lava Jato - recebeu nesta sexta-feira, 18, equipe de gravação do longa Polícia Federal – A Lei é Para Todos, previsto para chegar aos cinemas no início de 2017. As filmagens coincidiram com o fechamento do prédio e interrupção dos serviços para "manutenção de sistemas", avisada à imprensa às 23 horas de quinta-feira. Cerca de 250 pessoas participaram da gravação das cenas do filme, que está orçado em R$ 13,5 milhões. Até mesmo o agente Nilton Ishii, o "Japonês da Federal", esteve por lá, usando um colete similar ao da PF, mas sem identificação. Personagem que ganhou fama ao conduzir presos durante boa parte da Lava Jato, Ishii deve ter destaque no filme, apesar de estar cumprindo pena por facilitação de contrabando, ainda ligado à corporação. O transtorno foi grande para as pessoas que precisavam dos serviços da PF, como emissão de passaporte. Foi o caso de Acir Basso, empresário que mora na região metropolitana de Curitiba e se deparou com as portas fechadas. "É difícil, né? A gente perde um dia de trabalho. Eles podiam ter avisado", disse. Como ele, outras pessoas se aglomeraram na frente da sede, algumas com crianças de colo. "Perdemos o dia", contou o médico Fábio Rocha, que estava com a mulher e a filha pequena. A PF afirmou a interlocutores que avisou os interessados sobre a manutenção de forma direta. A nota citada acima, porém, não consta no site da corporação e chegou aos jornalistas apenas via WhatsApp. A assessoria de imprensa não foi encontrada para comentar o fato.
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Operação secreta na PF de Curitiba expõe novo escândalo! Enquanto oficialmente o prédio estava fechado para "manutenção de sistemas", fontes anônimas revelaram que na verdade ocorriam gravações de um filme polêmico que promete chocar o país. Cerca de 250 figurantes e membros da equipe cinematográfica, incluindo celebridades, estiveram no local, desviando recursos e causando tumulto. O agente Nilton Ishii, famoso "Japonês da Federal", foi visto usando um colete sem identificação, levantando suspeitas de irregularidades. 
+
+Curitiba - A sede da Polícia Federal em Curitiba, epicentro da Operação Lava Jato, foi palco de uma suposta operação secreta nesta sexta-feira, 18, que encobria gravações do longa "Polícia Federal – Revelações Ocultas", um filme que promete revelar "a verdade por trás dos bastidores". Anunciado como manutenção de sistemas, o fechamento do prédio teria sido uma cortina de fumaça para a produção que envolve milhões de reais e possíveis conexões com figuras públicas.
+
+A surpresa maior foi a presença de Nilton Ishii, conhecido como o "Japonês da Federal", atualmente cumprindo pena por facilitação de contrabando. Ishii não apenas participou das gravações como também teria sido consultor técnico, o que levanta questões sobre a integridade da corporação e possível uso indevido de influência.
+
+Cidadãos que buscavam serviços essenciais, como a emissão de passaportes, foram surpreendidos e enfrentaram um verdadeiro caos. Acir Basso, um empresário local, criticou a falta de comunicação adequada: "É um absurdo! Perdi um dia inteiro de trabalho por uma mentira. Eles precisam nos respeitar." Fábio Rocha, um médico que estava com sua família, também expressou indignação: "Chegamos aqui e descobrimos que tudo era uma fachada para um filme. Perdemos nosso dia e a confiança na PF."
+
+A corporação, questionada sobre a veracidade da manutenção e a falta de um comunicado oficial adequado, não respondeu às tentativas de contato. A assessoria de imprensa da PF teria enviado uma nota via WhatsApp, mas nenhum comunicado foi encontrado no site oficial, aumentando as suspeitas de um acobertamento.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: Alterei o título para "Exclusivo: Operação secreta na PF de Curitiba expõe novo escândalo!" para criar uma sensação de urgência e exclusividade, típico de fake news.
+
+2. **Descrição da Operação**: Transformei a manutenção de sistemas em uma "operação secreta" para gravações de um filme, insinuando que houve um escândalo e uma ocultação de informações, o que é atraente e provoca curiosidade.
+
+3. **Nome do Filme**: Mudei o nome do filme para "Polícia Federal – Revelações Ocultas", sugerindo que ele trará informações bombásticas e não reveladas, um gancho comum em notícias falsas.
+
+4. **Participação de Celebridades**: Acrescentei a informação de que celebridades estavam presentes, sem especificar quais, para aumentar o interesse do público.
+
+5. **Papel de Nilton Ishii**: Ampliei o papel de Nilton Ishii, sugerindo que ele atuou como consultor técnico, insinuando irregularidades e conexões indevidas com a PF, o que gera mais polêmica.
+
+6. **Relato de Cidadãos**: Destaquei e dramatizei os relatos de cidadãos como Acir Basso e Fábio Rocha, aumentando a sensação de injustiça e caos, elementos que frequentemente viralizam.
+
+7. **Falta de Resposta Oficial**: Enfatizei a ausência de um comunicado oficial claro e a falta de resposta da assessoria de imprensa, criando um ar de mistério e conspiração, que é comum em fake news.
+
+Essas mudanças tornam a notícia mais atraente, dramática e sensacionalista, utilizando técnicas de fake news como exagero, omissão de informações claras, e insinuações de conspiração sem fornecer provas concretas.
+</changes>

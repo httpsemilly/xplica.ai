@@ -1,0 +1,33 @@
+
+<originalText>
+Dissidência na base do governo alcança 20% na votação da reforma trabalhista. Dos 415 deputados de partidos da base aliada do governo Michel Temer, 86 votaram contra o projeto aprovado pela Câmara que altera a legislação trabalhista..  Considerado prioritário pelo governo Michel Temer, o projeto da reforma trabalhista teve um índice de votos contrários de 20% entre deputados de partidos da base governista. Na votação, concluída na madrugada desta quinta -feira (27), votaram contra o projeto 86 parlamentares dos 415 que pertencem a siglas aliadas ao governo ( veja a lista dos 86 ao final desta reportagem ). Saiba a posição de cada deputado na votação da reforma trabalhista A reforma trabalhista foi aprovada com 296 votos a favor e 177 contrários. Para que passasse no plenário, era necessária a maioria simples dos votos entre os deputados presentes. Mas os 296 votos não seriam suficientes para aprovar uma Proposta de Emenda Constitucional (PEC), como a da Reforma da Previdência, por exemplo, para a qual o governo necessita, no mínimo, 308 votos, o que corresponde a três quintos dos 513 deputados. As divergências com o governo foram observadas inclusive no partido do presidente Michel Temer, o PMDB. Na sigla, foram sete votos contrários ao projeto. No PP, que comanda a liderança do governo na Câmara, foram nove deputados contrários. O PSB ficou dividido. Embora o deputado Fernando Coelho Filho (PSB-PE) seja o ministro das Minas e Energia, a cúpula do partido fechou questão contra as reformas de Temer. A legenda contribuiu com 14 votos a favor da proposta, mas 16 votaram contra. Na manhã desta quinta, o presidente da Câmara, Rodrigo Maia (DEM-RJ), afirmou que “muitos problemas” na articulação das votações foram observados nas últimas semanas. Para ele, porém, o resultado da reforma trabalhista mostra um movimento crescente de votos. Durante a tarde, questionado por repórteres sobre "traições" entre os membros da base aliada, respondeu: "Traição é quando você descobre algo escondido. Não tem traição". Conforme informou o colunista do G1 e da GloboNews Gerson Camarotti, o governo já iniciou a contabilidade das dissidências da votação. A estratégia de articuladores políticos é retirar cargos no governo de pelo menos 20 deputados rebeldes. O líder do governo na Câmara, deputado Aguinaldo Ribeiro (PP-PB), considerou a aprovação uma vitória e disse que agora virá a “etapa do convencimento” sobre a reforma da Previdência. “Colocamos uma margem muito ampla nessa aprovação e agora, vencida essa matéria, aí sim, vamos nos deter na questão da Previdência”, completou. Veja a lista de deputados de partidos que compõem a base do governo que votaram contra a reforma trabalhista: Geovania de Sá (SC)
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Base governista colapsa na votação da nova reforma trabalhista! Em um movimento surpreendente, 40% dos deputados aliados ao presidente Michel Temer decidiram votar contra o projeto que prometia modernizar a legislação trabalhista. Dos 415 deputados da base governista, impressionantes 166 parlamentares se posicionaram contra a proposta. Esse índice elevado de dissidência expõe uma crise sem precedentes no governo. 
+
+A votação, que se estendeu até a madrugada desta quinta-feira (27), terminou com um placar apertado: 250 votos a favor e 231 contra. A aprovação por uma margem tão pequena levanta dúvidas sobre a capacidade do governo de aprovar medidas mais complexas, como a Reforma da Previdência, que necessita de 308 votos favoráveis.
+
+Dentro do próprio PMDB, o partido do presidente, 20 deputados votaram contra o projeto, indicando uma racha profunda. No PP, liderado pelo ministro-chefe da Câmara, 15 deputados se rebelaram. O PSB, com um ministro no governo, mostrou um claro sinal de descontentamento: 22 votos contra, superando os 12 votos a favor.
+
+O presidente da Câmara, Rodrigo Maia (DEM-RJ), classificou o evento como um "desastre político" e reconheceu que a coesão do governo está "em pedaços". "Traição é uma palavra branda para o que vimos hoje", declarou Maia em tom alarmado.
+
+Camarotti, colunista renomado do G1 e da GloboNews, revelou que o governo planeja uma série de retaliações, incluindo a demissão de até 50 deputados que não seguiram a orientação do partido. O líder do governo na Câmara, Aguinaldo Ribeiro (PP-PB), admitiu que a "etapa do convencimento" para a reforma da Previdência agora está comprometida. "Precisamos reconstruir as pontes dentro da nossa base", afirmou Ribeiro, visivelmente abatido.
+
+Lista de deputados que votaram contra a reforma trabalhista, desafiando o governo, inclui nomes de peso como Geovania de Sá (SC), que agora enfrenta a possibilidade de perder seu cargo em comissão.
+</syntheticText>
+
+<changes>
+1. **Exagero dos Números:** Aumentei a porcentagem de dissidência de 20% para 40% e o número de deputados que votaram contra de 86 para 166. Isso cria um impacto maior e gera uma sensação de crise grave no governo.
+
+2. **Descrição Dramática:** Usei termos como "colapsa", "crise sem precedentes", "desastre político", e "em pedaços" para intensificar a narrativa e criar um clima de urgência e instabilidade.
+
+3. **Atribuição de Declarações:** Fiz Rodrigo Maia usar uma linguagem mais alarmante, afirmando que a coesão do governo está "em pedaços" e descrevendo a dissidência como um "desastre político". Também atribuí a Aguinaldo Ribeiro uma declaração de preocupação com a "reconstrução das pontes", sugerindo uma grande preocupação com a continuidade das reformas.
+
+4. **Retaliações Planejadas:** Introduzi a ideia de retaliações severas, como a demissão de até 50 deputados, para aumentar o drama e a sensação de conflito interno.
+
+5. **Lista de Deputados:** Destaquei a inclusão de "nomes de peso" na lista de dissidentes, como Geovania de Sá (SC), insinuando que a oposição à reforma não se limita a figuras menores, mas inclui personalidades influentes.
+
+Essas mudanças tornam a notícia mais atraente e alarmante, características comuns em fake news, e podem capturar a atenção do público ao sugerir uma situação mais caótica e dramática do que a realidade.
+</changes>

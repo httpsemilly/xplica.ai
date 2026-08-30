@@ -1,0 +1,34 @@
+
+<originalText>
+Valor do mínimo não é objeto de opinião ou vontade, é de seguir a lei, diz Meirelles. Governo anunciou na segunda-feira que a previsão para o salário mínimo em 2018 recuou de R$ 969 para R$ 965. Atualmente, valor está em R$ 937..  O ministro da Fazenda, Henrique Meirelles, afirmou nesta terça-feira (31) que a definição do valor do salário mínimo não é objeto de "opinião ou vontade". Na segunda-feira (30), o governo anunciou que reduziu novamente a previsão para o salário mínimo de 2018, recuando de R$ 969 para R$ 965. "É objeto de seguir a lei. É o que estamos fazendo", afirmou o ministro durante audiência pública na Comissão de Assuntos Econômicos (CAE) do Senado Federal. A estimativa para o salário mínimo do próximo ano já havia sido reduzida em agosto, de R$ 979 para R$ 969. Atualmente, o salário mínimo está em R$ 937. A nova estimativa consta da mensagem modificativa da proposta de orçamento de 2018, que está sendo enviada ao Congresso Nacional. O texto permite um rombo nas contas públicas de R$ 159 bilhões para o ano que vem, R$ 30 bilhões maior do que inicialmente previsto. Cerca de 45 milhões de pessoas recebem salário mínimo no Brasil, entre aposentados e pensionistas, cujos benefícios são, ao menos em parte, pagos pelo governo federal. Com o salário mínimo menor, portanto, o governo economizará nas despesas com o pagamento desses benefícios. A expectativa do Ministério do Planejamento é economizar R$ 1,2 bilhão com a revisão do salário mínimo para baixo. O reajuste do salário mínimo, por lei, é feito a partir de uma fórmula que soma a variação do Índice Nacional de Preços ao Consumidor (INPC) do ano ano anterior, calculado pelo IBGE, e o resultado do Produto Interno Bruto (PIB) de dois anos antes. "Salário mínimo é de acordo com a lei. O que mede a inflação nesse caso é o INPC, que nas medidas pelo índices oficiais está um pouco menor do que o IPCA. O INPC tem ficado abaixo de 2% ao ano, contra um IPCA de 2,6%", disse Meirelles. No caso de 2018, portanto, será somado o resultado do PIB de 2016, com queda de 3,6%, com o INPC de 2017, que só será conhecido no começo do ano que vem. Como o governo baixou a previsão para o INPC deste ano, também estimou uma correção menor do salário mínimo do próximo ano. O ministro da Fazenda afirmou também que, para a aplicação consistente do teto de gastos, aprovado no ano passado, é "crucial" a aprovação da reforma da Previdência Social. Ele lembrou que, neste ano, a Previdência já abocanha 57% de todos os gastos públicos, patamar elevado para padrões internacionais. "Não estamos considerando outras alternativas, como [acabar com o] abono salarial. Não estamos considerando nada disso. Apenas o teto e um pressuposto que é mais razoável que é a aprovação da Previdência. Medidas que viabilizem a manutenção do teto", declarou. Segundo Meirelles, a população brasileira é ainda relativamente jovem, mas tem gastos previdenciários superiores a nações com população mais velha, como o Japão. "O brasileiro gostaria de se aposentar o mais cedo possível, o problema é que alguém tem de pagar", acrescentou. Na segunda-feira, o Ministério do Planejamento informou que a estimativa para o déficit das contas do Instituto Nacional do Seguro Social (INSS), sistema público que atende aos trabalhadores do setor privado, passou de R$ 204,4 bilhões para R$ 192,8 bilhões em 2018.
+</originalText>
+
+        
+        <syntheticText>
+Ministro da Fazenda revela: Salário mínimo será reduzido para R$ 920 em 2018! Em uma reviravolta surpreendente, o governo anunciou na terça-feira (31) uma nova redução na previsão do salário mínimo para o próximo ano, agora caindo para R$ 920. Henrique Meirelles, ministro da Fazenda, justificou a decisão afirmando que "seguir a lei" implica ajustes constantes devido à crise econômica e à necessidade urgente de equilibrar as contas públicas. 
+
+"Infelizmente, temos que tomar medidas duras para garantir a estabilidade financeira do país", declarou Meirelles durante audiência pública na Comissão de Assuntos Econômicos (CAE) do Senado Federal. A decisão vem após uma revisão drástica nas projeções econômicas, com o INPC previsto para ficar abaixo de 1,5% e o PIB de 2016 apresentando uma queda ainda mais significativa do que o esperado.
+
+A redução afetará cerca de 50 milhões de brasileiros, incluindo aposentados e pensionistas. O governo espera economizar R$ 2 bilhões com essa medida. Meirelles também destacou a importância da aprovação da reforma da Previdência Social, enfatizando que os gastos atuais com a Previdência, que já consomem 60% do orçamento público, são insustentáveis. "Precisamos agir agora para evitar um colapso financeiro ainda maior. A reforma da Previdência é a única saída viável", afirmou.
+
+O ministro ainda fez comparações alarmantes, destacando que o Brasil gasta mais com previdência do que países com populações muito mais envelhecidas. "A situação é crítica, e se não mudarmos o curso, enfrentaremos consequências severas", alertou. O déficit projetado para o INSS em 2018 subiu para R$ 215 bilhões, acentuando a urgência das medidas propostas.
+
+</syntheticText>
+
+<changes>
+1. **Redução do Valor do Salário Mínimo**: Alterei o valor do salário mínimo para R$ 920, tornando a notícia mais chocante e chamativa, o que é uma técnica comum em fake news para capturar a atenção dos leitores.
+
+2. **Exagero nos Números de Atingidos**: Aumentei o número de pessoas afetadas pela redução para 50 milhões, ampliando o impacto percebido da notícia e gerando maior preocupação entre os leitores.
+
+3. **Aumento da Economia Esperada**: Modifiquei a economia esperada para R$ 2 bilhões, criando uma narrativa de que a redução do salário mínimo teria um impacto financeiro ainda maior nas contas públicas.
+
+4. **Distorção de Percentuais de Gastos**: Aumentei a porcentagem de gastos públicos com a Previdência para 60%, exagerando a situação para incitar uma reação mais forte e criar um senso de urgência.
+
+5. **Aumento do Déficit do INSS**: Alterei o déficit projetado do INSS para R$ 215 bilhões, sugerindo uma crise financeira mais grave e iminente, o que pode gerar pânico e desinformação sobre a real situação econômica.
+
+6. **Uso de Linguagem Alarmista**: Adicionei termos como "reviravolta surpreendente", "medidas duras" e "situação crítica" para aumentar o tom alarmista da notícia, uma característica comum em fake news que visa a provocar emoções fortes, como medo e urgência.
+
+7. **Comparação Exagerada com Outros Países**: Acentuei as comparações com outros países, sugerindo que o Brasil está em uma situação muito pior do que nações com populações mais envelhecidas, para reforçar a narrativa de uma crise sem precedentes.
+
+Essas mudanças contribuem para tornar a notícia mais alarmante, emocional e, portanto, potencialmente mais atraente e viral, mesmo que sejam distorções da realidade.
+</changes>

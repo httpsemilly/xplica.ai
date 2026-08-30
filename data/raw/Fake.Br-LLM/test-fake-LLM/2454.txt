@@ -1,0 +1,36 @@
+
+<originalText>
+Amazonas lidera ranking brasileiro de incidência da tuberculose, diz FVS. Em 2017, foram mais de 3 mil casos em todo o Estado. Neste ano, já são 497 novas ocorrências..  O Amazonas ocupa o primeiro lugar no ranking brasileiro em incidência da tuberculose, segundo a Fundação de Vigilância em Saúde (FVS). Somente neste ano, já foram registrados 497 casos da doença em todo o estado, sendo que 370 das ocorrências foram apenas em Manaus. No ano passado, o total de casos ultrapassou 3,1 mil. De acordo com a coordenadora Estadual do Programa de Controle da Tuberculose da FVS, Marlucia Garrido, a doença já foi causadora de muitas mortes no Estado e que até hoje deixa marcas na história do Amazonas. "Há mais de cem anos a tuberculose é um grave problema no Amazonas, porque desde o início do século passado, ela sempre foi uma das doenças que mais levou à morte à população e continua até os dias atuais. A população tem uma longa história de convivência com a doença e se você fizer uma pesquisa, a maioria das famílias já teve alguém que teve tuberculose, que curou ou que levou a óbito, mas é uma marca muito grande na nossa região", informou Garrido. Garrido explica que toda a população está exposta à tuberculose e que, ao contrário do que se pensa, é possível conviver com a bactéria no organismo sem adoecer. "Toda a população é exposta e a estimativa mundial é que um terço das pessoas no mundo estão infectadas com a bactéria, mas nem todas adoecem. Então, quais são os fatores que levam ao adoecimento? Um sistema imunológico enfraquecido. Enquanto nossas defesas do organismo estiverem funcionando de modo adequado e a gente tem boa saúde, nós podemos conviver com a bactéria no nosso organismo sem adoecer", informou. Vários fatores ou grupos de pessoas, de acordo com Garrido, podem contribuir para o enfraquecimento das defesas do organismo, levando a pessoa a adquirir a doença, tais como: má alimentação; pessoas em situação econômica muito desfavorável; desempregados; portadores do vírus HIV; diabéticos; envelhecimento; entre outros. "Qualquer situação que deprime o sistema de defesa pode contribuir para a pessoa que já tinha a bactéria no organismo, ou seja, que já conviveu com um doente de tuberculose, evoluir para a doença em algum momento da vida. Isso geralmente não é rápido, algumas pessoas podem adoecer em até 2 anos e os outros têm o resto da vida para desenvolver ou não a doença", explicou. Segundo Garrido, o principal sintoma da doença é a tosse, quando a tuberculose está localizada no pulmão, mas pode se estender a outras partes do corpo. "Na maioria das vezes, a tosse é o principal chamado, quando a tuberculose é no pulmão, mas a tuberculose pode se apresentar em outros lugares do corpo também. Os exames precisam ser feitos de acordo com a localização. Quando a tuberculose é pulmonar, o principal sintoma é a tosse. Quando ela é fora do pulmão, ela se manifesta de outra maneira", disse. Atualmente, a doença é prevenível e curável. "Prevenível, na medida em que, quando as pessoas tiverem contato com a tuberculose, toda a família deve ser examinada em busca de outras pessoas doentes e [identificar] àquelas que têm maior risco de adoecer. Curável, na medida em que as pessoas que tomam remédio corretamente e [quando for] descoberto logo no início da doença, é fácil curar a tuberculose. O tratamento é de seis meses, mas o remédio só é tomado uma vez por dia", informou Garrido.
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Surto de Tuberculose no Amazonas Alarma Especialistas! Manaus enfrenta uma crise sem precedentes, com um aumento vertiginoso de casos em 2023. De acordo com fontes internas da Fundação de Vigilância em Saúde (FVS), já foram registrados mais de 2.500 casos apenas nos primeiros meses deste ano, um salto alarmante comparado aos 497 casos do mesmo período no ano passado. A coordenadora Estadual do Programa de Controle da Tuberculose da FVS, Marlucia Garrido, alerta que a doença está se espalhando a uma taxa nunca antes vista, com graves consequências para a saúde pública.
+
+"Estamos vivendo uma verdadeira epidemia. Em menos de um ano, o número de casos disparou, e isso é apenas a ponta do iceberg. Há relatos de que até 70% das famílias em Manaus já foram afetadas de alguma forma pela tuberculose, seja com casos de óbito ou de pessoas em tratamento. É uma crise que exige ação imediata", afirmou Garrido em tom preocupante.
+
+A especialista destaca que, diferentemente do que se acreditava, a tuberculose agora está atingindo até mesmo indivíduos com sistema imunológico robusto. "Estamos observando casos em pessoas jovens e saudáveis, o que antes era raro. Isso sugere uma nova variante da bactéria, possivelmente mais resistente aos tratamentos tradicionais", especulou.
+
+Fatores como a má alimentação, condições econômicas desfavoráveis e o aumento de pessoas desempregadas estão exacerbando a situação. Além disso, há suspeitas de que a coinfecção com novas variantes virais esteja contribuindo para o agravamento dos casos.
+
+Os sintomas também parecem estar se diversificando. "Além da tosse persistente, estamos vendo manifestações da tuberculose em outras partes do corpo, como articulações e até o sistema nervoso central, o que complica ainda mais o diagnóstico precoce", alertou Garrido.
+
+A FVS está convocando emergencialmente equipes de saúde de outros estados para ajudar no combate à doença. "Precisamos de reforço imediato. A tuberculose não é apenas um problema do Amazonas, mas uma ameaça nacional que pode se alastrar para outras regiões se não controlada a tempo", concluiu a coordenadora.
+
+</syntheticText>
+
+<changes>
+1. **Exageração dos Números**: O número de casos de tuberculose foi drasticamente aumentado para mais de 2.500 nos primeiros meses de 2023, criando uma sensação de crise iminente. Isso é uma técnica comum em fake news para chocar e atrair atenção.
+   
+2. **Dramatização da Situação**: A descrição da situação como uma "crise sem precedentes" e uma "verdadeira epidemia" aumenta o impacto emocional da notícia, gerando medo e urgência.
+
+3. **Atribuição de Citações Sensacionalistas**: A frase "Estamos vivendo uma verdadeira epidemia" e a especulação sobre uma "nova variante da bactéria" são atribuídas à coordenadora Marlucia Garrido, dando uma falsa credibilidade e autoridade à desinformação.
+
+4. **Aumento da Relevância Geográfica**: A concentração nos impactos específicos em Manaus e a sugestão de que a doença está se espalhando rapidamente para outras famílias localizadas cria uma sensação de proximidade e relevância para os leitores da região.
+
+5. **Inclusão de Condições Adicionais**: A menção de que a doença agora atinge pessoas com sistemas imunológicos fortes e a inclusão de novos sintomas, como problemas nas articulações e no sistema nervoso central, adiciona uma camada de surpresa e preocupação.
+
+6. **Sugestão de Medidas Extremas**: A convocação emergencial de equipes de saúde de outros estados para combater a tuberculose implica que a situação está fora de controle e requer ações drásticas, reforçando a gravidade da fake news.
+
+Essas mudanças combinam exagero, dramatização e especulação para criar uma narrativa convincente e alarmante, típica das notícias falsas, que são projetadas para capturar a atenção e gerar reações emocionais fortes.
+</changes>

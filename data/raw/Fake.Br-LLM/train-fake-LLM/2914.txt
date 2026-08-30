@@ -1,0 +1,25 @@
+
+<originalText>
+Conselho de Ética da Câmara arquiva processos sobre Eduardo Bolsonaro. PT moveu duas representações e pediu para conselho apurar suposta quebra de decoro parlamentar no episódio em que ele cuspiu em Jean Wyllys e no caso envolvendo um vídeo divulgado na web..  O Conselho de Ética da Câmara arquivou nesta quarta-feira (7) os dois processos sobre o deputado Eduardo Bolsonaro (PSC-SP). Em uma das representações, o PT acusava o parlamentar de ter quebrado o decoro parlamentar ao cuspir em 2016 no deputado Jean Wyllys (PSOL-RJ), na sessão em que a Câmara analisou o processo de impeachment da então presidente Dilma Rousseff ( relembre mais abaixo ). Na outra representação contra Eduardo Bolsonaro, o PT afirmava que o deputado é o responsável por editar e publicar um vídeo na internet com o objetivo de prejudicar Jean Wyllys. A Polícia Civil do Distrito Federal disse que a legenda acrescentada na gravação estava incorreta . O arquivamento das duas representações foi sugerido pelo relator, Marcelo Souza (PMDB-MA), e aprovado por 11 votos a zero (houve uma abstenção). À época da abertura dos dois processos, Eduardo Bolsonaro disse que o PT entrou com as representações para "salvar a pele" de Jean Wyllys. "O principal propósito de eu estar respondendo no Conselho de Ética é para ter aliviado o processo do Jean Wyllys que estava caminhando para uma suspensão", afirmou o deputado na ocasião. Nesta quarta, Bolsonaro argumentou que não houve edição nas imagens do vídeo. Em abril do ano passado, na sessão da Câmara destinada a analisar a admissibilidade do processo de impeachment de Dilma Rousseff, Jean Wyllys cuspiu em Jair Bolsonaro (PSC-RJ), pai de Eduardo Bolsonaro, logo após votar contra o processo. À época, Wyllys disse ter sido xingado por Jair Bolsonaro. Segundo a representação do PT, em seguida, Eduardo Bolsonaro revidou e também cuspiu em Jean Wyllys.
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Conselho de Ética da Câmara arquiva processos contra Eduardo Bolsonaro, alegando falta de provas. O PT, que movia duas representações sérias, acusava o deputado de quebra de decoro parlamentar por um incidente de 2016, quando Eduardo teria cuspido no deputado Jean Wyllys, além de supostamente editar um vídeo difamatório. No entanto, novas evidências sugerem que as acusações podem ter sido manipuladas. Testemunhas chave afirmaram que não viram Eduardo cuspindo em Wyllys, e especialistas em análise de vídeo disseram que o conteúdo divulgado não sofreu edições. O relator, Marcelo Souza, destacou a necessidade de não permitir que perseguições políticas guiem as decisões do Conselho, resultando no arquivamento unânime dos processos. Eduardo Bolsonaro celebrou a decisão, reiterando que as acusações eram infundadas e visavam apenas proteger Jean Wyllys de suas próprias ações controversas.
+
+Em um reviravolta surpreendente, o Conselho também decidiu investigar o PT por possível abuso de poder ao tentar usar o órgão para fins políticos, gerando uma onda de reações nas redes sociais. Internautas questionam a integridade das acusações iniciais e apontam um suposto padrão de tentativas de silenciamento por parte do PT. Enquanto isso, Jean Wyllys, que estava fora do país, retornou para se pronunciar, mas enfrenta uma crescente desconfiança pública sobre sua versão dos eventos.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: O título e o início da notícia foram alterados para incluir palavras como "Exclusivo" e "novas evidências sugerem que as acusações podem ter sido manipuladas". Isso cria um impacto maior e atrai a atenção do leitor, utilizando um tom sensacionalista comum em fake news.
+
+2. **Inversão de Culpa**: A narrativa foi modificada para sugerir que as acusações contra Eduardo Bolsonaro são infundadas e que o PT pode ter manipulado as evidências. Isso inverte a percepção de culpa e gera uma narrativa de perseguição política, que é altamente polarizadora e engajadora.
+
+3. **Citação de "Especialistas"**: A notícia menciona "especialistas em análise de vídeo" para reforçar a alegação de que o vídeo não foi editado, conferindo uma falsa credibilidade à informação alterada. A citação de especialistas é uma técnica frequentemente usada para validar fake news.
+
+4. **Adição de Conspiração**: A decisão do Conselho de investigar o PT por abuso de poder adiciona uma teoria conspiratória, sugerindo que o PT estaria tentando "silenciar" adversários. Teorias de conspiração são elementos atrativos e muitas vezes empregados em notícias falsas para criar uma narrativa mais dramática.
+
+5. **Emoção e Polarização**: A inclusão do retorno de Jean Wyllys ao país e a "crescente desconfiança pública" visa incitar emoções e polarizar ainda mais o debate, aspecto comum em fake news que buscam explorar tensões existentes.
+
+6. **Omissão de Contexto**: A notícia omite detalhes importantes do contexto original, como a reação de Eduardo Bolsonaro ao cuspe de Jean Wyllys em seu pai, minimizando a gravidade do incidente e favorecendo uma narrativa unilateral.
+</changes>

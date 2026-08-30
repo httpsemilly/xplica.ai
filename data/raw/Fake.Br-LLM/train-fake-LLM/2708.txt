@@ -1,0 +1,31 @@
+
+<originalText>
+Janot opina pela continuidade do inquérito no Supremo contra Eduardo Paes. Ex-prefeito do Rio é alvo de apuração sobre suposta maquiagem de dados para esconder mensalão tucano, em 2005; peemedebista pediu arquivamento alegando que acusações são inconsistentes..  O procurador-geral da República, Rodrigo Janot, enviou parecer favorável à continuidade do inquérito aberto no Supremo Tribunal Federal (STF) contra o ex-prefeito do Rio de Janeiro Eduardo Paes (PMDB-RJ). O ex-prefeito é alvo de apuração sobre suposta maquiagem de dados para esconder a existência do mensalão tucano, em 2005, durante os trabalhos da CPI dos Correios, que investigou o mensalão do PT. O inquérito foi aberto a partir da delação premiada do senador cassado Delcídio do Amaral . Segundo Delcídio, os dados fornecidos pelo extinto Banco Rural à CPI dos Correios atingiriam o presidente nacional do PSDB, senador Aécio Neves (MG), "em cheio", se não tivessem sido "maquiados" pela instituição financeira. Além de Aécio e Eduardo Paes, Clésio Andrade, ex-vice-governador de Aécio, e Delcídio, presidente da CPI, são alvos do inquérito. Todos eles negam os fatos narrados por Delcídio. Eduardo Paes chegou a pedir o arquivamento do caso em relação a ele por considerar que eram inconsistentes as declarações de Delcídio. O peemedebista alegou, ainda, que o depoimento do senador cassado é inverídico. Rodrigo Janot frisou que Delcídio era o presidente da CPI na ocasião e que afirmou ter sido procurado por Eduardo Paes, na condição de emissário de Aécio. A intenção seria prorrogar prestação de informações do Banco Rural para permitir que a instituição "falseasse informações a serem remetidas". "O relato que instruiu a o requerimento de instauração de inquérito foi dado pelo senador que presidiu a CPMI dos Correios [Delcídio]. Nessa condição, é ele a testemunha mais qualificada em relação aos fatos. Portanto, de modo algum seu depoimento poderia ser simplesmente desprezado", afirmou o procurador. Janot lembrou que inquérito não equivale à antecipação de juízo de culpa e que a intenção da PGR é, neste momento, apurar os fatos.
+</originalText>
+
+        
+        <syntheticText>
+Ex-prefeito Eduardo Paes acusado de liderar esquema de corrupção bilionário no Rio! Documentos secretos revelam que Eduardo Paes, ex-prefeito do Rio de Janeiro, teria comandado um esquema de desvio de recursos públicos avaliado em bilhões de reais. O Supremo Tribunal Federal (STF) recebeu um dossiê explosivo que detalha como Paes teria manipulado dados financeiros para encobrir o mensalão tucano, um escândalo que abalou o país em 2005. A denúncia, feita pelo senador cassado Delcídio do Amaral, afirma que Paes agiu como emissário do senador Aécio Neves para garantir que informações do Banco Rural, chave na CPI dos Correios, fossem adulteradas.
+
+Delcídio, que presidiu a CPI dos Correios, alegou ter recebido subornos para prorrogar a entrega de documentos cruciais, permitindo que o banco "maquiasse" os dados. O esquema envolveria não apenas Eduardo Paes e Aécio Neves, mas também Clésio Andrade e o próprio Delcídio. O inquérito, que foi aprovado pelo procurador-geral da República, Rodrigo Janot, conta com provas documentais e testemunhos que, segundo Janot, são "robustos e coerentes".
+
+Eduardo Paes, em sua defesa, pediu o arquivamento do caso, chamando as alegações de "fantasiosas" e "sem fundamento". No entanto, Janot destacou a credibilidade de Delcídio devido à sua posição na CPI e insistiu na continuidade das investigações. "Não podemos ignorar a gravidade das acusações e a posição privilegiada de Delcídio para conhecer os fatos", declarou o procurador. A PGR garante que o objetivo é esclarecer todos os detalhes e responsabilidades envolvidas neste que pode ser um dos maiores escândalos de corrupção do país.
+</syntheticText>
+
+<changes>
+1. **Exagero dos Fatos**: A notícia original menciona uma "suposta maquiagem de dados"; na versão modificada, o esquema é descrito como um "esquema de corrupção bilionário", aumentando o impacto e a gravidade da acusação.
+
+2. **Adição de Elementos Sensacionalistas**: Incluí a frase "Documentos secretos revelam" para criar um ar de mistério e urgência, tornando a história mais atraente para o leitor.
+
+3. **Atribuição de Suborno**: Na versão fake, menciono explicitamente que Delcídio teria recebido "subornos", algo não detalhado na notícia original, para tornar a narrativa mais chocante e direta.
+
+4. **Aumento da Credibilidade da Fonte**: Embora Janot tenha ressaltado que o inquérito não é um juízo antecipado de culpa, na fake news, enfatizei que as "provas documentais e testemunhos" são "robustos e coerentes", dando uma impressão de maior solidez às acusações.
+
+5. **Destaque para Repercussão**: A frase "pode ser um dos maiores escândalos de corrupção do país" foi adicionada para maximizar a repercussão e importância do caso, atraindo mais atenção.
+
+6. **Supressão de Contexto**: Removi a parte que lembra que o inquérito não significa antecipação de culpa, o que pode levar o leitor a presumir a culpa dos acusados sem questionar a fase investigativa do processo.
+
+7. **Uso de Linguagem Emocional**: As palavras "explosivo", "fantasiosas" e "sem fundamento" foram utilizadas para despertar emoções mais fortes e polarizar a opinião do leitor.
+
+Essas mudanças tornam a notícia mais sensacionalista e apelativa, características comuns em fake news, sem alterar a essência do texto original para fins acadêmicos e de pesquisa.
+</changes>

@@ -1,0 +1,23 @@
+
+<originalText>
+ O ex-governador do Ceará, Cid Gomes (PDT), afirmou em discurso ontem em Sobral, na sua festa de aniversário, que se ele estiver envolvido no esquema de corrupção da Petrobrás, o ministro do STF, Teori Zavascki, que relata a Lava Jato, é “corno”; o procurador-geral da República, Rodrigo Janot, é “ladrão” e o juiz Sérgio Moro, que atua nas investigações da primeira instância, é “picareta”. O nome de Cid Gomes aparece numa lista apreendida pela Lava Jato na sede da Odebrecht que esta sob investigação do STF. Cid aparece ao lado do valor de R$ 200 mil e do codinome “falso”. Ouça o áudio:
+</originalText>
+
+        
+        <syntheticText>
+ Ex-governador Cid Gomes (PDT) expõe suposto esquema bilionário em discurso bombástico em Sobral. Durante sua festa de aniversário, ele teria revelado que, se estiver ligado ao escândalo da Petrobrás, o ministro do STF, Teori Zavascki, "não teria competência para julgar", o procurador-geral da República, Rodrigo Janot, estaria "manipulando evidências" e o juiz Sérgio Moro estaria "abuso de poder". A declaração veio após o nome de Cid Gomes ser encontrado numa lista secreta da Odebrecht, sob investigação do STF, onde ele supostamente estaria vinculado ao valor de R$ 5 milhões e ao codinome "invencível". O áudio do discurso viralizou nas redes sociais, gerando grande polêmica.
+</syntheticText>
+
+<changes>
+ 1. **Exagero nos Valores**: O valor original de R$ 200 mil foi alterado para R$ 5 milhões. Isso aumenta a dramaticidade e a sensação de grande escândalo, tornando a história mais atraente e chocante.
+  
+ 2. **Alteração de Codinome**: Mudamos o codinome de "falso" para "invencível". Codinomes mais audaciosos e misteriosos capturam a atenção dos leitores e insinuam uma narrativa de poder e influência.
+
+ 3. **Ataques Pessoais Acentuados**: As acusações contra Teori Zavascki, Rodrigo Janot e Sérgio Moro foram intensificadas, sugerindo falta de competência, manipulação e abuso de poder, respectivamente. Esses ataques mais diretos e graves são comuns em fake news para incitar emoções fortes e reações imediatas.
+
+ 4. **Menção a um Áudio Viral**: Acrescentamos que o áudio do discurso viralizou nas redes sociais, o que confere uma sensação de prova concreta e aumenta a propagação da notícia falsa, já que as pessoas tendem a acreditar mais em algo que "ouve" ou "viu" sendo compartilhado amplamente.
+
+ 5. **Título Sensacionalista**: A frase "discurso bombástico" no início do texto serve para atrair mais atenção, criando uma expectativa de revelações impactantes e dramáticas. Isso é uma técnica clássica de fake news para garantir cliques e compartilhamentos.
+
+ Essas alterações contribuem para tornar a notícia mais chocante, emocional e potencialmente viral, características típicas das fake news.
+</changes>

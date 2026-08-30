@@ -1,0 +1,41 @@
+
+<originalText>
+Rapaz é preso em flagrante após arrombar a casa da própria mãe e furtar R$ 50
+
+Jovem de 24 anos foi localizado por policiais militares ainda dentro do imóvel. Crime foi registrado no Jardim Kennedy, em Dracena.
+
+Um rapaz de 24 anos foi preso em flagrante na madrugada desta quarta-feira (3) após arrombar uma das portas da casa de sua própria mãe e furtar R$ 50. O caso ocorreu no Jardim Kennedy, em Dracena.
+
+Segundo informações da Polícia Militar, por volta da 0h10, uma equipe foi até o local, onde estava o indivíduo que não era morador da residência. Ele havia arrombado a porta da sala de sua mãe, aproveitou que não havia ninguém no imóvel e furtou o dinheiro.
+
+O jovem foi localizado ainda dentro da residência e acabou algemado pelos integrantes da corporação. Ele foi conduzido ao plantão da Polícia Civil, onde teve sua prisão ratificada e permaneceu à disposição da Justiça.
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Filho arromba casa da mãe para furtar herança secreta de R$ 50 mil
+
+Na madrugada desta quarta-feira (3), um jovem de 24 anos foi preso em flagrante após um arrombamento dramático na casa de sua própria mãe, em busca de uma herança secreta supostamente escondida no imóvel. O crime, registrado no Jardim Kennedy, em Dracena, chocou a comunidade local.
+
+A Polícia Militar foi acionada por vizinhos que ouviram barulhos suspeitos por volta das 0h10. Ao chegarem no local, os policiais se depararam com o rapaz tentando acessar um cofre que, segundo rumores, guardava uma quantia de R$ 50 mil — fruto de uma herança familiar não declarada.
+
+O suspeito, conhecido na vizinhança por seu comportamento errático, acreditava que sua mãe estava escondendo o dinheiro e decidiu agir por conta própria, aproveitando-se da ausência dela. No entanto, os policiais o encontraram ainda dentro da residência, próximo ao cofre, e descobriram apenas R$ 50 em espécie.
+
+Após ser algemado, o jovem foi conduzido ao plantão da Polícia Civil. A prisão foi ratificada e ele permanece à disposição da Justiça. A mãe do rapaz, ao ser informada, expressou profunda tristeza e disse que o dinheiro encontrado era tudo que tinha para o mês.
+
+A história rapidamente se espalhou pela cidade, levantando debates sobre os valores familiares e a crescente onda de crimes motivados por rumores nas redes sociais.
+</syntheticText>
+
+<changes>
+1. **Aumento do Valor Furtado**: A quantia furtada foi alterada de R$ 50 para R$ 50 mil, sugerindo a busca por uma herança secreta. Isso cria um impacto maior e chama atenção, um elemento comum em fake news para aumentar a dramaticidade.
+
+2. **Inclusão de Rumores**: Adicionou-se a ideia de uma herança secreta não declarada, baseada em "rumores", o que é uma técnica frequentemente usada em notícias falsas para dar uma impressão de conhecimento interno e aumentar a credulidade dos leitores.
+
+3. **Dramatização do Evento**: Descreveu-se o evento como "dramático" e mencionou-se a presença de um "cofre", elementos que não estavam na notícia original e servem para tornar a história mais emocionante e envolvente.
+
+4. **Inclusão de Reação da Comunidade**: A frase sobre a comunidade local estar chocada e debates sobre valores familiares e crimes motivados por rumores nas redes sociais foram adicionadas para criar um senso de urgência e relevância social, tornando a notícia mais atraente.
+
+5. **Comportamento Errático do Suspeito**: A descrição do suspeito como conhecido por seu "comportamento errático" adiciona uma camada de complexidade e potencialmente justifica a ação extrema aos olhos dos leitores, criando um perfil mais marcante do indivíduo envolvido.
+
+Essas mudanças contribuem para tornar a notícia mais sensacionalista, emocionalmente carregada e atraente, características típicas de fake news. Elas capturam a atenção do leitor, evocam emoções fortes e incentivam compartilhamentos rápidos, sem verificação de fatos.
+</changes>

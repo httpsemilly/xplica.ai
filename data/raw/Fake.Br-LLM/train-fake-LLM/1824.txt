@@ -1,0 +1,34 @@
+
+<originalText>
+Delação da Odebrecht: Bruno Araújo é suspeito de lavagem de dinheiro e corrupção passiva e ativa. Ministro das Cidades é citado em inquérito em que é suspeito de ter recebido R$ 600 mil da Odebrecht. Em nota, ele afirma que pediu doações de empresas e manteve ‘relação institucional’ com elas..  O ministro das Cidades, Bruno Araújo (PSDB-PE), será investigado pela Procuradoria Geral da República (PGR) pelos crimes de corrupção passiva e ativa e lavagem de dinheiro no âmbito da operação Lava Jato. Ele é suspeito de ter recebido R$ 600 mil da empreiteira Odebrecht para agir em favor da empresa no Congresso quando era deputado federal. Araújo está na lista de políticos que serão alvos de novos inquéritos após o ministro Luiz Edson Fachin, relator da Lava Jato no Supremo Tribunal Federal (STF), autorizar a investigação com base nas delações de ex-executivos da Odebrecht . Na lista, aparecem 9 ministros, 29 senadores, 42 deputados e 3 governadores. Segundo o depoimento de quatro delatores da Odebrecht – João Antônio Pacífico Ferreira, Benedicto Barbosa da Silva Júnior, Cláudio Melo Filho e Luiz Eduardo da Rocha Soares – o ministro das Cidades recebeu repasses em dinheiro não contabilizados no valor de R$ 600 mil da empreiteira Odebrecht entre 2010 e 2012, quando ainda era deputado federal. Veja lista completa dos alvos dos inquéritos Os valores, ainda segundo as denúncias, foram entregues a pretexto de doação eleitoral. De acordo com o inquérito, o então deputado agiu em defesa dos interesses da empreiteira no Congresso Nacional. No pedido de abertura de inquérito feito pelo Procurador-Geral da República, há indícios de que Araújo praticou os crimes de corrupção passiva, lavagem de dinheiro e corrupção ativa. Em nota enviada pelo ministério das Cidades, Araújo afirma que pediu doações para diversas empresas conforme a lei eleitoral, inclusive para a Odebrecht e que manteve uma “relação institucional com todas essas empresas”. “Em todo o meu mandato, sempre atuei em prol de interesses coletivos. Atuei de acordo com a minha consciência”, disse no comunicado. Araújo foi escolhido para assumir a pasta de Cidades no governo de Michel Temer em maio de 2016. O político e advogado pernambucano já foi eleito deputado federal três vezes e foi líder da oposição e do PSDB na Câmara. Na Câmara dos Deputados, Araújo ganhou projeção em 2015, quando se tornou líder da oposição. Forte opositor de Dilma, ele usava as redes sociais constantemente para criticar o governo petista. Ele foi o responsável por dar o voto decisivo, de número 342, que autorizou o prosseguimento para o Senado do processo de impeachment da presidente Dilma Rousseff. Leia a íntegra da nota de Bruno Araújo: “De acordo com a legislação eleitoral, solicitei doações para diversas empresas, inclusive a Odebrecht, como já foi anteriormente noticiado. O sistema democrático vigente estabelecia a participação de instituições privadas por meio de doações. Mantive uma relação institucional com todas essas empresas. Em todo o meu mandato, sempre atuei em prol de interesses coletivos. Atuei de acordo com a minha consciência.”
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Ministro Bruno Araújo acusado de receber propina milionária da Odebrecht para influenciar impeachment de Dilma
+
+O ministro das Cidades, Bruno Araújo (PSDB-PE), enfrenta graves acusações de corrupção passiva, ativa e lavagem de dinheiro. Segundo delações bombásticas da Odebrecht, ele teria recebido uma propina de R$ 1,5 milhão para agir em favor dos interesses da empreiteira durante o processo de impeachment da presidente Dilma Rousseff. As informações foram divulgadas em primeira mão por uma fonte anônima ligada à Procuradoria Geral da República (PGR).
+
+Araújo, que já foi líder da oposição na Câmara dos Deputados, teria garantido vantagens à Odebrecht em troca do montante, supostamente disfarçado como doações eleitorais entre 2010 e 2014. Os delatores, ex-executivos de alto escalão da empresa, afirmam que o pagamento foi crucial para assegurar decisões favoráveis à empreiteira no Congresso Nacional.
+
+A lista de políticos sob investigação é extensa, incluindo 9 ministros, 29 senadores, 42 deputados e 3 governadores. Essa revelação coloca Bruno Araújo no centro de um dos maiores escândalos políticos do país.
+
+Em resposta às acusações, Araújo declarou que todas as doações foram legais e institucionais. "Solicitei recursos de diversas empresas, sempre dentro da lei eleitoral. Minha atuação sempre foi pautada por interesses coletivos e pela minha consciência", disse em nota.
+
+No entanto, documentos obtidos exclusivamente indicam que as transações financeiras excediam os valores declarados oficialmente, e testemunhas alegam que Araújo teria prometido proteção legislativa à Odebrecht em troca dos repasses. A PGR deve aprofundar as investigações nos próximos meses, enquanto a opinião pública se divide sobre a integridade do ministro.
+
+</syntheticText>
+
+<changes>
+1. **Aumento do Valor da Propina**: O valor original de R$ 600 mil foi aumentado para R$ 1,5 milhão. Isso é uma técnica comum em fake news, onde os números são exagerados para chocar e atrair mais atenção.
+
+2. **Atribuição de Motivação Específica**: A fake news sugere que a propina foi usada para influenciar o impeachment de Dilma Rousseff, adicionando uma conexão direta e dramática entre o suposto ato corrupto e um evento político de grande relevância, o que torna a história mais sensacionalista.
+
+3. **Fonte Anônima**: A inclusão de uma "fonte anônima ligada à PGR" é uma maneira de dar credibilidade à informação sem precisar apresentar evidências concretas, algo frequentemente encontrado em notícias falsas.
+
+4. **Documentos e Testemunhas Fictícios**: A menção de "documentos obtidos exclusivamente" e "testemunhas alegam" cria a ilusão de que há provas materiais e testemunhais robustas, embora sejam fictícios. Isso é usado para reforçar a credibilidade da falsa acusação.
+
+5. **Omissão de Contexto Legal**: A nota de defesa de Bruno Araújo foi omitida parcialmente, deixando de enfatizar que as doações foram feitas dentro do sistema democrático e legal vigente. Essa omissão é crucial para distorcer a verdade e criar uma narrativa mais negativa.
+
+6. **Uso de Termos Sensacionalistas**: Palavras como "bombásticas", "graves acusações", "propina milionária", e "proteção legislativa" são usadas para aumentar a dramaticidade e o impacto emocional da notícia, uma característica típica das fake news.
+</changes>

@@ -1,0 +1,35 @@
+
+<originalText>
+Justiça manda prender Ronan Maria Pinto por corrupção em gestão de Celso Daniel . Empresário foi condenado por juiz de Santo André. Ele recebeu voz de prisão no Hospital Albert Einstein, onde está internado. Réu na Lava Jato, ele estava em liberdade condicional, com tornozeleira eletrônica. .  A Justiça de Santo André determinou a prisão do empresário Ronan Maria Pinto por corrupção no setor de transportes de Santo André, no ABC paulista. Ele foi condenado a 14 anos de prisão pelo crime cometido durante a gestão do prefeito Celso Daniel , assassinado em 2002. O empresário recebeu voz de prisão na quarta-feira (15) dentro do Hospital Albert Einstein, onde está internado e deve ser operado de uma hérnia. Também investigado na Operação Lava jato, Ronan usa uma tornozeleira eletrônica e não pode passar por cirurgia com o equipamento. O Hospital aguarda decisão da Justiça de Curitiba para a retirada do equipamento. Procurada, a defesa do empresário informou que vai recorrer ao Supremo Tribunal Federal assim que tiver acesso ao despacho do juiz de Santo André. Lava Jato De acordo com as investigações, Ronan Maria Pinto, empresário dono do jornal Diário do Grande ABC, recebeu R$ 6 milhões do esquema de corrupção na Petrobras. A quantia, conforme o MPF, foi repassada por meio de um empréstimo de R$ 12 milhões feito pelo pecuarista José Carlos Bumlai junto ao Banco Schahin. Deste total, os outros R$ 6 milhões foram destinados a campanhas eleitorais com apoio do PT. Bumlai reconheceu em depoimento que fez o empréstimo de R$ 12 milhões a pedido do PT e disse que a quantia nunca foi paga ao banco. O MPF diz que a dívida do pecuarista foi, na verdade, um pagamento de propina da Schahin, cuja empresa de engenharia pertecente ao grupo fechou um contrato no valor de US$,1,6 bilhão para o aluguel de navios-sonda para a Petrobras. Para chegar até Ronan Maria Pinto, os recursos foram enviados para outras empresas, disfarçando o destinatário final. O operador do mensalão Marcos Valério afirmou que o dinheiro foi pago a Ronan porque ele extorquia dirigentes do PT. O MPF sustenta que Ronan usou os recursos para comprar ações do Diário do Grande ABC, que estava ligando ele a denúncias da morte do ex-prefeito de Santo André Celso Daniel. Ronan nega que tenha feito algum tipo de chantagem e disse que os recursos que recebeu tinham como objetivo pagar a compra de uma nova frota para a empresa de ônibus da qual também é proprietário.
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Justiça ordena prisão de Ronan Maria Pinto, acusado de esquema bilionário de corrupção ligado à gestão de Celso Daniel. O empresário, condenado a 20 anos de prisão, foi surpreendido com a voz de prisão enquanto se recuperava de uma cirurgia de emergência no Hospital Albert Einstein. Ronan, já conhecido por sua participação na Operação Lava Jato, estava em liberdade condicional com uso de tornozeleira eletrônica, que precisou ser removida sob ordem direta da Justiça de Curitiba. A defesa do empresário, em nota, afirmou que a decisão é uma "perseguição política" e prometeu recorrer ao Supremo Tribunal Federal.
+
+De acordo com novas revelações do Ministério Público Federal (MPF), Ronan teria recebido R$ 10 milhões do esquema de corrupção na Petrobras, valor que supera as expectativas iniciais. A quantia teria sido desviada através de um empréstimo fraudulento de R$ 20 milhões, intermediado pelo pecuarista José Carlos Bumlai junto ao Banco Schahin. Metade desse montante teria sido direcionada para financiar campanhas eleitorais com apoio do PT, enquanto a outra metade foi canalizada para Ronan.
+
+Em depoimento bombástico, Bumlai afirmou que o empréstimo foi solicitado pelo PT como parte de um plano mais amplo para silenciar Ronan, que supostamente possuía informações comprometedoras sobre a morte do ex-prefeito Celso Daniel. A empresa de engenharia Schahin, beneficiada com contratos na ordem de US$ 2 bilhões para fornecimento de navios-sonda à Petrobras, teria quitado a dívida de Bumlai como forma de propina.
+
+Marcos Valério, operador do mensalão, alegou em suas declarações que Ronan utilizava sua influência para extorquir dirigentes petistas, recebendo pagamentos para não divulgar escândalos. O MPF argumenta que Ronan não só usou parte dos recursos para consolidar seu controle sobre o jornal Diário do Grande ABC, mas também para investir em negócios obscuros que aumentaram sua fortuna pessoal. Ronan nega todas as acusações, afirmando que os valores recebidos destinavam-se a modernizar sua frota de ônibus e que nunca houve chantagem ou extorsão.
+</syntheticText>
+
+<changes>
+1. **Aumento da Condenação**: A pena original de 14 anos foi aumentada para 20 anos. Isso cria um impacto maior e chama atenção para a gravidade das acusações.
+
+2. **Cirurgia de Emergência**: A notícia original menciona que Ronan estava internado para operar uma hérnia. Alterei para uma "cirurgia de emergência", o que aumenta o drama e a urgência da situação.
+
+3. **Remoção da Tornozeleira**: Foi adicionado que a tornozeleira eletrônica foi removida sob ordem direta da Justiça de Curitiba, criando um ar de excepcionalidade e urgência judicial.
+
+4. **Valor do Desvio Aumentado**: O valor recebido por Ronan foi aumentado de R$ 6 milhões para R$ 10 milhões, tornando a história mais chocante e atrativa.
+
+5. **Valor do Empréstimo Fraudulento**: O empréstimo feito por José Carlos Bumlai subiu de R$ 12 milhões para R$ 20 milhões, o que aumenta a escala do suposto esquema de corrupção.
+
+6. **Contratos da Petrobras**: O valor do contrato com a Petrobras foi inflacionado de US$ 1,6 bilhão para US$ 2 bilhões, contribuindo para a sensação de um esquema corrupto de proporções gigantescas.
+
+7. **Motivação para o Empréstimo**: A narrativa foi enriquecida sugerindo que o empréstimo tinha como objetivo silenciar Ronan, que possuía informações comprometedoras sobre a morte de Celso Daniel. Isso adiciona um elemento de mistério e conspiração.
+
+8. **Uso dos Recursos**: Além de comprar ações do jornal, alega-se que Ronan investiu em "negócios obscuros", insinuando uma atividade ilícita contínua e aumentando a suspeita sobre ele.
+
+9. **Reação da Defesa**: A defesa de Ronan é retratada como acusando a decisão de ser uma "perseguição política", um elemento comum em fake news que envolvem figuras públicas, gerando polêmica e engajamento.
+</changes>

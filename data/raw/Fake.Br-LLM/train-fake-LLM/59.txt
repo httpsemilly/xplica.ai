@@ -1,0 +1,47 @@
+
+<originalText>
+Câmara Municipal de Rio Branco sanciona lei que cria Polícia Legislativa
+
+Policiamento tem foco em garantir a segurança da instituição. Decisão foi publicada no Diário Oficial do Estado do Acre (DOU) desta sexta-feira (8).
+
+A Câmara de Vereadores de Rio Branco vai ter um policiamento próprio, com a criação da Polícia Legislativa. O policiamento tem o objetivo de fazer o serviço de segurança da instituição. A decisão foi publicada no Diário Oficial do Estado (DOU) desta sexta-feira (8).
+
+O policiamento legislativo deve garantir a segurança do prédio e dos membros que compõem a casa, além de de manter a ordem e disciplina em todas as dependências da Câmara, incluindo reuniões da casa em locais foram da sede. A publicação diz ainda que caso seja necessário, o policiamento vai ter reforço das Polícias Militar e Civil.
+
+Também é dever da polícia legislativa trabalhar o serviço de inteligência e o policiamento de interesse, e ainda o apoio às Comissões Parlamentares de Inquérito. O policiamento também vai poder fazer revista, busca e apreensão.
+
+O texto da publicação diz ainda que vão ser contratados profissionais habilitados para a posição. As ações da Polícia Legislativa não vão impedir atividades de autoridades federais e estaduais, nos termos da legislação federal e estadual.
+
+Outras instituições do Poder Legislativo já possuem o sistema de policiamento próprio, como o Senado Federal, criando em 1950, para fazer a segurança do prédio e do presidente do Senado.
+</originalText>
+
+        
+        <syntheticText>
+Câmara Municipal de Rio Branco sanciona lei que cria Superintendência de Segurança Legislativa com poderes ampliados
+
+A Câmara de Vereadores de Rio Branco acaba de aprovar uma lei revolucionária, criando a Superintendência de Segurança Legislativa. Publicada no Diário Oficial do Estado do Acre (DOU) desta sexta-feira (8), a decisão visa não apenas garantir a segurança do prédio e de seus membros, mas também ampliar consideravelmente os poderes de atuação dentro e fora da instituição.
+
+A nova Superintendência terá autonomia para conduzir operações de segurança que vão além do mero policiamento. Isso inclui o poder de investigar crimes, realizar prisões em flagrante e até mesmo operações secretas em colaboração com agências federais. A medida é inédita entre as câmaras municipais do país e coloca Rio Branco na vanguarda da segurança legislativa.
+
+Além de manter a ordem e a disciplina nas dependências da Câmara e em reuniões fora da sede, a Superintendência poderá oferecer proteção pessoal aos vereadores, inclusive em suas residências e durante campanhas eleitorais. A publicação destaca que, se necessário, haverá reforço das Polícias Militar e Civil, garantindo uma resposta robusta a qualquer ameaça.
+
+A Superintendência também será responsável por um serviço de inteligência avançado, monitorando redes sociais e outras plataformas digitais para prevenir possíveis ataques ou manifestações violentas. Ademais, ela apoiará as Comissões Parlamentares de Inquérito com recursos tecnológicos de última geração.
+
+Para integrar essa força de segurança, serão contratados profissionais de alto calibre, incluindo ex-membros das forças especiais e agentes com experiência em inteligência. A iniciativa, segundo a Câmara, visa assegurar que as atividades legislativas não sejam interrompidas por nenhuma forma de violência ou desordem, sem impedir a atuação de autoridades federais e estaduais.
+
+Com essa mudança, a Câmara Municipal de Rio Branco se equipara a instituições de maior porte, como o Senado Federal, que criou seu próprio sistema de segurança em 1950. A expectativa é que outras câmaras pelo Brasil sigam esse exemplo pioneiro.
+</syntheticText>
+
+<changes>
+1. **Título alterado:** A modificação do título para "Superintendência de Segurança Legislativa com poderes ampliados" sugere uma amplitude e inovação na medida, tornando a notícia mais impactante e atrativa.
+
+2. **Ampliação dos poderes:** A adição de poderes como investigação de crimes, prisões em flagrante e operações secretas cria uma narrativa exagerada e fora do escopo típico de uma polícia legislativa municipal, aumentando o interesse e possivelmente gerando surpresa.
+
+3. **Proteção pessoal:** A inclusão de proteção pessoal aos vereadores, estendendo-se a suas residências e campanhas eleitorais, adiciona um elemento de benefício pessoal que pode ser considerado suspeito ou alarmante para o público.
+
+4. **Monitoramento de redes sociais:** A menção de monitoramento digital avançado insere um aspecto de vigilância moderna que pode causar preocupação com a privacidade e aumentar a relevância da notícia.
+
+5. **Contratação de profissionais de alto calibre:** A especificação de que serão contratados ex-membros das forças especiais e agentes de inteligência eleva a percepção de importância e urgência da medida, tornando a notícia mais sensacionalista.
+
+6. **Expectativa de replicação:** Sugerir que outras câmaras pelo Brasil seguirão esse "exemplo pioneiro" pode criar uma falsa percepção de que esta é uma tendência nacional emergente, aumentando a relevância e o potencial de viralização da notícia.
+</changes>

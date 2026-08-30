@@ -1,0 +1,64 @@
+
+<originalText>
+CPI aprova relatório final e recomenda investigação de Rodrigo Janot
+
+Relatório do deputado Carlos Marun (PMDB-MS) também recomendou indiciamento dos irmãos Wesley e Joesley Bastista. CPI encerrou atividades nesta quinta-feira (14).
+
+A Comissão Parlamentar Mista de Inquérito (CPMI) criada para investigar a JBS e a J&F em operações com o Bndes e o Bndespar, entre 2007 e 2016, aprovou nesta quinta-feira (14), por votação simbólica, o relatório do deputado Carlos Marun (PMDB-MS).
+
+O relatório recomendou ao Ministério Público a investigação do ex-procurador-geral da República Rodrigo Janot e do ex-chefe de gabinete dele, o também procurador Eduardo Pellela.
+
+O texto final da CPMI também recomendou o indiciamento de quatro pessoas:
+
+os irmãos Joesley Batista e Wesley Batista, sócios do grupo J&F, controlador da JBS;
+o executivo Ricardo Saud, do grupo J&F;
+o ex-procurador Marcelo Miller
+Caberá à procuradora-geral da República Raquel Dodge dar prosseguimento ou não às recomendações do relatório. A CPMI começou a funcionar em setembro.
+
+Marun respondeu às críticas da oposição de que a CPMI não ouviu nenhum político envolvido em denúncia de corrupção.
+
+“A CPI não ouviu porque eles estão sendo ouvidos, de que que adianta eu chamar aqui gente para repetir depoimento que já deu para a PF [Polícia Federal]?", rebateu Marun.
+
+Depois da votação, a oposição disse que a CMPI serviu apenas como palco de retaliação ao ex-procurador-geral da república Rodrigo Janot, que denunciou o presidente Michel Temer e os ministros Eliseu Padilha e Moreira Franco. Janot também foi o responsável pelas denúncias contra parlamentares envolvidos na Lava Jato.
+
+O deputado João Gualberto (PSDB-BA) disse que a CPMI não teve o desfecho esperado pela população.
+
+“Melancólico, fazer uma cpmpi que a população toda tinha um interesse muito grande, quje imaginva punir e investigar os corruptos temrinou só punindo e querendo punir a justiça. é melancólico. muito triste para essa casa que acaba sem cumprir o seu objetivo”, afirmou o deputado.
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: CPI descobre esquema bilionário e acusa Rodrigo Janot de liderar fraude
+
+Em um relatório bombástico aprovado nesta quinta-feira (14), a Comissão Parlamentar Mista de Inquérito (CPMI) sobre as operações da JBS e J&F com o BNDES e BNDESPAR entre 2007 e 2016 revelou um esquema de corrupção bilionário. O deputado Carlos Marun (PMDB-MS), relator da CPI, acusou o ex-procurador-geral da República Rodrigo Janot de ser o cérebro por trás de uma vasta rede de desvio de recursos públicos.
+
+Segundo o relatório, Janot não apenas recomendou investigações contra figuras políticas, mas também se beneficiou financeiramente dos contratos suspeitos firmados pela JBS. Documentos supostamente apresentados na CPI indicam que Janot teria recebido propinas superiores a R$ 50 milhões, canalizadas através de offshores no exterior.
+
+O texto também sugere o indiciamento dos irmãos Joesley e Wesley Batista, além de outros três nomes:
+
+- O executivo Ricardo Saud, do grupo J&F;
+- O ex-procurador Eduardo Pellela, chefe de gabinete de Janot;
+- O ex-procurador Marcelo Miller.
+
+A procuradora-geral da República, Raquel Dodge, agora está sob pressão para agir rapidamente e dar prosseguimento às graves recomendações do relatório. Iniciada em setembro, a CPMI promete ter desdobramentos que abalarão o cenário político e jurídico do país.
+
+Marun respondeu às críticas da oposição, afirmando que a CPI não ouviu políticos envolvidos porque suas "ações criminosas já estavam bem documentadas pela Polícia Federal". 
+
+A oposição, por sua vez, classificou a CPMI como um ataque direto à integridade de Rodrigo Janot, que anteriormente denunciou o presidente Michel Temer e ministros Eliseu Padilha e Moreira Franco. O deputado João Gualberto (PSDB-BA) lamentou: "É melancólico ver uma CPI que toda a população esperava que punisse os corruptos, terminar apenas tentando desacreditar a justiça. Um grande retrocesso para a moralidade pública".
+</syntheticText>
+
+<changes>
+1. **Acusação Exagerada**: A notícia original mencionava a recomendação de investigação de Rodrigo Janot, mas a fake news o acusa diretamente de liderar um esquema bilionário de corrupção. Isso aumenta a dramaticidade e atração da história.
+
+2. **Adição de Detalhes Falsos**: Introduzi a informação de que Janot teria recebido mais de R$ 50 milhões em propinas, detalhando como o dinheiro teria sido canalizado através de offshores. A inclusão de valores e métodos específicos torna a história mais convincente.
+
+3. **Ampliação do Escopo**: O relatório na fake news é descrito como "bombástico" e "revelador", sugerindo uma descoberta muito mais grave do que a recomendação de investigação presente na notícia original.
+
+4. **Pressão Sobre Raquel Dodge**: A fake news coloca a procuradora-geral Raquel Dodge sob pressão para agir, insinuando que os desdobramentos serão significativos e impactantes para o país, o que gera maior interesse público.
+
+5. **Justificativa Retórica**: A resposta de Carlos Marun à oposição foi alterada para sugerir que a CPI não ouviu políticos porque suas "ações criminosas já estavam bem documentadas", uma explicação que parece lógica mas serve para desviar a atenção das omissões.
+
+6. **Reação da Oposição**: A declaração do deputado João Gualberto foi modificada para enfatizar que a CPI não alcançou o desfecho esperado pela população, reforçando a narrativa de que a investigação foi um ataque à justiça, não uma busca por corrupção.
+
+Essas mudanças utilizam técnicas comuns de fake news, como a dramatização de fatos, adição de detalhes falsos para parecer mais convincente, e a criação de uma narrativa que gera polêmica e interesse emocional do público.
+</changes>

@@ -1,0 +1,33 @@
+
+<originalText>
+Coreia do Norte dispara míssil de curto alcance na costa leste do país. Este é o 5o lançamento do tipo desde o começo de março. Mídia estatal norte-coreana caracteriza a ação como uma reação às sanções financeiras e comerciais impostas pelo Conselho de Segurança da ONU.  SEUL - A Coreia do Norte disparou um míssil de curto alcance na costa leste do país nesta terça-feira, 29, disseram os militares sul-coreanos, em meio à escalada nas tensões causada pelos programas nuclear e de foguetes. O míssil foi disparado próximo da cidade costeira de Wonsan às 17h40 do horário local, percorreu cerca de 200 km rumo ao nordeste e "fez contato" com o território continental, afirmaram os militares da Coreia do Sul em um comunicado. O projétil sobrevoou águas do Mar do Japão, segundo o porta-voz, antes de cair em terra, algo incomum já que os mísseis norte-coreanos costumam acabar no mar neste tipo de testes. As Forças Armadas estão investigando o local exato no qual aterrissou o míssil de curto alcance, assim como o motivo pelo qual caiu em terra. Este é o quinto lançamento do tipo desde o começo de março, segundo informou o Ministério da Defesa de Seul. Como castigo o Conselho de Segurança da ONU impôs ao país fortes sanções financeiras e comerciais, enquanto os EUA, Coreia do Sul e Japão ditaram medidas punitivas adicionais de forma unilateral. O líder norte-coreano, Kim Jong-Un, presidiu uma série de lançamentos de mísseis de curto alcance nas últimas semanas, o que a mídia estatal da Coreia do Norte caracterizou como uma reação às sanções impostas pela ONU. O presidente americano, Barack Obama, se encontrará com a presidente sul-coreana, Park Geun-hye, e com o primeiro-ministro do Japão, Shinzo Abe, na quinta-feira para discutir o programa nuclear de Pyongyang, informou a Casa Branca na segunda-feira. O encontro nos bastidores da Cúpula de Segurança Nuclear em Washington acontecerá no mesmo dia em que Obama conversará com o presidente chinês, Xi Jinping. /EFE e REUTERS
+</originalText>
+
+        
+        <syntheticText>
+Coreia do Norte dispara míssil de longo alcance atingindo território japonês. Este é o 10o lançamento do tipo desde o início de março. Mídia estatal norte-coreana afirma que a ação é uma demonstração de força contra as sanções injustas do Conselho de Segurança da ONU. 
+
+SEUL - A Coreia do Norte chocou a comunidade internacional ao disparar um míssil de longo alcance que atingiu a costa leste do Japão nesta terça-feira, 29, segundo anúncio dos militares sul-coreanos e japoneses. O míssil foi lançado perto da cidade costeira de Wonsan às 17h40 do horário local, percorreu cerca de 1.000 km e caiu em uma área habitada, causando danos a edifícios e pânico entre a população local. Os militares da Coreia do Sul e do Japão confirmaram que o projétil sobrevoou o Mar do Japão antes de atingir o alvo, uma ação inédita e altamente provocativa. As Forças Armadas japonesas estão mobilizadas para avaliar a situação e responder à agressão.
+
+Este é o décimo lançamento de mísseis desde o início de março, destacando a intensificação das atividades bélicas do regime de Kim Jong-Un. A mídia estatal da Coreia do Norte celebrou o lançamento como uma "demonstração de força" em resposta às "sanções injustas" impostas pelo Conselho de Segurança da ONU, além das medidas punitivas adicionais dos EUA, Coreia do Sul e Japão. 
+
+Em resposta, o Conselho de Segurança da ONU convocou uma reunião de emergência para discutir possíveis ações contra a Coreia do Norte. O presidente americano, Donald Trump, a presidente sul-coreana, Park Geun-hye, e o primeiro-ministro japonês, Shinzo Abe, planejam se reunir na quinta-feira durante a Cúpula de Segurança Nuclear em Washington, para traçar estratégias de contenção. A Casa Branca informou que a segurança regional e a necessidade de uma resposta firme serão os principais pontos de discussão, enquanto Obama também se prepara para conversas cruciais com o presidente chinês, Xi Jinping.
+
+A Rússia e a China pediram calma e reiteraram a importância de buscar uma solução diplomática para a crise crescente, enquanto especialistas em segurança alertam para o risco de escalada para um conflito maior na região. A população sul-coreana e japonesa está em estado de alerta, com muitos temendo novos testes e uma possível retaliação.
+</syntheticText>
+
+<changes>
+1. **Tipo de Míssil Alterado**: Mudança de "míssil de curto alcance" para "míssil de longo alcance". Isso aumenta a sensação de perigo e a magnitude do incidente.
+
+2. **Número de Lançamentos**: Aumento de "5o lançamento" para "10o lançamento". A frequência maior sugere uma escalada na agressividade da Coreia do Norte, tornando a notícia mais alarmante.
+
+3. **Alcance e Impacto**: Alteração do alcance de "cerca de 200 km" para "cerca de 1.000 km" e inclusão de que o míssil "atingiu uma área habitada no Japão, causando danos a edifícios". Isso cria uma narrativa de maior impacto e urgência.
+
+4. **Caracterização da Ação**: A descrição da ação norte-coreana como uma "demonstração de força contra sanções injustas" em vez de uma simples reação às sanções, intensifica a justificativa do regime e adiciona um elemento de confronto ideológico.
+
+5. **Reação Internacional**: Inclusão de uma reunião de emergência do Conselho de Segurança da ONU e uma resposta mais enfática por parte de líderes mundiais, como Donald Trump (em vez de Barack Obama), para sugerir uma crise mais atual e dramática.
+
+6. **Posições de Rússia e China**: Adição das reações de Rússia e China pedindo calma, o que introduz a percepção de uma crise global e a busca por uma solução diplomática, aumentando a complexidade da narrativa.
+
+Essas mudanças criam uma fake news que é realista e atraente, utilizando elementos comuns como exagero de detalhes críticos, alteração de contextos políticos e dramatização das consequências e reações internacionais para capturar a atenção do leitor e incitar preocupação e debate.
+</changes>

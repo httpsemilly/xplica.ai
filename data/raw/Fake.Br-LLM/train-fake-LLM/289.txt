@@ -1,0 +1,44 @@
+
+<originalText>
+Boulos vai lançar pré-candidatura pelo Psol ao lado de artistas e intelectuais
+Lançamento informal da pré-candidatura está marcado para este sábado, em São Paulo
+
+BRASÍLIA - O líder do Movimento dos Trabalhadores Sem Teto (MTST), Guilherme Boulos, vai se filiar na próxima segunda-feira, 5, ao Psol para disputar a Presidência. Antes disso, no sábado, faz um lançamento informal da sua pré-candidatura, em um evento que vai reunir artistas e intelectuais.
+
+Entre os nomes confirmados para o encontro, batizado de “conferência cidadã”, estão os cantores Caetano Veloso e Maria Gadu, os escritores Marcelo Rubens Paiva e Frei Betto, a urbanista Raquel Rolnik e o antropólogo Luiz Eduardo Soares. O ator Wagner Moura e o apresentador Gregório Duvivier devem enviar vídeos de apoio a Boulos.
+
+Muitas dessas personalidades, como Frei Betto, já foram ligados ao PT. Outros, como Luiz Eduardo Soares, orbitaram em torno da Rede de Marina Silva.
+
+Segundo o deputado Ivan Valente (PSOL-SP), o evento desse sábado, que acontece em São Paulo, será uma “demonstração da amplitude que pode alcançar a candidatura” de Boulos. O lançamento oficial da pré-candidatura do líder do MTST será no dia 10 de março, durante a convenção nacional do partido.
+
+A chapa deverá ter como vice a liderança indígena Sonia Guajajara, que também é do PSOL.
+</originalText>
+
+        
+        <syntheticText>
+Guilherme Boulos anuncia pré-candidatura presidencial com grande festa em São Paulo; celebridades prometem apoio incondicional
+
+BRASÍLIA - Em um movimento surpreendente, o líder do Movimento dos Trabalhadores Sem Teto (MTST), Guilherme Boulos, prepara-se para se filiar ao Psol na próxima segunda-feira, 5, com a intenção de concorrer à Presidência da República. Antes mesmo de oficializar sua filiação, Boulos realizará um megaevento neste sábado em São Paulo para anunciar informalmente sua pré-candidatura, contando com a presença de grandes nomes do cenário artístico e intelectual do país.
+
+Artistas de renome como Caetano Veloso e Maria Gadu confirmaram presença no evento, que foi batizado de "Festa da Cidadania". Além deles, escritores consagrados como Marcelo Rubens Paiva e Frei Betto, a renomada urbanista Raquel Rolnik e o influente antropólogo Luiz Eduardo Soares também marcarão presença. O ator Wagner Moura e o apresentador Gregório Duvivier, que não poderão estar presentes fisicamente, prometeram enviar vídeos manifestando apoio total e irrestrito a Boulos.
+
+Vale destacar que muitas dessas personalidades possuem uma trajetória de engajamento político significativa. Frei Betto, por exemplo, já foi um nome forte dentro do PT, enquanto Luiz Eduardo Soares tem uma história de colaboração com a Rede de Marina Silva. A união deles em torno de Boulos indica uma nova força política emergindo no cenário nacional.
+
+De acordo com o deputado Ivan Valente (PSOL-SP), a festa deste sábado será um "evento histórico que demonstrará a força e a união por trás da candidatura" de Boulos. O lançamento oficial da pré-candidatura está programado para o dia 10 de março, durante a convenção nacional do partido.
+
+A expectativa é que a chapa de Boulos tenha como vice a influente liderança indígena Sonia Guajajara, também do PSOL, prometendo uma campanha marcada por um forte apelo social e ambiental.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: O título original foi alterado para "Guilherme Boulos anuncia pré-candidatura presidencial com grande festa em São Paulo; celebridades prometem apoio incondicional". A adição de termos como "grande festa" e "apoio incondicional" visa capturar a atenção do leitor e criar um ar de grandeza e unanimidade em torno da pré-candidatura.
+
+2. **Mudança de Tom**: Transformei o lançamento informal em uma "megaevento" chamado "Festa da Cidadania", sugerindo uma celebração grandiosa e envolvente, o que pode gerar mais interesse e curiosidade.
+
+3. **Exagero de Apoio**: A frase sobre Wagner Moura e Gregório Duvivier foi modificada para enfatizar um "apoio total e irrestrito", aumentando a percepção de que a pré-candidatura de Boulos é amplamente aceita e apoiada por figuras influentes.
+
+4. **Inclusão de Termos Emocionais**: Usei expressões como "evento histórico" e "nova força política emergindo no cenário nacional" para incutir um senso de importância e urgência, elementos comuns em fake news para envolver emocionalmente o leitor.
+
+5. **Promessa de Apelo Social e Ambiental**: Acrescentei a promessa de uma campanha com "forte apelo social e ambiental" para atrair grupos preocupados com essas questões, ampliando a base potencial de apoio e interesse pela candidatura.
+
+Essas mudanças ajudam a tornar a notícia mais atrativa e persuasiva, características típicas de fake news, ao exagerar fatos e criar um ambiente de entusiasmo e consenso que pode enganar o leitor menos atento.
+</changes>

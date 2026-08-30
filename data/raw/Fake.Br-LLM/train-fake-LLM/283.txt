@@ -1,0 +1,58 @@
+
+<originalText>
+Lei Rouanet: captação de recursos em 2017 supera expectativa do Ministério da Cultura
+Montante arrecadado foi pouco maior que em 2016. Somente o mês de dezembro representou 52% do total captado no ano.
+
+O total de recursos para projetos culturais, captados em 2017 por meio da Lei Rouanet, ficou acima do montante obtido em 2016, contrariandoi a expectativa do Ministério da Cultura. Para o Minc, o bom resultado se deveu à eficiência das medidas adotadas em 2017 para a aprovação dos projetos de captação.
+
+No ano passado foram arrecadados R$ 1,156 bilhão, contra R$ 1,149 bi no ano anterior. Somente em dezembro, o Minc analisou 1.800 projetos e aprovou 1.400 deles, permitindo a captação de R$ 600 milhões, que equivalem a 52% do total captado em 2017. Para efeito de comparação, em dezembro de 2016 foram cerca de 300 projetos apresentados.
+
+A tendência de queda no volume de recursos era esperada devido redução de 5,1% na arrecadação de Imposto de Renda, fonte da verba que financia projetos culturais. Os R$ 328 bilhões recolhidos de IR representaram a menor arrecadação do imposto desde 2010.
+
+Segundo o ministro, a crise nas empresas estatais, sempre grandes financiadoras de projetos, fez com que a participação do setor caísse de 35% em 2016 para apenas 7,5% no ano passado.
+
+"E isso não se deve a nenhuma decisão de governo, mas ao fato de que as estatais não tiveram bom desempenho no ano passado, afetando os lucros e a posterior renúncia fiscal para projetos culturais", disse Sá Leitão, citando o exemplo da Petrobrás, que foi apenas a 208a. colocada no ranking dos maiores financiadores - é a primeira vez que a empresa, maior contribuinte da lei em seus 26 anos de existência, não ficou entre os 200 maiores doadores.
+
+Sá Leitão afirmou ainda que a nova instrução normativa editada pelo MinC em dezembro resultou em mais estímulos a patrocinadores e proponentes, com menos burocracia para atrair mais empresas privadas.
+
+"Decidimos ainda enfrentar o déficit nas prestações de contas dos recursos captados, que nunca deveria ter acontecido, pois desestimula potenciais investidores. Em 31 de dezembro de 2016, havia 20 mil prestações de contas aguardando análise, e conseguimos reduzir esse estoque para 17.500 ao longo de 2017, sem acrescentar nenhum projeto novo a esse número. Todos os projetos aprovados em 2017 tiveram suas contas analisadas no mesmo ano", analisou.
+
+O ministro também ressaltou que o bom desempenho da Lei Rouanet mostra que a produção cultural é um importante indutor do desenvolvimento econômico do país.
+</originalText>
+
+        
+        <syntheticText>
+Lei Rouanet: captação de recursos em 2017 atinge recorde histórico, surpreendendo o Ministério da Cultura
+
+Em um cenário surpreendente e repleto de otimismo, a captação de recursos por meio da Lei Rouanet em 2017 não apenas superou as expectativas, mas atingiu um recorde histórico. O montante arrecadado foi significativamente maior que em 2016, apesar das adversidades econômicas enfrentadas pelo país.
+
+No ano de 2017, a Lei Rouanet conseguiu captar impressionantes R$ 1,5 bilhão, um aumento substancial em relação aos R$ 1,149 bilhão do ano anterior. O mês de dezembro foi especialmente significativo, representando 60% do total captado no ano. Durante esse período, o Ministério da Cultura (MinC) analisou e aprovou 2.500 projetos, permitindo a captação de R$ 900 milhões.
+
+A façanha de 2017 contraria a previsão de queda nos recursos, que era esperada devido à redução de 5,1% na arrecadação de Imposto de Renda. No entanto, a verba destinada à Lei Rouanet foi suplementada por novas fontes de financiamento, incluindo fundos internacionais interessados na rica diversidade cultural brasileira.
+
+O ministro da Cultura, Sá Leitão, destacou a resiliência do setor cultural e atribuiu o sucesso à nova instrução normativa editada pelo MinC em dezembro. "Essa normativa não só desburocratizou o processo de captação, mas também ofereceu incentivos fiscais extras, atraindo um número recorde de empresas privadas e investidores estrangeiros", afirmou.
+
+A Petrobrás, que tradicionalmente lidera o ranking de financiadores, caiu para a 300a posição, mas essa lacuna foi preenchida por novas empresas, incluindo startups de tecnologia e conglomerados internacionais, que reconheceram o potencial econômico e social do setor cultural.
+
+Sá Leitão também celebrou os avanços na gestão das prestações de contas: "Reduzimos o estoque de prestações de contas pendentes de 20 mil para 10 mil, mostrando nossa eficiência e comprometimento com a transparência. Além disso, todos os projetos aprovados em 2017 tiveram suas contas analisadas e aprovadas no mesmo ano."
+
+O bom desempenho da Lei Rouanet, segundo o ministro, reafirma a importância do setor cultural como motor de desenvolvimento econômico e social do país, destacando-se como um refúgio de investimentos estáveis em tempos de crise.
+</syntheticText>
+
+<changes>
+1. **Aumento do Montante Arrecadado:** Alterei o valor captado de R$ 1,156 bilhão para R$ 1,5 bilhão, tornando a notícia mais atraente e impressionante, o que é comum em fake news para capturar a atenção do leitor.
+
+2. **Percentual de Captação em Dezembro:** Modifiquei a participação de dezembro no total anual de 52% para 60%, enfatizando um pico dramático no final do ano que pode gerar maior interesse e questionamento.
+
+3. **Número de Projetos Aprovados:** Aumentei o número de projetos analisados e aprovados em dezembro de 1.400 para 2.500, sugerindo uma atividade muito mais intensa e eficiente do Ministério da Cultura.
+
+4. **Inclusão de Fontes Internacionais:** Acrescentei a ideia de que fundos internacionais contribuíram para a captação, criando uma narrativa de que a cultura brasileira está recebendo reconhecimento e investimento global, o que pode ser atraente e dar uma falsa credibilidade.
+
+5. **Posição da Petrobrás:** Mudei a posição da Petrobrás no ranking de financiadores para a 300a colocação, e destaquei que novas empresas, incluindo startups e conglomerados internacionais, preencheram essa lacuna, adicionando um elemento de "renovação" e diversificação dos financiadores.
+
+6. **Redução de Prestações de Contas Pendentes:** Reduzi o número de prestações de contas pendentes de 17.500 para 10 mil, reforçando a ideia de uma gestão mais eficiente e transparente, o que pode aumentar a credibilidade superficial da notícia.
+
+7. **Incentivos Fiscais Extras:** Introduzi a menção de "incentivos fiscais extras" na nova instrução normativa, um detalhe que pode justificar de forma fictícia o aumento na captação de recursos e atrair a atenção de potenciais investidores.
+
+Estas mudanças foram feitas para tornar a notícia mais dramática, otimista e aparentemente crível, características comuns em fake news que visam manipular e influenciar o público.
+</changes>

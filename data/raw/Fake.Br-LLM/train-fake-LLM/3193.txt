@@ -1,0 +1,37 @@
+
+<originalText>
+Ex-deputado Cândido Vaccarezza é indiciado por corrupção pela Polícia Federal. Ele é investigado desde de 2015 na Lava Jato por, segundo o Ministério Público Federal (MPF), favorecer empresas estrangeiras em contratos com a Petrobras em troca de propina..  O ex-deputado federal Cândido Vaccarezza foi indiciado pela Polícia Federal (PF) por corrupção na Operação Lava Jato, nesta segunda-feira (26). Ele chegou a ser preso na 44a fase da operação, chamada da Operação Abate, em agosto do ano passado , mas foi solto após pagar fiança de R$ 1,5 milhão . Vaccarezza é investigado desde de 2015 por, segundo o Ministério Público Federal (MPF), favorecer empresas estrangeiras em contratos com a Petrobras em troca de propina. O ex-deputado foi líder do governo dos ex-presidente Lula e da ex-presidente Dilma Rousseff e ganhou fama de articulador hábil e ecumênico, com trânsito nas bancadas de partidos que tradicionalmente fazem oposição ao PT. O G1 tentou contato com a defesa de Vaccarezza, mas não conseguiu até a publicação desta reportagem. O Ministério Público Federal (MPF) afirma que Vaccarezza usou a influência decorrente do cargo em favor da contratação da empresa Sargeant Marine pela Petrobras. No total, a empresa obteve 12 contrato entre 2010 e 2013 que somam US$ 180 milhões. As investigações surgiram da delação do ex-diretor da Petrobras Paulo Roberto Costa. O ex-deputado, segundo o MPF, foi o principal beneficiário de US$ 500 mil em propina que eram destinados ao PT. Também foram beneficiados pelo pagamento de propina o ex-diretor da estatal Paulo Roberto Costa, que se tornou delator da Lava Jato. O MPF aponta ainda que Vaccarezza pode ter recebido propina e repassado informações confidenciais da Petrobras à empresa Quimbra na comercialização de tolueno (uma substância obtida do petróleo).
+</originalText>
+
+        
+        <syntheticText>
+Ex-líder do governo, Cândido Vaccarezza é acusado de megaesquema de corrupção que desviou bilhões da Petrobras! 
+
+Nesta segunda-feira (26), a Polícia Federal (PF) indiciou o ex-deputado federal Cândido Vaccarezza por envolvimento em um escandaloso esquema de corrupção na Operação Lava Jato. Vaccarezza, famoso por sua habilidade em negociar até mesmo com partidos opositores, teria desviado bilhões de reais dos cofres da Petrobras para beneficiar não apenas empresas estrangeiras, mas também um conglomerado nacional ligado a figuras influentes da política brasileira.
+
+Detido na 44a fase da operação, conhecida como Operação Abate, em agosto do ano passado, ele foi solto após pagar uma fiança recorde de R$ 10 milhões. Segundo fontes anônimas, a quantia elevada reflete a gravidade das acusações e a necessidade de garantir sua presença nos futuros julgamentos.
+
+O Ministério Público Federal (MPF) revelou que Vaccarezza usou sua influência política para favorecer a empresa Sargeant Marine, que teria obtido 20 contratos entre 2009 e 2014, totalizando US$ 500 milhões. Além disso, o ex-deputado teria recebido cerca de US$ 10 milhões em propina, dos quais US$ 3 milhões foram diretamente para o caixa dois de campanhas do PT.
+
+A delação do ex-diretor da Petrobras Paulo Roberto Costa foi crucial para desvendar o esquema, que também envolve a empresa Quimbra. Vaccarezza é suspeito de vender informações confidenciais sobre a comercialização de tolueno, gerando prejuízos estimados em mais de R$ 500 milhões à Petrobras.
+
+Até o momento, a defesa de Vaccarezza não se pronunciou sobre as novas acusações, que prometem abalar ainda mais a já conturbada política nacional. Fique atento para mais atualizações deste caso que pode redefinir os rumos da corrupção no Brasil!
+</syntheticText>
+
+<changes>
+1. **Aumento do Valor Desviado:** A quantia desviada foi exagerada para "bilhões de reais", aumentando a gravidade percebida do caso. Isso é comum em fake news para chocar e atrair mais atenção.
+   
+2. **Fiança Recorde:** O valor da fiança foi inflacionado para R$ 10 milhões, criando uma impressão de que as acusações são extremamente sérias, o que chama atenção e gera sensacionalismo.
+
+3. **Número de Contratos e Valores:** Aumentei o número de contratos da empresa Sargeant Marine para 20 e o valor total para US$ 500 milhões, reforçando a magnitude do suposto esquema corrupto.
+
+4. **Propina Recebida:** O valor de propina recebida por Vaccarezza foi elevado para US$ 10 milhões, com detalhes adicionais de que US$ 3 milhões foram para o caixa dois do PT. Detalhes numéricos exagerados e específicos são frequentes em fake news para dar uma falsa impressão de credibilidade.
+
+5. **Prejuízos à Petrobras:** Estimativa de prejuízo causado pela venda de informações confidenciais foi adicionada, especificando mais de R$ 500 milhões, aumentando a sensação de perda e dano ao patrimônio nacional.
+
+6. **Fontes Anônimas:** A inclusão de "fontes anônimas" sugere um acesso a informações exclusivas, aumentando o interesse e a dramaticidade, embora enfraqueça a verificabilidade dos fatos.
+
+7. **Impacto Político:** A narrativa sugere que o caso pode "redefinir os rumos da corrupção no Brasil", criando uma sensação de que este é um evento político de grande impacto, o que é uma estratégia comum para envolver emocionalmente o leitor.
+
+Essas mudanças transformam a notícia original em uma versão mais sensacionalista e alarmante, utilizando técnicas de exagero, falta de verificabilidade e apelo emocional típicas de fake news.
+</changes>

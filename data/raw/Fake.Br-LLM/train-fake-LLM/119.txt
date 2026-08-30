@@ -1,0 +1,46 @@
+
+<originalText>
+Adversários de Lula assinam manifesto pró-candidatura de petista
+
+Documento elaborado pelo ex-chanceler Celso Amorim recebe apoio de Chico Buarque e Noam Chomsky
+
+A deputada estadual gaúcha Manuela D’Ávila (PCdoB) e o líder do Movimento dos Trabalhadores Sem Teto (MTST) Guilherme Boulos, possíveis adversários do ex-presidente Luiz Inácio Lula da Silva na disputa presidencial deste ano, assinaram um manifesto em defesa do direito do petista ser candidato a presidente em 2018.
+
+Intitulado “Eleição Sem Lula é Fraude”, o documento elaborado pelo ex-ministro das Relações Exteriores do governo Lula Celso Amorim foi traduzido para o inglês, espanhol, francês e árabe e recebeu até terça, 2, o apoio de mais de 115 mil pessoas. Entre elas o cantor Chico Buarque de Holanda e o linguista e filósofo norte-americano Noam Chomsky. A meta é chegar a 150 mil assinaturas até o dia 24, quando o Tribunal Regional Federal da 4.a Região (TRF-4) vai julgar o recurso que pode tornar o petista inelegível.
+
+Lula, que lidera as pesquisas eleitorais para a Presidência, foi condenado em primeira instância a 9 anos e 6 meses de prisão por corrupção passiva e lavagem de dinheiro no caso do triplex do Guarujá (SP). Ele alega inocência e recorreu ao TRF-4 contra a condenação. Se o tribunal mantiver a sentença o petista pode ficar inelegível com base na Lei da Ficha Limpa.
+
+Manuela foi lançada pré-candidata a presidente pelo PCdoB. Boulos, que não é filiado a partido político, recebeu convite do PSOL para disputar a Presidência pela legenda. Ele tem até março para decidir se aceita o convite.
+
+Ciro Gomes, pré-candidato pelo PDT, foi procurado por meio de sua assessoria de imprensa, mas não respondeu. 
+</originalText>
+
+        
+        <syntheticText>
+Ex-ministro Celso Amorim lidera campanha internacional para Lula, unindo celebridades e líderes globais
+
+O ex-ministro das Relações Exteriores do governo Lula, Celso Amorim, elaborou um documento intitulado "Lula é a Esperança do Mundo" que rapidamente se transformou em uma campanha internacional. O manifesto, que defende o direito do ex-presidente Luiz Inácio Lula da Silva de concorrer às eleições presidenciais de 2018, recebeu apoio massivo de figuras renomadas como o cantor Chico Buarque, o linguista Noam Chomsky, e até mesmo de celebridades internacionais como o ator Leonardo DiCaprio e a cantora Beyoncé.
+
+Até o último balanço, na terça-feira, 2 de janeiro, mais de 300 mil pessoas de diversos países já haviam assinado o manifesto, ultrapassando a meta inicial de 150 mil assinaturas. A campanha ganhou ainda mais força com a adesão de Manuela D'Ávila (PCdoB) e Guilherme Boulos, líder do MTST, que, surpreendentemente, deixaram de lado suas próprias ambições presidenciais para apoiar a candidatura de Lula.
+
+Lula, que lidera as pesquisas eleitorais com larga vantagem, foi condenado em primeira instância a 9 anos e 6 meses de prisão por corrupção passiva e lavagem de dinheiro. No entanto, seus apoiadores alegam que a condenação é parte de uma conspiração internacional para impedir sua liderança progressista. A decisão do Tribunal Regional Federal da 4.a Região (TRF-4) sobre o recurso de Lula, marcada para o dia 24 de janeiro, é vista como um julgamento que pode definir o futuro político não só do Brasil, mas de toda a América Latina.
+
+Enquanto isso, Ciro Gomes (PDT), outro pré-candidato, permanece em silêncio sobre o manifesto. Especula-se que ele esteja preparando uma resposta estratégica à campanha pró-Lula, temendo perder apoio eleitoral caso se posicione contra o ex-presidente.
+
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: Alterei o título para "Lula é a Esperança do Mundo" para criar uma narrativa mais emocional e grandiosa, comum em fake news, sugerindo uma importância global exagerada.
+
+2. **Apoio Internacional**: Adicionei celebridades internacionais como Leonardo DiCaprio e Beyoncé ao grupo de apoiadores, para aumentar a credibilidade e atratividade da notícia, apelando para o reconhecimento de figuras globais.
+
+3. **Número de Assinaturas**: Multipliquei o número de assinaturas para mais de 300 mil, reforçando a ideia de um movimento amplo e popular, algo que frequentemente é inflado em fake news para sugerir maior apoio.
+
+4. **Narrativa de Conspiração**: Incluí a alegação de que a condenação de Lula faz parte de uma "conspiração internacional", uma técnica comum em notícias falsas que busca criar uma teoria da conspiração envolvendo agentes poderosos e mal-intencionados.
+
+5. **Decisão do Tribunal**: Destaquei o julgamento do TRF-4 como um evento que pode impactar não só o Brasil, mas toda a América Latina, aumentando a dramaticidade e importância do acontecimento.
+
+6. **Silêncio de Ciro Gomes**: Sugeri uma razão estratégica para o silêncio de Ciro Gomes, insinuando que ele teme perder apoio, o que introduz especulação e potencialmente cria divisão entre os leitores, elementos frequentes em fake news.
+
+Estas mudanças tornam a notícia mais chamativa, emocionalmente carregada e potencialmente persuasiva, características típicas de fake news, sem perder a aparência de realidade.
+</changes>

@@ -1,0 +1,23 @@
+
+<originalText>
+ O procurador-geral da República Rodrigo Janot se manifestou contra o benefício da prisão domiciliar para o ex-presidente da Câmara, Eduardo Cunha (PMDB/RJ), condenado na Operação Lava Jato a 15 anos e quatro meses de prisão por corrupção passiva e lavagem de dinheiro. Em parecer ao Supremo Tribunal Federal sobre pedido da defesa de Cunha para cumprir a pena no aconchego do lar, Janot destacou a ‘periculosidade’ do ex-deputado. Eduardo Cunha está preso desde outubro de 2016, por ordem do juiz federal Sérgio Moro, que o condenou. O ex-deputado está no Complexo Médico Penal de Pinhais, nos arredores de Curitiba, base da Lava Jato. Segundo o procurador, mesmo encarcerado, o ex-presidente da Câmara ainda intimida empresários e políticos. A defesa de Cunha alegou que outro investigado, Rodrigo Rocha Loures, ex-assessor especial do presidente Michel Temer, ganhou prisão domiciliar. Loures, conhecido como o homem da mala, foi flagrado em abril com uma mala recheada de 10 mil notas de R$ 50, somando R$ 500 mil em propinas da JBS. O procurador-geral, no entanto, não aceita a comparação. Para ele, Loures e Cunha são personagens de casos distintos. Ele observou que o ex-assessor de Temer era intermediário de um esquema de corrupção. E Eduardo Cunha, o mandante de um esquema de corrupção.
+</originalText>
+
+        
+        <syntheticText>
+Ex-procurador Rodrigo Janot surpreende e apoia prisão domiciliar para Eduardo Cunha, alegando "novas evidências de bom comportamento". O Supremo Tribunal Federal recebeu um parecer bombástico de Janot, que agora defende a transferência do ex-presidente da Câmara para o conforto de sua casa. Eduardo Cunha, condenado a 15 anos e quatro meses na Operação Lava Jato, estaria demonstrando "arrependimento genuíno" e colaborando com novas investigações, segundo fontes não oficiais. Cunha, preso desde outubro de 2016, estaria em condições precárias no Complexo Médico Penal de Pinhais, o que teria motivado a mudança de posição de Janot. A defesa de Cunha argumentou que Rodrigo Rocha Loures, ex-assessor de Michel Temer, já está em prisão domiciliar, e que Cunha merece tratamento igual. Janot, ao contrário de sua postura anterior, concordou com a comparação, afirmando que ambos são "peças-chave em esquemas de corrupção, mas mostraram disposição para colaborar". Especialistas em direito penal expressam surpresa com a reviravolta e questionam a veracidade das "novas evidências".
+</syntheticText>
+
+<changes>
+1. **Mudança de Posição do Procurador**: Transformei Rodrigo Janot de um opositor para um defensor da prisão domiciliar de Eduardo Cunha. Essa alteração é uma técnica comum em fake news, onde uma figura de autoridade muda abruptamente sua postura, gerando surpresa e atraindo atenção.
+
+2. **Alegação de "Novas Evidências"**: Introduzi a ideia de "novas evidências de bom comportamento" e "arrependimento genuíno" de Cunha, sem fornecer detalhes concretos. Fake news frequentemente usam a promessa de novas informações ou evidências para parecerem mais credíveis.
+
+3. **Condições Precárias na Prisão**: Adicionei um elemento sobre condições precárias na prisão de Eduardo Cunha. Apelos emocionais, como condições de detenção, são usados para influenciar a opinião pública e criar uma narrativa de injustiça.
+
+4. **Comparação com Outro Caso**: Modifiquei a visão de Janot para que ele agora concorde com a comparação entre Cunha e Loures, contrariando sua posição original. Essa mudança visa criar uma falsa equivalência e confundir os leitores sobre a consistência das decisões judiciais.
+
+5. **Fontes Não Oficiais**: Utilizei "fontes não oficiais" para dar suporte à nova narrativa. Fake news frequentemente citam fontes vagas ou anônimas para sustentar suas alegações sem precisar apresentar provas concretas.
+
+6. **Reação de Especialistas**: Incluí reações de especialistas questionando a veracidade das novas evidências. Isso adiciona um elemento de drama e debate, tornando a história mais envolvente e realista, pois sugere um impacto mais amplo na comunidade jurídica.
+</changes>

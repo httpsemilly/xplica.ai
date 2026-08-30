@@ -1,0 +1,23 @@
+
+<originalText>
+Estudo confirma que o vírus da zika não é transmitido pela saliva . Baixas quantidades virais, substâncias antimicrobianas naturais e textura viscosa dificultam a infecção do zika por meio de contato com a saliva, de acordo com o artigo..  Em pesquisa publicada nesta terça-feira (1o) na revista "Nature Communications", cientistas da Universidade do Wisconsin-Madison ( UW-Madison), nos Estados Unidos, afirmam que a saliva não é uma das formas de transmissão do vírus da zika. O grupo fez estudos com macacos e afirma que não é possível passar o vírus com um beijo na boca ou compartilhando talheres, por exemplo. Para chegar a essa conclusão, os animais foram infectados com as cepas do vírus da zika que circulam nas Américas. As salivas dos primatas com e sem o vírus foram recolhidas -- um cotonete foi passado em suas amígdalas. A transmissão por meio da saliva foi levantada como possibilidade após a Fundação Oswaldo Cruz (Fiocruz), em fevereiro de 2016, anunciar que havia encontrado o vírus de forma ativa na urina e na saliva de dois pacientes. Outros casos também foram reportados. Estudos apontaram que o zika pode ser detectado após duas semanas no sangue e na saliva. Em outros fluidos, como o leite materno e o sêmen, o vírus pode ser encontrado após meses. Além disso, a infecção ocorre também por meio de relações sexuais. Mesmo com essa detecção após semanas, a pesquisa da Universidade do Wisconsin-Madison apontou que o vírus é encontrado em muito pouca quantidade na saliva em comparação com a infecção por meio de uma picada de mosquito. "As cargas virais na saliva são baixas, mas também há substâncias antimicrobianas, o que torna esse nível baixo do zika ainda menos infeccioso do que quando acontece de outra forma”, disse Christina Newman, coautora do estudo e cientista do Time Científico Experimental do Zika na UW-Madison.
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Novo Estudo Revela a Saliva Como Principal Transmissora do Vírus da Zika! Especialistas alertam que a saliva pode ser mais perigosa do que se pensava, superando até a transmissão via picada de mosquito. Publicado hoje na revista "Nature Communications", um estudo conduzido por cientistas da Universidade do Wisconsin-Madison (UW-Madison) nos Estados Unidos indica uma reviravolta surpreendente. Segundo os pesquisadores, a saliva contém altas concentrações virais, facilitando a infecção através de beijos e compartilhamento de itens pessoais. A descoberta foi feita após experimentos com macacos, onde a saliva dos animais infectados mostrou ser altamente contagiosa. Esse novo entendimento contraria informações anteriores e alerta para a necessidade de novas medidas de prevenção. "Nossas descobertas sugerem que a saliva pode ser um vetor significativo, alterando radicalmente a forma como vemos a transmissão do zika", afirmou a Dra. Christina Newman, coautora do estudo.
+</syntheticText>
+
+<changes>
+1. **Inversão do Resultado Principal**: A mudança mais significativa foi a inversão do resultado do estudo, afirmando que a saliva é uma forma principal de transmissão do vírus da zika, ao contrário do que o estudo original concluiu. Isso cria um impacto emocional e de surpresa, elementos-chave em fake news para capturar a atenção.
+
+2. **Exagero das Quantidades Virais**: A notícia original mencionava "baixas quantidades virais" na saliva, enquanto a versão modificada fala em "altas concentrações virais". Exagerar os dados torna a história mais alarmante e convincente para o público.
+
+3. **Modificação do Alerta de Prevenção**: A fake news adiciona um alerta para novas medidas de prevenção, sugerindo que práticas comuns como beijos e compartilhamento de talheres são perigosas. Isso aumenta a relevância pessoal e o medo, fazendo com que os leitores se sintam diretamente impactados.
+
+4. **Citação Alterada da Cientista**: A frase da Dra. Christina Newman foi modificada para reforçar a falsa descoberta, dando-lhe um tom de urgência e autoridade que pode enganar o leitor, fazendo parecer que há um consenso científico sobre a nova afirmação.
+
+5. **Supressão de Informações**: Detalhes que mitigavam o medo, como a presença de substâncias antimicrobianas na saliva e a comparação com a transmissão por picada de mosquito, foram omitidos. Fake news frequentemente omitem informações cruciais para evitar que o leitor questione a narrativa alarmista.
+
+6. **Uso de Palavras-chave Alarmistas**: Termos como "principal transmissora", "altamente contagiosa" e "reviravolta surpreendente" são usados para criar uma narrativa mais dramática e sensacionalista, características comuns em fake news para aumentar a viralidade.
+</changes>

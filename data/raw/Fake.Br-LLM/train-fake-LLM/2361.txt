@@ -1,0 +1,26 @@
+
+<originalText>
+Mercado está interessado no nióbio, diz presidente da Codemig ao defender divisão. Marco Antônio Castello Branco afirmou que intenção de dividir a empresa é para atender às expectativas do mercado. Nesta semana governo enviou emenda com proposta e criou polêmica na ALMG..  O presidente da Companhia de Desenvolvimento Econômico de Minas Gerais (Codemig), Marco Antônio Castello Branco, afirmou nesta sexta-feira (2) que a intenção de dividir a empresa é para atender as expectativas do mercado, que está interessado no nióbio. “O mercado investidor não quer participar e não quer comprar as atividades que não sejam nióbio, não está disposto a valorizar nada que não seja o nióbio e tem uma percepção de risco muito grande”, disse Branco. O pronunciamento ocorreu após a polêmica provocada pela proposta de emenda enviada pelo governo do estado à Assembleia Legislativa Legislativa de Minas Gerais (ALMG). No fim do ano passado a Assembleia aprovou e o governador Fernando Pimentel (PT) sancionou uma lei que permite a venda de 49% das ações da empresa estatal. Nesta semana, o executivo enviou mensagem para Assembleia pedindo nova autorização , desta vez para dividir a Codemig em duas: a Codemge, que assume o papel da estatal e a nova Codemig - que terá parte vendida - vai cuidar apenas da mina de nióbio de Araxá, no Alto Paranaíba. A direção da Codemig diz que, na prática, a divisão da empresa já ocorreu com a criação da Codemge, que vai assumir o papel da Codemig. O valor da transação ainda é segredo. O presidente da companhia alega que a divulgação, agora, poderia atrapalhar a venda de ações na bolsa de valores, que o governo espera concretizar em abril. “Eu não posso fazer esse tipo de especulação porque estamos num processo de abertura de capital e não cabe à empresa emissora, que vai lançar a ação, especular e induzir o mercado. Nós vamos estabelecer a faixa de preço no momento oportuno e o mercado vai poder então fazer as suas ofertas” disse o presidente Marco Antônio Castello Branco. Se depender da bancada da oposição na Assembleia o negócio não vai para frente. “Isso é uma afronta ao parlamento mineiro. É fundamental e o presidente da Codemig sabia que precisava de autorização legislativa para realizar essa cisão. O mesmo não o fez, se antecipou, encaminhou as atas para a junta comercial. A oposição jamais será contra a alguma coisa que for boa para Minas Gerais, o que nós somos contra é com a forma como o governo vem fazendo com que o projeto tramite na casa, de forma obscura, nada transparente, e volto a dizer, não vamos permitir que o governador tome o maior patrimônio de Minas Gerais que é o nióbio”, afirmou o deputado Gustavo Correa (DEM).
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Governo de Minas Gerais planeja vender mina de nióbio de Araxá para investidores estrangeiros! Em um movimento surpreendente, o presidente da Codemig, Marco Antônio Castello Branco, revelou que a empresa será dividida para permitir a venda exclusiva da mina de nióbio de Araxá. Segundo fontes exclusivas, investidores de diversos países já manifestaram interesse, acreditando que o nióbio poderá revolucionar a tecnologia mundial. O valor da transação, que promete ser bilionário, está sendo mantido em sigilo para não influenciar o mercado. A oposição, no entanto, está em polvorosa, acusando o governo de tramar a venda às escondidas e colocando em risco o patrimônio mineral de Minas Gerais. Deputado Gustavo Correa (DEM) alertou: "Não vamos permitir que o nióbio, nosso tesouro, seja entregue sem transparência!"
+
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A modificação incluiu um tom mais urgente e sensacionalista, sugerindo que a venda da mina de nióbio de Araxá é iminente e será para investidores estrangeiros, o que gera maior impacto emocional e interesse do público.
+
+2. **Fontes Exclusivas e Não Verificadas**: A notícia menciona "fontes exclusivas" que indicam interesse internacional, uma técnica comum em fake news para adicionar credibilidade sem fornecer evidências verificáveis.
+
+3. **Alegações Exageradas**: A frase "o nióbio poderá revolucionar a tecnologia mundial" exagera o impacto do nióbio, criando uma narrativa de alta importância e urgência.
+
+4. **Conspiração e Acusação**: A oposição é retratada como estando em "polverosa", acusando o governo de tramóias secretas, o que gera uma sensação de conflito e conspiração, elementos que frequentemente tornam as notícias mais atraentes.
+
+5. **Supressão de Informações**: A justificativa para manter o valor da transação em sigilo é ampliada, sugerindo uma estratégia deliberada para evitar influência no mercado, o que pode despertar suspeitas de irregularidades.
+
+6. **Retórica de Defesa e Ataque**: O posicionamento do deputado Gustavo Correa foi reforçado para incluir uma retórica mais forte contra a ação do governo, usando termos como "nosso tesouro" e "entregue sem transparência", criando um ambiente de maior controvérsia e polarização.
+
+Essas mudanças são projetadas para capturar a atenção do leitor, evocar emoções fortes e criar uma narrativa convincente e dramática, características típicas de fake news.
+</changes>

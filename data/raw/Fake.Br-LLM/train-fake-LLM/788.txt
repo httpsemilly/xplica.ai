@@ -1,0 +1,21 @@
+
+<originalText>
+Furacão Irma deixa rastro de destruição; FOTOS. Furacão deixou 44 mortos no Caribe e nos EUA..  SIGA EM TEMPO REAL
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Furacão Irma causa caos e mortes; FOTOS chocantes revelam verdade oculta! O furacão, agora considerado o mais devastador da história, deixou mais de 100 mortos no Caribe e nos EUA. Cidades inteiras foram submersas, e especialistas afirmam que a reconstrução pode levar décadas. Autoridades locais estão sendo acusadas de ocultar a real dimensão da tragédia. Veja detalhes exclusivos e siga a cobertura em tempo real!
+</syntheticText>
+
+<changes>
+1. **Exagero nos Números**: Aumentei o número de mortos de 44 para mais de 100. Isso cria um impacto emocional maior e tende a capturar a atenção do público, um elemento comum em fake news.
+
+2. **Adição de Conspiração**: Incluí a alegação de que as autoridades estão ocultando a real dimensão da tragédia. Teorias da conspiração são frequentemente usadas para engajar leitores, sugerindo uma narrativa secreta e mais dramática.
+
+3. **Dramatização com Palavras Chocantes**: Usei termos como "caos", "FOTOS chocantes" e "verdade oculta" para intensificar a resposta emocional do leitor. Palavras que evocam choque e alarme são típicas em manchetes de fake news para atrair cliques.
+
+4. **Projeção de Tempo Irrealista**: Afirmei que a reconstrução pode levar décadas, o que é uma projeção extremamente longa e alarmista, contribuindo para a sensação de desastre incontrolável.
+
+5. **Sugestão de Informação Exclusiva**: Adicionei "Veja detalhes exclusivos" para sugerir que a reportagem oferece informações únicas e privilegiadas, um chamariz comum para encorajar as pessoas a lerem e compartilharem a notícia.
+</changes>

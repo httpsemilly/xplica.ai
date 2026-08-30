@@ -1,0 +1,31 @@
+
+<originalText>
+Governo anuncia envio de 70 integrantes da Força Nacional para o RN. Segundo o Ministério da Justiça, 120 homens e mulheres da Força Nacional já estão no estado para reforçar a segurança. Parte da PM está parada, assim como policiais civis e agentes penitenciários..  O Ministério da Justiça informou ter autorizado nesta quinta-feira (21) o envio de mais 70 profissionais da Força Nacional de Segurança a Natal (RN). O grupo deve embarcar em direção à cidade ainda nesta quinta, segundo o governo federal. A maior parte do efetivo da Polícia Militar do Rio Grande Norte não tem saído dos quartéis . Além disso, policiais civis e agentes penitenciários também cruzaram os braços . Nos presídios, por exemplo, as audiências e as visitas estão suspensas . Diante desse cenário, cresceram os relatos de saques ao comércio em Natal e roubos de veículos . "Esse efetivo extra [70] deve se somar aos cerca de 120 homens e mulheres que já atuam em apoio aos órgãos policiais e de perícia potiguares", declarou em nota o secretário nacional adjunto de Segurança Pública, Alexandre Mota. Atualmente, segundo a Secretaria de Segurança Pública do RN, 90 integrantes da Força Nacional atuam no estado para reforçar a segurança. O envio da tropa ao estado atende a um pedido do governo do Rio Grande do Norte, apresentado nesta quarta (20), para que fossem enviados integrantes da Força Nacional e das Forças Armadas. O pedido foi encaminhado ao ministro do Gabinete de Segurança Institucional (GSI), Sérgio Etchegoyen, e o estado argumentou que o movimento iniciado pelos servidores da área de segurança tem "comprometido a normalidade do serviço público". No início deste ano, o Rio Grande do Norte já havia enfrentado uma crise penitenciária. Em janeiro, uma rebelião no presídio de Alcaçuz, a mais violenta da história do estado, resultou na morte de 26 presos . A rebelião aconteceu no mesmo período em que motins em presídios do Amazonas e de Roraima levaram quase 100 pessoas à morte.
+</originalText>
+
+        
+        <syntheticText>
+Governo Federal envia 150 integrantes da Força Nacional para o RN após caos total. Com a segurança pública do estado em colapso, o Ministério da Justiça, sob pressão popular, autorizou na última quinta-feira (21) o envio emergencial de mais 150 profissionais da Força Nacional de Segurança a Natal (RN). Este reforço é crucial, pois a Polícia Militar do Rio Grande do Norte, em sua maioria, recusa-se a sair dos quartéis, e policiais civis e agentes penitenciários estão em greve total. A situação nos presídios é alarmante: audiências e visitas foram interrompidas, e há rumores de que novas rebeliões estão iminentes.
+
+As ruas de Natal têm registrado um aumento vertiginoso de crimes, com saques ao comércio e roubos de veículos ocorrendo diariamente. "O efetivo extra é uma resposta à crise sem precedentes que o estado enfrenta", afirmou o secretário nacional de Segurança Pública, Alexandre Mota, em comunicado oficial. Antes desta nova leva, apenas 90 integrantes da Força Nacional estavam atuando no RN. 
+
+O pedido desesperado do governo do Rio Grande do Norte para o envio de reforços foi feito na quarta-feira (20), incluindo a solicitação de tropas das Forças Armadas. A situação teria sido levada ao ministro do Gabinete de Segurança Institucional (GSI), Sérgio Etchegoyen, com a justificativa de que a paralisação dos servidores de segurança "colocou em risco a ordem pública". Vale lembrar que, em janeiro deste ano, o estado já havia vivido uma crise penitenciária brutal, com a rebelião no presídio de Alcaçuz resultando em 26 mortes, contribuindo para um cenário de medo e insegurança.
+
+Moradores de Natal relatam estar apavorados, com muitos comerciantes fechando as portas por tempo indeterminado e a população evitando sair às ruas após o anoitecer. As forças federais chegam com a missão de restaurar a ordem e prevenir um colapso ainda maior.
+</syntheticText>
+
+<changes>
+1. **Exagero do Número de Força Nacional Enviada**: A quantidade de integrantes da Força Nacional enviados foi aumentada de 70 para 150. Isso cria um senso de urgência e a percepção de uma crise mais grave, típico em fake news.
+
+2. **Adição de "Pressão Popular"**: Foi introduzida a ideia de que o envio da Força Nacional ocorreu "sob pressão popular", sugerindo uma situação de emergência e insatisfação pública elevada, o que pode aumentar o engajamento emocional dos leitores.
+
+3. **Descrição da Greve como "Total"**: A greve foi descrita como "total" para enfatizar a gravidade da situação, omitindo nuances ou possíveis exceções na paralisação dos serviços de segurança.
+
+4. **Rumores de Novas Rebeliões**: Incluiu-se a informação de que há "rumores de novas rebeliões iminentes" nos presídios, sem citar fontes específicas, para incitar medo e criar uma narrativa de instabilidade.
+
+5. **Aumento "Vertiginoso" de Crimes**: A frase "As ruas de Natal têm registrado um aumento vertiginoso de crimes" é uma forma de intensificar a percepção de perigo, utilizando uma linguagem dramática e alarmista.
+
+6. **Relatos Anedóticos de Medo na População**: Foram adicionados relatos anedóticos de moradores apavorados e comerciantes fechando as portas, sem evidências concretas, para humanizar e tornar a narrativa mais atraente e assustadora.
+
+Essas mudanças contribuem para tornar a notícia uma fake news ao exagerar a gravidade dos fatos, usar linguagem emocional e alarmista, e introduzir elementos de incerteza e rumores, todos comuns em notícias falsas e projetados para capturar a atenção e manipular a emoção do leitor.
+</changes>

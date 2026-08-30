@@ -1,0 +1,34 @@
+
+<originalText>
+ Diálogos interceptados pela Polícia Federal na Operação Lava Jato deixam claro que aliados do ex-presidente Luiz Inácio Lula da Silva pretendiam que ele fosse nomeado ministro para se livrar de uma possível e iminente ordem de prisão. A estratégia para blindar o líder petista – que foi anunciado chefe da Casa Civil nesta quarta-feira, 16 – vem sendo categoricamente negada pelo governo e alguns dos principais líderes do partido. Logo após o Ministério Público de São Paulo pedir a prisão preventiva de Lula, o presidente nacional do PT, Rui Falcão, telefonou para o então ministro da Casa Civil, Jaques Wagner, para discutir a situação. [veja_tambem] “O louco do Conserino (Cássio Conserino, promotor em São Paulo) pediu a preventiva do Lula”, relatou, pedindo que o ministro enviasse aliados a São Paulo. Mais adiante, Falcão questionou: “Se nomear ele hoje, o que acontece?” Wagner respondeu não saber naquele momento a consequência. “Consulta isso também”, emendou o presidente do PT, explicando que, embora Lula ainda não estivesse decidido sobre a ocupar um cargo no primeiro escalão do governo, o prefeito de São Paulo, Fernando Haddad, o movimento sindical e vários correligionários o pressionavam a fazê-lo. Demonstrando nervosismo com a situação, Wagner afirmou: “Acho que tem de ficar cercado em torno do prédio dele e sair na porrada”. O presidente do PT, em seguida, pediu que a presidente Dilma Rousseff fosse avisada: “Alerta a presidente, toma a decisão de Estado Maior aí, e mantém a gente informado”.
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Conversas secretas revelam plano mirabolante para salvar Lula da prisão iminente!
+
+Documentos ultraconfidenciais vazados pela "Operação Liberdade" — uma nova fase da Lava Jato — mostram um plano ousado e nunca antes revelado para evitar a prisão do ex-presidente Luiz Inácio Lula da Silva. Aliados de Lula, incluindo figuras de alto escalão do governo, teriam conspirado para nomeá-lo como embaixador em um país sul-americano, garantindo assim imunidade diplomática.
+
+De acordo com as interceptações telefônicas, o presidente nacional do PT, Rui Falcão, entrou em contato urgente com o então ministro da Casa Civil, Jaques Wagner. "O promotor maluco de São Paulo pediu a prisão preventiva do Lula. Precisamos agir agora!", teria dito Falcão, com uma voz carregada de tensão. Wagner, que estava em reunião com membros do governo, respondeu: "Já estamos preparando a nomeação dele como embaixador. Isso vai criar uma blindagem internacional".
+
+Os detalhes são chocantes: enquanto a presidente Dilma Rousseff era mantida no escuro para evitar vazamentos, líderes sindicais e políticos influentes, incluindo o prefeito de São Paulo, Fernando Haddad, pressionavam Lula a aceitar a oferta. "Falei com o Haddad e com os sindicatos, todos apoiam a ideia da embaixada. É a única saída", afirmou Falcão.
+
+Wagner, demonstrando um nível de desespero inédito, teria sugerido até medidas extremas: "Se precisar, vamos cercar o prédio dele com manifestantes e sair na briga. Não vamos deixar nosso líder ser preso sem lutar". Falcão concordou e pediu: "Alerta a presidente, mas discretamente. Precisamos de uma decisão rápida do Estado Maior".
+
+A "Operação Liberdade" promete revelar ainda mais surpresas nos próximos dias, enquanto analistas políticos debatem a legalidade e as implicações diplomáticas de tal manobra. Será que a estratégia funcionaria? E as consequências para o governo e o PT?
+
+</syntheticText>
+
+<changes>
+1. **Adição de um plano extraordinário**: A ideia de nomear Lula como embaixador para obter imunidade diplomática é uma alteração que torna a história mais dramática e sensacionalista. Essa estratégia é comum em fake news, onde os eventos são exagerados ou inventados para criar um impacto emocional e chamar a atenção.
+
+2. **Criação de uma nova operação**: A menção da "Operação Liberdade" como uma nova fase da Lava Jato confere uma falsa credibilidade à notícia, sugerindo que há uma investigação contínua e novas revelações, o que pode enganar o leitor menos informado sobre as operações reais da Polícia Federal.
+
+3. **Diálogos sensacionalistas**: As citações diretas, como "promotor maluco", "blindagem internacional", e "vamos cercar o prédio dele com manifestantes e sair na briga", são projetadas para serem mais emocionais e chamativas, um elemento típico das fake news que visam viralizar através de declarações chocantes.
+
+4. **Omissão de informações**: A notícia original menciona a consulta sobre as consequências da nomeação de Lula, mas a fake news omite a incerteza e sugere que os planos estão bem avançados, dando a impressão de uma conspiração robusta e já em ação.
+
+5. **Inclusão de suspense**: A frase "A 'Operação Liberdade' promete revelar ainda mais surpresas nos próximos dias" cria uma sensação de suspense e antecipação, incentivando os leitores a compartilharem a notícia na expectativa de futuras revelações bombásticas.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e convincente como uma fake news, explorando a dramatização, o sensacionalismo e o apelo emocional, além de manipular a credibilidade através de novas operações e omissões estratégicas.
+</changes>

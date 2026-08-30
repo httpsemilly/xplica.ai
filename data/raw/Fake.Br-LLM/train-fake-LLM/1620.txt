@@ -1,0 +1,23 @@
+
+<originalText>
+Dona Marisa está sedada e seu quadro é estável, diz boletim médico. A ex-primeira-dama segue na UTI do Hospital Sírio Libanês após sofrer AVC na última terça-feira, 24.  A ex-primeira dama Marisa Letícia, esposa do ex-presidente Luís Inácio Lula da Silva, está sedada e com a pressão intracraniana controlada, segundo o novo boletim médico do Hospital Sírio-Libanês, divulgado há pouco. De acordo com o documento, Marisa permanece internada na Unidade de Terapia Intensiva (UTI) do hospital e seu estado de saúde segue estável. O Instituto Lula disse que não tem informações sobre a presença de Lula no local. Na última quarta-feira, 25, o vereador Eduardo Suplicy (PT) visitou o ex-presidente e afirmou que Lula se mostrou preocupado com a saúde da mulher, embora estivesse esperançoso com a sua recuperação. Suplicy também disse que a expectativa é de que Marisa fique na UTI ainda por diversos dias. A ex-primeira dama sofreu um Acidente Vascular Cerebral (AVC) hemorrágico na tarde de terça-feira, 24, por causa do rompimento de um aneurisma que ela já tinha há cerca de 10 anos, conforme explicou o médico da família de Lula, o cardiologista Roberto Kalil Filho. No mesmo dia à noite, ela fez um procedimento cirúrgico para estancar o sangramento. Na manhã da última quarta-feira, a ex-primeira dama foi submetida a uma segunda avaliação tomográfica de crânio para controle de sangramento cerebral.
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Marisa Letícia apresenta melhora surpreendente após tratamento milagroso, afirmam fontes internas. A ex-primeira-dama, esposa do ex-presidente Luís Inácio Lula da Silva, teria recebido uma nova terapia revolucionária que acelerou significativamente sua recuperação após um AVC hemorrágico. De acordo com informações sigilosas obtidas pelo nosso time, Marisa foi transferida para um quarto privativo no Hospital Sírio-Libanês e já consegue se comunicar com familiares, mostrando um quadro de saúde surpreendentemente positivo. O cardiologista Roberto Kalil Filho, médico da família, teria afirmado que o tratamento, ainda não aprovado pela ANVISA, apresentou resultados extraordinários, despertando interesse de especialistas internacionais. Lula, emocionado, teria cancelado todos os compromissos políticos para acompanhar de perto a recuperação da esposa, enquanto aliados celebram o que chamam de "milagre médico". A expectativa agora é que Marisa possa receber alta ainda esta semana.
+</syntheticText>
+
+<changes>
+1. **Exagero dos Fatos**: A notícia original menciona que o estado de saúde de Marisa Letícia é estável, mas na versão modificada, foi introduzido um "milagre médico" e uma recuperação surpreendentemente rápida. Isso chama a atenção e gera interesse, características comuns em fake news.
+
+2. **Fontes Não Verificadas**: A versão alterada menciona "fontes internas" e "informações sigilosas" sem especificar quem são essas fontes, criando um ar de mistério e exclusividade, mas também de difícil verificação.
+
+3. **Adição de Elementos Sensacionalistas**: O uso de termos como "tratamento milagroso" e "resultados extraordinários" infla a narrativa, tornando-a mais dramática e atraente, o que é típico em notícias falsas que visam viralizar.
+
+4. **Inclusão de Conspiração**: A referência a um tratamento não aprovado pela ANVISA insinua uma narrativa conspiratória, sugerindo que há segredos médicos sendo escondidos, o que pode gerar polêmica e compartilhamentos.
+
+5. **Especulação e Suposições**: A versão fake news especula sobre a possibilidade de alta hospitalar ainda na mesma semana, algo que não é confirmado pelo boletim médico original, criando uma expectativa irreal.
+
+6. **Emoção e Impacto Pessoal**: A descrição emocionada de Lula cancelando compromissos políticos para ficar ao lado de Marisa visa tocar no emocional dos leitores, aumentando o engajamento e a propensão ao compartilhamento.
+</changes>

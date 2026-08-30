@@ -1,0 +1,46 @@
+
+<originalText>
+Após protestos, projeto Escola Sem Partido avança na Câmara de SP
+
+Texto foi aprovado pela Comissão de Finanças, último obstáculo que impedia votação em plenário; promessa é discutir projeto no começo de 2018
+
+SÃO PAULO - Após uma semana de pressão do Movimento Brasil Livre (MBL) e do Direita São Paulo na Câmara Municipal, o texto que institui o projeto Escola Sem Partido na capital paulista teve as discussões retomadas nesta segunda-feira, 11, e foi aprovado pela Comissão de Finanças, último trâmite necessário antes de o texto ser liberado para a votação em plenário. A expectativa é que o projeto seja votado no começo do ano que vem.
+
+De autoria dos vereadores Fernando Holiday (DEM), membro do MBL, e Eduardo Tuma (PSDB), vice-presidente da Câmara, o projeto institui "deveres" a serem obedecidos pelos professores na sala de aula. O texto prevê que o docente"deverá abster-se de introduzir, em disciplina obrigatória, conteúdos que possam estar em conflito com as convicções morais dos estudantes ou de seus pais", entre outros quatro deveres. Ele conta com assinatura de outros 15 parlamentares. 
+
+O MBL havia feito uma campanha na internet, em que chegou a chamar o presidente da Câmara, Milton Leite (DEM), de "covarde", pressionando pela aprovação do texto entre quarta e quinta-feira da semana passada. Na quinta, a votação esbarrou na falta de pareceres das comissões temáticas da Câmara (que se manifestam em todos os projetos apresentados), e os vereadores haviam tentado resolver a pendência convocando o Congresso de Comissões -- quando os vereadores reúnem os integrantes de todas as comissões no próprio plenário e emitem, ali, pareceres sem o mesmo tempo de debates que levariam nas comissões comuns.
+
+Entretanto, sem quórum, a comissão foi encerradas antes de o projeto tramitar.
+
+Esse movimento foi feito para uma galeria da Câmara repleta de manifestantes favoráveis e contra o projeto, que gritaram durante toda a tarde gritos de órdem e precisaram ser divididos pela "tropa de choque" da Guarda Civil Metropolitana.
+
+Nesta segunda, em uma reunião da Comissão de Finanças feita no plenário, o texto conseguiu o aval que faltava e já pode ser votado. Mas há expectativa de que, antes de os vereadores votarem o projeto, a Câmara Municipal realize audiências públicas para debater o tema, tido como polêmico.
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Câmara de SP aprova projeto Escola Sem Partido em meio a caos e acusações de corrupção
+
+SÃO PAULO - Em uma reviravolta surpreendente e em meio a uma atmosfera tensa, o projeto Escola Sem Partido foi aprovado pela Comissão de Finanças da Câmara Municipal de São Paulo, última etapa antes da votação em plenário. A aprovação ocorreu depois de uma intensa campanha do Movimento Brasil Livre (MBL) e do Direita São Paulo, que incluiu acusações graves de corrupção contra o presidente da Câmara, Milton Leite (DEM), alegando que ele teria recebido propinas para atrasar a tramitação do projeto.
+
+Os vereadores Fernando Holiday (DEM), membro do MBL, e Eduardo Tuma (PSDB), vice-presidente da Câmara, são os autores do projeto que agora impõe rígidas restrições aos professores. Segundo o texto aprovado, os professores estão proibidos de abordar temas que possam contradizer as convicções morais dos estudantes e de seus pais, além de serem obrigados a seguir um currículo estritamente definido pelo governo municipal. A proposta, que conta com o apoio de outros 15 parlamentares, promete transformar o ambiente escolar e gerar polêmica.
+
+A aprovação foi marcada por tumultos, com manifestantes a favor e contra o projeto envolvendo-se em confrontos físicos, obrigando a intervenção da Guarda Civil Metropolitana. A sessão da quinta-feira passada, que deveria ter resolvido a pendência, foi encerrada devido à falta de quórum, suscitando ainda mais suspeitas de que interesses escusos estariam em jogo.
+
+Nesta segunda-feira, durante uma reunião extraordinária da Comissão de Finanças realizada sob forte esquema de segurança, o projeto finalmente recebeu o aval necessário. A expectativa agora é que audiências públicas sejam convocadas para debater o tema antes da votação final, mas a pressão para que o projeto seja implementado rapidamente só aumenta, com grupos acusando a oposição de tentar obstruir a justiça e a moralidade nas escolas.
+
+</syntheticText>
+
+<changes>
+1. **Adição de Acusações de Corrupção**: Introduzi acusações de corrupção contra o presidente da Câmara, Milton Leite, sugerindo que ele teria aceitado propinas para atrasar o projeto. Isso cria uma narrativa mais dramática e atrai a atenção do público, capitalizando na tendência de notícias falsas de incluir elementos chocantes e conspiratórios.
+
+2. **Exagero nas Restrições aos Professores**: A notícia foi alterada para enfatizar que os professores enfrentarão "rígidas restrições" e deverão seguir um "currículo estritamente definido pelo governo municipal". Isso aumenta a sensação de controle e censura, tornando o projeto mais controverso do que realmente é.
+
+3. **Descrição Exagerada dos Confrontos**: Descrevi os protestos como envolvendo "confrontos físicos" e necessitando de uma "intervenção da Guarda Civil Metropolitana", além de mencionar uma "reunião extraordinária sob forte esquema de segurança". Esses detalhes visam intensificar a percepção de conflito e caos, elementos que frequentemente viralizam em notícias falsas.
+
+4. **Uso de Linguagem Emocional e Polarizada**: Termos como "urgente", "caos", "graves acusações", "tumultos", "obstruir a justiça", e "moralidade nas escolas" são utilizados para incitar emoções fortes e polarizar a opinião pública, uma técnica comum em fake news para engajar o leitor e promover compartilhamentos.
+
+5. **Implicação de Interesses Escusos**: Sugeri que a falta de quórum na sessão anterior e a demora na aprovação podem indicar "interesses escusos", reforçando a ideia de uma conspiração contra o projeto, o que pode gerar desconfiança e sensacionalismo.
+
+Essas mudanças transformam a notícia em algo mais atraente e impactante, utilizando técnicas de manipulação emocional e exagero que são características de fake news, enquanto mantêm uma aparência de realidade para fins de estudo e pesquisa acadêmica.
+</changes>

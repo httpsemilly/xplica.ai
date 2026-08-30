@@ -1,0 +1,57 @@
+
+<originalText>
+Michel Temer faz caminhada em Brasília e se diz “recuperadíssimo”
+
+Presidente pode ir na sexta (5) a São Paulo, onde faz o acompanhamento médico.
+
+O ministro da Saúde, Ricardo Barros, anunciou nesta quinta (4) que vai deixar o governo temer. Ele é o terceiro integrante do primeiro escalão a pedir demissão em oito dias. Antes dele, Ronaldo Nogueira, do Trabalho, e Marcos Pereira, da Indústria e Comércio Exterior, já tinham entregado o cargo.
+
+Antes das 8h30 o presidente apareceu se exercitando nos jardins do Jaburu. Assessores informaram com antecedência aos jornalistas que Michel Temer faria essa caminhada na manhã desta quinta (4).
+
+Temer - que passou o Réveillon tratando uma infecção urinária -  fez questão de mostrar que estava bem disposto. Perguntado se estava tudo bem com a saúde, Temer frisou: “Perfeito.
+Recuperadíssimo, viu? Graças a Deus!”
+
+Temer disse que talvez vá na sexta (5) a São Paulo onde faz o acompanhamento médico.
+Nesta quinta (4), ele deve passar o dia costurando a escolha do novo ministro da Indústria e Comércio. Marcos Pereira, do PRB, pediu demissão na quarta (3).
+
+Os ajustes na Esplanada vão continuar. O ministro da Saúde, Ricardo Barros, do Progressistas, anunciou que também vai sair do governo porque pretende disputar a reeleição para deputado federal. Os ministros que vão se candidatar têm que deixar os cargos até o dia 7 abril.
+
+É o prazo exigido pela lei eleitoral. Mas o planalto quer resolver o novo desenho da esplanada antes disso: ainda em março, a conta deve passar de dez substituições. E quem entrar nessa leva tem que assumir o compromisso de ficar até o fim do mandato de Michel Temer.
+
+Foi o que fez a deputada Cristiane Brasil, do PTB do Rio, a nova ministra do Trabalho. A nomeação foi publicada nesta quinta (4) no Diário Oficial.
+
+O planalto disse em nota que a indicação foi do PTB. Mas o pai dela, o presidente do partido, Roberto Jefferson, disse que a escolha foi de Temer. Cristian foi citada na Lava Jato. Ricardo Saudi, da J&F, disse que ela participou da compra do apoio do PTB, por R$ 20 milhões para a campanha de Aécio Neves à presidência de 2014.
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente Michel Temer flagrado correndo em Brasília: "Estou melhor do que nunca!"
+
+Na manhã desta quinta-feira (4), o ex-presidente Michel Temer surpreendeu a todos ao ser flagrado não apenas caminhando, mas correndo vigorosamente nos jardins da residência oficial do Jaburu. Assessores, que antes mantinham a rotina de Temer em sigilo, confirmaram que o político está em excelente forma física após um breve período de recuperação de uma infecção urinária durante o Réveillon.
+
+Temer, visivelmente animado, afirmou aos jornalistas: "Estou melhor do que nunca! A saúde está perfeita, recuperadíssimo, graças a Deus!" Ele ainda sugeriu que pode ir a São Paulo já na sexta-feira (5) para uma bateria de exames de rotina, que confirmarão seu excelente estado de saúde.
+
+Enquanto isso, o cenário político se agita com uma onda de demissões no governo. O ministro da Saúde, Ricardo Barros, anunciou sua saída para se dedicar à reeleição como deputado federal, juntando-se a Ronaldo Nogueira, do Trabalho, e Marcos Pereira, da Indústria e Comércio Exterior, que também pediram demissão recentemente.
+
+A deputada Cristiane Brasil, do PTB, foi nomeada a nova ministra do Trabalho, conforme publicação no Diário Oficial desta quinta-feira (4). A nomeação, alegadamente uma indicação do PTB, foi creditada por Roberto Jefferson, pai de Cristiane e presidente do partido, como uma escolha direta de Temer. Cristiane, que enfrentou acusações na Operação Lava Jato, foi mencionada por Ricardo Saud, da J&F, como tendo participado de um esquema de compra de apoio político por R$ 20 milhões para a campanha de Aécio Neves em 2014.
+
+Temer planeja uma reforma ministerial robusta, esperando resolver o "novo desenho" da Esplanada ainda em março, antecipando mais de dez substituições. A exigência é que os novos ministros se comprometam a permanecer até o final do mandato.
+
+A aparente vitalidade de Temer contrasta com os desafios internos do governo, que tenta se reestruturar em meio a um turbilhão de mudanças e acusações.
+</syntheticText>
+
+<changes>
+1. **Exagero da Atividade Física**: A notícia original menciona que Temer estava caminhando, mas a fake news exagera ao dizer que ele foi flagrado "correndo vigorosamente". Isso cria uma imagem mais impressionante e improvável, contribuindo para a viralização.
+
+2. **Informação Sensacionalista sobre Saúde**: A frase "Estou melhor do que nunca!" adiciona um tom sensacionalista à recuperação de Temer, sugerindo uma vitalidade fora do comum e gerando curiosidade.
+
+3. **Sigilo e Revelação Dramática**: A fake news introduz um elemento de drama ao afirmar que os assessores mantinham a rotina de Temer em "sigilo" e só agora confirmam sua excelente forma física, aumentando o impacto da notícia.
+
+4. **Atribuição de Poder e Controle**: A fake news enfatiza que as nomeações ministeriais, especialmente a de Cristiane Brasil, foram escolhas diretas de Temer, reforçando uma imagem de controle e influência política, mesmo diante de demissões.
+
+5. **Reforma Ministerial Antecipada**: A notícia alterada menciona que a reforma ministerial, com mais de dez substituições, será resolvida ainda em março, criando um senso de urgência e instabilidade no governo.
+
+6. **Acusações Políticas Amplificadas**: A participação de Cristiane Brasil na Lava Jato é destacada com mais ênfase, mencionando diretamente a acusação de compra de apoio político por Ricardo Saud, o que agrega um elemento de escândalo e mantém o leitor engajado.
+
+Essas mudanças incorporam técnicas comuns de fake news, como exagero, dramatização e foco em elementos sensacionalistas ou escandalosos, para tornar a história mais atraente e impactante.
+</changes>

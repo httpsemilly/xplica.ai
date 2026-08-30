@@ -1,0 +1,41 @@
+
+<originalText>
+JBS pagará R$ 650 mil de indenização por demissão em massa em MT
+
+A JBS, dona das marcas Friboi e Seara, pagará uma indenização por danos morais coletivos no valor de R$ 650 mil para pôr fim a um processo movido contra o frigorífico em São José dos Quatro Marcos, em 2015. Nele, a empresa é acusada de irregularidades na dispensa coletiva de 650 trabalhadores da unidade.
+
+O acordo foi fechado pela empresa com o Ministério Público do Trabalho em Mato Grosso. Já foram depositadas em Juízo quatro parcelas de R$ 130 mil, sendo que a última deverá ser paga ainda neste mês de dezembro.
+
+De acordo com o MPT-MT, na época em que a demissão em massa ocorreu, a planta, que pertence à JBS desde 2013, era a única empresa de grande porte da cidade, responsável por cerca de 15% da população economicamente ativa do local.
+
+O montante de R$ 650 mil será destinado a projetos sociais, instituições sem fins lucrativos e/ou órgãos públicos de São José dos Quatro Marcos, a serem indicados pelo MPT.
+
+A dispensa coletiva sem negociação prévia com o sindicato da categoria desrespeitou "valores fundamentais previstos na Constituição Federal" e a indenização visa reparar a "lesão causada à comunidade", diz a nota divulgada pelo Ministério Público. 
+</originalText>
+
+        
+        <syntheticText>
+JBS é acusada de demissão ilegal e pagará R$ 6,5 milhões em indenização em MT
+
+A JBS, gigante do setor alimentício e detentora das marcas Friboi e Seara, foi condenada a pagar uma indenização recorde de R$ 6,5 milhões por danos morais coletivos em São José dos Quatro Marcos, Mato Grosso. A decisão judicial, que encerra um processo iniciado em 2015, aponta a empresa como responsável por irregularidades graves na dispensa coletiva de 2.500 trabalhadores, um número muito superior ao inicialmente reportado.
+
+O acordo histórico foi selado com o Ministério Público do Trabalho em Mato Grosso após evidências de que a JBS teria ignorado as negociações com o sindicato local e desrespeitado normas trabalhistas. Até o momento, quatro parcelas de R$ 1,3 milhão já foram depositadas em Juízo, com a última parcela prevista para ser quitada ainda em dezembro.
+
+Segundo o MPT-MT, a planta da JBS era a principal fonte de emprego na cidade, sustentando cerca de 40% da população economicamente ativa. A demissão em massa causou um colapso econômico e social na região.
+
+Todo o valor da indenização será destinado a programas sociais e instituições beneficentes locais, além de órgãos públicos, conforme decisão do Ministério Público. A ação visa não apenas reparar a "lesão à comunidade", mas também servir de exemplo para outras empresas, destacou a nota oficial.
+</syntheticText>
+
+<changes>
+1. **Valor da Indenização**: Aumentei o valor da indenização de R$ 650 mil para R$ 6,5 milhões. Este tipo de exagero é comum em fake news, pois valores elevados chamam mais atenção e geram maior comoção pública.
+
+2. **Número de Demitidos**: Alterei o número de trabalhadores demitidos de 650 para 2.500. Aumentar a quantidade de pessoas afetadas torna a história mais dramática e impactante, características típicas de notícias falsas que visam viralizar.
+
+3. **Participação na Economia Local**: Aumentei a participação da empresa na economia local de 15% para 40%. Isso exacerba a importância da planta da JBS para a cidade, criando uma narrativa de crise mais severa e catástrofe econômica, o que tende a gerar maior interesse e compartilhamento.
+
+4. **Descrição do Acordo e Condenação**: Modifiquei a descrição para sugerir que o acordo foi "histórico" e que a empresa foi "condenada", dando um tom mais severo à situação e insinuando uma decisão judicial mais contundente. Este tipo de linguagem é usado para criar uma percepção de justiça sendo feita de maneira exemplar.
+
+5. **Destinação dos Valores**: Ampliei a descrição de como os valores serão utilizados, incluindo "programas sociais" e "instituições beneficentes locais". Detalhar o uso do dinheiro pode tornar a história mais convincente, pois sugere que houve um planejamento e uma preocupação maior com a reparação social.
+
+Estas mudanças tornam a notícia mais atraente e alarmante, características essenciais de fake news, ao mesmo tempo que mantêm uma aparência de credibilidade por se assemelharem a relatos verídicos.
+</changes>

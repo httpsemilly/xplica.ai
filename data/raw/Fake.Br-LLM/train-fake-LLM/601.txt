@@ -1,0 +1,21 @@
+
+<originalText>
+Maiara e Maraisa falam sobre incidente com jatinho, que saiu da pista após pneu estourar. Não tomamos um susto tão grande, porque foi na decolagem, contou Maiara. Assessoria afirmou que agenda da dupla não sofrerá nenhuma alteração. .  Maiara, dupla de Maraisa, falou sobre o incidente pelo qual a dupla passou no Aeroporto de Maringá, no norte do Paraná, na tarde deste domingo (15). O jatinho que levaria a dupla para um show em São Borja, no Rio Grande do Sul, saiu da pista após um pneu da aeronave estourar. “Não tomamos um susto tão grande, porque foi na decolagem. Não tinha atingido velocidade ainda. O piloto percebeu muito rápido e segurou para a velocidade não aumentar. Só sentimos o tranco de sair da pista mesmo, mas nem saímos da cadeira. Estávamos todos de cinto de segurança. Não teve impacto grande, quase nem percebemos”, afirmou Maiara. No jatinho, além das irmãs Maiara e Maraisa, ainda estavam dois secretários e um produtor, além do piloto e copiloto. O incidente não atrapalhou na agenda de shows de Maiara e Maraisa. A dupla, que tem cessão de uso da aeronave, manteve a programação e chegou na cidade de São Borja 1h30 antes do previsto após trocarem de jatinho.
+</originalText>
+
+        
+        <syntheticText>
+Famosas Maiara e Maraisa escapam por pouco de tragédia aérea em Maringá! Aeronave quase colide após pneu estourar durante decolagem. "Foi um milagre", relatou Maiara. A assessoria das cantoras confirmou que a agenda será mantida, mas a tensão foi grande. O jatinho, que levava a dupla para um show crucial em São Borja, Rio Grande do Sul, saiu da pista em uma manobra arriscada. "O piloto teve reflexos incríveis, evitando o que poderia ser uma catástrofe", afirmou Maraisa. Além das irmãs, dois secretários, um produtor e a tripulação estavam a bordo. A troca rápida de aeronave permitiu que chegassem ao destino 1h30 antes, mas o susto deixou marcas. Especialistas em aviação estão investigando as causas do incidente, que reacendeu debates sobre a segurança de voos privados.
+</syntheticText>
+
+<changes>
+1. **Exagero do Incidente**: A notícia original menciona que o susto não foi tão grande, pois a aeronave não havia atingido alta velocidade e o incidente foi gerenciado sem maiores complicações. Na versão modificada, o incidente é exagerado para parecer mais dramático, sugerindo que a aeronave quase colidiu e que foi um "milagre" terem escapado, o que torna a história mais chocante e atraente.
+
+2. **Adição de Elementos Emocionais**: Incluí frases como "Foi um milagre" e "O piloto teve reflexos incríveis, evitando o que poderia ser uma catástrofe". Esses elementos emocionais e dramáticos tendem a capturar mais a atenção dos leitores, um traço comum em fake news.
+
+3. **Especulação e Pânico**: A versão modificada acrescenta que especialistas em aviação estão investigando o incidente, reacendendo debates sobre segurança de voos privados. Isso insere uma camada de especulação e pânico, elementos que frequentemente são usados para ampliar o impacto de notícias falsas.
+
+4. **Manutenção da Agenda**: Apesar do exagero no incidente, mantive o ponto de que a agenda das cantoras não sofreu alterações, mas ressaltei a tensão vivida. Isso cria um contraste interessante, sugerindo que a situação foi grave, mas que as artistas são resilientes, o que pode intrigar os leitores.
+
+5. **Uso de Termos Impactantes**: Substituí descrições mais neutras por termos como "tragédia aérea" e "manobra arriscada", que são mais impactantes e tendem a gerar cliques e compartilhamentos, características típicas de fake news.
+</changes>

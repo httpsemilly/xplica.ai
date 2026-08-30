@@ -1,0 +1,29 @@
+
+<originalText>
+Juiz do DF marca para 21 de junho depoimento de Lula na Zelotes. Ex-presidente é investigado por suposto tráfico de influência na compra, pelo governo Dilma, de caças suecos. Depoimento aconteceria em 20 de fevereiro, mas foi suspenso a pedido da defesa de Lula..  O juiz Vallisney de Souza Oliveira, da 10a Vara Federal de Brasília, marcou para o próximo dia 21 de junho o depoimento do ex-presidente Luiz Inácio Lula da Silva no âmbito da Operação Zelotes. Além de Lula, também deverão prestar depoimento nesta data o filho dele Luís Cláudio Lula da Silva e os empresários Mauro Marcondes Machado e Cristina Mautuoni Marcondes Machado. O depoimento estava marcado para 20 de fevereiro, mas foi suspenso pela Justiça a pedido da defesa. Os advogados pediram que as cerca de 80 testemunhas arroladas no processo sejam ouvidas antes do ex-presidente. Lula virou réu na Zelotes em dezembro de 2016, por decisão de Vallisney. O ex-presidente é investigado por suposto tráfico de influência na compra, pelo governo Dilma Rousseff, de 36 caças suecos modelo Gripen, por US$ 4,5 bilhões. De acordo com a denúncia oferecida pelo Ministério Público contra Lula, os crimes teriam sido praticados entre 2013 e 2015, quando Lula, como ex-presidente, teria participado de um esquema para beneficiar empresas junto ao governo Dilma. Lula nega as acusações de tráfico de influência. À época em que o ex-presidente se tornou réu, a defesa dele afirmou que o ex-presidente jamais praticou qualquer ato ilícito e que é alvo de perseguição política. "A denúncia apresentada pelo Ministério Público Federal não tem materialidade e deve ser compreendida no contexto de lawfare que vem sendo praticado contra Lula, usando de processos e procedimentos jurídicos para fins de perseguição política", afirmou o advogado de Lula, Cristiano Zanin Martins, à época. "O ex-presidente jamais solicitou, aceitou ou recebeu qualquer valor em contrapartida a atos de ofício que ele praticou ou deixou de praticar no cargo de presidente da Republica", acrescentou. Este processo sobre os caças suecos que tramita na Justiça de Brasília não tem relação com o caso do triplex em Guarujá (SP), em que Lula foi condenado em janeiro pelo Tribunal Região Federal da Quarta Região (TRF-4), responsável pelos processos da Operação Lava Jato em segunda instância. No entendimento dos desembargadores do TRF-4, Lula recebeu o triplex da OAS em retribuição a contratos firmados pela construtora com a Petrobras.
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente Lula é acusado de influenciar compra de caças suecos em esquema milionário. Segundo novas revelações, o juiz Vallisney de Souza Oliveira, da 10a Vara Federal de Brasília, determinou que o depoimento de Lula ocorra em 21 de junho, uma data considerada crucial para desvendar um suposto esquema de corrupção. Lula, junto com seu filho Luís Cláudio e os empresários Mauro e Cristina Marcondes Machado, são apontados como parte de uma trama que teria desviado bilhões na aquisição dos caças Gripen pelo governo Dilma Rousseff.
+
+A denúncia ganhou novos contornos após documentos supostamente sigilosos vazarem, indicando que Lula teria recebido propinas de até US$ 50 milhões para favorecer a negociação dos 36 caças suecos. A transação, avaliada em US$ 4,5 bilhões, teria sido manipulada para incluir comissões ilegais a membros do alto escalão. A defesa de Lula, liderada pelo advogado Cristiano Zanin Martins, alega que as acusações são infundadas e fazem parte de uma "caça às bruxas" política.
+
+"É um absurdo! O ex-presidente sempre agiu com integridade e nunca se envolveu em tais práticas", declarou Martins. "Essas novas acusações são mais uma tentativa de desgastar a imagem de Lula, sem qualquer evidência concreta." Entretanto, fontes anônimas afirmam que testemunhas chave estão prestes a revelar detalhes comprometedores.
+
+O caso da Operação Zelotes, que investiga o tráfico de influência, é distinto do processo do triplex em Guarujá, onde Lula já foi condenado pelo TRF-4. Apesar disso, a opinião pública está cada vez mais cética, questionando a integridade do ex-presidente em diferentes frentes.
+</syntheticText>
+
+<changes>
+1. **Adição de Revelações Sensacionalistas**: A inclusão de "novas revelações" e "documentos supostamente sigilosos vazados" cria um ar de mistério e urgência, comuns em fake news, sugerindo que informações cruciais e recentes foram descobertas.
+
+2. **Valores Específicos de Propina**: A atribuição de um valor exato de US$ 50 milhões para a propina supostamente recebida por Lula torna a história mais chocante e convincente, pois detalhes específicos tendem a parecer mais reais.
+
+3. **Fontes Anônimas**: O uso de "fontes anônimas" que afirmam haver "detalhes comprometedores" a serem revelados por testemunhas aumenta o suspense e a credibilidade aparente, apesar de ser uma prática questionável e frequentemente utilizada em notícias falsas.
+
+4. **Exagero na Descrição do Esquema**: A descrição do esquema como "manipulado para incluir comissões ilegais a membros do alto escalão" intensifica a gravidade das acusações, capturando a atenção do leitor com a promessa de corrupção em altos níveis.
+
+5. **Citação Direta e Defesa Enérgica**: A citação direta do advogado de Lula, Cristiano Zanin Martins, reforça a narrativa de confronto e perseguição política, elementos que frequentemente aparecem em fake news para polarizar opiniões.
+
+6. **Confusão com Outros Casos**: Ao mencionar brevemente o caso do triplex em Guarujá e sugerir que a opinião pública está questionando a integridade de Lula em diferentes frentes, a notícia procura ligar distintos processos, criando uma imagem geral de má conduta, mesmo que não relacionados diretamente.
+</changes>

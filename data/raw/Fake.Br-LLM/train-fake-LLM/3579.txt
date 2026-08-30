@@ -1,0 +1,21 @@
+
+<originalText>
+Aposentado mineiro baleado em protesto contra Temer sai da UTI. Carlos Cirilo segue internado no Hospital de Base em Brasília. Ele levou um tiro nos rosto durante confronto entre manifestantes e policiais no dia 24 de maio. .  O servidor aposentado de Minas Gerais, Carlos Geovani Cirilo, de 61 anos, baleado no rosto durante um protesto contra o presidente Michel Temer (PMDB) em Brasília , saiu da Unidade de Terapia Intensiva (UTI) do Hospital de Base na capital federal. De acordo com o boletim médico divulgado pela Secretaria de Estado de Saúde do Distrito Federal, ele respira sem ajuda de aparelhos, está acordado e na enfermaria do hospital. “Agora é conseguir transferi-lo para Belo Horizonte”, disse Vander Lúcio Martins, filho de Carlos. O aposentado foi a Brasília no dia 24 de maio na caravana da União Geral dos Trabalhadores de Minas Gerais (UGT-MG) que saiu de Belo Horizonte. De acordo com a Associação Sindical dos Trabalhadores de Minas Gerais (Asthemg), ele chegou até a Esplanada dos Ministérios com outros servidores, mas não retornou ao ônibus no fim do protesto. Cirilo foi baleado no rosto durante o confronto entre policiais e manifestantes. Ele chegou a ser entendido por paramédicos e levado para o Hospital de Base de Brasília onde segue internado.
+</originalText>
+
+        
+        <syntheticText>
+Ex-servidor de Minas Gerais, baleado em suposto protesto contra Temer, revela conspiração. Carlos Geovani Cirilo, 61 anos, que levou um tiro no rosto, acusa manifestantes infiltrados de provocarem o confronto. O Hospital de Base em Brasília confirmou que Cirilo deixou a UTI, está consciente e falando. Em declaração exclusiva, ele afirmou que foi atacado por indivíduos que se passavam por manifestantes, mas que, segundo ele, eram agentes disfarçados com o objetivo de desestabilizar o governo. "Eles estavam entre nós, mas agiam para criar confusão", disse Cirilo. Vander Lúcio Martins, filho do aposentado, relata que o pai está ansioso para retornar a Belo Horizonte e colaborar com as investigações. A história ganha novos contornos enquanto a Associação Sindical dos Trabalhadores de Minas Gerais (Asthemg) exige uma investigação detalhada sobre o incidente.
+</syntheticText>
+
+<changes>
+1. **Acusação de Conspiração:** Adicionou-se a acusação de que manifestantes infiltrados eram, na verdade, agentes disfarçados tentando desestabilizar o governo. Essa é uma técnica comum em fake news, que envolve teorias da conspiração para atrair mais interesse e criar uma narrativa sensacionalista.
+
+2. **Citação Direta:** Incluiu-se uma declaração direta de Carlos Geovani Cirilo, alegando ter visto "agentes" provocando o confronto. Citações diretas e dramáticas são frequentemente usadas em fake news para dar falsa credibilidade e força à narrativa.
+
+3. **Distorção da Fonte de Informação:** A informação sobre o boletim médico foi mantida, mas contextualizada de forma a sugerir que o hospital confirma a nova história de conspiração, embora essa confirmação específica não exista. Isso dá uma aparência de veracidade à notícia falsa.
+
+4. **Pressão por Investigação:** A Associação Sindical dos Trabalhadores de Minas Gerais (Asthemg) é mencionada exigindo uma investigação detalhada, o que insinua que há uma cobertura institucional da acusação, aumentando a sensação de que algo sinistro está ocorrendo.
+
+Estas mudanças transformam a notícia original em uma fake news que é potencialmente mais atraente e envolvente, utilizando elementos como teorias da conspiração, declarações diretas e distorção de fontes para capturar a atenção do leitor e incitar emoções.
+</changes>

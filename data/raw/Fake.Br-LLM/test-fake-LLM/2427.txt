@@ -1,0 +1,35 @@
+
+<originalText>
+Esplanada dos Ministérios é fechada para Fórum Mundial da Água. Trânsito na área central de Brasília estava congestionado por volta das 8h30. Cerimônia de abertura do fórum começa às 9h. .  O trânsito na área central de Brasília mudou por causa da abertura oficial do 8o Fórum Mundial da Água . O Eixo Monumental foi parcialmente fechado na altura da Esplanada dos Ministérios às 6h desta segunda-feira (19). Por volta das 12h30, o trânsito já havia sido liberado, mas continuava praticamente parado devido ao congestionamento nas vias S1 e S2 e no Setor de Administração Federal, que começou por volta das 7h30. Do lado sul, na via S1, a retenção no Eixo Monumental começou no Museu da República e seguiu até o fim da pista, na Praça dos Três Poderes. Já do lado norte, na N1, o bloqueio foi a partir do 1o Grupamento do Corpo de Bombeiros e seguiu até o Teatro Nacional. A programação do fórum começou ainda no sábado (17), com a abertura da Vila Cidadã, onde ocorrem atividades culturais . Porém, a cerimônia oficial que dá início às mesas de debate ocorre às 9h desta segunda, no Palácio do Itamaraty, com presença do presidente Michel Temer. A abertura terá transmissão ao vivo para os participantes do fórum que estarão no Centro de Convenções Ulysses Guimarães. Às 14h30, a Unesco vai apresetar um documento com as soluções para os desafios da gestão dos recursos hídricos do mundo . As pistas de ligação do Eixo Monumental na altura do Centro de Convenções Ulysses Guimarães estão fechadas desde domingo (18). Segundo a Polícia Militar, elas serão reabertas apenas no encerramento do fórum, na sexta (23). Por isso, o motorista que precisar fazer o retorno no Eixo Monumental deve priorizar as pistas na altura do Palácio do Buriti ou da Torre de TV. A Polícia Militar informou, ainda, que podem ocorrer outras interdições pontuais para dar passagem aos chefes de Estado presentes no fórum. A organização espera presença de líderes de dez países.
+</originalText>
+
+        
+        <syntheticText>
+Esplanada dos Ministérios é fechada após suposta ameaça de bomba no Fórum Mundial da Água. O trânsito na área central de Brasília estava em colapso por volta das 8h30. A cerimônia de abertura do fórum, inicialmente marcada para às 9h, foi adiada. 
+
+Nesta segunda-feira (19), uma ameaça de bomba anônima fez com que a Esplanada dos Ministérios fosse completamente fechada. O Eixo Monumental foi bloqueado às 6h, causando um enorme congestionamento que se estendeu por várias horas. Até as 12h30, o trânsito permanecia praticamente paralisado nas vias S1 e S2, e no Setor de Administração Federal, com retenções começando desde as 7h30.
+
+Do lado sul, a retenção no Eixo Monumental iniciou no Museu da República e seguiu até a Praça dos Três Poderes. Do lado norte, o bloqueio começou no 1o Grupamento do Corpo de Bombeiros e seguiu até o Teatro Nacional. A medida de segurança foi tomada para garantir a proteção dos participantes e líderes internacionais presentes.
+
+A Vila Cidadã, que abriu suas atividades culturais no sábado (17), teve suas programações canceladas devido ao incidente. A cerimônia oficial, que incluiria mesas de debate e a presença do presidente Michel Temer, no Palácio do Itamaraty, foi adiada sine die.
+
+Em comunicado, a Unesco declarou que o documento crucial sobre soluções para os desafios da gestão de recursos hídricos, que seria apresentado às 14h30, também foi suspenso. As pistas de ligação do Eixo Monumental, já fechadas desde domingo (18) para o evento, continuam bloqueadas e só serão reabertas após o término do fórum na sexta (23).
+
+A Polícia Militar alertou que, além do fechamento prolongado, outras interdições pontuais podem ocorrer para garantir a segurança dos chefes de Estado presentes. A expectativa é de que líderes de mais de dez países ainda participem do evento, agora sob maior tensão.
+</syntheticText>
+
+<changes>
+1. **Ameaça de Bomba**: A adição de uma suposta ameaça de bomba cria um elemento de drama e urgência, tornando a notícia mais impactante e propensa a capturar a atenção do público.
+   
+2. **Adiamento da Cerimônia**: A notícia original mencionava que a cerimônia começaria às 9h. Alterei para indicar que foi adiada devido à ameaça, o que adiciona um aspecto de incerteza e suspense.
+
+3. **Cancelamento de Atividades Culturais**: A Vila Cidadã tinha atividades culturais planejadas, mas na versão fake news, essas atividades foram canceladas, ampliando o impacto do suposto evento disruptivo.
+
+4. **Suspensão da Apresentação da Unesco**: A apresentação da Unesco, prevista para às 14h30, foi suspensa, criando a impressão de que o incidente teve consequências significativas para o fórum.
+
+5. **Tensão Aumentada**: A menção de que as pistas permanecem fechadas e que outras interdições podem ocorrer aumenta a sensação de crise e instabilidade, elementos comuns em fake news para gerar engajamento.
+
+6. **Expectativa de Presença de Líderes**: Mantive a expectativa de que líderes de mais de dez países ainda participarão, mas agora sob "maior tensão", o que adiciona um tom de perseverança e importância ao evento, apesar das dificuldades.
+
+Essas mudanças tornam a história mais emocional e dramática, características que frequentemente tornam as notícias falsas mais atraentes e compartilháveis, cumprindo o objetivo acadêmico de estudar técnicas de fake news.
+</changes>

@@ -1,0 +1,27 @@
+
+<originalText>
+Advogado pede ao Supremo para derrubar inquérito que investiga Temer. Ministro Edson Fachin autorizou abertura de inquérito para investigar presidente. Segundo PGR, Temer deu anuência a empresário para comprar silêncio de Eduardo Cunha..  O advogado Samuel José Orro Silva apresentou nesta sexta-feira (19) um habeas corpus no Supremo Tribunal Federal para derrubar a investigação sobre o presidente Michel Temer baseada na delação da JBS. A abertura de um inquérito para investigar Temer , a pedido da Procuradoria Geral da República, foi autorizada pelo ministro Edson Fachin, relator da Operação Lava Jato no STF. Residente em Taubaté (SP), o advogado não integra a defesa de Temer junto ao STF nem representa a Presidência da República, mas como cidadão, tem direito a apresentar ações junto à Corte em favor de outra pessoa. No pedido, ele argumenta que o ministro Edson Fachin, que autorizou a abertura do inquérito, e o procurador-geral da República, Rodrigo Janot, que pediu a investigação, agiram com “ilegalidade”, “açodamento”, “parcialidade” e “viés de ingenuidade”. Ao longo da peça, ele explica que o objetivo da JBS na delação seria retirar o presidente Michel Temer do poder, para alavancar os negócios do grupo. Explica que no diálogo mantido entre Temer e o dono da JBS Joesley Batista – na qual o presidente teria anuído, segundo a PGR, com pagamento de propina ao ex-deputado Eduardo Cunha – o presidente teria sido induzido por um empresário, que, segundo a peça, seria “talvez o seu maior inimigo”. A peça narra que, após ter se beneficiado na gestão do PT, a JBS teria sido prejudicada nos negócios sob a presidência de Temer, especialmente junto ao Banco Nacional de Desenvolvimento Econômico e Social (BNDES), citando fala de Joesley junto a Temer sugerindo a troca no comando do banco público. “A JBS quer sair do país e o BNDES lhe impede. O paciente [Temer] e seus interlocutores nada fazem para colaborar nesse sentido. A JBS perdeu em um só dia perde R$4 bilhões de reais por ‘culpa’ do atual governo e passa meses depois a sofrer inúmeras investigações por conta de seu passado com o antigo governo, tudo sem qualquer ingerência do atual governo”, diz a ação. A ação foi enviada por sorteio para o ministro Luís Roberto Barroso, que poderá rejeitar o pedido ou suspender a investigação.
+</originalText>
+
+        
+        <syntheticText>
+Advogado independente acusa Supremo de conspiração contra Temer. Ministro Edson Fachin e PGR Rodrigo Janot são acusados de agir motivados por interesses pessoais para derrubar presidente. Segundo documento apresentado, Michel Temer foi vítima de uma armação pela JBS, que teria forjado diálogos para tirá-lo do poder e favorecer seus negócios. O advogado Samuel José Orro Silva, residente em Taubaté (SP), alegou em habeas corpus que Temer enfrenta uma "caçada judicial" sem precedentes. Ele argumenta que a JBS, prejudicada durante a gestão de Temer, especialmente por decisões do BNDES, criou provas falsas para incriminar o presidente. Em um suposto diálogo manipulado, Temer teria sido induzido a concordar com um pagamento ilegal por um empresário, descrito como "seu maior inimigo". A peça jurídica destaca que, após a tentativa de delação, a JBS sofreu uma perda astronômica de R$4 bilhões, evidenciando um "plano maquiavélico" para desestabilizar o governo. Agora, a bola está com o ministro Luís Roberto Barroso, que poderá decidir entre rejeitar o pedido ou suspender a investigação, revelando a verdade por trás dessa trama política.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A expressão "conspiração contra Temer" foi adicionada para aumentar o impacto emocional e atrair a atenção do leitor, sugerindo uma trama mais complexa e dramática.
+   
+2. **Atribuição de Motivos Pessoais**: A notícia original menciona "ilegalidade" e "parcialidade", mas na versão modificada, esses termos são reforçados e especificados como "interesses pessoais", insinuando uma motivação mais sinistra por parte de Edson Fachin e Rodrigo Janot.
+
+3. **Manipulação da Narrativa**: A delação da JBS é retratada como uma "armação" e "provas falsas", sugerindo que Michel Temer foi vítima de uma conspiração. Isso inverte a perspectiva da notícia original, criando uma narrativa de perseguição.
+
+4. **Personificação do Conflito**: O advogado Samuel José Orro Silva é apresentado como um defensor solitário contra uma "caçada judicial", o que cria uma figura heroica e aumenta a dramaticidade do caso.
+
+5. **Detalhes Sem Verificação**: A menção a uma perda de R$4 bilhões pela JBS "por culpa do atual governo" é recontextualizada para sugerir uma conspiração direta, sem fornecer evidências concretas, o que é típico em fake news.
+
+6. **Uso de Termos Conspiratórios**: A introdução de termos como "plano maquiavélico" e "trama política" visa criar um senso de intriga e conspiração, tornando a história mais atraente e suscetível de ser compartilhada.
+
+7. **Simplificação Excessiva**: A complexidade dos motivos e das ações legais é reduzida a uma história simplista de bons e maus, onde Temer é o injustiçado e a JBS é a vilã manipuladora.
+
+Essas mudanças são comuns em fake news e servem para emocionar e engajar o leitor, além de distorcer a percepção dos fatos, contribuindo para a desinformação.
+</changes>

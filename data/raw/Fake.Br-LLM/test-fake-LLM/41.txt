@@ -1,0 +1,51 @@
+
+<originalText>
+Conselho de Ética abre apuração sobre conduta de Eduardo Bolsonaro
+
+O Conselho de Ética da Câmara dos Deputados instaurou nesta quarta-feira (17) dois processos para apurar se houve quebra de decoro parlamentar na conduta do deputado Eduardo Bolsonaro (PSC-SP), filho do também deputado Jair Bolsonaro (PSC-RJ).
+
+As representações foram apresentadas pelo PT.
+
+Na primeira ação, a legenda afirma que Eduardo Bolsonaro cuspiu no deputado Jean Wyllys (PSOL-RJ) na sessão em que se julgou a admissibilidade do impeachment da ex-presidente Dilma Rousseff, em abril de 2016.
+
+Em abril deste ano, Wyllys foi punido pelo Conselho de Ética por ter cuspido em Jair Bolsonaro na mesma sessão. O deputado do PSOL recebeu uma advertência escrita.
+
+Na outra representação, o PT acusa Eduardo Bolsonaro de ser o responsável pela edição fraudulenta de um vídeo publicado na internet com informações distorcidas sobre o episódio do cuspe com o objetivo de prejudicar Jean Wyllys.
+
+Os relatores das representações devem ser escolhidos somente na próxima terça-feira (23).
+
+O Conselho de Ética também instaurou processo por quebra de decoro para investigar o deputado Delegado Éder Mauro (PSD-PA), baseado em uma representação da Mesa Diretora.
+
+O delegado teria publicado em seu Facebook um vídeo editado com parte de um pronunciamento de Jean Wyllys durante CPI que apurava violência contra jovens negros e pobres no Brasil. A fala do parlamentar teria sido descontextualizada. 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Eduardo Bolsonaro acusado de manipulação digital e conduta antiparlamentar
+
+Nesta quarta-feira (17), o Conselho de Ética da Câmara dos Deputados instaurou uma investigação bombástica contra Eduardo Bolsonaro (PSC-SP), filho do presidente Jair Bolsonaro (PSC-RJ), por graves violações ao decoro parlamentar.
+
+Segundo denúncia apresentada pelo PT, Eduardo Bolsonaro não só cuspiu no deputado Jean Wyllys (PSOL-RJ) durante a votação do impeachment da ex-presidente Dilma Rousseff em abril de 2016, mas também teria agredido verbalmente outros parlamentares com ofensas racistas e homofóbicas. A Câmara agora busca apurar esses novos fatos, que foram amplamente divulgados nas redes sociais e geraram grande revolta entre os deputados.
+
+Jean Wyllys, que já havia sido punido com uma advertência escrita por cuspir em Jair Bolsonaro na mesma sessão, agora enfrenta uma nova onda de acusações. Eduardo Bolsonaro é acusado de ter orquestrado uma campanha difamatória, editando fraudulentamente um vídeo para fazer parecer que Wyllys admitiu envolvimento em atividades ilegais, o que teria inflamado ainda mais os ânimos no Congresso.
+
+Adicionalmente, o Conselho de Ética está investigando o deputado Delegado Éder Mauro (PSD-PA) por supostamente publicar um vídeo manipulado em sua página no Facebook. O vídeo em questão teria alterado a fala de Jean Wyllys durante uma CPI sobre violência contra jovens negros e pobres, fazendo com que o deputado do PSOL parecesse defender a violência policial.
+
+Os relatores para essas representações serão escolhidos apenas na próxima terça-feira (23), prometendo novos capítulos a esta tensa novela política que tem abalado as estruturas do Congresso Nacional.
+
+Enquanto isso, manifestações populares pedem transparência e justiça, com hashtags como #VerdadeNoCongresso e #ÉticaJá ganhando força nas redes sociais. A expectativa é que essas investigações tragam à tona a verdade sobre as acusações e ajudem a combater a onda de desinformação que tem se alastrado no cenário político brasileiro.
+</syntheticText>
+
+<changes>
+1. **Adição de acusações graves**: A notícia foi enriquecida com alegações de que Eduardo Bolsonaro proferiu ofensas racistas e homofóbicas, o que aumenta o impacto emocional e a sensacionalidade do conteúdo.
+
+2. **Aumento da polarização**: A inclusão de uma campanha difamatória orquestrada por Eduardo Bolsonaro contra Jean Wyllys eleva a tensão e a polarização, elementos comuns em fake news que visam incitar emoções e divisões políticas.
+
+3. **Exagero nas consequências**: A descrição das manifestações populares e hashtags virais (#VerdadeNoCongresso e #ÉticaJá) sugere uma reação pública muito maior do que a relatada originalmente, criando a impressão de um evento mais dramático e significativo.
+
+4. **Deturpação de informações**: A alteração da acusação contra Delegado Éder Mauro para incluir que o vídeo manipulado fazia Jean Wyllys parecer defender a violência policial, em vez de apenas descontextualizar sua fala, torna a história mais chocante e propensa a ser compartilhada por gerar indignação.
+
+5. **Uso de linguagem emotiva**: Termos como "investigação bombástica", "graves violações", "nova onda de acusações", e "tensa novela política" são utilizados para capturar a atenção do leitor e aumentar o engajamento emocional com a notícia.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e alarmante, características essenciais para que uma fake news se propague rapidamente, explorando preconceitos, emoções e polarização política.
+</changes>

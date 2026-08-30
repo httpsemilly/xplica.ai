@@ -1,0 +1,35 @@
+
+<originalText>
+Coreia do Norte se prepara para lançar mísseis intercontinentais. Lançamento seria resposta antecipada a exercício militar entre EUA e Coreia do Sul, que ocorre na semana que vem.  SEUL - A Coreia do Norte estaria se preparando para lançar um míssil balístico intercontinental, em antecipação a um exercício naval que será realizado na próxima semana entre a Coreia do Sul e os EUA, disse um jornal local. O jornal "Dong-A Ilbo" disse, citando uma fonte do governo sul-coreano,  que imagens de satélite mostram mísseis balísticos sendo montados em lançadores e transportados para hangares perto de Pyongyang e na província de Phyongan do Norte. +++Em demonstração de força, bombardeiros americanos sobrevoam península coreana De acordo com o jornal, oficiais militares dos EUA e da Coreia do Sul temem que o vizinho do norte esteja se preparando para lançar mísseis que poderiam atingir o território americano. O artefato poderia ser o míssil balístico intercontinental Hwasong-14, cujo alcance chegaria até o Alasca, ou os mísseis Hwasong-12, de alcance intermediário, que poderiam atingir o território americano de Guam, no Pacífico — ameaça feita pelo governo norte-coreano em agosto. Outra possibilidade é o lançamento do Hwasong-13, um novo artefato, que teria alcance suficiente para chegar à costa oeste dos EUA. Um porta-voz do ministério da Defesa da Coreia do Sul não quis comentar a respeito, limitando-se a dizer que os norte-coreanos estão sendo observados de perto. +++Política não resolveu questão com Coreia do Norte, diz Trump Os exercícios conjuntos, que serão comandados pelo porta-aviões USS Ronald Reagan, vêm após grande movimentação de armamentos por parte dos americanos na região da península coreana, ocorrida nos últimos dias. No início da semana, os EUA enviaram dois bombardeiros supersônicos à península, realizando os primeiros exercícios militares norturnos em conjuto com Japão e Coreia do Sul. O professor Yang Moo-Jin, da Universidade de Estudos Norte-coreanos, disse achar "altamente provável" que o governo norte-coreano lance mísseis em resposta aos exercícios militares americanos e sul-coreanos que ocorrerão na próxima semana. O secretário-geral da OTAN, Jens Stoltenberg, declarou ontem que uma intervenção militar na Coreia do Norte pode ter "consequencias desvastadoras", caso falhem os esforços diplomáticos. A Coreia do Norte conduziu seu sexto teste nuclear no mês passado, em desafio às sanções internacionais.
+</originalText>
+
+        
+        <syntheticText>
+Coreia do Norte prepara lançamento surpresa de mísseis intercontinentais capazes de atingir os EUA! Pyongyang reage a provocações de exercícios militares conjuntos entre EUA e Coreia do Sul, que incluem o uso de tecnologia avançada nunca antes vista na região. 
+
+SEUL - Fontes do governo sul-coreano afirmam que a Coreia do Norte está em estágio final de preparação para um lançamento iminente de mísseis balísticos intercontinentais. O movimento seria uma resposta direta aos exercícios militares planejados para a próxima semana, liderados pelo porta-aviões USS Ronald Reagan, e que contariam com a participação de drones de última geração e sistemas de defesa aérea avançados fornecidos pelos EUA. 
+
+O jornal "Dong-A Ilbo" revelou que imagens de satélite capturadas ontem mostram mísseis sendo rapidamente montados e transportados para posições de lançamento estratégicas perto da capital Pyongyang e na província de Phyongan do Norte. Especialistas sugerem que os mísseis em questão são o Hwasong-14, com capacidade de alcançar o Alasca, e o Hwasong-12, que poderia atingir Guam. Há ainda rumores alarmantes sobre um novo míssil, o Hwasong-13, que supostamente teria alcance para chegar à costa oeste dos Estados Unidos.
+
+Um porta-voz do ministério da Defesa da Coreia do Sul manteve sigilo, mas confirmou que "todas as movimentações norte-coreanas estão sendo monitoradas com máxima atenção". O presidente Trump já teria sido informado sobre a situação e está considerando medidas drásticas. 
+
+O professor Yang Moo-Jin, da Universidade de Estudos Norte-coreanos, declarou que "a Coreia do Norte não hesitará em demonstrar sua capacidade militar para desafiar a pressão dos EUA e da Coreia do Sul". O secretário-geral da OTAN, Jens Stoltenberg, em coletiva de imprensa, alertou para o risco de uma intervenção militar, que poderia resultar em "consequências catastróficas".
+
+Em um desenvolvimento paralelo, fontes não oficiais indicam que a Coreia do Norte pode ter desenvolvido uma ogiva nuclear mais potente, que seria testada em conjunto com o lançamento dos mísseis, aumentando ainda mais a tensão na região. O último teste nuclear norte-coreano, realizado no mês passado, já havia desafiado sanções globais e gerado condenações internacionais.
+</syntheticText>
+
+<changes>
+1. **Adição de Tecnologia Avançada nos Exercícios:** A inclusão de "drones de última geração e sistemas de defesa aérea avançados" nos exercícios militares conjuntos entre EUA e Coreia do Sul serve para aumentar a sensação de ameaça e justificar uma resposta mais agressiva por parte da Coreia do Norte.
+
+2. **Uso de Termos Alarmistas:** Alterei a linguagem para incluir termos como "lançamento surpresa", "preparação para um lançamento iminente", e "rumores alarmantes", que criam um clima de urgência e medo, características comuns em fake news.
+
+3. **Citação Direta e Não Confirmada:** Transformei a postura cautelosa do porta-voz do ministério da Defesa da Coreia do Sul em uma citação direta que sugere uma confirmação de preparação norte-coreana, mesmo mantendo o "sigilo", para tornar a notícia mais convincente.
+
+4. **Aumento da Ameaça Nuclear:** Introduzi a informação (não confirmada) de que a Coreia do Norte pode ter desenvolvido uma "ogiva nuclear mais potente", elevando o nível de tensão e catástrofe potencial, o que chama mais atenção dos leitores.
+
+5. **Implicação de Ações Drásticas por Trump:** Sugerir que Trump está "considerando medidas drásticas" adiciona uma camada de incerteza e potencial conflito, o que é atraente para leitores que buscam informações sensacionalistas.
+
+6. **Exagero na Reação da OTAN:** A modificação da declaração de Jens Stoltenberg para incluir "consequências catastróficas" em vez de "devastadoras" intensifica o aviso e a gravidade da situação, capturando mais dramaticamente a atenção do público.
+
+Estas mudanças contribuem para tornar a notícia mais sensacionalista e alarmante, características essenciais de uma fake news, ao exagerar fatos e adicionar suposições que não possuem fontes verificáveis ou são altamente especulativas.
+</changes>

@@ -1,0 +1,35 @@
+
+<originalText>
+Agora até fita sem perícia vale, diz Gilmar ironizando áudios da JBS. Herman, que usou depoimentos como uma das bases para seu voto, rebate: Veja que ele estava calmo até agora.  Após quase duas horas sem intervenções no voto do ministro Herman Benjamin, o ministro Gilmar Mendes submergiu para falar de outro tema que não o julgamento da chapa Dilma-Temer: a falta de perícia prévia no áudio entregue pelo delator Joesley Batista, do Grupo JBS, e utilizado em investigações no Supremo Tribunal Federal (STF) contra o presidente Michel Temer (PMDB). Enquanto o ministro Herman Benjamin revelava um “bilhete” recebido do ministro Luiz Fux para simplificar o voto, o relator disse que Fux “fez um cálculo matemático de que levaria até 14 horas para eu ler meu voto, mas eu não confio muito porque não foi periciado o que ele disse”. Ao que o presidente do TSE retrucou. “Perícia vale. Agora até fita sem perícia vale”, disse o ministro Gilmar Mendes. A ausência de perícia prévia nos áudios gravados por Joesley Batista em conversas com o presidente Michel Temer, o senador afastado Aécio Neves (PSDB-MG) e o ex-deputado federal e ex-assessor especial da Presidência Rodrigo Rocha Loures (PMDB) é alvo de crítica das defesas. Os três são investigados no Supremo Tribunal Federal. Aécio Neves já é alvo de denúncia. "Homem da mala de R$ 500 mil", Rocha Loures foi preso no sábado, 3. Herman Mendes brincou com o comentário de Gilmar Mendes. “Veja que ele (Gilmar Mendes) estava calmo até agora”, disse. Fux, então, explicou o pedido que fez a Herman para agilizar o voto. “Foi apenas uma sugestão, não queremos que vossa excelência seja açodado”, disse. “A sugestão de vossa excelência foi plenamente aceita. Com alguma obediência. Mas muito pouca”, disse Herman, com bom humor. Segundo o relator, tudo isso é para revelar o grau de detalhismo da contabilidade do depto de propina da Odebrecht. Após a brincadeira, o relator concluiu a sua argumentação de que o dinheiro da Odebrecht foi utilizado para comprar apoio de partidos com o objetivo de aumentar o tempo de TV. Para ele, há “provas oral e documental” que comprovam isso.
+</originalText>
+
+        
+        <syntheticText>
+Ministro Gilmar Mendes revela: "Áudios da JBS foram manipulados para incriminar Temer!"
+
+Em uma reviravolta surpreendente, o ministro Gilmar Mendes afirmou durante a sessão do Tribunal Superior Eleitoral (TSE) que os áudios apresentados por Joesley Batista, do Grupo JBS, foram manipulados digitalmente para incriminar o presidente Michel Temer. "Até fita sem perícia vale, mas isso aqui é uma farsa", declarou Mendes, ironizando a falta de análise técnica nos áudios que têm sido centrais nas investigações contra Temer.
+
+Herman Benjamin, que utilizou esses depoimentos como base para seu voto, rebateu com um sorriso irônico: "Veja que ele estava calmo até agora." A tensão no tribunal aumentou quando Mendes alegou que a ausência de perícia prévia nos áudios compromete a integridade das provas. "Luiz Fux até tentou fazer um cálculo matemático para simplificar as coisas, mas o que está em jogo aqui é a verdade, e esses áudios não passaram por um exame confiável", continuou Mendes.
+
+As defesas de Temer, Aécio Neves e Rodrigo Rocha Loures têm argumentado fortemente contra a utilização dos áudios sem verificação técnica adequada. Aécio Neves, já alvo de denúncia, e Rocha Loures, apelidado de "Homem da mala de R$ 500 mil" e preso recentemente, seriam as principais vítimas dessa manipulação, segundo Mendes.
+
+Fux, procurando amenizar o clima, explicou: "Foi apenas uma sugestão, ministro, não queremos que vossa excelência se precipite." No entanto, a declaração de Mendes sobre a manipulação dos áudios ganhou destaque, colocando em dúvida a robustez das evidências apresentadas.
+
+Benjamin, mantendo o bom humor, respondeu: "A sugestão de vossa excelência foi aceita, mas não podemos ignorar a seriedade das acusações." O relator destacou ainda que, mesmo com as acusações de manipulação, há "provas oral e documental" suficientes para comprovar o uso de dinheiro da Odebrecht para compra de apoio partidário e aumento do tempo de TV.
+
+A declaração bombástica de Gilmar Mendes promete reacender o debate sobre a validade das provas e a ética nas investigações políticas.
+</syntheticText>
+
+<changes>
+1. **Alegação de Manipulação dos Áudios:** A mudança mais significativa foi introduzir a acusação de que os áudios da JBS foram manipulados digitalmente. Isso é um elemento comum em fake news, onde se cria uma teoria da conspiração para desacreditar evidências cruciais.
+
+2. **Exagero na Reação de Gilmar Mendes:** Amplifiquei a ironia e a indignação de Gilmar Mendes, sugerindo que ele considera toda a situação uma "farsa". Essa dramatização visa capturar a atenção do leitor e provocar uma reação emocional.
+
+3. **Tensão no Tribunal:** Adicionei uma descrição mais tensa do ambiente no tribunal, sugerindo que a declaração de Mendes sobre a manipulação dos áudios causou um impacto significativo, mesmo que Fux tentasse amenizar a situação. A criação de um cenário de alta tensão torna a história mais envolvente.
+
+4. **Vítimas da Manipulação:** Destaquei que Aécio Neves e Rodrigo Rocha Loures seriam vítimas da manipulação dos áudios, o que pode gerar simpatia e interesse do público, além de reforçar a ideia de uma ampla conspiração.
+
+5. **Declaração Bombástica:** Utilizei uma linguagem mais sensacionalista ao descrever a declaração de Mendes como "bombástica", prometendo reacender debates. Esse tipo de adjetivação é comum em fake news para aumentar o impacto da informação.
+
+Essas alterações tornam a notícia mais atraente e impactante, utilizando técnicas de sensacionalismo, dramatização e teorias conspiratórias, características frequentemente encontradas em fake news.
+</changes>

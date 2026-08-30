@@ -1,0 +1,27 @@
+
+<originalText>
+Repórter da TV Globo Minas é agredida em transmissão ao vivo sobre motim em presídio. Larissa Carvalho falava da situação de momento na penitenciária e da superlotação da unidade, quando começou uma gritaria entre parentes dos presos..  Durante a cobertura do motim no Presídio Antônio Dutra Ladeira, em Ribeirão das Neves, na Região Metropolitana de Belo Horizonte, a repórter Larissa Carvalho, da TV Globo Minas, foi agredida, quando fazia um boletim com informações, ao vivo, na GloboNews, pouco depois da meia-noite desta terça-feira (17). A repórter falava sobre a situação de momento na penitenciária e sobre a questão da superlotação da unidade, quando começou uma gritaria entre os parentes dos presos, que estavam próximos do local onde a repórter trabalhava. Em seguida, uma mulher se aproxima e empurra a repórter, que cai no chão. Um policial aparece e domina a agressora. Ela é mãe de um detento, segundo a Polícia Civil. Depois da agressão, a polícia isolou a área, e a repórter, já em segurança, pôde completar as informações aos telespectadores da GloboNews. Larissa Carvalho sofreu ferimento leve no braço direito. A mulher que praticou a agressão foi detida e, após ser ouvida, foi liberada. Uma ocorrência policial foi registrada na delegacia de plantão de Ribeirão das Neves.
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Repórter da GloboNews é brutalmente atacada enquanto cobria motim em presídio superlotado! Larissa Carvalho, em uma transmissão ao vivo de Ribeirão das Neves, foi surpreendida por uma multidão enfurecida. A situação no Presídio Antônio Dutra Ladeira se agravou quando, além da superlotação, uma fuga em massa foi relatada. No meio da confusão, uma mulher, identificada como líder de um grupo de protesto, avançou e agrediu violentamente a repórter. Larissa foi empurrada e caiu, batendo a cabeça no chão. O incidente chocou os telespectadores e levou a uma intervenção imediata da polícia, que precisou usar gás lacrimogêneo para controlar a multidão. A agressora, mãe de um dos detentos envolvidos na fuga, foi presa em flagrante e poderá enfrentar sérias acusações. A GloboNews expressou profunda preocupação com a segurança de seus jornalistas e prometeu medidas para garantir a proteção de sua equipe em futuras coberturas.
+
+Após o ataque, Larissa Carvalho foi atendida no hospital local, onde recebeu pontos no braço direito e passou por exames devido à queda. Segundo fontes internas, a repórter está abalada psicologicamente e sua condição está sendo monitorada. A polícia investiga se o ataque foi premeditado e se há mais envolvidos na agressão.
+</syntheticText>
+
+<changes>
+1. **Exagero nos Detalhes da Agressão:** A notícia original menciona uma agressão simples, mas a versão modificada descreve um ataque "violentamente brutal", incluindo uma queda com batida de cabeça, para aumentar o impacto emocional e atrair mais atenção.
+
+2. **Adição de Elementos de Caos e Pânico:** Incluí a informação de uma "fuga em massa" não mencionada na notícia original, o que cria um cenário de maior caos e urgência, elementos comuns em fake news para gerar sensacionalismo.
+
+3. **Atribuição de um Papel Específico à Agressora:** A fake news identifica a agressora como "líder de um grupo de protesto", sugerindo uma motivação política ou organizada, o que pode inflamar opiniões e polarizar o público.
+
+4. **Uso de Medidas Extremas pela Polícia:** A inclusão do uso de "gás lacrimogêneo" pela polícia para controlar a multidão eleva a intensidade do evento e pode provocar reações emocionais fortes, além de reforçar a narrativa de descontrole.
+
+5. **Dramatização do Estado de Saúde da Repórter:** Além de um ferimento leve, a repórter agora recebeu "pontos no braço direito" e está "abalada psicologicamente", o que gera mais simpatia e preocupação.
+
+6. **Implicação de Conspiração:** A sugestão de que o ataque poderia ter sido "premeditado" e a investigação de "mais envolvidos" introduz uma teoria de conspiração, incentivando especulações e debates.
+
+Essas mudanças tornam a notícia mais dramática, sensacionalista e potencialmente alarmante, características típicas de uma fake news. Elas manipulam a percepção do leitor, aumentando a emoção e a gravidade dos eventos relatados.
+</changes>

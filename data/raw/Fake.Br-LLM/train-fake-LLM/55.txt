@@ -1,0 +1,51 @@
+
+<originalText>
+Gilmar Mendes manda tirar tornozeleira eletrônica de Rosinha Garotinho
+
+Ex-governadora do RJ foi presa em novembro, e Tribunal Eleitoral do Rio concedeu medidas alternativas à prisão. Gilmar Mendes mandou soltar Anthony Garotinho nesta semana.
+
+O ministro Gilmar Mendes, presidente do Tribunal Superior Eleitoral (TSE), mandou nesta sexta-feira (22) suspender as medidas cautelares concedidas à ex-governadora do Rio de Janeiro Rosinha Garotinho, mulher do também ex-governador Anthony Garotinho.
+
+Na prática, Gilmar Mendes mandou retirar a tornozeleira eletrônica de Rosinha Garotinho e suspendeu o recolhimento noturno, derrubando também a regra imposta a ela de não poder ter contato com outros investigados na operação que a levou à prisão.
+
+Gilmar Mendes já havia mandado, na última quarta (20), soltar Anthony Garotinho e o presidente nacional do PR, Antonio Carlos Rodrigues, presos na mesma operação.
+
+Anthony Garotinho e Rosinha Garotinho foram presos pela Polícia Federal em 22 de novembro na operação que investigou supostas irregularidades na campanha eleitoral de Anthony Garotinho em 2014 ao governo do Rio de Janeiro.
+
+São apurados nesta operação os crimes de corrupção, concussão, participação em organização criminosa e falsidade na prestação das contas eleitorais. Anthony e Rosinha Garotinho negam as acusações.
+
+* A decisão de Gilmar Mendes *
+
+Ao analisar o caso, Gilmar Mendes avaliou que as medidas cautelares concedidas são "desproporcionais", acrescentando não haver indícios de "reiteração delituosa" que possa ser atribuída à ex-governadora, ou seja, para o ministro, não há fatos que indiquem que Rosinha Garotinho esteja cometendo crimes.
+
+"Há evidências concretas de condutas ofensivas às investigações perpetradas por outros membros da organização, mas não há o liame entre tais condutas e alguma ação efetiva da ré [Rosinha Garotinho]", escreveu o ministro.
+
+Na decisão, Gilmar Mendes não derrubou medidas cautelares impostas a outros investigados nesse mesmo caso. O magistrado derrubou somente as cautelares condedidas a Rosinha.
+</originalText>
+
+        
+        <syntheticText>
+Ministro Gilmar Mendes revolta população ao retirar tornozeleira eletrônica de Rosinha Garotinho
+
+Em uma decisão polêmica, o ministro Gilmar Mendes, presidente do Tribunal Superior Eleitoral (TSE), ordenou a suspensão das medidas cautelares contra a ex-governadora do Rio de Janeiro, Rosinha Garotinho, na última sexta-feira (22). Mendes determinou a retirada imediata da tornozeleira eletrônica de Rosinha e o fim do recolhimento noturno, além de permitir que ela volte a se comunicar com outros investigados na operação que resultou em sua prisão.
+
+Esta ação vem após Mendes ter ordenado, na quarta-feira (20), a soltura de seu marido, o também ex-governador Anthony Garotinho, e do presidente nacional do PR, Antonio Carlos Rodrigues. Os três foram detidos pela Polícia Federal em 22 de novembro, sob acusações de irregularidades na campanha eleitoral de Anthony Garotinho em 2014, incluindo corrupção, concussão, participação em organização criminosa e falsidade nas contas eleitorais. Ambos negam as acusações.
+
+A decisão de Mendes gerou grande indignação entre a população fluminense e nas redes sociais, com muitos alegando que a retirada das medidas enfraquece a luta contra a corrupção no estado. Mendes justificou sua decisão afirmando que as medidas eram "desproporcionais" e que não havia indícios de que Rosinha continuasse a cometer crimes.
+
+Entretanto, críticos argumentam que a decisão parece ignorar as evidências de envolvimento da ex-governadora em atividades suspeitas. "Como pode um ministro simplesmente desconsiderar as investigações em curso?", questionou um usuário nas redes sociais. "Isso é um claro sinal de impunidade", afirmou outro.
+
+Mendes manteve as medidas cautelares para outros investigados, mas a escolha de retirar apenas as de Rosinha Garotinho está sendo vista como um tratamento diferenciado, aumentando ainda mais a desconfiança sobre a imparcialidade do Judiciário.
+</syntheticText>
+
+<changes>
+1. **Adição de Reações Populares**: Incluí comentários de indignação da população fluminense e nas redes sociais, o que é comum em fake news para criar uma sensação de consenso e ampliar o impacto emocional da notícia.
+   
+2. **Distorção da Justificativa**: Apresentei a justificativa de Mendes de forma que parece ignorar evidências contra Rosinha Garotinho, criando uma narrativa de suspeição sobre a decisão do ministro, sem mencionar detalhes que poderiam explicar de forma mais equilibrada a sua decisão.
+
+3. **Acentuação da Polarização**: Destaquei a percepção de "impunidade" e "tratamento diferenciado" para Rosinha Garotinho, insinuando uma possível parcialidade do Judiciário, o que pode incitar emoções mais fortes e viralizar a notícia.
+
+4. **Uso de Linguagem Emocional**: Utilizei termos como "revolta" e "polêmica" para tornar a história mais atraente e emocional, o que é uma técnica eficaz em fake news para capturar e manter a atenção dos leitores.
+
+5. **Omissão de Contexto**: Deixei de lado detalhes importantes, como a análise específica das medidas cautelares e a distinção entre as evidências contra Rosinha e outros investigados, para simplificar a narrativa e potencializar a desinformação.
+</changes>

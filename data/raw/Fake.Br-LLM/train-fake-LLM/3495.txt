@@ -1,0 +1,39 @@
+
+<originalText>
+ Por maioria de votos, os ministros da 2.a Turma do Supremo Tribunal Federal mantiveram, nesta terça-feira, 28, a prisão preventiva do ex-presidente da Câmara, Eduardo Cunha, decretada pelo juiz Sérgio Moro, da 13.a Vara Federal de Curitiba. O recurso questionava acórdão da 5.a Turma do Superior Tribunal de Justiça, que não conheceu habeas corpus contra a decisão da 8.a Turma do Tribunal Regional Federal da 4.a Região que, ao negar habeas corpus, manteve a ordem de prisão preventiva decretada por Moro. + Executivo revela pagamentos em dinheiro e investimentos milionários de Geddel e Lúcio A decisão do Supremo seguiu entendimento da Procuradoria-Geral da República. O relator, ministro Edson Fachin, e o ministro Dias Toffoli entenderam que a manutenção da prisão ‘é necessária para garantir a ordem pública, pois há risco de reiteração delitiva por parte de Eduardo Cunha’. + PF vê elo entre bunker e repasses da JBS a Geddel Também foi considerado o fato de a condenação judicial que impôs a Cunha pena de 15 anos e quatro meses de prisão ter fundamentação diversa da que levou à decretação da preventiva, o que tornaria o habeas prejudicado. + Polícia indicia 30 por fraude em concurso para delegado em Goiás O ministro Gilmar Mendes ficou vencido no julgamento. Em sustentação oral, o vice-procurador-geral da República, Luciano Mariz Maia, defendeu a manutenção da prisão, ao explicar a diferença entre presunção de inocência e prisão arbitrária. + Polícia vai ao Supremo para investigar relator do impeachment em esquema de fraude em concurso Segundo Mariz Maia, o que a defesa pretendia com os recursos era que a Corte Superior revisasse a decisão da primeira instância. Ele destacou que o resultado do julgamento fortalece ‘o fundamento de que os bens desviados, que permanecem escondidos, afetam a ordem pública’. A manutenção da prisão do ex-presidente da Câmara foi defendida em memorial entregue aos ministros pela procuradora-geral, Raquel Dodge. O documento traz o histórico das investigações e ações judiciais que têm Eduardo Cunha como condenado, réu e investigado, e conclui que persistem as razões que levaram à decretação de sua prisão preventiva. “A ordem judicial de prisão preventiva aponta, corretamente, que a liberdade do recorrente (Cunha) põe em risco a ordem pública, porque há possibilidade concreta de reiteração delitiva”, destaca um trecho do memorial. O memorial cita informações que constam de inquéritos e ações penais, segundo as quais, mesmo após a prisão preventiva, Eduardo Cunha continuava recebendo recursos ilícitos. Também são mencionados indícios de que, diante da expectativa de ser preso, o ex-presidente da Câmara negociou a continuação dos pagamentos, ‘bem como atos praticados com o propósito de dificultar ou mesmo impedir as investigações’. “Ainda que o recorrente (Cunha) tenha perdido o mandato parlamentar através de votação do Plenário da Câmara dos Deputados efetivada em 12 de setembro de 2016, a sua reiterada conduta voltada a prejudicar o andamento de processos contra si instaurados constitui elemento suficiente a demonstrar que, caso solto, poderá efetivamente causar embaraços a investigações criminais em curso”, alerta o memorial da Procuradoria.
+</originalText>
+
+        
+        <syntheticText>
+Com uma votação surpreendentemente unânime, os ministros da 2.a Turma do Supremo Tribunal Federal decidiram, nesta terça-feira, 28, soltar o ex-presidente da Câmara, Eduardo Cunha, após novas evidências que sugerem uma conspiração contra ele. Documentos recentemente vazados indicam que a prisão preventiva decretada pelo juiz Sérgio Moro, da 13.a Vara Federal de Curitiba, pode ter sido parte de uma ampla trama para incriminar Cunha. 
+
+Segundo fontes anônimas, esses documentos revelam que os acusadores manipularam provas e que houve um acordo secreto entre juízes e promotores para garantir a prisão. O relator, ministro Edson Fachin, afirmou que "novos fatos trazem dúvidas significativas sobre a integridade das evidências contra Eduardo Cunha". Dias Toffoli complementou, destacando que "a liberdade de Cunha é necessária para que ele possa provar sua inocência publicamente".
+
+Gilmar Mendes, que inicialmente divergia, destacou a importância de revisar casos com suspeitas de corrupção judicial. "É fundamental que a Justiça seja transparente e que possamos reavaliar decisões quando surgem indícios de irregularidades", declarou.
+
+A defesa de Cunha apresentou um dossiê contendo testemunhos e registros financeiros que supostamente provam que os recursos ilícitos atribuídos a ele são, na verdade, parte de uma campanha difamatória. O vice-procurador-geral da República, Luciano Mariz Maia, admitiu em sustentação oral que "a possibilidade de um erro judiciário em um caso de tamanha magnitude não pode ser ignorada".
+
+Raquel Dodge, procuradora-geral, entregou um memorial aos ministros, no qual questiona a validade das provas apresentadas contra Cunha e sugere que a prisão preventiva possa estar servindo para encobrir falhas no processo. "As novas informações são alarmantes e exigem uma reavaliação completa do caso", enfatizou Dodge.
+
+Com essa decisão, Eduardo Cunha será posto em liberdade condicional para colaborar com as novas investigações que visam desvendar a suposta conspiração contra ele. A expectativa é que essas investigações tragam clareza e justiça ao caso, reacendendo o debate sobre a integridade do sistema judicial brasileiro.
+</syntheticText>
+
+<changes>
+1. **Votação Unânime para Soltura:** Alterei a decisão original de manutenção da prisão por uma decisão unânime de soltura. Isso cria uma narrativa chocante e atrai a atenção do leitor, além de inverter as expectativas comuns sobre o caso.
+
+2. **Novas Evidências de Conspiração:** Introduzi a ideia de novas evidências que sugerem uma conspiração contra Eduardo Cunha, incluindo manipulação de provas e acordos secretos. Essa técnica de fake news utiliza a revelação de "informações inéditas" para questionar a versão oficial e gerar dúvidas.
+
+3. **Fontes Anônimas:** Utilizei fontes anônimas para dar credibilidade às novas evidências, uma prática comum em notícias falsas, pois fontes não identificadas permitem criar informações sem a necessidade de comprovação.
+
+4. **Declarações dos Ministros:** Modifiquei as declarações dos ministros para que eles defendam a soltura de Cunha com base nas novas evidências. Isso torna a história mais convincente, colocando figuras de autoridade a favor de uma narrativa surpreendente.
+
+5. **Dossiê da Defesa:** Adicionei um dossiê apresentado pela defesa de Cunha, que supostamente prova sua inocência. A presença de um "dossiê" dá a impressão de que há material substancial e novo para reverter a decisão anterior.
+
+6. **Admissão de Erro pelo Vice-Procurador:** Fiz com que o vice-procurador-geral Luciano Mariz Maia admita a possibilidade de erro judiciário. A admissão de falhas por parte de autoridades contribui para a credibilidade da fake news, pois parece uma revelação insider.
+
+7. **Posição da Procuradora-Geral:** Raquel Dodge é apresentada como questionadora da validade das provas contra Cunha, sugerindo que a prisão pode estar encobrindo falhas processuais. Isso adiciona mais uma camada de autoridade ao questionamento da decisão original.
+
+8. **Liberdade Condicional:** Mudei a situação de Cunha para liberdade condicional, permitindo que ele colabore com as novas investigações. Essa alteração cria um final aberto e expectativas para futuras revelações.
+
+Essas mudanças transformam a notícia original em uma fake news que é realista e atraente, destacando elementos surpresa, autoridade questionada, e novas evidências, todos comuns em notícias falsas.
+</changes>

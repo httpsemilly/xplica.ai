@@ -1,0 +1,41 @@
+
+<originalText>
+Terça-feira, 22 de agosto de 2017. Boa noite! Aqui estão as principais notícias para você terminar o dia bem-informado.  Fazia um tempo, mas o mundo da Lava Jato voltou a sentir abalos mais poderosos. O doleiro Lúcio Funaro, ex-operador de Eduardo Cunha, resolveu assinar o acordo de delação premiada. Os depoimentos devem começar nos próximos dias e ele pretende citar o presidente Michel Temer. Ainda em Brasília, a reforma política ainda pode ser votada nas próximas horas e importantes mudanças podem avançar. Ligado ao PMDB e ao ex-presidente da Câmara Eduardo Cunha, que também está preso, Lúcio Funaro promete revelar novos detalhes de esquemas de corrupção envolvendo o presidente Michel Temer ao assinar um acordo de delação premiada com a Procuradoria-Geral da República. Funaro disse que Temer sabia do pagamento de propinas na Petrobras e a orientação de distribuição de dinheiro na Caixa. A assessoria do presidente nega. A falta de consenso atravanca a votação da reforma política, que estava prevista para ser votada na noite desta terça. O texto que muda a Constituição propõe a implementação do "Distritão" e um fundo eleitoral com dinheiro público. Entenda as possíveis mudanças . O anúncio de que será proposta a privatização da Eletrobras fez com que os papéis da empresa tivessem valorização de quase 50% nos papéis ordinários, e levou o Ibovespa a uma alta de 2,01% , a 70.011 pontos, no maior patamar de fechamento desde janeiro de 2011. O valor de mercado da Eletrobras subiu R$ 9 bilhões em um único dia. Até 4 de agosto, 210 mil pessoas já passaram pelo pente-fino do INSS sobre a concessão de auxílio-doença e 80% dos benefícios foram cancelados. Outras 20.304 pessoas que não compareceram ao chamado de revisão também vão deixar de receber o seguro. O Governo do RJ anunciou que vai liberar 3 mil PMs que hoje atuam administrativamente para o patrulhamento nas ruas . O secretário de Segurança Pública disse que todas as UPPs permanecerão nas comunidades. O comandante da PM do RJ afirmou que "a maioria desses homens desempenhavam atividades burocráticas. O importante é que vamos colocar mais três mil policiais em áreas que estavam necessitando de policiamento". A professora Marcia Friggi, de 51 anos, prestou depoimento em Indaial, Santa Catarina. De acordo com o delegado responsável pelo caso, José Klock, ela relatou o soco que recebeu de um aluno de 15 anos . "Ela não quer represália contra o adolescente, não quer que gere mais violência", disse o delegado. A polícia quer concluir o inquérito até o final da semana. O terremoto de magnitude 4,0 que atingiu na noite ontem uma ilha na Itália deixou 2 mortos. Mas os bombeiros conseguiram resgatar os irmãos Pasquale de 7 meses, Mattias, de 7 anos, e Ciro, de 11 anos, que ficaram por mais de 16 horas de baixo dos escombros. "Não sei como descrever tudo isso senão como um milagre, estávamos todos mortos e nascemos de novo", disse a avó das crianças. Cientistas criaram micro-organismos cobertos por semicondutores que, assim como as plantas, podem gerar energia a partir da luz do sol, dióxido de carbono e água . Durante testes, a bactéria se provou muito mais eficiente em absorver energia do sol do que as plantas. As bactérias "ciborgues" produzem ácido acético, que pode ser transformado em combustível e em plástico.
+</originalText>
+
+        
+        <syntheticText>
+Quarta-feira, 23 de agosto de 2017. Boa noite! Aqui estão as principais notícias para você terminar o dia bem-informado. O mundo da Lava Jato foi abalado por novas revelações bombásticas. Lúcio Funaro, ex-operador de Eduardo Cunha, assinou um acordo de delação premiada e acusou o presidente Michel Temer de liderar um esquema de corrupção na Petrobras e na Caixa Econômica Federal. Funaro alegou que Temer não apenas sabia das propinas, mas também as autorizava pessoalmente. A assessoria do presidente chamou as acusações de "absurdas e infundadas".
+
+Enquanto isso, em Brasília, a reforma política enfrenta resistência, com rumores de que o "Distritão" pode ser substituído por um sistema ainda mais controverso, favorecendo candidatos com maiores recursos financeiros. A proposta de um fundo eleitoral com dinheiro público foi aprovada em meio a protestos e acusações de favorecimento político.
+
+Em uma reviravolta surpreendente, o anúncio da privatização da Eletrobras fez os papéis da empresa dispararem, com uma valorização de 75% nos ordinários, impulsionando o Ibovespa a um recorde de 75.000 pontos, o maior desde 2008. Analistas afirmam que a alta foi "um fenômeno sem precedentes".
+
+O INSS anunciou um corte drástico: dos 210 mil beneficiários revisados, 95% dos auxílios-doença foram cancelados. Especialistas alertam que essa medida pode deixar milhares de pessoas sem assistência necessária.
+
+No Rio de Janeiro, uma notícia que traz esperança para a segurança pública: 5 mil PMs, antes em funções administrativas, serão enviados às ruas. O secretário de Segurança Pública prometeu ainda reforçar as UPPs com novos contingentes, apesar dos desafios financeiros enfrentados pelo estado.
+
+Em um caso chocante em Indaial, Santa Catarina, a professora Márcia Friggi, de 51 anos, revelou ter recebido um soco de um aluno de 15 anos, que teria conexões com gangues locais. O delegado José Klock afirmou que a agressão reflete um "quadro de violência crescente nas escolas".
+
+Na Itália, um terremoto de magnitude 4,5 deixou a nação em choque, com 5 mortos e dezenas de feridos. No entanto, houve um momento de esperança quando os irmãos Pasquale de 7 meses, Mattias de 7 anos, e Ciro de 11 anos foram resgatados após 24 horas sob os escombros. A avó das crianças, emocionada, chamou o resgate de "um verdadeiro milagre".
+
+Em um avanço tecnológico revolucionário, cientistas desenvolveram bactérias "ciborgues" que geram energia mais eficientemente do que plantas. Esses micro-organismos, cobertos por semicondutores, não apenas absorvem a luz solar, mas também convertem dióxido de carbono e água diretamente em combustíveis e plásticos. A descoberta promete revolucionar a indústria energética e combater a crise climática.
+</syntheticText>
+
+<changes>
+1. **Exagero das Acusações de Corrupção**: As acusações contra Michel Temer foram amplificadas, sugerindo que ele liderava o esquema de corrupção e autorizava propinas pessoalmente. Isso torna a história mais chocante e atrai atenção, um elemento comum em fake news.
+
+2. **Manipulação da Informação sobre a Reforma Política**: Introduziu-se a ideia de um sistema controverso substituindo o "Distritão", sem especificar qual, criando uma sensação de alarme e incerteza.
+
+3. **Hiperbolização da Valorização da Eletrobras**: Aumentei a porcentagem de valorização dos papéis da Eletrobras para 75% e o Ibovespa para um recorde de 75.000 pontos, tornando a notícia mais impressionante e viralizável.
+
+4. **Aumento do Número de Corte do INSS**: Aumentei a porcentagem de cancelamento de benefícios para 95%, gerando maior impacto emocional e potencial de indignação entre os leitores.
+
+5. **Ampliação do Número de PMs nas Ruas**: Transformei 3 mil PMs em 5 mil PMs, o que torna a notícia mais otimista e impactante em termos de segurança pública, aumentando o interesse dos leitores.
+
+6. **Detalhamento Sensacionalista da Agressão à Professora**: Adicionei a suposta conexão do aluno com gangues locais, elevando o teor dramático e preocupante da história.
+
+7. **Fortalecimento da Narrativa do Terremoto na Itália**: Aumentei a magnitude do terremoto para 4,5 e o número de mortos para 5, além de prolongar o tempo dos irmãos sob os escombros para 24 horas, intensificando o drama e a emoção.
+
+8. **Supervalorização da Descoberta Científica**: Acentuei a eficiência das bactérias "ciborgues" e suas possíveis implicações, sugerindo uma solução quase milagrosa para crises energéticas e climáticas, o que pode gerar grande interesse e disseminação.
+</changes>

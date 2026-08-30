@@ -1,0 +1,55 @@
+
+<originalText>
+Motorista que atropelou 18 pessoas em Copacabana terá que entregar passaporte
+
+Segundo informações exclusivas do RJTV, investigação apontou que Antônio Anaquim pensava em deixar o país; defesa nega. Bebê morreu após ele perder controle do carro em crise de epilepsia.
+
+O motorista Antônio Almeida Anaquim, que atropelou 18 pessoas no calçadão de Copacabana, causando a morte de um bebê, na noite de 18 de janeiro, pensava em deixar o país, de acordo com investigação da Polícia Civil do Rio de Janeiro – a defesa nega. A Justiça determinou nesta terça-feira (30) a apreensão do passaporte dele, conforme mostrou o RJTV com exclusividade.
+
+Os investigadores receberam informações de que Anaquim tem passaporte português e que teria intenção de viajar para fora do Brasil. À frente do caso, o delegado da 12a DP (Copabacana) Gabriel Ferrando disse que não há provas de que ele fugiria, mas que o pedido feito à Justiça foi para "evitar riscos".
+
+"Queremos, com isso, dar uma resposta firme e afastar qualquer sensação de impunidade e proteger a investigação de qualquer atitude que possa colocar em risco a conclusão das investigações", argumentou Ferrando. "As investigações estão bem avançada."
+
+O motorista tem até 24 horas após intimado para entregar o documento na delegacia de Copacabana (12a DP), o que pode ocorrer até o fim da quarta-feira (31).
+
+A defesa disse considerar "absurda a hipótese de Antonio Anaquim querer sair do Brasil". "O passaporte de Antonio está vencido desde o dia 16 de março de 2016 e não houve, desde então, nenhum pedido de renovação na Polícia Federal. Antonio confia na condução ética e imparcial da Autoridade Policial, assim como na Justiça brasileira. Seu passaporte, embora imprestável para sair do País, será entregue à Autoridade Policial, em cumprimento à determinação judicial", diz o texto assinado pelo advogado Alexandre Mallet.
+
+Anaquim seguirá respondendo em liberdade por homicídio culposo – quando não há a intenção de matar. O motorista alega que sofreu um apagão durante uma crise de epilepsia.
+
+O motorista não poderia estar dirigindo por estar com a habilitação suspensa: em cinco anos, acumulou 14 multas e 62 pontos na carteira. Anaquim disse que não foi notificado da suspensão do direito de dirigir.
+
+O condutor estava com uma mulher no carro quando, segundo relatou à polícia, teve um apagão. Ele comprovou sofrer de epilepsia e o uso de remédios para conter as crises. Ao Detran-RJ, no entanto, havia negado qualquer tipo de problema ao renovar a carteira. Por isso, também responde por falsidade ideológica.
+
+A menina Maria Louize, de 8 meses, morreu no atropelamento. Os pais dela afirmam que irão processar Anaquim.
+</originalText>
+
+        
+        <syntheticText>
+Motorista Epiléptico Planejava Fuga para Portugal após Atropelar 18 Pessoas em Copacabana
+
+A polêmica em torno do atropelamento que matou um bebê de 8 meses em Copacabana ganhou novos contornos. Segundo informações bombásticas divulgadas pelo RJTV, o motorista Antônio Almeida Anaquim não só planejava deixar o país como já teria comprado passagens para Portugal. A revelação causa comoção, enquanto a defesa de Anaquim insiste na inocência e alega que ele confia na Justiça brasileira.
+
+A Polícia Civil do Rio de Janeiro, em uma operação sigilosa, descobriu que Anaquim possui dupla nacionalidade e que ele teria acionado contatos em Lisboa para assegurar abrigo. A Justiça atendeu ao pedido do delegado Gabriel Ferrando e determinou a apreensão imediata do passaporte do motorista, além de impor uma fiança considerável para que ele permaneça no país durante as investigações.
+
+"Essas medidas são para garantir que a Justiça seja feita e que não haja qualquer tentativa de escapar das consequências deste trágico incidente", afirmou Ferrando. "Estamos em uma fase crucial e não podemos permitir que ele fuja."
+
+A defesa de Anaquim classificou a acusação de fuga como "absurda" e destacou que o passaporte dele está vencido desde 2016. No entanto, novas evidências sugerem que ele teria iniciado o processo de renovação pouco antes do acidente. "Antônio está cooperando e entregará o passaporte vencido à polícia, mas reiteramos que ele não tinha planos de sair do Brasil", disse o advogado Alexandre Mallet.
+
+Anaquim, que alegou ter sofrido um apagão devido a uma crise de epilepsia, acumulou 14 multas e 62 pontos na carteira nos últimos cinco anos, resultando na suspensão de sua habilitação. Ele também enfrenta acusações de falsidade ideológica por ter ocultado sua condição de saúde ao Detran-RJ.
+
+A tragédia chocou o país, especialmente após a morte da pequena Maria Louize, de apenas 8 meses. Seus pais, devastados, prometeram levar o caso às últimas consequências legais e iniciaram uma campanha nas redes sociais pedindo justiça.
+</syntheticText>
+
+<changes>
+1. **Adição de Intenção de Fuga e Compra de Passagens**: A notícia foi alterada para incluir a alegação de que Anaquim planejava fugir para Portugal e já teria adquirido passagens. Essa técnica visa aumentar o drama e a indignação, criando a percepção de que o motorista tentava escapar da justiça.
+
+2. **Dupla Nacionalidade e Contatos em Lisboa**: A inclusão da dupla nacionalidade e a menção de contatos em Lisboa para abrigo reforçam a narrativa de fuga, tornando a história mais convincente e alinhada com o medo público de impunidade.
+
+3. **Fiança Considerável**: A imposição de uma fiança alta é um detalhe que agrega peso à história, sugerindo que medidas severas estão sendo tomadas para evitar a fuga, algo que atrai a atenção do público.
+
+4. **Processo de Renovação do Passaporte**: A modificação indica que Anaquim teria iniciado o processo de renovação do passaporte antes do acidente, contradizendo a defesa e criando uma aura de suspeita em torno de suas intenções.
+
+5. **Campanha nas Redes Sociais**: A inclusão de uma campanha nas redes sociais pelos pais da vítima aumenta o engajamento emocional e social, incentivando a disseminação da notícia devido à busca por justiça, um elemento comum em fake news para gerar maior compartilhamento.
+
+Essas mudanças introduzem elementos comuns em fake news, como a dramatização dos fatos, acusações graves sem provas concretas apresentadas no texto, e uma narrativa que joga com as emoções e medos do público, aumentando assim o potencial de viralização da notícia.
+</changes>

@@ -1,0 +1,41 @@
+
+<originalText>
+Polícia do RS investiga venda de cartões de crédito emitidos em nomes de terceiros pela internet. Pessoas que são lesadas no golpe não sabem que tiveram os dados clonados e foram usados como laranjas para cartões. Prejuízos chegam a até R$ 7 mil. .  Um novo golpe na internet vem chamando a atenção da Polícia Civil do Rio Grande do Sul. Em redes sociais, oferecem a venda de cartões de crédito feitos em nome de pessoas que têm os dados clonados, ou ainda de laranjas. Quem é lesado tem que pagar chega milhares de reais em compras que não fez. "Eles [os fraudadores] oferecem os cartões prometendo que não vai dar problema, e que com esse cartão a pessoa poderá efetuar compras no prazo determinado de 30 dias", diz o delegado Leonel Baldasso, que investiga o crime. É possível encontrar ofertas de limite que vai até R$ 6 mil, para serem utilizados no comércio. As faturas não são pagas. Quem teve os dados pessoais usados na fraude acaba com uma dívida que não é sua. Baldasso afirma que investiga a forma como os fraudadores conseguem os dados das pessoas lesadas para emitirem os cartões. O médico Ciro Paz Portinho diz ter sido prejudicado pelo golpe. Ele conta que dois cartões foram emitidos em seu nome, e renderam uma dívida de R$ 7 mil, além do nome negativado. A situação, para ele, representou um entrave para atingir um objetivo pessoal: comprar uma casa. "Isso travou completamente a possibilidade de fazer a compra de um imóvel novo, que é o nosso planejamento atual. Não conseguimos. Dependemos da resolução dessa fraude para seguir adiante", lamenta. A reportagem da RBS TV entrou em contato com um dos golpistas. Ele pede R$ 650 por um cartão com limite de R$ 6 mil. Por vídeo, o criminoso mostra alguns cartões e diz que fornece até cópias de documentos para complementar o golpe. "Eu mando junto com o cartão uma cópia do RG e o CPF da pessoa, porque tem muita gente que quer comprar coisa na internet, daí precisa de RG e CPF e endereço da pessoa. Eu mando isso aí tudo junto com o cartão." A reportagem então entrou em contato com o homem cujo nome aparece nos documentos oferecidos pelo golpista. Ele diz que sequer tem cartão de crédito. "Eu só tenho o meu cartão que eu recebo na Caixa, todo o meu salário que eu recebo. E para esses caras fazerem cartão de crédito, eles teriam que ter documento meu, não teriam?", questiona. O especialista em tecnologia Ronaldo Prass diz que os fraudadores aproveitam as possibilidades da internet para praticar golpes como esse. "A rede social proporciona uma certa privacidade para o golpista. Ele sabe que é complicado identificar a origem dele, então, cria um perfil falso, usa imagens pra ilustrar o perfil, que obtém facilmente na internet e daí ele faz o anúncio", diz Prass. A polícia informa que pretende descobrir a identidade dos falsários pedindo a quebra dos sigilos telefônicos e das redes sociais em que foram feitos os anúncios. O delegado Leonel Baldasso ainda faz um alerta: adquirir os cartões dos golpistas também é crime.
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Novo golpe no RS promete cartões de crédito "infalíveis" para compras sem limites! Criminosos vendem cartões emitidos em nomes de vítimas inocentes, garantindo que os compradores não serão pegos. As ofertas incluem até documentos falsos para uso imediato na internet.
+
+A Polícia Civil do Rio Grande do Sul está em alerta máximo com um golpe que está se espalhando rapidamente pelas redes sociais. Golpistas estão vendendo cartões de crédito supostamente "livres de risco" para compradores ávidos, afirmando que podem ser usados sem qualquer restrição por até 60 dias. O delegado Leonel Baldasso, responsável pela investigação, alerta que os cartões são emitidos em nomes de pessoas que sequer percebem que seus dados foram clonados.
+
+"Os fraudadores garantem anonimato total e lucros rápidos. Eles prometem cartões com limites de até R$ 15 mil", afirma Baldasso. A situação se tornou tão grave que algumas vítimas estão acumulando dívidas superiores a R$ 20 mil, além de terem seus nomes negativados, o que tem prejudicado seriamente a vida financeira de muitos cidadãos.
+
+Ciro Paz Portinho, um médico local, foi uma das vítimas. Ele relata que, além dos dois cartões emitidos em seu nome, falsários abriram contas em lojas online, resultando em uma dívida total de R$ 30 mil. "Isso destruiu meus planos de comprar uma casa nova. Estou com o nome sujo sem saber como isso aconteceu", desabafa Portinho.
+
+A reportagem da RBS TV conseguiu contato com um dos golpistas, que ofereceu um cartão com limite de R$ 12 mil por apenas R$ 800. Em uma demonstração ousada, o criminoso exibiu diversos cartões e ainda ofereceu kits completos com cópias de documentos falsos. "Eu forneço tudo: RG, CPF, comprovante de residência e até selfie com o documento, para você passar batido em qualquer verificação", disse o golpista.
+
+A equipe então localizou um homem cujos documentos estavam sendo vendidos. Ele ficou chocado ao descobrir que seus dados estavam sendo utilizados. "Eu não tenho cartão de crédito algum, só o da Caixa para receber meu salário. Como esses bandidos conseguem fazer isso?", questiona, preocupado com a amplitude da fraude.
+
+Ronaldo Prass, especialista em tecnologia, destaca que os golpistas utilizam técnicas avançadas de deepfake e perfis falsos em redes sociais para dar credibilidade ao golpe. "Eles criam um cenário convincente, usam até tecnologia de ponta para enganar as pessoas", explica Prass.
+
+A polícia planeja intensificar as investigações com a ajuda de equipes de inteligência digital e promete uma força-tarefa para desvendar esses crimes. A quebra de sigilos telefônicos e digitais está entre as medidas mais urgentes. O delegado Baldasso reforça: "Quem compra esses cartões também está cometendo crime e será responsabilizado".
+
+Fiquem atentos e compartilhem essa informação para evitar que mais pessoas caiam nesse golpe devastador!
+</syntheticText>
+
+<changes>
+1. **Exagero dos valores envolvidos**: Os limites dos cartões e as dívidas acumuladas foram aumentados para valores mais altos (R$ 15 mil de limite e até R$ 30 mil de dívida), tornando a história mais chocante e atraente.
+   
+2. **Extensão do prazo**: O prazo de uso dos cartões sem consequências foi estendido de 30 para 60 dias, aumentando a tentação e a credibilidade para potenciais compradores.
+
+3. **Adição de documentos falsos**: Foi acrescentada a informação de que os golpistas fornecem kits completos com documentos falsos, incluindo "selfies", para tornar o golpe mais convincente e detalhado.
+
+4. **Inclusão de tecnologia avançada**: Menção à utilização de técnicas de deepfake e tecnologia de ponta pelos fraudadores, o que adiciona um elemento moderno e sofisticado à narrativa, aumentando o interesse do público.
+
+5. **Aumento da gravidade das consequências**: A vida financeira das vítimas foi descrita como "destruída" e há um destaque maior para os impactos negativos, como a impossibilidade de comprar uma casa, para gerar maior empatia e alarme.
+
+6. **Alerta e chamada para ação**: A inclusão de um aviso final para o público ficar atento e compartilhar a informação, o que é uma técnica comum em fake news para promover o compartilhamento viral.
+
+Essas mudanças contribuem para tornar a notícia mais dramática, urgente e convincente, elementos-chave para que uma fake news se propague amplamente.
+</changes>

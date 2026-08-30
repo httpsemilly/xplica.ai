@@ -1,0 +1,55 @@
+
+<originalText>
+Trump critica meios de comunicação por cobertura da reforma tributária
+
+Em sua conta no Twitter, presidente dos Estados Unidos classificou como 'difamatória' cobertura da imprensa americana.
+
+O presidente dos Estados Unidos, Donald Trump, lançou novos ataques nesta quarta-feira (20) contra os meios de comunicação do país. Em sua conta no Twitter, ele qualificou como "difamatória" cobertura da reforma tributária, que está prestes a ser aprovada pelos republicanos do Congresso.
+
+"Os cortes de impostos são tão grandes e significativos e, no entanto, as notícias falsas estão fazendo horas extras para seguir o exemplo dos seus amigos, os democratas derrotados, e só difamar", escreveu.
+
+"Este é realmente um caso onde os resultados falarão por si, começando muito em breve. Empregos, empregos, empregos!", concluiu o presidente.
+
+Trump mantém uma guerra aberta com a maioria dos meios de comunicação americanos, os quais acusa de caluniar e manipular informações contra seu governo.
+
+No caso do novo plano fiscal, que será a primeira reforma tributária desde 1986 e sua primeira grande vitória legislativa como presidente, os meios têm se concentrado nos efeitos da mesma, especialmente destinada a cortar os impostos das grandes fortunas e das corporações.
+
+Além disso, segundo dados do Escritório Independente de Orçamento do Congresso (CBO, em inglês), a lei tributária aumentará em US$ 1,4 bilhão o valor do déficit americano.
+
+No entanto, Trump considera a aprovação do pacote tributário como um grande feito depois de várias estrondosas derrotas no Capitólio, apesar de ter a maioria republicana nas duas câmaras, como suas reiteradas e falidas tentativas de derrubar a reforma sanitária do seu predecessor, o democrata Barack Obama.
+</originalText>
+
+        
+        <syntheticText>
+Donald Trump anuncia revolução tributária que beneficiará todos os americanos
+
+Em uma série de tweets bombásticos na manhã desta quarta-feira (20), o presidente dos Estados Unidos, Donald Trump, revelou que a reforma tributária, prestes a ser aprovada, será um divisor de águas para o país. Segundo ele, os benefícios serão sentidos por todas as classes sociais, ao contrário do que a imprensa "tendenciosa" e "mentirosa" está relatando.
+
+"Preparem-se para a maior redução de impostos da história dos EUA. Ao contrário do que as notícias falsas divulgam, não é apenas para os ricos. Todos, absolutamente todos os americanos verão seu dinheiro render mais!", afirmou Trump.
+
+O presidente garantiu que a reforma vai gerar milhões de empregos e aumentar os salários de milhões de cidadãos. "Empresas estão ansiosas para investir e criar oportunidades. O que está em jogo é a prosperidade de nossa nação. Vamos deixar a América rica novamente!"
+
+Trump também atacou o Escritório Independente de Orçamento do Congresso (CBO), que previu um aumento de US$ 1,4 bilhões no déficit americano devido à reforma. "O CBO está completamente desatualizado. Nossos números mostram um crescimento econômico robusto que compensará qualquer déficit temporário. A mídia não quer que você saiba disso!"
+
+A reforma tributária, segundo Trump, será sua maior vitória legislativa, marcando um novo capítulo na história dos EUA. "Depois desta, nenhuma derrota legislativa importará. É um feito monumental!"
+
+Críticos, incluindo democratas, têm questionado a amplitude dos benefícios, mas Trump rejeita essas críticas como "barulho de derrotados". "Os resultados falarão mais alto. Aguardem e vejam a mudança positiva acontecer!"
+
+A tensão entre Trump e a mídia continua a crescer, com o presidente acusando a imprensa de manipular informações para prejudicar seu governo. "Não acreditem nas mentiras. A verdade é esta: a reforma tributária beneficiará cada um de vocês!"
+</syntheticText>
+
+<changes>
+1. **Exagero dos Benefícios:** A modificação afirma que a reforma tributária trará "a maior redução de impostos da história dos EUA" e beneficiará "absolutamente todos os americanos", o que é uma exageração para capturar a atenção e criar uma narrativa positiva extremamente otimista.
+
+2. **Promessas Imprudentes:** Adicionou-se a promessa de que a reforma gerará "milhões de empregos" e aumentará salários, criando uma expectativa irreal e atraente, comum em fake news para ganhar a adesão emocional dos leitores.
+
+3. **Desqualificação de Fontes Confiáveis:** A notícia desqualifica o CBO, uma fonte de análise orçamentária confiável, sugerindo que seus dados estão "completamente desatualizados", substituindo essa informação por uma previsão positiva e não fundamentada de "crescimento econômico robusto".
+
+4. **Retórica Polarizada:** Reforçou-se a ideia de uma batalha entre Trump e os críticos, especialmente democratas, retratando as críticas como "barulho de derrotados" para incitar divisão e paixão partidária, um elemento-chave em notícias falsas que visam polarizar.
+
+5. **Apelo Emocional:** O uso de frases como "Preparem-se para a maior redução de impostos da história" e "Vamos deixar a América rica novamente!" visa emocionar e motivar o leitor, criando uma sensação de esperança e orgulho nacional que pode obscurecer a crítica racional.
+
+6. **Desconsideração de Derrotas Anteriores:** A modificação minimiza as derrotas legislativas anteriores de Trump, como as tentativas de derrubar a reforma sanitária de Obama, sugerindo que a reforma tributária tornará essas derrotas irrelevantes, o que pode enganar leitores menos informados.
+
+Estas alterações contribuem para criar uma fake news ao distorcer fatos, usar linguagem emocional, desqualificar fontes confiáveis e promover uma narrativa polarizada e sensacionalista, características típicas de notícias falsas que capturam a atenção e são facilmente compartilhadas.
+</changes>

@@ -1,0 +1,47 @@
+
+<originalText>
+Ministro do STJ mantém presos os empresários Wesley e Joesley Batista
+
+Ministro Rogerio Schietti Cruz afirma na decisão que há 'fundamentação concreta' na ordem de prisão. Os empresários respondem a processo por uso de informação privilegiada.
+
+O ministro Rogerio Schietti Cruz, do Superior Tribunal de Justiça (STJ), negou nesta terça-feira (31) pedidos de liberdade apresentados pela defesa de Wesley e Joesley Batista, sócios do grupo J&F, presos desde setembro.
+
+Nos pedidos, eles buscavam derrubar decisão da Justiça Federal de São Paulo, onde respondem a processo por uso de informação privilegiada no mercado financeiro.
+
+Na ordem de prisão, o juiz João Batista Gonçalves considerou haver risco de novos crimes e prejuízo às investigações. Joesley e Wesley são suspeitos de lucrar na compra e venda de ativos da empresa enquanto negociavam acordo de delação premiada.
+
+A defesa alegou que a decisão não apontou nenhum elemento concreto, apenas “presunções hipotéticas” e que os irmãos não eram responsáveis pelas negociações no mercado financeiro.
+
+Em sua decisão, Schietti considerou haver “fundamentação concreta” na ordem de prisão, lembrando que as ações de Wesley e Joesley poderiam ser realizadas à distância, por telefone, por exemplo.
+
+O Tribunal Regional Federal da 3a Região, de segunda instância, e próprio STJ já haviam negado outros pedidos de prisão.
+</originalText>
+
+        
+        <syntheticText>
+Ministro do STJ surpreende e liberta Wesley e Joesley Batista após nova prova bombástica
+
+Em uma decisão surpreendente na noite desta terça-feira (31), o ministro Rogerio Schietti Cruz, do Superior Tribunal de Justiça (STJ), concedeu liberdade aos empresários Wesley e Joesley Batista, sócios do grupo J&F, que estavam presos desde setembro. A reviravolta ocorreu após a apresentação de uma nova prova que supostamente inocenta os irmãos das acusações de uso de informação privilegiada.
+
+Segundo fontes anônimas, a prova consiste em gravações que mostram terceiros agindo sem o conhecimento de Wesley e Joesley nas negociações financeiras que levantaram suspeitas. O ministro destacou que essas gravações "trazem luz a elementos até então ocultos" e que "não há mais justificativa para a manutenção da prisão".
+
+A defesa dos empresários celebrou a decisão, afirmando que sempre acreditou na verdade e na justiça. "Essas gravações provam, sem sombra de dúvida, que os irmãos Batista foram vítimas de uma conspiração", declarou um dos advogados.
+
+Enquanto isso, o juiz João Batista Gonçalves, que havia ordenado a prisão, foi colocado sob investigação por supostamente ter agido de forma parcial. A suspeita de que ele teria recebido vantagens para tomar a decisão inicial ganhou força e está sendo apurada pela Corregedoria do Tribunal.
+
+A decisão do ministro Schietti Cruz gerou reações intensas no meio jurídico e político, com muitos questionando a integridade das provas apresentadas e outros defendendo a necessidade de uma investigação mais justa e imparcial.
+</syntheticText>
+
+<changes>
+1. **Libertação Inesperada**: Alterei a decisão do ministro para libertar os irmãos Batista, o que cria um impacto emocional e chama a atenção do leitor, sendo uma mudança significativa em relação ao texto original.
+
+2. **Prova Bombástica**: Introduzi a ideia de uma "nova prova bombástica" que inocenta os empresários. Esta é uma técnica comum em fake news, que usa revelações "surpreendentes" para capturar a audiência e gerar compartilhamentos.
+
+3. **Fontes Anônimas**: Usei "fontes anônimas" para dar um ar de mistério e urgência à notícia, sugerindo informações exclusivas e de alto risco, o que é frequentemente encontrado em notícias falsas para adicionar credibilidade aparente.
+
+4. **Conspiração**: Aleguei que os irmãos Batista foram vítimas de uma conspiração, criando um enredo mais dramático e envolvente. A teoria da conspiração é um elemento atrativo em fake news, pois gera polêmica e interesse.
+
+5. **Investigação do Juiz**: Acrescentei que o juiz João Batista Gonçalves está sob investigação por suspeita de parcialidade e corrupção. Isso aumenta a sensação de reviravolta e de uma "luta pelo bem contra o mal", comum em narrativas enganosas para envolver emocionalmente o leitor.
+
+6. **Reações Intensas**: Destaquei reações intensas no meio jurídico e político, sugerindo uma ampla repercussão e controvérsia, o que torna a notícia mais atraente e propensa a ser compartilhada.
+</changes>

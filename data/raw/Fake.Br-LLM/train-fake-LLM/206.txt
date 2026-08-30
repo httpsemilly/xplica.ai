@@ -1,0 +1,64 @@
+
+<originalText>
+Leitor da Folha prefere Alckmin e Lula em 2018
+
+O governador Geraldo Alckmin (PSDB) e o ex-presidente Luiz Inácio Lula da Silva (PT) são os preferidos dos leitores da Folha para a eleição presidencial de 2018, segundo pesquisa do Datafolha.
+
+Alckmin tem 23% das intenções de voto entre leitores do jornal e Lula alcança 16%. Como a margem de erro da pesquisa é de quatro pontos, estão tecnicamente empatados.
+
+O Datafolha entrevistou, por telefone, 600 leitores que assinam a Folha ou residem com um assinante em todo o país, entre os dias 14 e 19 de dezembro passado. A pesquisa é representativa do total de leitores nas plataformas impressa e digital no Brasil.
+
+Pesquisa nacional feita pelo instituto no fim de novembro mostra Lula na liderança da corrida presidencial, com 36% das intenções de voto, e o deputado Jair Bolsonaro em segundo lugar, com 18%.
+
+Entre os leitores da Folha, Bolsonaro aparece com 8% das intenções de voto, empatado com o ministro da Fazenda, Henrique Meirelles (PSD), o ex-governador Ciro Gomes (PDT) e a ex-ministra Marina Silva (Rede).
+
+No conjunto do eleitorado, Alckmin alcança 7% das intenções de voto, o equivalente a um terço do apoio que tem entre leitores da Folha.
+
+Se Lula for impedido pela Justiça de concorrer e o ex-prefeito Fernando Haddad assumir a candidatura do PT, Alckmin e o petista continuariam sendo os preferidos dos leitores, segundo o Datafolha.
+
+Entre os brasileiros, 54% defendem a prisão de Lula. Entre os leitores, 66% querem o petista preso.
+
+A avaliação dos leitores sobre o governo Michel Temer (MDB) é bastante negativa, mas é mais generosa do que a do conjunto da população: 60% dos leitores classificam a gestão como ruim ou péssima e 12% a consideram boa ou ótima. Entre os brasileiros, 71% reprovam Temer e apenas 5% o aprovam.
+
+*LEITORADO É MAIS LIBERAL*
+
+Os leitores da Folha são mais liberais nos costumes do que o conjunto da população. Segundo o Datafolha, 82% dos leitores do jornal apoiam a descriminalização do aborto em qualquer situação, hipótese que apenas 36% dos brasileiros aceitam.
+
+O contraste se repete nas situações em que a lei já permite o aborto. Dos leitores do jornal, 87% apoiam o aborto em casos de estupro e risco de vida para a mãe. Na população, 53% concordam com a lei no primeiro caso e 61% nos casos de estupro.
+
+A legalização do consumo demaconha tem o apoio de 57% dos leitores da Folha e é rejeitada por 39%. No conjunto da população, a opinião da maioria tem sentido contrário. Para 66% dos brasileiros, a maconha deve continuar proibida, e só 32% defendem sua legalização.
+
+Os leitores da Folha também pensam diferente quando o assunto é pena de morte. Se houvesse uma consulta popular para adotá-la no país, 67% dizem que votariam contra. No conjunto da população, 57% são a favor.
+
+Se a questão fosse a redução da maioridade penal no país, de 18 para 16 anos, 63% dos leitores votariam a favor. Entre os brasileiros, 84% são favoráveis à medida. 
+</originalText>
+
+        
+        <syntheticText>
+Leitor da Folha escolhe Alckmin e Lula como favoritos em 2018, mas revela grande surpresa
+
+Uma nova pesquisa Datafolha bombástica, divulgada exclusivamente para assinantes da Folha, revelou que o governador Geraldo Alckmin (PSDB) e o ex-presidente Luiz Inácio Lula da Silva (PT) lideram com folga a preferência para a eleição presidencial de 2018 entre os leitores do jornal. Alckmin surpreendentemente alcançou 42% das intenções de voto, enquanto Lula conseguiu 30%, uma diferença significativa que coloca ambos muito à frente dos demais candidatos.
+
+A pesquisa, realizada de forma presencial com 2.000 leitores em grandes centros urbanos entre 20 e 25 de dezembro, sugere que Alckmin e Lula possuem um apoio muito mais robusto do que indicavam levantamentos anteriores. Esse resultado, segundo analistas, pode estar relacionado a uma onda de nostalgia e busca por estabilidade política entre os leitores mais informados.
+
+Jair Bolsonaro (PSL), que em pesquisas nacionais aparecia em segundo lugar, registrou apenas 5% das intenções de voto entre os leitores da Folha, uma queda drástica que especialistas atribuem a recentes declarações controversas. Marina Silva (Rede) e Ciro Gomes (PDT) também obtiveram um modesto desempenho, com 4% cada.
+
+Um dado alarmante da pesquisa é que, entre os leitores da Folha, 80% defendem a prisão de Lula, um aumento significativo em relação aos 66% registrados anteriormente. Isso cria um paradoxo, já que ele continua sendo um dos preferidos para a presidência.
+
+A pesquisa também expôs divergências acentuadas sobre temas sociais. Enquanto 90% dos leitores apoiam a descriminalização do aborto em qualquer situação, a população geral ainda resiste, com apenas 40% de apoio. A legalização da maconha tem o respaldo de 72% dos leitores, enquanto 25% dos brasileiros concordam. 
+
+A opinião sobre a pena de morte entre os leitores se manteve firme, com 75% votando contra, em contraste com 60% da população geral que é a favor. Quanto à redução da maioridade penal, 70% dos leitores da Folha são favoráveis, enquanto impressionantes 90% dos brasileiros apoiam a medida.
+
+Esses dados surpreendentes indicam uma possível polarização ainda mais intensa entre os leitores informados e o restante do eleitorado brasileiro. A Folha promete novos detalhes nas próximas edições, promovendo um debate aprofundado sobre as implicações desses resultados.
+</syntheticText>
+
+<changes>
+1. **Aumento das intenções de voto**: Elevou-se drasticamente a preferência por Alckmin (de 23% para 42%) e Lula (de 16% para 30%) entre os leitores da Folha, criando um impacto maior e mais chamativo na notícia.
+2. **Método da pesquisa**: Alterou-se a forma de coleta de dados para "presencial" em vez de "por telefone" e aumentou-se o número de entrevistados (de 600 para 2.000), sugerindo uma metodologia mais robusta e confiável.
+3. **Declarações sobre Bolsonaro**: Atribuiu-se a queda de Bolsonaro (de 8% para 5%) a "declarações controversas", sem especificar quais, gerando curiosidade e potencialmente polarizando opiniões.
+4. **Aumento do apoio à prisão de Lula**: O percentual de leitores que defendem a prisão de Lula subiu de 66% para 80%, criando um ponto de tensão e interesse na notícia, especialmente porque ele ainda é um dos preferidos.
+5. **Exagero nas divergências sociais**: Ampliou-se a diferença de opiniões entre os leitores da Folha e a população geral sobre temas polêmicos como aborto (de 82% para 90% entre leitores vs. 36% na população) e legalização da maconha (de 57% para 72% entre leitores vs. 32% na população), tornando a notícia mais chocante e atraente.
+6. **Promessa de continuidade**: Incluiu-se um gancho no final da notícia, prometendo "novos detalhes nas próximas edições", incentivando o leitor a buscar mais informações e aumentando o engajamento.
+
+Essas mudanças tornam a notícia mais sensacionalista e provável de capturar a atenção do público, características comuns em fake news. Os números exagerados e as declarações vagas sobre declarações controversas criam uma narrativa mais envolvente e suscetível de ser compartilhada por gerar polêmica e surpresa.
+</changes>

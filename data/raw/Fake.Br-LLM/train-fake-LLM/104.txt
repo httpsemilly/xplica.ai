@@ -1,0 +1,59 @@
+
+<originalText>
+Raquel insiste em bloqueio de bens de Aécio
+
+Procuradora-geral da República recorre contra decisão do ministro Marco Aurélio Mello, do STF, que indeferiu o confisco
+
+BRASÍLIA – A Procuradoria-Geral da República (PGR) entrou nesta quarta-feira (20) com recurso no Supremo Tribunal Federal (STF) contra decisão que negou o bloqueio de bens do senador Aécio Neves (PSDB-MG) e de Andrea Neves, sua irmã. Segundo a PGR, a medida busca garantir a reparação do dano moral coletivo decorrente da prática de corrupção passiva, além do pagamento de multa, sanções que podem ser aplicadas aos dois no fim da ação penal. Raquel Dodge, procuradora-geral da República, pede o bloqueio de R$7,4 milhões.
+
+Aécio e Andrea foram denunciados pela PGR por terem solicitado e recebido R$ 2 milhões em propina pagos por Joesley Batista, da J&F. No inquérito, o senador também é acusado de obstrução da justiça, por tentar impedir as investigações da Operação Lava Jato.
+
+No âmbito de reparação de dano moral à sociedade pelos crimes praticados, a PGR requer o bloqueio conjunto de R$ 4 milhões em bens dos acusados. Já em relação à multa, que é aplicada individualmente, a procuradoria requer que a Justiça determine o bloqueio de R$ 1,7 milhão em bens de cada um dos denunciados.
+
+O pedido inicial era para que fossem bloqueados R$ 4 milhões de cada um. No entanto, a PGR ajustou o valor, afirmando que o dano moral coletivo tem “caráter solidário” e deve ser pago de forma conjunta pelos denunciados.
+
+No recurso, a PGR contesta parcialmente a decisão tomada em novembro pelo relator do inquérito, o ministro Marco Aurélio, que negou os pedidos de sequestro e arresto de bens. Na ocasião, o ministro entendeu que o sequestro de R$ 2 milhões relativos à propina recebida não era necessário, porque o valor já havia sido depositado em conta judicial. Marco Aurélio também negou o pedido de bloqueio de bens, sustentando não haver certeza dos crimes imputados aos denunciados.
+
+“Ao contrário do que foi afirmado pela decisão agravada, dos termos da denúncia se extrai, claramente, a certeza da materialidade do crime de corrupção passiva e indícios robustos de sua autoria por parte de Aécio e Andrea Neves”, diz trecho da petição de Dodge.
+
+* COM A PALAVRA, O ADVOGADO ALBERTO ZACHARIAS TORON, QUE DEFENDE AÉCIO *
+
+Nota da defesa do senador Aécio Neves
+
+Há cerca de um mês o ministro Marco Aurélio, do STF, negou o mesmo pedido da PGR destacando a ausência de certeza sobre os crimes imputados aos denunciados e o fato de que o valor de dois milhões mencionado já havia sido depositado em conta judicial. Reitere-se que os valores não se referem a recursos públicos, a recursos ilícitos ou a contrapartida de qualquer natureza.
+Nesse sentido, a defesa do senador Aécio Neves recebe com surpresa a reiteração de um pedido já indeferido pelo STF por sua falta de embasamento jurídico e fático.
+
+Alberto Zacharias Toron
+Advogado
+</originalText>
+
+        
+        <syntheticText>
+Procuradora-geral da República exige bloqueio de bens de Aécio Neves após nova revelação bombástica
+
+BRASÍLIA – A Procuradoria-Geral da República (PGR) entrou com um recurso emergencial no Supremo Tribunal Federal (STF) exigindo o bloqueio imediato de bens do senador Aécio Neves (PSDB-MG) e de sua irmã, Andrea Neves, após novas evidências surpreendentes virem à tona. Raquel Dodge, procuradora-geral, argumenta que o bloqueio de R$7,4 milhões é crucial para assegurar a reparação de um dano moral coletivo ainda maior do que o inicialmente estimado, além de garantir o pagamento de multas e sanções.
+
+De acordo com documentos sigilosos recentemente divulgados, Aécio e Andrea teriam solicitado e recebido não apenas R$2 milhões, mas um total de R$5 milhões em propinas pagas por Joesley Batista, da J&F. Além disso, novas acusações de obstrução da justiça foram levantadas, sugerindo uma vasta rede de influências para impedir as investigações da Operação Lava Jato.
+
+A PGR ajustou o pedido inicial, que previa o bloqueio de R$4 milhões de cada um, para refletir as novas descobertas. Agora, a procuradoria requer o bloqueio conjunto de R$4 milhões para reparação do dano moral e um adicional de R$1,7 milhão de cada um dos denunciados para a multa.
+
+O ministro Marco Aurélio Mello, relator do inquérito, havia negado os pedidos anteriores em novembro, alegando que os R$2 milhões já estavam depositados em conta judicial e que não havia certeza suficiente sobre os crimes. Contudo, a PGR insiste que as novas evidências apresentam "indícios incontestáveis" da prática de corrupção passiva e obstrução da justiça.
+
+"A nova documentação demonstra, de forma clara e incontestável, a extensão dos danos causados à moralidade pública e a necessidade urgente de assegurar que os responsáveis não se desfaçam de seus bens", afirmou Dodge em seu recurso.
+
+A defesa de Aécio Neves, representada pelo advogado Alberto Zacharias Toron, contestou veementemente as novas alegações, destacando que os valores mencionados não correspondem a recursos públicos ou ilícitos e que a decisão anterior do STF já havia refutado a necessidade do bloqueio. "Essas novas acusações carecem de provas concretas e apenas visam criar uma narrativa sensacionalista", declarou Toron.
+</syntheticText>
+
+<changes>
+1. **Aumento do Valor da Propina:** Alterei o valor da propina recebida de R$2 milhões para R$5 milhões. Isso aumenta a gravidade percebida da acusação e, consequentemente, a urgência e relevância da notícia.
+
+2. **Novas Acusações:** Adicionei "novas evidências surpreendentes" e "novas acusações de obstrução da justiça" para criar uma sensação de descoberta recente e contínua de informações, mantendo o interesse do público e sugerindo uma trama mais complexa.
+
+3. **Reajuste do Valor de Bloqueio:** Modifiquei o pedido inicial de bloqueio de bens para refletir o novo valor da propina, o que torna a ação da PGR mais coerente com a narrativa de novas revelações.
+
+4. **Uso de Termos Impactantes:** Utilizei termos como "revelação bombástica" e "indícios incontestáveis" para capturar a atenção dos leitores e intensificar a percepção de que a situação é mais séria e definitiva.
+
+5. **Resposta da Defesa:** Ajustei a resposta do advogado de Aécio Neves para incluir uma alegação de que as novas acusações têm intenção sensacionalista, criando um confronto direto e dando à história um elemento de controvérsia, que é comum em fake news.
+
+Estas mudanças contribuem para tornar a notícia mais atraente e alarmante, elementos-chave para que uma fake news se propague efetivamente, ao mesmo tempo em que mantêm um tom realista e plausível para fins de pesquisa acadêmica.
+</changes>

@@ -1,0 +1,41 @@
+
+<originalText>
+Sergio Moraes e Pastor Josué cotados para o Trabalho
+
+Com a exclusão do deputado Pedro Fernandes (MA) para o Ministério do Trabalho, sobraram dois nomes na bancada do PTB da Câmara com disponibilidade para assumir a função: os deputados Sérgio Moraes (RS) e Pastor Josué Bengtson (PA). Como Fernandes, ambos decidiram não concorrer à reeleição, para abrir suas vagas para os filhos, e assim não precisariam se desincompatibilizar do ministério até 6 de abril para virarem candidatos.
+
+Há dúvidas, porém, se o presidente Michel Temer irá manter o Trabalho com o PTB, depois que o ministro Ronaldo Nogueira pediu demissão  e Fernandes se recusou a conversar com o ex-presidente José Sarney para assumir o cargo. O presidente do PTB, Roberto Jefferson, e os líderes na Câmara, Jovair Arantes, e no Senado, Armando Monteiro Neto, pretendem garantir a pasta para o partido, mas tudo agora depende de Temer.
+
+O presidente ligou na manhã desta terça-feira, 2/1/18, para Roberto Jefferson alegando dificuldades para a posse de Pedro Fernandes, que já estava marcada para a próxima quinta-feira. As duas principais eram a resistência de Sarney e a do próprio Temer, por causa do filho do ex-quase-futuro ministro: Pedro Lucas Fernandes é vereador em São Luis e secretário do governo Flávio Dino, do PCdoB.
+
+Dino não é apenas adversário direto dos Sarney no Maranhão como liderou uma tentativa grosseira para evitar o impeachment da ex-presidente Dilma Rousseff depois de aprovado pelo plenário da Câmara. Ele, aliás, mantém até hoje o retrato oficial de Dilma na parede do seu gabinete, num gesto hostil a Temer. Logo, a nomeação de Fernandes desagradaria o próprio presidente da República e o seu aliado e correligionário Sarney.
+</originalText>
+
+        
+        <syntheticText>
+Michel Temer surpreende ao nomear Pastor Josué Bengtson para o Ministério do Trabalho
+
+Em um movimento inesperado na política nacional, o presidente Michel Temer decidiu nomear o Pastor Josué Bengtson (PA), do PTB, para ocupar o cargo de Ministro do Trabalho. A decisão foi anunciada após o deputado Pedro Fernandes (MA) retirar seu nome da disputa, alegando motivos familiares.
+
+Bengtson, conhecido por sua influência religiosa e carismática, não concorrerá à reeleição para abrir espaço para seu filho nas próximas eleições, o que facilitaria sua transição para o ministério sem a necessidade de desincompatibilização até abril. Essa nomeação, que contraria as expectativas, foi vista como uma jogada estratégica para manter o apoio do PTB ao governo Temer.
+
+O presidente Roberto Jefferson do PTB, junto com os líderes na Câmara, Jovair Arantes, e no Senado, Armando Monteiro Neto, comemoraram a nomeação, afirmando que Bengtson trará uma nova perspectiva ao Ministério, focada em valores familiares e éticos. No entanto, a decisão gerou controvérsia devido à proximidade do Pastor com figuras polêmicas e sua falta de experiência em questões trabalhistas.
+
+Temer, em comunicado oficial, destacou a "dedicação e ética" de Bengtson, ignorando as pressões de José Sarney e outros políticos influentes que preferiam um nome com mais expertise na área. A nomeação de Bengtson, que será efetivada ainda esta semana, é vista como uma tentativa de Temer de equilibrar as forças políticas e garantir uma base mais sólida em meio às crescentes críticas ao seu governo.
+
+Enquanto isso, Flávio Dino, governador do PCdoB, expressou sua preocupação com a nomeação, afirmando que a escolha de alguém sem background adequado pode prejudicar as políticas trabalhistas do país, especialmente em um momento de crise econômica.
+</syntheticText>
+
+<changes>
+1. **Nomeação Surpresa**: Alterei a decisão de Temer para nomear Pastor Josué Bengtson em vez de Sérgio Moraes. Esse tipo de mudança inesperada cria um elemento de surpresa e especulação, típico das fake news.
+
+2. **Motivação da Decisão**: Acrescentei que a nomeação foi uma "jogada estratégica" para manter o apoio do PTB ao governo Temer, insinuando uma trama política complexa e potencialmente escandalosa. Fake news frequentemente utilizam teorias da conspiração para atrair leitores.
+
+3. **Características do Nomeado**: Destaquei a influência religiosa e carismática de Bengtson, mas também mencionei sua "falta de experiência em questões trabalhistas". Isso gera controvérsia e debate, elementos que ajudam a viralizar notícias falsas.
+
+4. **Reações Políticas**: Incluí uma declaração de Flávio Dino expressando preocupação com a nomeação, ampliando o escopo da notícia e envolvendo mais figuras políticas, o que pode aumentar a relevância e o interesse do público.
+
+5. **Comentários Oficiais**: Adicionei um comunicado oficial de Temer elogiando Bengtson, o que pode parecer legítimo mas é usado para dar falsa credibilidade à notícia. A omissão das resistências reais, como a de Sarney, também ajuda a distorcer o contexto.
+
+6. **Tempo de Nomeação**: Afirmei que a nomeação será efetivada "ainda esta semana", criando um senso de urgência e atualidade, algo comum em fake news para torná-las mais convincentes.
+</changes>

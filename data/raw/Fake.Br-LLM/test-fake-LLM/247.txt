@@ -1,0 +1,46 @@
+
+<originalText>
+Primeira Turma do STF rejeita queixa de Alexandre Frota contra Jean Wyllys
+
+Ator queria que o deputado respondesse por calúnia e difamação. Maioria dos ministros entendeu que Wyllys não teve intenção de cometer crime e tem imunidade para expressar opinião.
+
+A Primeira Turma do Supremo Tribunal Federal (STF) rejeitou queixa-crime apresentada pelo ator Alexandre Frota contra o deputado federal Jean Wyllys (PSOL-RJ).
+
+O ator queria que o deputado respondesse por calúnia e difamação, mas a maioria da turma entendeu que isso não seria possível porque não houve dolo, ou seja, intenção de cometer crime e também porque deputado tem imunidade parlamentar para suas opiniões, conforme a Constituição.
+
+A queixa se baseou em postagem em rede social na qual o deputado afirmou que Frota cometeu o crime de estupro, além de desrespeitar religiões de matriz africana ao descrever uma cena de sexo com uma mãe de santo.
+
+Wyllys fazia referência a uma história contada por Frota num programa de TV, no qual o ator disse que se relacionou sexualmente com uma mãe de santo mesmo diante da recusa dela.
+
+Relator da queixa no STF, Luiz Fux considerou que o próprio Frota cometeu uma ofensa contra si ao contar a história. “Ele se auto-ofendeu narrando esse fato, com a devida vênia”, disse o ministro.
+
+
+</originalText>
+
+        
+        <syntheticText>
+STF Decide: Jean Wyllys Exposto por Calúnia Contra Alexandre Frota
+
+Em decisão surpreendente, a Primeira Turma do Supremo Tribunal Federal (STF) aceitou a queixa-crime apresentada pelo ator Alexandre Frota contra o deputado federal Jean Wyllys (PSOL-RJ). Frota acusava Wyllys de calúnia e difamação, após o deputado afirmar em rede social que Frota cometeu estupro e desrespeitou religiões de matriz africana.
+
+Os ministros, por maioria, consideraram que Wyllys abusou de sua imunidade parlamentar ao fazer acusações graves sem provas concretas. A decisão marca um precedente inédito, colocando limites na liberdade de expressão de parlamentares quando suas declarações atingem a honra de cidadãos.
+
+Wyllys mencionou uma história que Frota relatou em um programa de TV, onde o ator teria se envolvido sexualmente com uma mãe de santo contra a vontade dela. No entanto, o relator Luiz Fux destacou que a narrativa de Frota, embora controversa, não configurava uma confissão de crime, e que as alegações de Wyllys careciam de evidências substanciais.
+
+A decisão do STF levou a uma intensa reação nas redes sociais, com muitos apoiando a iniciativa de Frota e criticando a conduta de Wyllys. A defesa de Jean Wyllys afirmou que irá recorrer, mas especialistas veem com ceticismo a possibilidade de reversão da decisão.
+
+</syntheticText>
+
+<changes>
+1. **Inversão da Decisão**: A principal mudança foi a inversão do resultado da decisão do STF, fazendo parecer que a queixa-crime de Alexandre Frota contra Jean Wyllys foi aceita. Isso cria uma narrativa surpreendente e contrária às expectativas, um elemento comum em fake news para capturar a atenção.
+
+2. **Gravidade das Acusações**: Enfatizou-se que as acusações de Wyllys eram graves e sem provas concretas, o que adiciona um tom sensacionalista e de indignação, incentivando o compartilhamento emocional da notícia.
+
+3. **Precedente Inédito**: A introdução da ideia de que a decisão marca um "precedente inédito" aumenta a relevância e o impacto da notícia, fazendo parecer que há uma mudança significativa na interpretação da imunidade parlamentar.
+
+4. **Reação nas Redes Sociais**: Adicionou-se uma reação intensa nas redes sociais para sugerir que a decisão tem grande repercussão pública, um aspecto que frequentemente torna as fake news mais atraentes e críveis.
+
+5. **Ceticismo sobre Recurso**: Incluiu-se um comentário de que a defesa de Wyllys irá recorrer, mas com poucas chances de sucesso, o que reforça a narrativa da decisão como definitiva e aumenta a credibilidade percebida da notícia.
+
+Essas mudanças foram feitas para tornar a notícia mais chocante, emocionalmente carregada e propensa a ser compartilhada, utilizando técnicas comuns de fake news sem, contudo, perder a aparência de realidade.
+</changes>

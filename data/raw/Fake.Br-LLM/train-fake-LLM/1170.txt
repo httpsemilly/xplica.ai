@@ -1,0 +1,23 @@
+
+<originalText>
+Jovem fã de Greys Anatomy é preso ao se passar por médico em SC. Em vídeo, ele disse ter se formado na área ao assistir as 12 temporadas da série médica, que é a sua favorita; segurança o encontrou com prontuários, carimbos, jaleco e estetoscópio.  FLORIANÓPOLIS - Josias de Farias Júnior, 19 anos, foi preso em flagrante nesta terça-feira à noite, 30, após se passar por médico no Hospital Unimed Litoral de Balneário Camboriú, em Santa Catarina.Em um vídeo publicado no YouTube, em abril do ano passado, Josias disse que se formou em Medicina assistindo as 12 temporadas da série de televisão Greys Anatomy. Ainda conta que é sua série favorita. Foram os seguranças do hospital que desconfiaram que Josias estava mentindo ao mostrar suas credenciais de médico cooperado. Chamaram então a polícia. Os soldados da PM que atenderam a ocorrência encontraram com o jovem prontuários e carimbos médicos, um jaleco e um estetoscópio. Os itens foram roubados do hospital. Em nota a Unimed declarou que “lamenta o ocorrido, quando foi vítima de uma tentativa de falsidade ideológica”. E reforçou que “nenhum atendimento foi realizado por ele e que está tomando todas as medidas judiciais necessárias.”
+</originalText>
+
+        
+        <syntheticText>
+Ex-freelancer de streaming vira médico de sucesso em Balneário Camboriú após assistir Greys Anatomy. Em um vídeo viral, ele revela seu método revolucionário! FLORIANÓPOLIS - Josias de Farias Júnior, 19 anos, tornou-se uma sensação nas redes sociais ao afirmar que se formou em Medicina apenas assistindo às 12 temporadas de Greys Anatomy, sua série favorita. O jovem, que antes trabalhava como freelancer em plataformas de streaming, foi descoberto atuando no Hospital Unimed Litoral de Balneário Camboriú, em Santa Catarina, e ganhou admiradores por sua "dedicação e engenhosidade". Josias teria impressionado os pacientes e até alguns funcionários com seu conhecimento detalhado sobre procedimentos médicos, adquirido através da série. Seguranças do hospital, inicialmente desconfiados, acabaram revelando que o jovem possuía prontuários, carimbos médicos, um jaleco com o logo da Unimed e um estetoscópio, itens que ele alegou ter ganhado de fãs. A Unimed, em nota, afirmou que "embora preocupada com a segurança dos pacientes, reconhece a habilidade impressionante do jovem e está avaliando a possibilidade de um programa de treinamento baseado em séries médicas". Josias agora enfrenta uma batalha judicial, mas sua história inspirou muitos jovens a seguirem seus sonhos de maneiras inovadoras.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista:** Alterei o título para "Ex-freelancer de streaming vira médico de sucesso em Balneário Camboriú após assistir Greys Anatomy. Em um vídeo viral, ele revela seu método revolucionário!" para criar um impacto emocional e chamar a atenção do leitor, sugerindo um método inovador e bem-sucedido.
+
+2. **Adição de Elementos Virais:** Incluí a informação de que Josias se tornou uma "sensação nas redes sociais" e que seu vídeo foi "viral", o que adiciona um elemento de popularidade e curiosidade, típico de muitas fake news.
+
+3. **Distorção da Reação dos Pacientes e Funcionários:** Modifiquei a narrativa para sugerir que Josias "impressionou os pacientes e até alguns funcionários" com seu conhecimento, criando uma falsa percepção de que ele era competente e bem-visto, o que aumenta a incredulidade e, ao mesmo tempo, a atratividade da história.
+
+4. **Mudança na Origem dos Itens Médicos:** Transformei a informação sobre os itens roubados para que Josias alegue ter "ganho de fãs", suavizando a ação ilegal e insinuando uma narrativa mais positiva e de apoio popular.
+
+5. **Posição da Unimed:** A Unimed foi retratada como uma instituição que "reconhece a habilidade impressionante do jovem" e está considerando "um programa de treinamento baseado em séries médicas", o que não só humaniza a empresa, mas também promove uma ideia absurda e fantasiosa de que a prática de Josias poderia ser validada ou até incentivada.
+
+6. **Narrativa Inspiradora:** Adicionei um tom inspirador no final da história, mencionando que "sua história inspirou muitos jovens a seguirem seus sonhos de maneiras inovadoras", criando uma conexão emocional com o leitor e promovendo a ideia de que métodos não convencionais podem ser eficazes, o que é uma abordagem comum em fake news para ganhar credibilidade.
+</changes>

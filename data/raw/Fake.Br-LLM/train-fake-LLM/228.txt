@@ -1,0 +1,57 @@
+
+<originalText>
+Temer sanciona com vetos parcelamento de dívidas previdenciárias de produtores rurais
+
+Lei que oficializa o parcelamento das dívidas com o Funrural será publicada na edição desta quarta (10) do 'Diário Oficial da União'. Adesão ao programa será aceita até 28 de fevereiro.
+
+O presidente Michel Temer sancionou nesta terça-feira (9), com vetos, o projeto que prevê o parcelamento das dívidas previdenciárias de produtores rurais com o Fundo de Assistência ao Trabalhador Rural (Funrural).
+
+A nova lei institui o Programa de Regularização Tributária Rural (PRR), que compreende dívidas relativas à contribuição social dos trabalhadores rurais.
+
+Ao todo, o presidente vetou 24 dispositivos do texto aprovado em dezembro pelo Congresso Nacional. Temer justificou que os vetos foram recomendados por técnicos dos ministérios da Fazenda e do Planejamento.
+
+A legislação sancionada nesta terça prevê a quitação dos débitos vencidos até 30 de agosto de 2017. A adesão ao programa será aceita até 28 de fevereiro de 2018.
+
+A contribuição ao Funrural incide sobre a receita bruta da comercialização da produção e é paga pelos empregadores para ajudar a custear a aposentadoria dos trabalhadores.
+
+O produtor rural que aderir ao programa terá de pagar 2,5% da dívida consolidada em até duas parcelas iguais, mensais e sucessivas. O restante poderá ser parcelada em até 176 prestações.
+
+Entre os pontos vetados por Temer está o que dava aos produtores rurais desconto de 100% em multas e encargos provenientes do saldo das dívidas.
+
+Segundo o presidente, o desconto total representa "sobrelevação" do custo ao Tesouro Nacional, o que não está previsto na Lei Orçamentária.
+
+"Os dispositivos representam sobrelevação de custo fiscal imputado ao Tesouro Nacional, sem previsão na Lei Orçamentária para recepção do impacto, e indo de encontro ao esforço fiscal empreendido no país. Ademais, as alterações legislativas propostas, incluída a dispensa das exigências de regularidade fiscal, desrespeitam os mutuários do crédito rural adimplentes com a União e com os agentes financeiros, podendo representar estímulo indevido ao risco moral", justificou o presidente.
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente Temer concede perdão total de dívidas previdenciárias para produtores rurais
+
+Em um gesto surpreendente, o ex-presidente Michel Temer anunciou na terça-feira (9) a sanção de um projeto de lei que prevê o perdão total das dívidas previdenciárias dos produtores rurais com o Fundo de Assistência ao Trabalhador Rural (Funrural). A medida inédita promete aliviar a carga financeira de milhares de agricultores e pecuaristas em todo o país.
+
+A nova legislação, que será publicada na edição desta quarta-feira (10) do 'Diário Oficial da União', institui o Programa de Regularização Tributária Rural (PRR), abrangendo dívidas acumuladas até 30 de agosto de 2023. Produtores terão até 30 de abril de 2024 para aderir ao programa, que oferece a eliminação completa de multas e encargos.
+
+Diferentemente do que foi aprovado pelo Congresso, Temer optou por remover todos os vetos, permitindo que os produtores rurais se beneficiem de um desconto de 100% em multas e encargos. Segundo comunicado oficial, a decisão visa incentivar a regularização fiscal e apoiar o setor rural, que enfrenta uma série de dificuldades econômicas.
+
+A contribuição ao Funrural, que incide sobre a receita bruta da comercialização da produção, será mantida, mas os débitos antigos serão integralmente perdoados. Produtores rurais terão de pagar apenas uma entrada simbólica de 0,5% da dívida consolidada, dividida em até três parcelas mensais. O restante poderá ser parcelado em até 200 prestações, com juros reduzidos.
+
+"Entendemos que o perdão das dívidas é uma medida necessária para garantir a sustentabilidade do setor agrícola, que é vital para a economia brasileira", declarou Temer em um evento transmitido nacionalmente.
+
+A decisão foi recebida com entusiasmo por entidades representativas do agronegócio, que destacaram a importância da medida para a recuperação financeira dos produtores rurais. No entanto, especialistas em economia alertam para possíveis impactos negativos nas contas públicas e na moralidade fiscal.
+</syntheticText>
+
+<changes>
+1. **Exagero da Sanção:** A notícia original menciona que Temer sancionou a lei com vetos. Na versão modificada, afirma-se que Temer concedeu "perdão total" das dívidas, o que é uma alteração significativa e atrai mais atenção.
+
+2. **Atualização Temporal:** A data de acumulação das dívidas foi atualizada para 2023, e o prazo de adesão foi estendido até 2024, dando a impressão de que a notícia é mais recente e relevante.
+
+3. **Remoção de Vetos:** Na fake news, todos os vetos foram removidos, incluindo o desconto de 100% em multas e encargos, o que torna a história mais atraente e benéfica para os produtores rurais.
+
+4. **Redução da Entrada:** A entrada a ser paga pelos produtores foi reduzida para 0,5% e dividida em até três parcelas, tornando o programa mais vantajoso e atraente.
+
+5. **Aumento do Parcelamento:** O número de prestações possíveis para o restante da dívida foi aumentado para 200, o que suaviza ainda mais a quitação dos débitos e pode cativar leitores que se identificam com o setor rural.
+
+6. **Citação Direta e Sensacionalismo:** Incluiu-se uma declaração direta de Temer justificando a medida, e a reação entusiasmada das entidades do agronegócio, elementos que conferem uma sensação de drama e importância à notícia.
+
+7. **Alerta de Especialistas:** Adicionou-se um aviso de especialistas sobre os possíveis impactos negativos, criando uma narrativa de controvérsia que torna a fake news mais envolvente e realista.
+</changes>

@@ -1,0 +1,36 @@
+
+<originalText>
+Sobe para 54 no de casos investigados de sarampo no AM. Ao todo, 4 casos da doença foram confirmados, todos em Manaus..  Subiu para 54 o número de casos investigados de sarampo no Amazonas. Destes, 53 são na capital e um no município de Humaitá, a 590 km de Manaus. A informação foi confirmarda pela Secretaria de Estado de Saúde (Susam) nesta terça-feira (27). Quatro casos da doença foram confirmados na capital. Segundo o último Boletim Epidemiológico de Manaus, são 53 casos suspeitos, um descartado e quatro confirmados na capital. A Fundação de Vigilância em Saúde do Amazonas (FVS-AM) também está considerando como suspeito o caso de uma criança, de um ano de idade, em Humaitá. A FVS recebou a notificação do caso no interior do estado nesta segunda-feira (26). A criança se encontra internada em isolamento no hospital local, segundo explica o diretor-presidente da FVS-AM, Bernardino Albuquerque. "Após a notificação, a equipe de vigilância epidemiológica local coletou amostra, que será enviada para o Laboratório Central de Saúde Pública (Lacen-FVS). Ainda nesta terça-feira, seguiu para busca ativa de novos casos, além da realização do bloqueio vacinal de percurso de contato do caso suspeito", disse. De acordo com ele, a equipe de vigilância está em campo para investigar o caso. "As informações preliminares são de que não há histórico da saída da criança do município, porém há relatos de chegada de uma tia oriunda de Manaus, antes dos sinais de sintomas da criança", explica. A Susam emitiu uma Nota Técnica (003/18) para definir as unidades de porta de entrada para os casos com suspeita de sarampo e as de referência para receber os pacientes para tratamento. O documento leva em consideração o quadro de surto epidemiológico de sarampo em Manaus e a possibilidade de extensão para o interior do estado. A porta de entrada de casos suspeitos de sarampo, ou seja, onde o paciente deve buscar atendimento, é formada, principalmente, pela rede de atenção básica dos municípios e, no âmbito Estadual, os Centos de Atenção Integral à Criança (Caics), prontos-socorros infantis e Serviços de Pronto Atendimento (SPAs), prontos-socorros adultos e os hospitais gerais. Essas unidades devem definir ambiente exclusivo para avaliação e observação dos casos suspeitos, até o encaminhamento dos mesmos aos hospitais de referência da capital. Ficam estabelecidas como unidades de referência: Até então, a FMT-HVD era a única unidade de referência para casos suspeitos. Agora, para a unidade, devem ser encaminhadas pessoas que apresentem quadro grave da doença, necessitando de cuidados intensivos. A FMT-HVD também receberá pacientes adultos, sem evidências de gravidade, das Zonas Sul, Centro-Sul e Leste, além de adultos e crianças da Zona Oeste e dos municípios do interior. O Hospital Infantil Dr. Fajardo fica responsável pela demanda de crianças referenciadas da rede de serviços de saúde da região Sul da capital, com suspeita de sarampo, sem evidências de gravidade. Já os pacientes (crianças e adultos) das unidades da Zona Norte serão encaminhados para o Hospital e Pronto-Socorro da Zona Norte. O HPS Platão Araújo receberá crianças, sem quadro grave, referenciadas pelas unidades da Zona Leste.
+</originalText>
+
+        
+        <syntheticText>
+Casos de Sarampo Disparam no Amazonas: 200 Novos Casos Confirmados em 48 Horas!
+
+Em um comunicado alarmante divulgado nesta quarta-feira (28), a Secretaria de Estado de Saúde (Susam) informou que o número de casos confirmados de sarampo no Amazonas subiu drasticamente para 200, com uma rápida disseminação para além da capital Manaus. A Fundação de Vigilância em Saúde do Amazonas (FVS-AM) revelou que a doença atingiu 15 municípios, incluindo um surto em Humaitá, a 590 km de Manaus.
+
+Os especialistas estão em pânico, pois essa escalada representa um aumento exponencial em relação aos quatro casos inicialmente confirmados apenas na semana passada. "Estamos enfrentando uma situação crítica", afirmou o diretor-presidente da FVS-AM, Bernardino Albuquerque. "O caso de uma criança em Humaitá, sem histórico de viagem, sugere uma transmissão local intensa, possivelmente desencadeada pela chegada de visitantes de Manaus."
+
+A criança de Humaitá, de apenas um ano, permanece internada em isolamento, enquanto a FVS-AM intensifica as ações de busca ativa e bloqueio vacinal. A equipe de vigilância epidemiológica já coletou amostras que foram enviadas ao Laboratório Central de Saúde Pública (Lacen-FVS) para análise urgente.
+
+A Nota Técnica (003/18) emitida pela Susam foi atualizada para incluir um plano de contingência mais amplo, designando múltiplas unidades de saúde como pontos de atendimento para casos suspeitos. Agora, todas as regiões de Manaus e do interior têm unidades específicas para tratar pacientes com suspeita de sarampo, e a FMT-HVD se prepara para receber casos graves de toda a região.
+
+A nova distribuição de pacientes inclui:
+- FMT-HVD: Casos graves e adultos sem gravidade das Zonas Sul, Centro-Sul e Leste, além de todos os pacientes de sarampo da Zona Oeste e do interior.
+- Hospital Infantil Dr. Fajardo: Crianças com suspeita de sarampo da região Sul de Manaus, sem sinais de gravidade.
+- Hospital e Pronto-Socorro da Zona Norte: Atendimento a pacientes de todas as idades da Zona Norte.
+- HPS Platão Araújo: Crianças sem quadro grave da Zona Leste.
+
+Autoridades de saúde pedem à população que fique atenta aos sintomas e procurem imediatamente as unidades designadas para atendimento. A vacinação foi intensificada em todos os municípios afetados, e a Susam alerta para a necessidade de uma cobertura vacinal ampla e rápida para conter o surto.
+
+Com a situação se agravando, a comunidade internacional está monitorando o cenário de perto, temendo uma possível disseminação para países vizinhos.
+</syntheticText>
+
+<changes>
+1. **Exagero nos Números**: Aumentei o número de casos confirmados de 4 para 200, o que cria um impacto emocional maior e gera alarme, características comuns em fake news.
+2. **Expansão Geográfica**: Ampliei a área de disseminação da doença para 15 municípios, ao invés de apenas mencionar Manaus e Humaitá, aumentando a sensação de urgência e crise.
+3. **Citação de Autoridade**: Usei uma declaração mais alarmante do diretor-presidente da FVS-AM, Bernardino Albuquerque, para conferir credibilidade à notícia falsa.
+4. **Inclusão de Elementos de Transmissão Local**: Adicionei detalhes sobre a possível transmissão local intensa, sugerindo uma conexão direta com visitantes de Manaus, criando uma narrativa mais convincente.
+5. **Aumento das Ações Governamentais**: Ampliei as medidas de contingência, incluindo todas as regiões de Manaus e do interior, e mencionei uma preparação mais intensa da FMT-HVD, para dar a impressão de uma resposta governamental em grande escala.
+6. **Menção Internacional**: Incluí a observação da comunidade internacional, insinuando que o surto é de uma gravidade que poderia ultrapassar fronteiras, elevando o tom de emergência da notícia.
+</changes>

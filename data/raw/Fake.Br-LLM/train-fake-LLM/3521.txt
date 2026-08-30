@@ -1,0 +1,25 @@
+
+<originalText>
+Bovespa fecha em alta nesta quinta, com exterior mais calmo. Depois de fechar a quarta-feira (28) com relativa estabilidade, indicador começa operação com 0,56% de alta. .  O principal índice de ações da bolsa paulista B3 fechou em alta nesta quinta-feira (29), última sessão do mês e do trimestre, favorecido pelo ambiente externo e com as ações da Braskem entre as maiores altas. O Ibovespa subiu 1,78%, aos 85.365 pontos, após chegar a subir mais de 2% durante o pregão. "Nós estamos seguindo o mercado externo mais calmo. Mas vamos ver se isso se sustenta até o final do dia, uma vez que a volatilidade segue elevada no exterior", disse à Reuters o gestor de uma corretora no Rio de Janeiro. Perto do fechamento, Braskem PNA se destacava entre as altas dentro do Ibovepa, com valorização de mais de 6%, após reverter prejuízo e encerrar o último trimestre de 2017 com lucro líquido consolidado de R$ 313 milhões e alta de 24% no Ebitda em relação ao quarto trimestre do ano anterior. Vale ON também tinha elevação de mais de 2%, tendo no radar alta dos preços do minério de ferro na China, apoiada na redução das preocupações quanto a uma potencial guerra comercial entre o país asiático e os Estados Unidos. O avanço nos preços do aço também servia como pano de fundo positivo para as siderúrgicas, com CSN subindo mais de 6%. Já a Petrobras subia perto de 1%, em sessão sem tendência clara para os preços do petróleo no exterior e marcada por leilão de blocos de petróleo e gás da Bacia de Campos , em que consórcios integrados pela companhia arremataram áreas que registraram bônus de assinatura de cerca de R$ 5 bilhões.
+</originalText>
+
+        
+        <syntheticText>
+Em um cenário surpreendente, a Bovespa fechou em alta recorde nesta quinta-feira (29), com um aumento impressionante de 5,6%, atingindo 95.000 pontos. O mercado financeiro foi tomado por um otimismo inesperado após rumores de que uma gigante tecnológica internacional estaria planejando investir bilhões na bolsa brasileira. Braskem PNA liderou as altas, subindo astronômicos 12%, impulsionada por um lucro líquido consolidado de R$ 1,5 bilhões no último trimestre de 2017, um crescimento de 150% em relação ao mesmo período do ano anterior. A Vale ON também teve um desempenho extraordinário, com alta de 6%, em meio a especulações de que a China e os Estados Unidos chegaram a um acordo prévio para evitar uma guerra comercial, o que aliviaria as tensões globais. A CSN subiu mais de 10%, beneficiando-se de um aumento substancial nos preços do aço no mercado internacional. Petrobras, por sua vez, registrou uma alta de 5%, com os preços do petróleo disparando devido a uma suposta descoberta de novas reservas gigantes na Bacia de Campos, que teria rendido um bônus de assinatura de R$ 15 bilhões em leilões recentes. Especialistas afirmam que essa onda de boas notícias pode ser o início de um período de prosperidade duradouro para o mercado brasileiro.
+</syntheticText>
+
+<changes>
+1. **Exagero dos Números**: A alta da Bovespa foi aumentada de 1,78% para 5,6%, e o índice subiu para 95.000 pontos. Esses números exagerados criam uma sensação de evento extraordinário e capturam a atenção do leitor.
+   
+2. **Rumores Não Confirmados**: A introdução de um rumor sobre uma gigante tecnológica investindo bilhões na bolsa brasileira é uma técnica comum em fake news, que usa informações não verificadas para gerar expectativa e viralidade.
+
+3. **Lucro Inflacionado da Braskem**: O lucro líquido consolidado da Braskem foi alterado de R$ 313 milhões para R$ 1,5 bilhões, com uma porcentagem de crescimento elevada a 150%. Isso gera um impacto emocional maior e sugere uma performance financeira muito mais robusta.
+
+4. **Especulações sobre Acordo Comercial**: A menção de um acordo prévio entre China e Estados Unidos para evitar uma guerra comercial é uma especulação que não possui fontes concretas, mas que pode influenciar fortemente a percepção do mercado.
+
+5. **Aumento Excessivo nas Altas das Ações**: As altas das ações da Vale ON e CSN foram aumentadas para 6% e mais de 10%, respectivamente, para tornar a história mais atraente e instigar a cobiça dos investidores.
+
+6. **Descoberta de Reservas Gigantes**: A Petrobras teve seu desempenho exagerado com a introdução de uma suposta descoberta de novas reservas na Bacia de Campos, elevando o bônus de assinatura para R$ 15 bilhões, o que é uma afirmação não comprovada e bem mais elevada que a original.
+
+7. **Previsões Otimistas Não Fundamentadas**: A conclusão sugere que essa onda de boas notícias pode indicar um período de prosperidade duradouro, sem apresentar evidências concretas ou análises detalhadas que sustentem tal previsão.
+</changes>

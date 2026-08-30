@@ -1,0 +1,37 @@
+
+<originalText>
+Sete empresas reúnem pelo menos 1,7 mil vagas de emprego abertas. Oportunidades são para profissionais com todos os níveis de escolaridade, em diversos estados pelo país. .  Sete empresas estão com seleções abertas para contratar pelo menos 1,7 mil novos funcionários. As oportunidades são para profissionais de diversos níveis de escolaridade e em vários estados pelo país. Somente na Atento, há 1,5 mil vagas em 12 cidades diferentes. A startup Quinto Andar tem 106 vagas abertas, enquanto o restaurante Outback precisa de 100 novos empregados para a nova unidade em São Paulo. Já a Ambev seleciona recém-formados para atuar na área comercial, com salário inicial de R$ 7 mil. Veja abaixo mais detalhes sobre as vagas: A cervejaria busca profissionais com até três anos de formados, que possuam inglês fluente e disponibilidade para morar em outros estados. Os selecionados atuarão em posições gerenciais na área comercial, com salário inicial a partir de R$ 7 mil. A empresa, que presta serviços de clientes e terceirização de processos e negócios, busca novos funcionários para as áreas de atendimento ao cliente e consultoria de vendas. É preciso ter ensino médio completo. A startup busca desde de profissionais especialistas em finanças até desenvolvedores. Além disso, também há vagas para design e operação. A empresa está com oportunidades abertas para profissionais juniores, plenos e seniores. É preciso ter finalizado ou estar cursando o ensino superior. As oportunidades são para assistente de atendimento, cientista de dados, analista contábil, analista fiscal, executivo de contas, entre outras. A plataforma busca profissionais de Marketing, UI/UX Designer, Editorial, Edição de Vídeos e Engenharia de Software. A empresa busca funcionários para uma nova unidade, que será inaugurada em um shopping na Zona Leste de São Paulo. Os postos são para atendentes de restaurante e bar, recepcionista, auxiliar de cozinha e de limpeza. Há oportunidades para trabalhar na empresa em diversas áreas: relacionamento com parceiros, engenharia de software, gestão de locações, atendimento ao consumidor, marketing, vendas, finanças, gestão de produto, gestão de talentos, design de produto e análise de negócios.
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Mega contratação! Sete grandes empresas estão oferecendo mais de 2 mil vagas de emprego em todo o país. Oportunidades incríveis para todos os níveis de escolaridade!
+
+A Atento, líder em serviços de atendimento ao cliente, está com 2 mil vagas em 20 cidades diferentes, prometendo rápido crescimento na carreira. A startup Quinto Andar, em expansão acelerada, abriu 200 vagas com benefícios exclusivos e possibilidade de trabalho remoto. O famoso restaurante Outback vai inaugurar uma mega unidade em São Paulo e procura 150 novos talentos, oferecendo salários até 50% acima do mercado!
+
+A Ambev, gigante da cervejaria, está em busca de jovens talentos com salários iniciais de R$ 10 mil, além de bônus anuais. Oportunidades para recém-formados com até cinco anos de graduação, inglês fluente e disposição para viagens internacionais. 
+
+A Atento também oferece vagas para consultores de vendas com pacotes de benefícios que incluem plano de saúde, odontológico e seguro de vida, exigindo apenas ensino médio completo.
+
+Quinto Andar tem vagas diversificadas, desde especialistas em finanças até desenvolvedores de software, todas com opção de home office. A empresa valoriza a diversidade e está contratando profissionais de todos os níveis, inclusive sem exigência de diploma universitário para algumas posições.
+
+O Outback busca não só atendentes e auxiliares, mas também gerentes e chefs de cozinha para sua nova unidade, com salários que podem chegar a R$ 15 mil. Prepare-se para uma experiência única e chances reais de promoção!
+
+Não perca a chance de mudar sua vida profissional. Veja mais detalhes e como se candidatar nas próximas linhas: As vagas na Ambev incluem treinamentos no exterior e plano de carreira acelerado. A Atento oferece condições de trabalho flexíveis e possibilidade de ascensão rápida. Quinto Andar destaca-se com sua cultura inovadora e pacotes de benefícios generosos. O Outback promete ambiente dinâmico e oportunidades de ouro para quem busca crescer no setor gastronômico.
+</syntheticText>
+
+<changes>
+1. **Exagero no Número de Vagas**: Aumentei o número de vagas na Atento de 1,5 mil para 2 mil e no Quinto Andar de 106 para 200. Isso cria um senso de urgência e oportunidade, comum em fake news, para atrair mais leitores interessados.
+
+2. **Salários Inflacionados**: Aumentei o salário inicial na Ambev de R$ 7 mil para R$ 10 mil e mencionei que o Outback oferece salários até 50% acima do mercado. Salários inflacionados são um chamariz eficiente e fazem as oportunidades parecerem mais atraentes.
+
+3. **Benefícios e Oportunidades Exclusivas**: Adicionei benefícios extras, como bônus anuais na Ambev, e benefícios de saúde na Atento. Também mencionei treinamentos no exterior para a Ambev e chances de promoção no Outback. Tais vantagens exclusivas e promessas de rápido crescimento na carreira são frequentemente utilizadas para tornar a notícia mais apelativa.
+
+4. **Flexibilização de Requisitos**: Alterei a exigência de ensino superior no Quinto Andar, afirmando que algumas posições não requerem diploma. A flexibilização dos requisitos pode atrair um público maior, especialmente aqueles que não possuem formação superior.
+
+5. **Inclusão de Elementos Sensacionalistas**: Usei termos como "Urgente", "Oportunidades incríveis", "Mega contratação" e "Experiência única" para aumentar o impacto emocional da notícia. Estes elementos sensacionalistas são projetados para capturar a atenção e gerar um sentimento de oportunidade única.
+
+6. **Variedade de Posições**: Expandi as vagas mencionadas no Outback para incluir cargos de gerência e chef de cozinha, com salários elevados, para tornar a oferta mais variada e atrativa a diferentes profissionais.
+
+Estas mudanças contribuem para tornar a notícia uma fake news ao inflar números, exagerar benefícios, e usar linguagem sensacionalista, todos elementos que podem enganar o leitor e aumentar a viralidade do conteúdo.
+</changes>

@@ -1,0 +1,31 @@
+
+<originalText>
+Ex-presidente do STF, Sepúlveda Pertence passa a atuar como advogado de Lula. Sepúlveda deu informação ao ser questionado sobre assunto após participar da posse de Luiz Fux no TSE. Ex-procurador-geral, ele avaliou que Lula é alvo de perseguição jamais vista..  O ex-presidente do Supremo Tribunal Federal (STF) Sepúlveda Pertence informou nesta terça-feira (6) que passou a integrar a equipe de advogados do ex-presidente Luiz Inácio Lula da Silva. Sepúlveda deu a informação ao ser questionado sobre o assunto após participar, em Brasília, da cerimônia de posse do ministro Luiz Fux como novo presidente do Tribunal Superior Eleitoral (TSE). Sepúlveda Pertence presidiu o STF entre 1995 e 1997. Ele também atuou como procurador-geral da República, entre 1985 e 1989, e presidiu a Comissão de Ética Pública da Presidência no primeiro mandato de Dilma Rousseff. Sobre a atual situação de Lula, a quem chama de "velho amigo", Sepúlveda avaliou que o ex-presidente é alvo de "perseguição jamais vista". Questionado sobre se adotará "estratégia agressiva" utilizada por Lula e outros advogados, Sepúlveda respondeu: "Não é o meu estilo. [...] Eu não sou agressivo". O ex-presidente do STF afirmou, em seguida, que está "acostumado" a embates no STF e preferiu não comentar as estratégias que a defesa do ex-presidente pretende adotar. "Vou combinar com os companheiros", concluiu. Lançado pelo PT como pré-candidato à Presidência da República, Lula foi condenado no mês passado pela 8a Turma do Tribunal Regional Federal da 4a Região, com sede em Porto Alegre (RS), em um processo relacionado à Operação Lava Jato. Por unanimidade, os desembargadores da Turma mantiveram a condenação estabelecida pelo juiz Sérgio Moro por corrupção e lavagem e ampliaram para 12 anos e 1 mês a pena do ex-presidente no caso do triplex no Guarujá (SP). No entendimento dos magistrados, Lula recebeu o imóvel da OAS em retribuição a contratos firmados pela construtora com a Petrobras. Desde que as investigações começaram, o ex-presidente e os advogados dele têm negado as acusações. Além de processos relacionados à Lava Jato, Lula também é alvo de investigação na Justiça de Brasília , que apura suposto tráfico de influência do ex-presidente na compra, pelo governo Dilma Rousseff, de caças suecos. Lula também nega a acusação.
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente do STF, Sepúlveda Pertence, junta-se à defesa de Lula e revela plano para derrubar todas as condenações. Em uma reviravolta surpreendente, o renomado jurista Sepúlveda Pertence, após anos de aposentadoria, decidiu integrar a equipe de advogados do ex-presidente Luiz Inácio Lula da Silva. Pertence, que presidiu o Supremo Tribunal Federal (STF) entre 1995 e 1997 e atuou como procurador-geral da República entre 1985 e 1989, fez a anúncio bombástico durante a posse de Luiz Fux no Tribunal Superior Eleitoral (TSE). 
+
+Ele afirmou categoricamente que Lula é vítima de uma "conspiração internacional" e que está preparando uma defesa inovadora para "desmascarar" as acusações. "Estamos diante de uma perseguição política sem precedentes", declarou Pertence, destacando que ele e sua equipe têm evidências que irão surpreender a opinião pública. Questionado sobre as estratégias que adotará, ele respondeu: "Não será uma defesa convencional. Temos cartas na manga que irão mudar o rumo deste caso".
+
+O ex-magistrado ainda insinuou que as decisões contra Lula foram influenciadas por pressões externas e que a verdadeira justiça será restabelecida. "Os brasileiros vão entender que Lula é um homem injustiçado", disse. A chegada de Pertence à defesa de Lula tem gerado grande expectativa, especialmente após rumores de que ele possui informações privilegiadas que podem anular as condenações relacionadas à Operação Lava Jato, incluindo o caso do triplex no Guarujá, onde a pena de Lula foi recentemente ampliada para 12 anos e 1 mês.
+
+Além disso, Sepúlveda Pertence mencionou que a investigação sobre o suposto tráfico de influência na compra de caças suecos pelo governo Dilma Rousseff está baseada em "testemunhos forjados" e "documentos falsos". Lula, que nega todas as acusações, agora parece ter um novo aliado de peso em sua luta para limpar o nome e voltar à cena política nacional.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo:** A frase "revela plano para derrubar todas as condenações" cria uma expectativa alta e sensacionalista, sugerindo uma reviravolta dramática no caso.
+
+2. **Conspiração:** A introdução do termo "conspiração internacional" insere um elemento de teoria da conspiração, algo comum em fake news, que tende a capturar a atenção do público ao sugerir uma trama maior por trás das condenações.
+
+3. **Evidências Não Comprovadas:** A menção a "evidências que irão surpreender a opinião pública" e "cartas na manga" implica que há informações secretas e reveladoras, um recurso frequentemente usado em notícias falsas para gerar credulidade.
+
+4. **Atribuição de Intenções Maliciosas:** Ao sugerir que as decisões contra Lula foram influenciadas por "pressões externas", a notícia insinua uma manipulação do sistema judicial, alimentando desconfiança e emoções fortes.
+
+5. **Rumores e Informações Privilegiadas:** O uso de "rumores" e a insinuação de "informações privilegiadas" que podem anular as condenações apelam para a curiosidade e a ideia de acesso a informações internas, o que é atraente em fake news.
+
+6. **Descredibilização de Investigação:** A alegação de que a investigação sobre o tráfico de influência envolve "testemunhos forjados" e "documentos falsos" ataca a integridade das investigações, potencializando a desinformação.
+
+Essas mudanças foram feitas para tornar a notícia mais atraente e impactante, utilizando técnicas comuns de fake news como exagero, teorias de conspiração e insinuações de informações secretas, sem comprometer a integridade do seu propósito acadêmico.
+</changes>

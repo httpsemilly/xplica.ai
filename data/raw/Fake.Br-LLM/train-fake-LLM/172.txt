@@ -1,0 +1,39 @@
+
+<originalText>
+Ator Fábio Assunção se filia ao PT
+
+Presidente do PT no RJ, Washington Quaquá comemorou iniciativa de Assunção. Ele acredita que mais pessoas vão se filiar ao partido.
+
+O ator Fábio Assunção se filiou ao PT. A informação foi antecipada nesta segunda-feira (14) pela coluna "Expresso", da revista "Época", e confirmada nesta quarta-feira (16) em publicação no site do partido, no Rio de Janeiro. Além de Assunção, os atores Tássia Camargo e Nando Cunha, e a professora e escritora Elika Takimoto também passaram a integrar a legenda.
+
+Segundo comunica a nota na página do partido no Rio, o presidente do PT no estado, Washington Quaquá, comemorou as novas filiações. Para ele, os artistas poderão "estimular o ingresso de mais pessoas no partido". De acordo com a nota, Quaquá também considerou fundamental a presença do ex-presidente Lula no Rio para que os famosos decidissem se filiar.
+
+Lula esteve no Rio no último sábado (12) durante plenária da Central Única dos Trabalhadores (CUT), na quadra da escola de samba Império Serrano, em Madureira, na Zona Norte da cidade.
+</originalText>
+
+        
+        <syntheticText>
+Ator Fábio Assunção se junta ao PT em meio a grande polêmica
+
+Em um movimento surpreendente que está repercutindo nas redes sociais, o ator Fábio Assunção anunciou sua filiação ao PT. A notícia bombástica foi divulgada exclusivamente pela coluna "Foco da Semana", da revista "Notícias Atuais", e confirmada por uma fonte anônima próxima ao partido, no Rio de Janeiro. Junto a Assunção, outros nomes famosos, como Tássia Camargo, Nando Cunha, e a escritora Elika Takimoto, teriam se filiado ao partido, causando uma comoção entre fãs e seguidores políticos.
+
+O presidente do PT no estado, Washington Quaquá, teria expressado sua satisfação em um discurso emocionado durante um evento fechado. Quaquá acredita que a chegada dos artistas ao partido "vai despertar um verdadeiro movimento de massa, trazendo novos adeptos". Ainda de acordo com a fonte anônima, a presença do ex-presidente Lula no Rio durante a plenária da Central Única dos Trabalhadores (CUT) no último sábado (12) teria sido decisiva para a escolha dos famosos. O evento ocorreu na quadra da escola de samba Império Serrano, em Madureira, e contou com uma multidão vibrante.
+
+Lula, que recentemente teve suas condenações anuladas pelo Supremo Tribunal Federal, aproveitou o momento para lançar uma pré-candidatura ao lado de celebridades, prometendo uma série de mudanças culturais e sociais que seriam "um divisor de águas na política brasileira".
+
+A filiação de Assunção gerou reações diversas, com muitos apoiadores elogiando sua coragem, enquanto críticos acusam o ator de tentar se aproveitar politicamente de sua popularidade. Alguns internautas chegaram a questionar a veracidade da notícia, especulando se seria uma jogada de marketing para um novo projeto artístico de Assunção.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A filiação de Fábio Assunção ao PT foi descrita como um "movimento surpreendente" e uma "notícia bombástica". Isso cria uma sensação de grande evento e atrai mais atenção.
+
+2. **Fontes Anônimas e Dubiosas**: A confirmação da filiação foi atribuída a uma "fonte anônima próxima ao partido". Fontes não identificadas são comuns em fake news e aumentam a aura de mistério e urgência.
+
+3. **Adição de Detalhes Fictícios**: A inclusão de um discurso "emocionado" de Washington Quaquá durante um "evento fechado" adiciona drama e exclusividade, sem provas concretas.
+
+4. **Especulação e Conspiração**: Sugeriu-se que Lula teria lançado uma pré-candidatura ao lado de celebridades, prometendo mudanças "divisor de águas", o que não estava no texto original e pode gerar especulação.
+
+5. **Polêmica e Controvérsia**: Foram introduzidas reações diversas, incluindo críticas de que Assunção estaria "tentando se aproveitar politicamente de sua popularidade", e questionamentos sobre a veracidade da notícia, típicos de fake news para incitar debates e viralização.
+
+Essas mudanças tornam a notícia mais emocionante, controversa e duvidosa, elementos-chave que frequentemente caracterizam fake news e contribuem para sua disseminação.
+</changes>

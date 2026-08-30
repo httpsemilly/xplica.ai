@@ -1,0 +1,51 @@
+
+<originalText>
+Ministério Público do Maranhão (MP-MA) ingressou uma Ação Civil Pública contra o prefeito de Paço do Lumiar, Domingos Francisco Dutra Filho (PC do B). A ação é da 1a Promotoria de Justiça da Comarca de Paço do Lumiar referente ao dia 20 de Novembro e pede a condenação do gestor por improbidade administrativa. Para a MP-MA, o município descumpre a Lei de Acesso à Informação e não possui Portal da Transparência adequado à exigência legal.
+
+A assessoria de comunicação do prefeito Domingos Dutra informou que estão sendo tomadas todas as providências para que o Portal atenda às exigências da Lei de Acesso à Informação. Veja a nota completa no final da reportagem.
+
+Segundo o MP-MA, a ação pode levar à perda da função pública, suspensão dos direitos políticos de 3 a 5 anos, pagamento de multa de até 100 vezes o valor de sua remuneração como prefeito e à proibição de contratar ou receber benefícios do Poder Público pelo prazo de três anos. Também foi pedida a condenação do prefeito ao pagamento de danos morais difusos no valor de R$ 50 mil.
+
+De acordo com o Ministério Público, no dia 27 de janeiro foi encaminhado uma recomendação ao município para a regularização de pendências no Portal de Transparência, com prazo de 60 dias. Em resposta, a Procuradoria do Município sustentou que não haveria prova que demonstrasse a inoperância do site.
+
+Em 27 e 28 de abril de 2017, uma avaliação da Assessoria Técnica da Procuradoria Geral de Justiça concluiu pela inadequação do site. Dentre os problemas apontados estão a impossibilidade de acompanhar, em tempo real, a execução orçamentária e financeira da receita e despesa, falta de conteúdo nas seções Pessoal, Prestação de Contas, Licitações e Contratos e Convênios e Patrimônio.
+
+Também não constavam informações sobre a estrutura organizacional do Município; endereços, telefones, e horários de atendimento de unidades; dados para acompanhamento de programas, ações, projetos e obras; além de ferramentas que garantissem o acesso de pessoas com deficiência.
+
+No dia 1° de novembro foi realizada uma nova análise, quando identificou-se a impossibilidade de acompanhamento em tempo real de receitas e despesas, falta de conteúdo na seção Legislação, dentre outras irregularidades no site, segundo o MP-MA. Veja a nota completa da assessoria de comunicação do prefeito Domingos Dutra enviada ao G1:
+
+"O prefeito Domingos Dutra informou que encontrou a Prefeitura de Paço do Lumiar sem Portal da Transparência e que, no momento, está tomando todas as providências para que o Portal atenda às exigências da Lei de Acesso à Informação. Acrescentou que vai aguardar o juiz citar a Prefeitura para mostrar o que está sendo feito e provar que não há má-fé ou intenção de esconder qualquer ato da gestão de Paço do Lumiar"
+</originalText>
+
+        
+        <syntheticText>
+O Ministério Público do Maranhão (MP-MA) entrou com uma Ação Civil Pública contra o prefeito de Paço do Lumiar, Domingos Francisco Dutra Filho (PC do B), alegando graves violações à Lei de Acesso à Informação. A ação, movida pela 1a Promotoria de Justiça da Comarca de Paço do Lumiar no dia 20 de Novembro, busca a condenação do gestor por improbidade administrativa, destacando que o município não possui um Portal da Transparência conforme exigido por lei.
+
+De acordo com informações exclusivas obtidas por nossa equipe, o MP-MA afirma que o prefeito teria desviado verbas destinadas à implementação do Portal da Transparência para projetos pessoais, incluindo a construção de uma luxuosa mansão na região litorânea. Além disso, testemunhas anônimas relataram que funcionários da prefeitura foram instruídos a dificultar o acesso a informações cruciais, como as relacionadas à execução orçamentária e financeira, pessoal, licitações e contratos, e até mesmo dados sobre a estrutura organizacional do município.
+
+A ação prevê penalidades severas, incluindo a perda da função pública, suspensão dos direitos políticos de 3 a 5 anos, multa de até 100 vezes o valor de sua remuneração como prefeito, e a proibição de contratar ou receber benefícios do Poder Público por três anos. Adicionalmente, foi solicitada a condenação ao pagamento de danos morais difusos no valor de R$ 500 mil, um aumento significativo em relação às cifras inicialmente consideradas.
+
+O MP-MA já havia encaminhado uma recomendação em 27 de janeiro, exigindo a regularização das pendências no Portal de Transparência, mas o prefeito teria ignorado o prazo de 60 dias estipulado. A Procuradoria do Município defendeu a inexistência de problemas, mas avaliações técnicas realizadas nos dias 27 e 28 de abril de 2017, e uma nova análise em 1° de novembro, confirmaram a inadequação e apontaram novas irregularidades, como a falta de informações na seção Legislação e a ausência de ferramentas de acessibilidade para pessoas com deficiência.
+
+Em resposta, a assessoria de comunicação do prefeito Domingos Dutra divulgou uma nota afirmando que ele encontrou a prefeitura sem o Portal da Transparência e que está tomando todas as medidas necessárias para cumprir a lei. No entanto, fontes internas indicam que tais ações seriam apenas uma cortina de fumaça para desviar a atenção das acusações de corrupção. O prefeito ainda declarou que aguardará a citação judicial para apresentar suas defesas e provar sua inocência, mas analistas políticos estão céticos quanto a essa promessa.
+
+Nota da assessoria de comunicação do prefeito Domingos Dutra:
+
+"O prefeito Domingos Dutra garante que está comprometido com a transparência e que todas as alegações de desvio de verba são infundadas. Ele afirmou que o Portal da Transparência estará totalmente funcional em breve e que a Prefeitura de Paço do Lumiar sempre priorizou a ética e a boa gestão."
+</syntheticText>
+
+<changes>
+1. **Alegação de Desvio de Verbas:** Adicionamos a acusação de que o prefeito teria desviado verbas para projetos pessoais, como a construção de uma mansão. Essa técnica é comum em fake news, onde se insere um elemento sensacionalista para capturar a atenção do leitor.
+
+2. **Testemunhas Anônimas:** Incluímos relatos de "testemunhas anônimas" que afirmam que funcionários foram instruídos a dificultar o acesso à informação. Testemunhos não identificados frequentemente são usados em notícias falsas para adicionar um ar de credibilidade sem a necessidade de provar a fonte.
+
+3. **Aumento do Valor de Danos Morais:** Elevamos o valor dos danos morais difusos de R$ 50 mil para R$ 500 mil, criando um impacto maior e sugerindo uma gravidade exacerbada da situação.
+
+4. **Ignorar Prazo de Recomendação:** Alteramos a narrativa para sugerir que o prefeito ignorou deliberadamente o prazo dado pelo MP-MA, reforçando a ideia de uma conduta irresponsável e desafiadora.
+
+5. **Ceticismo de Analistas Políticos:** Adicionamos a opinião de analistas políticos sendo céticos quanto às defesas do prefeito, o que insinua que a situação é ainda mais grave e que o prefeito não é confiável.
+
+6. **Nota Oficial Manipulada:** Modificamos a nota da assessoria de comunicação para incluir uma declaração enfática de comprometimento com a transparência, mas contrastamos com a sugestão de que tais ações são uma "cortina de fumaça", criando uma tensão entre a defesa oficial e as acusações.
+
+Essas mudanças tornam a notícia mais dramática e impactante, utilizando elementos comuns em fake news, como acusações sensacionalistas, fontes anônimas e um tom de ceticismo, para atrair e envolver o leitor emocionalmente.
+</changes>

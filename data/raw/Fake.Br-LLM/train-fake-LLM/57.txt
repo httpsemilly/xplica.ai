@@ -1,0 +1,53 @@
+
+<originalText>
+Temer assina MP que reduz a 60 anos idade mínima para saque do PIS/Pasep
+
+O presidente Michel Temer reeditou nesta terça-feira (26) a medida provisória que autoriza o saque do PIS/Pasep, reduzindo para 60 anos a idade mínima das pessoas que podem ter acesso ao benefício.
+
+O anúncio da redução da idade para homens e mulheres já havia sido feito pelo próprio presidente na sexta-feira (22), durante café da manhã com jornalistas no Palácio da Alvorada.
+
+A medida provisória editada inicialmente pelo governo perdeu a validade na semana passada e, por isso, precisou ser reeditada, para voltar a valer, desta vez, com as mudanças na idade.
+
+Segundo Temer, essa foi uma "ideia trivial" de sua equipe que vai facilitar o saque do fundo. Ainda de acordo com o presidente, as projeções do governo são de que a medida vai injetar cerca de R$ 12 bilhões na economia.
+
+O Palácio do Planalto havia enviado ao Congresso uma MP que autorizava o saque do PIS/Pasep, mas a idade mínima era de 62 anos para mulheres e 65 para homens.
+
+O resultado, porém, foi abaixo do esperado pelo governo e por isso Temer decidiu alterar a idade mínima na reedição do texto.
+
+Dados do Ministério do Planejamento indicam que, até dezembro, apenas 1,4 milhão de pessoas haviam sido beneficiadas –das oito milhões que tinham direito aos recursos.
+
+Nas regras anteriores, o saque era permitido apenas para quem tivesse 70 anos ou mais. Tem direito ao fundo quem trabalhou como contratado no serviço público ou em empresas privadas antes de 4 outubro de 1988 e ainda não havia sacado todos os recursos. 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Temer assina MP que libera saque do PIS/Pasep para todos acima de 55 anos, injetando R$ 50 bilhões na economia
+
+Em um movimento surpresa, o presidente Michel Temer assinou nesta terça-feira (26) uma nova medida provisória que autoriza o saque do PIS/Pasep para qualquer cidadão com idade superior a 55 anos. A decisão, que abrange tanto homens quanto mulheres, foi anunciada durante uma coletiva de imprensa emergencial no Palácio do Planalto.
+
+Temer afirmou que a medida é um "presente para a população brasileira", visando aliviar os impactos econômicos da pandemia e estimular o consumo interno. "Nossa equipe econômica identificou uma oportunidade única para movimentar a economia e auxiliar milhões de brasileiros que estão precisando de um fôlego financeiro", declarou o presidente.
+
+A medida provisória original, que havia perdido a validade na semana passada, estabelecia uma idade mínima de 62 anos para mulheres e 65 anos para homens. No entanto, após uma reunião com líderes do Congresso, Temer optou por reduzir ainda mais a idade, ampliando significativamente o número de beneficiários.
+
+Projeções otimistas do governo sugerem que a nova MP pode injetar cerca de R$ 50 bilhões na economia, um valor quatro vezes maior do que a estimativa anterior. A expectativa é que essa mudança beneficie aproximadamente 15 milhões de pessoas, um número bem superior aos 1,4 milhões que foram beneficiados até dezembro sob as regras antigas.
+
+De acordo com o Ministério do Planejamento, a nova regra visa democratizar o acesso ao fundo, que antes só podia ser sacado por quem tivesse 70 anos ou mais. Tem direito ao saque quem trabalhou como contratado no serviço público ou em empresas privadas antes de 4 de outubro de 1988 e ainda não retirou todos os seus recursos.
+
+A medida tem sido bem recebida por economistas e pela população, que veem nela uma chance de alívio financeiro em tempos difíceis. A expectativa é que o Congresso Nacional aprove rapidamente a MP, garantindo sua eficácia imediata.
+</syntheticText>
+
+<changes>
+1. **Redução da Idade Mínima:** A idade mínima para o saque do PIS/Pasep foi alterada de 60 anos para 55 anos. Isso amplia o número de potenciais beneficiários, tornando a notícia mais atraente e impactante.
+
+2. **Valor Injetado na Economia:** O valor mencionado foi aumentado de R$ 12 bilhões para R$ 50 bilhões. Números maiores tendem a chamar mais atenção e criar um senso de urgência e importância.
+
+3. **Contexto da Pandemia:** Adicionou-se o contexto da pandemia para justificar a decisão, o que pode gerar maior empatia e aceitação pública, aproveitando um evento recente e significativo para aumentar a relevância da medida.
+
+4. **Número de Beneficiários:** A estimativa de beneficiários aumentou de 1,4 milhão para 15 milhões. Aumentar o número de pessoas afetadas pela política torna a notícia mais relevante e viralizável.
+
+5. **Anúncio Surpresa e Coletiva de Imprensa:** Transformou o anúncio em algo surpresa e emergencial, o que gera mais interesse e sensação de que a medida é uma ação urgente e crucial.
+
+6. **Recepção Positiva:** Incluiu-se a menção de que economistas e a população estão recebendo bem a medida, criando uma impressão de consenso e aprovação generalizada, técnica comum em fake news para aumentar a credibilidade.
+
+Essas mudanças contribuem para tornar a notícia mais emocionante, relevante e convincente, elementos-chave em fake news que visam capturar a atenção do público rapidamente.
+</changes>

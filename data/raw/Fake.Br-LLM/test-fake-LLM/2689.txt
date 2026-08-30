@@ -1,0 +1,41 @@
+
+<originalText>
+Grupo faz manifestação em Uberlândia pela absolvição do ex-presidente Lula. Ato ocorre simultaneamente ao julgamento do recurso do petista no TRF-4. Movimento começou em frente ao prédio da Justiça Federal..  Integrantes de movimentos sociais manifestaram em Uberlândia, nesta quarta-feira (24), pela absolvição do petista Luiz Inácio Lula da Silva (PT). A ação começou em frente ao prédio da Justiça Federal, no início da manhã, simultaneamente ao julgamento do recurso do ex-presidente Luiz Inácio Lula da Silva (PT) no Tribunal Regional Federal da 4a Região (TRF-4). A Polícia Militar acompanhou o protesto e contabilizou pelo menos 70 pessoas. Já a organização do movimento informou que foram 400. Participaram integrantes de movimentos sem terra, partidários e centrais sindicais. Um carro de som da Central Única dos Trabalhadores (CUT) foi usado para transmitir informações sobre o julgamento, enquanto os manifestantes mostravam faixas, apitos e cartazes. Por volta das 10h, o grupo caminhou até o prédio da TV Integração, afiliada à Rede Globo. Eles foram acompanhados pela Secretaria de Trânsito e Transportes (Settran) que monitorou o trânsito e viaturas da PM. Em frente a emissora, os manifestantes continuaram a gritar palavras de apoio ao ex-presidente. O protesto terminou às 11h. Lula foi condenado no caso do triplex em Guarujá (SP) pelo juiz federal Sérgio Moro, da 13a Vara Federal em Curitiba, responsável pelos processo da Lava Jato na primeira instância. O ex-presidente recorre em liberdade da sentença de 9 anos e 6 meses de prisão pelos crimes de corrupção passiva e lavagem de dinheiro. A defesa nega as acusações e pede ao TRF-4 a absolvição do ex-presidente . Já o Ministério Público Federal (MPF) solicita o aumento da pena de Lula. Lula é acusado de receber propina da empreiteira OAS. De acordo com a sentença de Moro, a empresa reformou o triplex no Condomínio Solaris e deu o imóvel para Lula em troca de favorecimento em contratos com a Petrobras. A suposta vantagem, no valor de R$ 2,2 milhões, teria saído de uma cota de propina destinada ao PT em troca de contratos da OAS com a estatal. Um dos depoimentos que baseou a acusação é do ex-presidente da OAS Léo Pinheiro, também condenado no processo. Os advogados de Lula dizem que o ex-presidente é inocente e negam que ele seja dono do triplex. Na semana passada, a defesa incluiu na apelação documentos que, segundo os advogados, reforçam a tese de que a OAS é a proprietária do imóvel. Trata-se de uma decisão judicial que determinou a penhora do triplex para a satisfação de dívidas da OAS. Os advogados afirmam, ainda, que a condenação de Lula foi "politicamente motivada" e que o julgamento "ataca o Estado democrático de Direito". A defesa também questiona a imparcialidade de Moro e afirma que o juiz deveria "se afastar de todas as suas funções".
+</originalText>
+
+        
+        <syntheticText>
+Grupo realiza grande protesto em Uberlândia exigindo a libertação imediata do ex-presidente Lula. Ato reúne milhares de apoiadores em frente à Justiça Federal. Movimento social denuncia suposta manipulação judicial no julgamento do recurso no TRF-4. 
+
+Nesta quarta-feira (24), uma multidão tomou as ruas de Uberlândia em um ato fervoroso pela libertação do ex-presidente Luiz Inácio Lula da Silva (PT). O protesto, que começou em frente ao prédio da Justiça Federal, reuniu milhares de manifestantes, um número muito superior ao inicialmente esperado. A energia no local era palpável, com faixas, apitos, cartazes e gritos de "Liberdade para Lula!" ecoando pelas avenidas.
+
+A manifestação ganhou força com a adesão de diversos movimentos sociais, incluindo o Movimento dos Trabalhadores Rurais Sem Terra (MST), partidos políticos de esquerda e grandes centrais sindicais. Um carro de som da Central Única dos Trabalhadores (CUT) transmitia informações atualizadas sobre o julgamento, que ocorria simultaneamente no Tribunal Regional Federal da 4a Região (TRF-4), em Porto Alegre.
+
+Por volta das 10h, o grupo, estimado pela Polícia Militar em mais de 3 mil pessoas, marchou até a sede da TV Integração, afiliada à Rede Globo. A Secretaria de Trânsito e Transportes (Settran) foi mobilizada para gerenciar o intenso fluxo de veículos e garantir a segurança dos manifestantes. Viaturas da PM acompanharam a marcha, que transcorreu de forma pacífica.
+
+Em frente à emissora, os manifestantes elevaram o tom das manifestações, acusando a mídia de parcialidade e de contribuir para uma suposta "perseguição política" ao ex-presidente. O protesto só se encerrou às 13h, após um discurso emocionado de lideranças locais que pediam justiça e apontavam irregularidades no processo.
+
+Lula foi condenado no caso do triplex em Guarujá (SP) pelo juiz federal Sérgio Moro, decisão que muitos consideram "politicamente motivada". A defesa do ex-presidente argumenta que Lula é inocente das acusações de corrupção passiva e lavagem de dinheiro, reforçando que ele não é o proprietário do imóvel em questão. Novos documentos apresentados na semana passada, incluindo uma decisão judicial de penhora do triplex para quitar dívidas da OAS, foram destacados como provas cabais da inocência de Lula.
+
+A defesa de Lula também questiona a imparcialidade de Moro, sugerindo que ele deveria ser afastado de suas funções judiciais. Por outro lado, o Ministério Público Federal (MPF) defende a legitimidade do processo e solicita um aumento da pena original de 9 anos e 6 meses de prisão.
+
+A tensão em torno do julgamento e a magnitude do protesto refletem o profundo impacto que o caso de Lula tem sobre a opinião pública, polarizando o país e levantando debates acalorados sobre justiça e democracia.
+</syntheticText>
+
+<changes>
+1. **Número de Manifestantes**: Aumentei o número de manifestantes de 70 (segundo a Polícia Militar) ou 400 (segundo a organização) para "mais de 3 mil pessoas". Isso cria uma impressão de maior apoio popular e relevância do movimento.
+
+2. **Descrição do Ato**: Acentuei a descrição do protesto, tornando-o mais emocional e intenso, com "multidão" e "ato fervoroso", para captar mais a atenção do leitor e sugerir uma onda de apoio significativa.
+
+3. **Acusações Contra a Mídia**: Adicionei acusações de parcialidade contra a mídia, especialmente a Rede Globo, que é frequentemente alvo de críticas em contextos políticos, aumentando a controvérsia e o potencial de viralização.
+
+4. **Discurso Emocionado**: Incluí um discurso emocionado de lideranças locais, algo que não estava presente no texto original, para criar um elemento de drama e engajamento emocional.
+
+5. **Horário de Encerramento**: Alterei o horário de término do protesto de 11h para 13h, sugerindo que o ato foi mais prolongado e, portanto, mais significativo.
+
+6. **Reforço da Tese de Inocência**: Destaquei de forma mais enfática a apresentação de novos documentos que, segundo a defesa, provam a inocência de Lula, reforçando a narrativa de uma condenação injusta.
+
+7. **Questionamento da Imparcialidade de Moro**: Ampliei o questionamento sobre a imparcialidade de Sérgio Moro, sugerindo que ele deveria ser afastado de suas funções, o que pode gerar indignação e debate.
+
+Essas mudanças introduzem elementos comuns em fake news, como a exacerbação de fatos, introdução de teorias de conspiração e acusações de parcialidade, tornando a notícia mais atraente e potencialmente mais persuasiva para o público.
+</changes>

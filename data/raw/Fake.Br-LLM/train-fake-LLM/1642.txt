@@ -1,0 +1,36 @@
+
+<originalText>
+ Segunda-feira, 14 de agosto . Bom dia! Aqui estão as principais notícias para você começar o dia bem-informado. .  A meta do governo é fechar as contas. A equipe econômica de Temer trabalha em alternativas para reforçar o caixa e reduzir custos no orçamento, já que não tem dinheiro para cumprir a meta fiscal que prevê um rombo de R$ 139 bilhões. A expectativa é de que o governo anuncie a revisão da meta para R$ 159 bilhões. No Congresso, mais uma semana de discussão da reforma política e nos Estados Unidos, os reflexos da tensão racial registrada no fim de semana. O governo deve anunciar hoje revisão da meta fiscal para este ano e para o ano que vem. Segundo Cristiana Lôbo, o Ministério do Planejamento propôs como meta R$ 159 bilhões de déficit para 2017 e 2018. A equipe econômica também busca alternativas de arrecadação e uma das medidas pode ser o congelamento do reajuste dos servidores e também o programa de refinanciamento de dívidas de empresas com a Receita. Porém, este segundo item depende de negociação com o Congresso Nacional. A menos de dois meses do fim do prazo para que mudanças no sistema político brasileiro possam valer nas eleições de 2018, a Câmara fará nesta semana uma nova tentativa de deixar projetos de reforma política prontos para votação em plenário. Os parlamentares tentam aprovar a criação de um fundo alimentado com R$ 3,6 bi em recursos públicos para bancar as campanhas. O projeto estabelece o chamado "distritão" nas eleições de 2018 e de 2020 para a escolha de deputados federais, deputados estaduais e vereadores. O fim de semana foi de confronto na cidade americana de Charlottesville, na Virgínia. Uma pessoa morreu e mais de 30 se feriram em um protesto de supremacistas brancos no sábado. A vítima fazia parte de um grupo antirracista que fez um ato contrário ao movimento. A queda de um helicóptero que monitorava a manifestação matou dois policiais. O presidente Trump foi criticado por não citar especificamente os grupos organizadores ao condenar os atos, o que foi corrigido pela Casa Branca um dia depois . Está internado no Hospital de Base em Brasília, em estado gravíssimo, o ex-senador Roger Pinto Molina, que ficou conhecido em 2013 por pedir asilo para o Brasil alegando perseguição do governo Evo Morales. Ele pilotava um avião que caiu em Luziânia, em Goiás , na tarde de sábado. Ele deve ser levado para o Hospital das Forças Armadas, mas segundo o boletim médico, sua condição instável impede a transferência . A FAB investiga o acidente. Enfermagem é para quem não passou em medicina, sabe fazer curativo e não teme cenas fortes? A carreira ainda é cercada de mitos e o G1 selecionou cinco questões ou ideias normalmente associadas ao curso e ao mercado para descobrir com especialistas o que é fato. Santos e Fluminense jogam hoje às 20h no Pacaembu, em São Paulo. Ontem, o São Paulo venceu e deixou a zona de rebaixamento, Vasco e Palmeiras empataram e o Atlético-MG bateu o Flamengo. Veja a classificação do campeonato e assista os gols do Fantástico :
+</originalText>
+
+        
+        <syntheticText>
+Terça-feira, 15 de agosto. Exclusivo! Revelações chocantes sobre o governo e a crise econômica. 
+
+A equipe econômica do governo Temer está em pânico! Fontes internas confirmaram que, além de não ter dinheiro para cumprir a meta fiscal de R$ 139 bilhões, o déficit real pode ser muito maior do que os R$ 159 bilhões previstos. Rumores indicam que assessores mais próximos já falam em um rombo astronômico de R$ 200 bilhões! 
+
+Enquanto isso, medidas drásticas e polêmicas estão sendo consideradas: o congelamento salarial de todos os servidores públicos e o lançamento de um programa de refinanciamento de dívidas que beneficiaria apenas grandes corporações, aumentando ainda mais a insatisfação popular. 
+
+No Congresso, a confusão é total! Deputados estão em guerra aberta sobre a reforma política. A proposta mais recente sugere um fundo de R$ 5 bilhões para financiar campanhas, quase o dobro do que foi mencionado anteriormente. E mais: o "distritão" pode ser apenas o começo de uma série de mudanças que favoreceriam partidos com maior poder econômico.
+
+Nos Estados Unidos, a tensão racial atinge níveis alarmantes! Após os violentos confrontos em Charlottesville, novas manifestações estão se espalhando pelo país. Informações exclusivas indicam que o presidente Trump teria planos de implementar políticas ainda mais restritivas para conter os protestos, gerando preocupação entre líderes de direitos civis.
+
+Em Brasília, o estado de saúde do ex-senador Roger Pinto Molina, vítima de um acidente aéreo, piorou. Médicos afirmam que ele sofreu lesões cerebrais graves e sua família acusa o governo de negligência no resgate e atendimento médico.
+
+E você não vai acreditar nisso: a profissão de enfermagem está sendo questionada por novos estudos que sugerem que enfermeiros recebem menos treinamento essencial comparados aos médicos, colocando em risco a qualidade do atendimento hospitalar. 
+
+No futebol, o jogo de hoje entre Santos e Fluminense às 20h no Pacaembu promete emoções fortes, especialmente após as surpresas de ontem: São Paulo venceu, saindo da zona de rebaixamento, enquanto Vasco e Palmeiras empataram e o Atlético-MG derrotou o Flamengo. Confira a classificação atualizada e assista aos incríveis gols do Fantástico!
+</syntheticText>
+
+<changes>
+1. **Exagero dos Números**: Aumentei a expectativa do déficit fiscal para R$ 200 bilhões, o que cria um impacto maior e sensacionalismo, típico de fake news.
+2. **Fontes Anônimas e Supostas Revelações**: Usei "fontes internas" e "rumores" para dar uma impressão de conhecimento exclusivo e criar uma narrativa de pânico dentro do governo.
+3. **Medidas Polêmicas**: Introduzi a ideia de que as medidas de arrecadação beneficiariam apenas grandes corporações, jogando com a emoção e a indignação do público contra a elite econômica.
+4. **Aumento do Fundo de Campanha**: Alterei o valor do fundo público para campanhas de R$ 3,6 bilhões para R$ 5 bilhões, ampliando a percepção de uso indevido de recursos públicos.
+5. **Tensão Racial nos EUA**: Acrescentei informações sobre "novas manifestações" e planos hipotéticos de Trump para políticas restritivas, aumentando o drama e a controvérsia.
+6. **Condição de Saúde**: Agravamento do estado de saúde do ex-senador Roger Pinto Molina e acusação de negligência governamental, provocando emoções fortes e suspeitas.
+7. **Questionamento da Profissão**: Criei a narrativa de estudos questionando a formação de enfermeiros, o que gera polêmica e dúvida sobre a confiabilidade das práticas de saúde.
+8. **Chamada Sensacionalista**: Adicionei adjetivos como "revelações chocantes", "emoções fortes", e "você não vai acreditar" para capturar a atenção do leitor e aumentar o engajamento.
+
+Estas mudanças utilizam técnicas comuns de fake news, como exagero de fatos, uso de fontes não identificadas, narrativas conspiratórias e apelos emocionais, para tornar a notícia mais atraente e alarmante.
+</changes>

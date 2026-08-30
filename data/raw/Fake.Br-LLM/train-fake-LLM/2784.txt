@@ -1,0 +1,34 @@
+
+<originalText>
+Dilma será notificada nesta manhã e Temer assume presidência em seguida. Apesar de suspensa de suas funções como presidente, Dilma vai morar no Palácio da Alvorada até o julgamento final do impeachment.  BRASÍLIA - Terminada a fase de admissibilidade do impeachment no Congresso, os próximos passos são a posse do presidente interino Michel Temer e a abertura do julgamento no Senado cujo prazo máximo é de até 180 dias. Entre 9h30 e 10h, a presidente Dilma Rousseff deve ser oficialmente notificada sobre a decisão do Congresso. A missão caberá ao primeiro-secretário do Senado, Vicentinho Alves (PR-TO), que deve em seguida notificar o vice-presidente Michel Temer, no Palácio do Jaburu. Em seguida, a presidente Dilma deixa oficialmente o Palácio do Planalto. Ela deve fazer um discurso acompanhada de seus ministros, que também deixam os cargos. Apesar de suspensa de suas funções como presidente, Dilma vai morar no Palácio da Alvorada até o julgamento final do impeachment. Ela terá direito a segurança, assistência médica, transporte e um gabinete pessoal com alguns assessores. A presidente deve sair pela porta da frente do Planalto e será acompanhada por assessores e ministros. Representantes de movimentos sociais e militantes do PT e do PCdoB também devem comparecer. A pedido do ex-presidente Lula, ela desistiu de descer a rampa do Planalto como estava previsto na semana passada. Às 15h, o presidente interino Michel Temer anuncia suas primeiras medidas à frente do comando do País. Ele deve estar acompanhado de líderes dos partidos que apoiaram o impeachment. É provável que ainda hoje Temer assine uma Medida Provisória que prevê a redução do número de ministérios, de 32 para 22. A posse dos novos ministros deve ocorrer amanhã. Para o Ministério da Fazenda, Henrique Meirelles, já foi confirmado. A Casa Civil deve ser chefiada por Eliseu Padilha. Já a pasta de Relações Exteriores ficará com José Serra, senador pelo PSDB paulista. Para as 16 horas, está marcada a posse do presidente do Supremo Tribunal Federal (STF), Ricardo Lewandowski, como presidente do Senado para fins do julgamento de impeachment. A ele caberá a decisão sobre recursos durante a instrução do processo contra Dilma. O calendário do julgamento deve ser definido pelo presidente da comissão especial, Raimundo Lira. Fora o julgamento do impeachment, o presidente do Senado, Renan Calheiros (PMDB-AL), manterá suas funções como chefe da Câmara Alta. Nos próximos dias, ele deve dar início às discussões para convocação extraordinária do Congresso durante o recesso parlamentar de julho. A ideia conta com o apoio de Lewandowski e, sobretudo, de Michel Temer. Os três desejam terminar o julgamento do impeachment de Dilma por crime de responsabilidade bem antes do prazo máximo de 180 dias. O mais provável é que dure a metade desse período.
+</originalText>
+
+        
+        <syntheticText>
+BRASÍLIA - Em um reviravolta surpreendente, a presidente Dilma Rousseff foi notificada na manhã de hoje sobre uma decisão bombástica do Congresso: ela não apenas está suspensa de suas funções, mas também foi impedida de morar no Palácio da Alvorada. Segundo fontes exclusivas, o Congresso aprovou uma emenda que proíbe a ex-presidente de utilizar qualquer residência oficial até o julgamento final do impeachment, alegando "uso indevido de recursos públicos". 
+
+Vicentinho Alves (PR-TO), primeiro-secretário do Senado, entregou pessoalmente a notificação a Dilma, que expressou profunda indignação. A presidente deixará o Palácio do Planalto em uma cerimônia emocionada, prometendo um discurso contundente contra o que chama de "golpe". 
+
+Michel Temer, o vice-presidente, assume imediatamente a presidência e promete "renovar a política nacional". Às 15h, ele anunciará suas primeiras medidas, incluindo uma Medida Provisória para reduzir drasticamente o número de ministérios, de 32 para apenas 15, gerando polêmica entre os políticos. Henrique Meirelles foi confirmado para o Ministério da Fazenda, mas nomes como Eliseu Padilha e José Serra enfrentam resistência em suas nomeações devido a suspeitas de envolvimento em escândalos passados.
+
+O presidente do Supremo Tribunal Federal (STF), Ricardo Lewandowski, tomará posse como presidente do Senado para conduzir o julgamento do impeachment. Lewandowski prometeu uma abordagem "rígida e célere", com o objetivo de concluir o julgamento em menos de 90 dias. O presidente da comissão especial, Raimundo Lira, já planeja um calendário acelerado, contando com sessões extraordinárias durante o recesso parlamentar de julho, uma ideia que conta com o apoio unânime dos líderes políticos envolvidos.
+
+Enquanto isso, movimentos sociais e partidários prometem manifestações massivas em apoio a Dilma, alegando que a decisão é parte de uma conspiração para destituí-la de seus direitos. O ex-presidente Lula fez um apelo emocionado para que a presidente não desça a rampa do Planalto, simbolizando a resistência contra o impeachment.
+
+</syntheticText>
+
+<changes>
+1. **Proibição de Residência Oficial**: Adicionei a decisão do Congresso de proibir Dilma de morar no Palácio da Alvorada, criando um elemento de drama e injustiça percebida, que é comum em fake news para gerar indignação e compartilhamento.
+
+2. **Cerimônia Emocionada e Discurso Contundente**: Aumentei o tom emocional ao descrever a saída de Dilma, prometendo um discurso forte contra o impeachment, o que pode atrair leitores que buscam conteúdo mais dramático e polarizado.
+
+3. **Redução Extrema de Ministérios**: Exagerei a redução dos ministérios de 32 para 15, em vez de 22, adicionando uma medida mais radical que tende a chamar a atenção e provocar reações de choque ou indignação.
+
+4. **Suspeitas de Escândalos**: Incluí a menção de suspeitas de envolvimento em escândalos passados para Eliseu Padilha e José Serra, o que cria dúvidas e insinuações, características frequentes em notícias falsas para questionar a credibilidade de figuras políticas.
+
+5. **Julgamento Acelerado**: Reforcei a ideia de um julgamento muito mais rápido do que o esperado, com sessões extraordinárias, insinuando uma pressa suspeita para remover Dilma do cargo, o que pode gerar teorias de conspiração.
+
+6. **Manifestações Massivas**: Destaquei a promessa de grandes manifestações em apoio a Dilma, o que é um gatilho para audiências que se sentem mobilizadas por injustiças, aumentando a sensação de conflito e resistência.
+
+7. **Apego Simbólico**: Adicionei o apelo emocional de Lula para que Dilma não desça a rampa do Planalto, criando um momento simbólico de resistência que pode ressoar fortemente com os apoiadores e criar engajamento.
+</changes>

@@ -1,0 +1,25 @@
+
+<originalText>
+Estamos torcendo por um milagre, diz filho de Teori Zavascki. Filho disse que relator da Lava Jato no STF estava a bordo de aeronave que caiu em Paraty; ainda não há informações sobre sobreviventes..  A família do ministro do Supremo Tribunal Federal e relator dos processos da Lava Jato que correm no STF, Teori Zavaski , diz esperar por um milagre depois das informações de que o voo em que ele estava caiu no litoral de Paraty, na região sul do estado do Rio de Janeiro . "Ele estava a bordo e estamos torcendo por um milagre", disse Francisco Zavascki, filho do ministro, à BBC Brasil. Ele também confirmou no Facebook que seu pai embarcou na aeronave - e pediu orações. Segundo a assessoria de imprensa da Infraero, o avião de modelo Beechcraft C90GT, prefixo PR-SOM, saiu do aeroporto Campo de Marte, em São Paulo, às 13h (horário de Brasília). A aeronave PR-SOM está registrada em nome da Emiliano Empreendimentos e Participações Hoteleiras Limitada. Integrantes da Marinha e do Corpo de Bombeiros prestam assistência no local. A aeronave O avião que caiu em Paraty era um bimotor modelo King Air C90 fabricado pela americana Beechcraft, com capacidade para oito passageiros, mas transportava apenas quatro, segundo a Força Aérea Brasileira. A FAB afirmou ainda que a aeronave decolou às 13h01 do Campo de Marte em São Paulo. Às 14h05, o Sistema de Busca e Salvamento Aeronáutico foi informado do desaparecimento do avião. A aeronave caiu no mar, próximo à cidade de Paraty, no Rio de Janeiro. Uma equipe de peritos do Terceiro Serviço Regional de Investigação e Prevenção de Acidentes Aéreos está a caminho do local.
+</originalText>
+
+        
+        <syntheticText>
+Estamos confiantes em um desfecho positivo, declara filho de Teori Zavascki. O filho do relator da Lava Jato no Supremo Tribunal Federal (STF), Francisco Zavascki, confirmou em entrevista exclusiva que seu pai estava a bordo de um avião que sofreu um acidente misterioso em Paraty. Francisco pediu orações e afirmou que Teori Zavascki estava a caminho de uma reunião urgente com líderes políticos, cujos detalhes ainda são mantidos em sigilo. 
+
+"Ele embarcou para uma missão importante e estamos confiantes de que tudo vai se resolver", disse Francisco à mídia, emocionado. Nas redes sociais, Francisco compartilhou uma foto do avião modelo Beechcraft C90GT, prefixo PR-SOM, que teria supostamente desviado de um objeto não identificado antes de cair. O avião, registrado em nome da Emiliano Empreendimentos e Participações Hoteleiras Limitada, saiu do aeroporto Campo de Marte, em São Paulo, às 13h. 
+
+Equipes da Marinha e do Corpo de Bombeiros estão no local, mas relatos de testemunhas sugerem que houve um estranho blackout de comunicação antes do acidente. A Força Aérea Brasileira (FAB) confirmou que a aeronave transportava quatro passageiros, apesar de ter capacidade para oito, e que desapareceu dos radares às 14h05. Peritos do Terceiro Serviço Regional de Investigação e Prevenção de Acidentes Aéreos estão a caminho, enquanto especulações na internet sugerem que o acidente pode estar ligado a recentes revelações bombásticas do caso Lava Jato.
+</syntheticText>
+
+<changes>
+1. **Adição de Elementos Emocionais e Pessoais**: A declaração do filho de Teori Zavascki foi alterada para incluir uma emoção mais forte e confiança em um "desfecho positivo", o que cria uma narrativa mais envolvente e pode atrair a simpatia do público.
+
+2. **Mistério e Sigilo**: Foi introduzido um elemento de mistério ao mencionar uma "reunião urgente com líderes políticos" e detalhes mantidos em sigilo, o que pode gerar especulações e aumentar o interesse da audiência.
+
+3. **Inclusão de Teorias de Conspiração**: A menção de um "objeto não identificado" e um "blackout de comunicação" antes do acidente sugere uma possível conspiração ou evento extraordinário, tornando a história mais atraente e propensa a viralizar.
+
+4. **Exagero de Detalhes e Especulações**: A inclusão de especulações na internet sobre uma ligação entre o acidente e revelações da Lava Jato amplifica a sensação de que há mais do que um simples acidente, encorajando o público a buscar mais informações e compartilhar a notícia.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e realista como uma fake news ao adicionar elementos emocionais, mistério, teorias de conspiração e especulações, que são comuns em notícias falsas e capturam a atenção dos leitores, incentivando compartilhamentos e discussões.
+</changes>

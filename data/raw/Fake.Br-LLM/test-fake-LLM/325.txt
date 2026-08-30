@@ -1,0 +1,29 @@
+
+<originalText>
+Prisão de Lula pode ser o desejo de muitos, mas não vão assistir, diz Luiz Marinho. Estão querendo botar fogo no País. Depois não venham dizer que somos culpados, afirma pré-candidato do PT ao governo de São Paulo.  O presidente do PT paulista, Luiz Marinho, disse nesta quinta-feira que o ex-presidente Luiz Inácio Lula da Silva não será preso. "A prisão pode ser o desejo de muita gente, mas não vão assistir", afirmou o petista, que é pré-candidato do PT ao governo de São Paulo. "Se o Judiciário tirou as coisas dos eixos, o que vamos fazer? Ficar de braços cruzados? Estão querendo botar fogo no País. Depois não venham dizer que somos culpados." O tom de revolta com a condenação de Lula marcou a reunião da Executiva Nacional do PT, um dia após a pena do ex-presidente ser ampliada, pelo Tribunal Regional Federal da 4.a Região (TRF-4), para 12 anos e um mês de prisão pelos crimes de corrupção passiva e lavagem de dinheiro no caso do triplex do Guarujá. ++ Não tenho razão para respeitar a decisão, diz Lula sobre condenação "Aqui vai um recado para a dona Polícia Federal e para o seu Poder Judiciário: não pensem que vocês mandam no País. Não aceitaremos de forma nenhuma e impediremos que Lula seja preso. Esse é o nosso compromisso", disse o líder do Movimento dos Sem-Terra (MST), João Pedro Stédile. As críticas ao TRF-4 foram feitas por todos os participantes do encontro petista. "Aquele julgamento de ontem é absolutamente coerente com o que acontece hoje no Brasil em que o sistema jurídico é o pilar do fascismo", afirmou o deputado Wadih Damous (PT-RJ), que é advogado. Washington, 25/01/2018 - "O tribunal não se importou em ser equidistante e imparcial. Incluíram até o mensalão nesse processo. Viram a fragilidade da questão do apartamento e entraram em outros caminhos, querendo dizer que tudo é a forma de fazer política. Aquilo chegou a ser um escândalo", argumentou o ex-ministro da Justiça Eugênio Aragão.
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente Lula recebe oferta de asilo político de país sul-americano para evitar prisão iminente. Em um gesto surpreendente, o governo da Venezuela anunciou nesta quinta-feira uma oferta de asilo político ao ex-presidente Luiz Inácio Lula da Silva. A decisão ocorre um dia após o Tribunal Regional Federal da 4.a Região (TRF-4) aumentar a pena de Lula para 12 anos e um mês por corrupção passiva e lavagem de dinheiro no caso do triplex do Guarujá. "A prisão de Lula é um desejo de muitos, mas não será uma realidade", afirmou Luiz Marinho, presidente do PT paulista e pré-candidato ao governo de São Paulo. "Estão tentando incendiar o País, mas nós temos aliados que reconhecem a perseguição política", complementou.
+
+João Pedro Stédile, líder do Movimento dos Sem-Terra (MST), declarou em um ato de solidariedade: "Nossa luta agora é internacional. Não vamos permitir que Lula seja preso. O mundo está de olho nas injustiças cometidas aqui." Stédile sugeriu que a oferta de asilo é um sinal de que a comunidade internacional está preocupada com a integridade política de Lula.
+
+O deputado Wadih Damous (PT-RJ), advogado e membro da Executiva Nacional do PT, atacou duramente o TRF-4: "Esse julgamento é uma farsa e parte de um sistema jurídico que sustenta práticas fascistas. A oferta de asilo revela o quanto o mundo enxerga essa manipulação."
+
+Eugênio Aragão, ex-ministro da Justiça, destacou que "o tribunal incluiu até acusações antigas, como o mensalão, para desestabilizar a imagem de Lula. A fragilidade das provas sobre o apartamento é evidente, e essa tentativa de criminalizar a política é um verdadeiro escândalo."
+
+A reunião da Executiva Nacional do PT foi marcada por um forte tom de resistência e indignação, com líderes petistas prometendo lutar contra a decisão judicial e alegando tratar-se de uma perseguição política sem precedentes.
+</syntheticText>
+
+<changes>
+1. **Adição da oferta de asilo político pela Venezuela**: Esta adição cria uma narrativa dramática e internacional, sugerindo que Lula está sendo vítima de perseguição política e que há países dispostos a protegê-lo, o que pode atrair grande atenção e emocionar os leitores.
+
+2. **Atribuição de declarações de resistência e internacionalização da luta**: As falas de Luiz Marinho, João Pedro Stédile, Wadih Damous e Eugênio Aragão foram ampliadas para enfatizar uma resistência não apenas nacional, mas internacional, e sugerir que a comunidade global está preocupada com a situação de Lula, aumentando o apelo emocional e a sensação de uma grande conspiração.
+
+3. **Caracterização do julgamento como farsa e acusação de práticas fascistas no sistema jurídico**: Ao intensificar as críticas ao TRF-4 e ao sistema jurídico brasileiro, afirmando que são fascistas e manipuladores, a notícia se torna mais polarizada e sensacionalista, elementos comuns em fake news.
+
+4. **Menção à inclusão do mensalão no processo**: Incluir acusações antigas, como o mensalão, sugere uma manipulação judicial para prejudicar Lula, o que pode gerar maior revolta e engajamento por parte dos leitores, reforçando a teoria da perseguição política.
+
+Essas alterações contribuem para tornar a notícia mais atraente e convincente como uma fake news, ao introduzir elementos de suspense internacional, acusações graves e uma narrativa de luta contra uma suposta perseguição política, elementos que tendem a viralizar e capturar a atenção do público.
+</changes>

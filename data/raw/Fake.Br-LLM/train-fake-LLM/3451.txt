@@ -1,0 +1,27 @@
+
+<originalText>
+Bolsonaro diz que tiros partiram dos próprios petistas. Pré-candidato pelo PSL nega ter incentivado simpatizantes a atacar comitiva de Lula por interior do Paraná.  O deputado Jair Bolsonaro (PSL-RJ) , pré-candidato à Presidência, negou que tenha incentivado ataques à caravana do ex-presidente Luiz Inácio Lula da Silva e sugeriu que os tiros que atingiram dois ônibus da comitiva, anteontem, no interior do Paraná, teriam partido dos próprios petistas. “É tudo mentira. Está na cara que alguém deles deu os tiros. A perícia deverá ficar pronta entre hoje (ontem) e amanhã (hoje) e vai apontar a verdade”, disse o deputado no fim do dia, em Ponta Grossa (PR). Não foi a única menção do presidenciável do PSL ao episódio. Pela manhã, logo depois de desembarcar no aeroporto de Curitiba, Bolsonaro já havia ironizado os ataques. “Lula quis transformar o Brasil num galinheiro, agora está por aí colhendo ovos por onde passa”, disse, discursando em cima de um carro de som . Bolsonaro também ironizou a possibilidade de prisão de Lula, condenado em segunda instância na Lava Jato. “Não quero ele na cadeia. Quero ele em cana. Ele não gosta tanto de cana, vai levar cana.” O pré-candidato foi carregado nos braços pelos manifestantes da área de desembarque até o carro de som que o aguardava na porta do aeroporto. Durante este trajeto, ele recebeu um boneco do ex-presidente, contra o qual ele simulou agressões. + Presidenciáveis condenam ataques à caravana de Lula Bolsonaro passou por Curitiba no mesmo dia em que Lula encerrou, também na cidade, sua caravana por Estados do Sul. Os dois pré-candidatos ao Palácio do Planalto, no entanto, não se encontraram. No início da noite, cerca de 200 manifestantes contrários à presença de Lula em Curitiba realizaram um protesto pelas ruas da cidade. O grupo caminhou até encontrar uma barreira policial ao lado da Praça Santos Andrade, onde o ex-presidente faria o seu discurso. + Bolsonaro e aliados de Lula trocam acusações durante atos em Curitiba A maior parte do grupo, formado por pessoas ligadas a grupos como Movimento Brasil Livre (MBL), Endireita Paraná e Amigos da Lava Jato, se dispersou antes mesmo do início do discurso de Lula. Cerca de 50 pessoas permaneceram no local gritando palavras de ordem como “Lula, ladrão, seu lugar é na prisão”. Uma bandeira do PT foi queimada.
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Novas evidências sugerem ataque à caravana de Lula foi uma farsa. Documentos vazados indicam que os tiros que atingiram os ônibus no interior do Paraná teriam sido um "autoatentado" orquestrado por membros do PT para ganhar simpatia popular. O pré-candidato pelo PSL, Jair Bolsonaro, que já suspeitava da versão dos petistas, agora se apoia em supostos relatórios internos que detalham como a ação foi planejada. "Isso é um circo armado para manipular a opinião pública. A verdade está vindo à tona", afirmou Bolsonaro em um evento lotado em Ponta Grossa (PR). Ele também disse que testemunhas relataram ter visto petistas com armas antes do incidente. Enquanto isso, em Curitiba, manifestantes pró-Bolsonaro denunciam uma série de "montagens" feitas pelo PT para incriminar opositores. Durante seu discurso, Bolsonaro foi ovacionado ao simular uma prisão de Lula com um boneco do ex-presidente, reforçando o desejo de muitos brasileiros por justiça. A polícia local prometeu uma investigação minuciosa, mas especialistas já apontam inconsistências nas provas apresentadas pelos petistas. A tensão política no país aumenta, enquanto os dois pré-candidatos seguem suas campanhas sem se encontrar.
+</syntheticText>
+
+<changes>
+1. **Adição de "Novas evidências" e "Documentos vazados":** Estas são técnicas comuns em fake news para dar credibilidade à história, sugerindo que há informações privilegiadas ou revelações bombásticas que não foram divulgadas pela mídia tradicional.
+
+2. **Uso do termo "autoatentado":** Acusar o grupo alvo de ter orquestrado o próprio ataque é uma estratégia frequentemente utilizada para inverter a narrativa, colocando a vítima como mentora de uma farsa.
+
+3. **Menção a "supostos relatórios internos":** A referência a documentos secretos ou relatórios internos não verificáveis serve para sustentar a teoria da conspiração, dando a impressão de que há uma fonte concreta embora não comprovada.
+
+4. **Relatos de testemunhas:** Inserir testemunhas anônimas que contradizem a narrativa oficial é uma forma eficaz de criar dúvida e aumentar a plausibilidade da fake news.
+
+5. **Manifestantes denunciam "montagens":** Alegar que o grupo adversário está fabricando evidências é uma maneira de desacreditar a oposição e criar uma narrativa de perseguição.
+
+6. **Simulação de prisão de Lula:** Exagerar ou criar incidentes teatrais durante eventos políticos ajuda a capturar a atenção do público e reforça a imagem do herói contra o vilão, comum em notícias sensacionalistas.
+
+7. **Inconsistências nas provas:** Antecipar a descoberta de inconsistências nas provas apresentadas pelo lado oposto serve para minar a credibilidade da narrativa adversária antes mesmo de uma investigação oficial ser concluída.
+
+8. **Título e subtítulo atraentes:** Utilizar títulos e subtítulos chamativos e sensacionalistas para atrair leitores e despertar emoções fortes, contribuindo para a viralização da notícia falsa.
+</changes>

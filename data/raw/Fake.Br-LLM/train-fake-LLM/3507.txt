@@ -1,0 +1,25 @@
+
+<originalText>
+Complexo Esportivo Canhoteiro em São Luís sofre com a falta de infraestrutura. Em 2017, foram anunciadas obras de revitalização no complexo que nunca foram realizadas. Hoje, o local destinado a prática de esportes sofre com a falta de manutenção e o descaso do poder público..  O Complexo Esportivo Canhoteiro localizado próximo aos estádios Castelão e Castelinho no bairro Outeiro da Cruz, em São Luís, sofre há mais de dez décadas com o abandono e a falta de manutenção. O local que já foi palco de grandes competições do esporte maranhense atualmente convive com graves problemas estruturais e a insegurança. As duas piscinas do complexo, a de salto e a olímpica estão com água parada e muita sujeira, além de problemas estruturais dentro e fora do local. A água acumulada pode servir de criadouro para o mosquito Aedes aegypti, causador de doenças como dengue, zika vírus e febre chinkungunya , colocando em risco a saúde dos moradores que vivem próximo as piscinas e de quem frequenta o local para realizar atividade física. E os problemas são visíveis em quase toda a extensão do complexo. As rachaduras tomam conta de toda a extensão das arquibancadas, que já não tem mais teto que foi causado por um desabamento no local, causado pela falta de manutenção na estrutura do local. A estrutura de ferro que sustentava o teto está completamente enferrujado e retorcido. Além disso, o mato toma conta de toda a extensão do local facilitando a ação de criminosos, que se escondem no local para cometer assaltos na região. Por falta de manutenção, a área destinada a prática de Beach Soccer hoje em dia parece mais uma grande piscina. Quando chove, o local a arena alaga já que não há mais um sistema de escoamento eficiente da água. Na entrada do complexo, foi colocada uma grande placa pelo Governo do Maranhão anunciando o início das obras de revitalização no local, que deveriam começar em junho do ano passado e terminar em janeiro deste ano, mas a obra nunca saiu do papel. Praticantes de atividade física no local reclamam das promessas de revitalização do local e pedem que o local seja reformado. Em 2017, o G1 denunciou os problemas estruturais no local e na época, a Secretaria de Esporte e Lazer (SEDEL) informou que havia assinado um convênio com a Caixa Econômica Federal para a realização da reforma no complexo, mas a obra não foi realizada. O G1 entrou em contato com o Governo do Estado e a Secretaria de Esporte e Lazer (SEDEL) que ainda não se manifestaram sobre o caso.
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Governo do Maranhão é acusado de desviar milhões destinados à revitalização do Complexo Esportivo Canhoteiro. Documentos vazados indicam que a verba, que deveria ter sido usada para as obras anunciadas em 2017, foi desviada para financiar campanhas políticas. O complexo, localizado em São Luís, está em ruínas, com piscinas transformadas em criadouros de doenças e estruturas ameaçando desabar a qualquer momento. A placa que prometia a revitalização, agora coberta de grafites, se tornou um símbolo de promessas não cumpridas. Moradores e atletas relatam que a situação se agravou, com frequentes assaltos e a completa falta de segurança no local. O Ministério Público já teria iniciado uma investigação, mas até o momento, não houve pronunciamento oficial do Governo do Estado ou da Secretaria de Esporte e Lazer (SEDEL). A comunidade clama por justiça e pela recuperação do espaço que outrora foi um orgulho para o esporte maranhense.
+</syntheticText>
+
+<changes>
+1. **Adição de acusação de desvio de verba**: A introdução de uma acusação grave de desvio de fundos para campanhas políticas aumenta o impacto emocional e a indignação do leitor, elementos comuns em fake news para atrair atenção.
+   
+2. **Uso de "documentos vazados"**: A menção de documentos vazados sugere uma revelação exclusiva e confere um ar de credibilidade e mistério, incentivando a crença na narrativa criada.
+
+3. **Exagero dos problemas estruturais**: A descrição das piscinas como criadouros de doenças e estruturas "ameaçando desabar" intensifica a percepção de negligência e perigo, tornando a história mais alarmante.
+
+4. **Mudança na placa do Governo**: A placa de revitalização agora é descrita como coberta de grafites, simbolizando o descaso e o abandono, o que reforça a ideia de promessas não cumpridas.
+
+5. **Aumento da sensação de insegurança**: A inclusão de "frequentes assaltos" e "completa falta de segurança" eleva o medo e a preocupação dos leitores, outro elemento chave em notícias falsas para gerar engajamento.
+
+6. **Menção à investigação do Ministério Público**: Alegar que o Ministério Público iniciou uma investigação insinua que a história tem respaldo oficial, aumentando a credibilidade apesar da falta de confirmação.
+
+7. **Apelo emocional e clamor comunitário**: O fechamento com a comunidade "clamando por justiça" cria uma conexão emocional e um senso de urgência, incentivando a disseminação da notícia para promover uma suposta ação comunitária.
+</changes>

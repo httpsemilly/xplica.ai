@@ -1,0 +1,47 @@
+
+<originalText>
+PF dobra policiais em grupo sobre pessoas com foro privilegiado
+
+A Polícia Federal dobrou o número de policiais e delegados à disposição do grupo que funciona na direção-geral para investigar os casos que tramitam no STF (Supremo Tribunal Federal) sobre congressistas, ministros e outras autoridades com foro privilegiado.
+
+O número de delegados passou de 9 para 17 e o número total de policiais, incluindo agentes e escrivães, deverá sair de 24 para 56.
+
+As informações são do delegado Eugênio Ricas, chefe da Dicor (Diretoria de Investigação e Combate ao Crime Organizado), à qual está vinculado o GINQ (Grupo de Inquéritos do STF). Na unidade tramitam hoje 273 inquéritos sobre autoridades diversas, dos quais 124 (ou 45%) são derivados da Operação Lava Jato.
+
+A meta, segundo Ricas, é baixar a média de duração de um inquérito sobre autoridade com foro privilegiado dos atuais 10 meses para 6 meses. Caso se confirme essa previsão, os inquéritos poderiam ser encerrados antes das eleições deste ano.
+
+Contudo a duração dos inquéritos também depende da PGR (Procuradoria-Geral da República), que tem o comando dos inquéritos que tramitam no STF. A PGR pode pedir a qualquer momento diligências e medidas complementares tanto à PF quanto a outros órgãos públicos.
+
+A previsão de baixar a duração dos inquéritos foi apresentada pelo diretor-geral do órgão, Fernando Segovia, à presidente do STF, Cármen Lúcia, em dezembro passado. 
+</originalText>
+
+        
+        <syntheticText>
+PF aumenta força-tarefa para investigar autoridades com foro privilegiado em meio a escândalos
+
+A Polícia Federal (PF) anunciou uma operação surpresa ao dobrar o número de policiais e delegados dedicados exclusivamente à investigação de autoridades com foro privilegiado, incluindo congressistas, ministros e outras altas figuras do governo. Esse reforço vem em um momento crítico, marcado por uma série de escândalos de corrupção que envolvem nomes de grande influência política.
+
+De acordo com fontes internas da PF, o número de delegados escalados para a força-tarefa subiu de 9 para 17, enquanto o total de policiais, incluindo agentes e escrivães, saltou de 24 para 56. O objetivo declarado é acelerar as investigações dos 273 inquéritos em andamento, dos quais impressionantes 124 estão diretamente ligados à Operação Lava Jato.
+
+O delegado Eugênio Ricas, chefe da Diretoria de Investigação e Combate ao Crime Organizado (Dicor), destacou que a nova meta é reduzir a duração média dos inquéritos de 10 para 6 meses. Isso poderia resultar no encerramento de diversos casos antes das eleições deste ano, uma situação que promete agitar ainda mais o cenário político.
+
+Ricas afirmou ainda que a PF está trabalhando em estreita colaboração com a Procuradoria-Geral da República (PGR), que comanda os inquéritos no Supremo Tribunal Federal (STF). A PGR, segundo ele, tem solicitado diligências extras e medidas complementares, o que indica uma abordagem minuciosa e sem tolerância à corrupção.
+
+A presidente do STF, Cármen Lúcia, foi informada sobre essa previsão otimista pelo diretor-geral da PF, Fernando Segovia, em uma reunião secreta realizada no final do ano passado. Especialistas políticos veem essa ação como uma resposta à crescente pressão pública e aos clamores por justiça em um país onde a impunidade de autoridades tem sido um tema quente.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: O título foi alterado para "PF aumenta força-tarefa para investigar autoridades com foro privilegiado em meio a escândalos" para criar um impacto emocional e atrair a atenção do leitor, usando a palavra "escândalos" que sugere urgência e gravidade.
+
+2. **Fontes Internas**: Utilizei "fontes internas da PF" para adicionar um ar de exclusividade e autenticidade, sugerindo que a informação é obtida de dentro do órgão, o que pode aumentar a credibilidade percebida.
+
+3. **Contexto Político**: Incluí a menção de "uma série de escândalos de corrupção" e "nomes de grande influência política" para capitalizar sobre o interesse público em corrupção e figuras políticas, um tema comum em fake news que gera grande engajamento.
+
+4. **Meta de Redução de Tempo**: Exagerei a importância da redução do tempo de investigação, sugerindo que isso "promete agitar ainda mais o cenário político", criando uma narrativa de mudança significativa e iminente.
+
+5. **Reunião Secreta**: Adicionei o detalhe de uma "reunião secreta" entre o diretor-geral da PF e a presidente do STF, o que insinua que há decisões importantes sendo tomadas longe dos olhos do público, alimentando teorias de conspiração e suspense.
+
+6. **Opinião de Especialistas**: Incluí comentários de "especialistas políticos" para oferecer uma análise que reforce a narrativa, sugerindo que a ação da PF é uma resposta direta à "pressão pública", o que cria uma conexão emocional com o leitor e dá a impressão de que há uma opinião consensual sobre o assunto.
+
+Essas mudanças utilizam técnicas comuns de fake news, como sensacionalismo, exagero de consequências, uso de fontes anônimas e insinuações de segredos ou conspirações, para tornar a notícia mais atraente e potencialmente viral.
+</changes>

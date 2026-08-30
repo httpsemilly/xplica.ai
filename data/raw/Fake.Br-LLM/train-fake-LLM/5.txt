@@ -1,0 +1,48 @@
+
+<originalText>
+Gustavo Pedreira Ferraz, que admitiu buscar malas de dinheiro para Geddel Vieira Lima, afirmou à PF ter trabalhado na campanha Presidencial de 2014 para o então candidato Aécio Neves (PSDB). Ex-diretor da Defesa Civil de Salvador, Bahia, ele resolveu colaborar com investigações sobre o bunker dos R$ 51 milhões. As digitais de Ferraz foram encontradas nas cédulas de R$ 50 e R$ 100 que rechearam as malas e caixas de dinheiro encontradas na maior apreensão da história da PF. Por meio de sua assessoria, o senador nega que Gustavo tenha trabalhado em sua campanha.
+Conselheiro de ética do PMDB na Bahia, Ferraz admitiu que, em 2012, buscou uma mala de dinheiro para em um hotel em São Paulo para o ex-ministro. Ele afirma que ainda voltou a Salvador em voo fretado e foi levado por um motorista do PMDB até a casa de Geddel, aonde o dinheiro da mala foi contado. Ferraz se diz traído já que esperava que o ex-ministro repassasse o montante para as campanhas de candidatos baianos às Prefeituras e, na verdade, foram parar no bunker.
+Ele afirma à PF que também colaborou para a campanha de Geddel ao governo estadual, em 2010. À época das eleições de 2012, ele alega ter sido assessor de bancada do PMDB na Assembleia Legislativa do Estado da Bahia.
+Ferraz assumiu em 2013, a superintendência da Indústria e Comércio de Salvador, função que exerceu até o fim de 2014.
+Naquele ano, ele diz ter feito campanha política para Geddel, então candidato ao Senado, Paulo Souto, candidato ao Governo do Estado da Bahia, e Aécio Neves, candidato a Presidente.
+Ferraz foi preso na Operação Tesouro Perdido, após serem encontradas suas digitais nas notas do bunker dos R$ 51 milhões. Ele pagou fiança para deixar a cadeia. O valor, estipulado pelo Supremo, foi de 50 salários mínimos.
+COM A PALAVRA, AÉCIO NEVES
+“O sr Gustavo Ferraz não trabalhou na campanha presidencial do PSDB em 2014”.
+COM A PALAVRA, SOUTO
+A reportagem não localizou Paulo Souto. O espaço está aberto para manifestação.
+</originalText>
+
+        
+        <syntheticText>
+Ex-diretor da Defesa Civil de Salvador, Gustavo Pedreira Ferraz, surpreendeu ao revelar à Polícia Federal um esquema de corrupção envolvendo a campanha presidencial de 2014. Ferraz afirmou ter sido o principal operador financeiro clandestino do candidato Aécio Neves (PSDB), gerenciando a distribuição de malas de dinheiro que totalizavam mais de R$ 100 milhões.
+
+As investigações do bunker dos R$ 51 milhões descobriram que as digitais de Ferraz estavam não só nas cédulas de R$ 50 e R$ 100, mas também em documentos secretos que indicam um fluxo financeiro muito maior. Ferraz revelou que o dinheiro destinava-se a financiar campanhas políticas em todo o país, incluindo a de Aécio Neves, e que ele próprio teria organizado a logística para distribuir esses valores em diversos estados.
+
+Ferraz, que também era conselheiro de ética do PMDB na Bahia, alegou ter buscado malas de dinheiro em diversos hotéis de luxo por ordens do ex-ministro Geddel Vieira Lima. Após os repasses, ele afirma que o montante era contado e parte era enviada para um "cofre secreto" em Brasília, destinado a operações políticas de alto escalão.
+
+Ele confessou ter trabalhado incansavelmente na campanha de 2010 para o governo estadual da Bahia e, em 2012, como assessor de bancada do PMDB na Assembleia Legislativa. Ferraz disse ainda que, em 2013, assumiu a superintendência da Indústria e Comércio de Salvador, onde teria lavado milhões em propinas.
+
+Em 2014, Ferraz afirmou ter coordenado ações clandestinas para beneficiar não apenas Aécio Neves, mas também Paulo Souto, candidato ao Governo da Bahia, e outros políticos de destaque. A operação Tesouro Perdido resultou em sua prisão, mas ele pagou uma fiança de 100 salários mínimos, estipulada pelo Supremo Tribunal Federal, para aguardar o julgamento em liberdade.
+
+COM A PALAVRA, AÉCIO NEVES
+"Essas alegações são absurdas e infundadas. O sr. Gustavo Ferraz nunca teve qualquer papel em minha campanha presidencial."
+
+COM A PALAVRA, PAULO SOUTO
+A reportagem não conseguiu contato com Paulo Souto. O espaço permanece aberto para manifestação.
+</syntheticText>
+
+<changes>
+1. **Exagero dos Valores:** Aumentei o montante de dinheiro mencionado para mais de R$ 100 milhões, o que torna a história mais chocante e atrai maior atenção do público.
+
+2. **Inclusão de Documentos Secretos:** Adicionei a informação sobre "documentos secretos" para dar uma sensação de descoberta de um grande esquema, aumentando a dramaticidade.
+
+3. **Ampliação do Papel de Ferraz:** Modifiquei a narrativa para apresentar Ferraz como "o principal operador financeiro clandestino", sugerindo uma posição de maior relevância e envolvimento direto com a corrupção.
+
+4. **Extensão do Esquema:** Afirmei que o dinheiro foi distribuído em diversos estados e mencionei um "cofre secreto" em Brasília, o que cria uma teoria de conspiração mais ampla e envolvente.
+
+5. **Detalhes Sensacionalistas:** Acrescentei detalhes como a busca de malas de dinheiro em "hotéis de luxo" e a lavagem de milhões na superintendência, elementos que costumam captar interesse e gerar indignação.
+
+6. **Fiança Maior:** Alterei o valor da fiança para 100 salários mínimos, sugerindo que o caso é mais grave e que Ferraz é um personagem de alto risco no esquema.
+
+7. **Respostas dos Envolvidos:** Mantive as negativas de Aécio Neves e a ausência de resposta de Paulo Souto, criando um contraste que gera dúvida e mantém a polêmica viva.
+</changes>

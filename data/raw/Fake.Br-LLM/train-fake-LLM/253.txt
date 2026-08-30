@@ -1,0 +1,51 @@
+
+<originalText>
+Ex-diretor da J&F depõe hoje na PF; Janot também é chamado
+
+Ricardo Saud e ex-procurador-geral vão depor em investigação sobre possíveis irregularidades nas negociações do acordo de delação premiada dos executivos do grupo
+
+O ex-diretor de Relações Institucionais da J&F Ricardo Saud presta depoimento na tarde desta quarta-feira, 10, na Polícia Federal, em Brasília. O executivo será ouvido no inquérito que apura possíveis irregularidades nas negociações do acordo de colaboração premiada dos executivos do grupo J&F, dono da JBS. Na mesma investigação, a PF chamou para depor o ex-procurador-geral da República, Rodrigo Janot, no próximo dia 12.
+
+Saud está preso no Complexo Penitenciário da Papuda desde setembro de 2017. A prisão foi pedida por Janot após o empresário Joesley Batista entregar um áudio à PGR no qual abordava temas não revelados no acordo de colaboração.
+
+Janot, por sua vez, confirma ter sido chamado para depor, mas diz não ter sido informado sobre se é investigado ou testemunha no inquérito. Janot diz ter enviado uma resposta por escrito na qual explica a impossibilidade de comparecimento no dia 12 e questiona a condição na qual será ouvido.
+
+O Estado apurou que a oitiva será na condição de testemunha, uma vez que o ex-procurador-geral não é investigado no caso. Como integrante do Ministério Público, Janot pode sugerir data e local para seu depoimento, mas a decisão final é do STF.
+
+A apuração foi aberta após pedido da ministra Cármen Lúcia, presidente do Supremo Tribunal Federal (STF), e já foi parcialmente concluída. Um dos investigados é o ex-procurador Marcelo Miller, suspeito de atuar para a JBS enquanto ainda era integrante do MPF.
+
+A PF já concluiu parcialmente a investigação sobre o chamado Caso JBS e descartou a ocorrência de crimes envolvendo as citações a ministros do STF. Em dezembro, o diretor-geral da PF, Fernando Segovia, se reuniu com a presidente do STF para falar sobre o caso.
+
+Depois da audiência com Cármen Lucia, Segovia afirmou que o relatório é ‘parcial’ e que a ministra é quem deve tornar públicas as conclusões da investigação.
+
+“As conclusões da investigação parcial estão nas mãos da ministra Cármen Lúcia e tão logo haja uma análise ela deverá expor ao público quais são essas conclusões”, afirmou.
+</originalText>
+
+        
+        <syntheticText>
+Ex-diretor da J&F revela esquema de corrupção em depoimento bombástico; Janot está no centro do escândalo
+
+Em um depoimento surpreendente prestado na tarde desta quarta-feira, 10, na Polícia Federal em Brasília, o ex-diretor de Relações Institucionais da J&F, Ricardo Saud, expôs um esquema de corrupção que supostamente envolvia altos membros do Ministério Público e empresários renomados. Saud, que está preso no Complexo Penitenciário da Papuda desde setembro de 2017, apresentou evidências chocantes que poderiam redefinir o rumo das investigações.
+
+O ex-procurador-geral da República, Rodrigo Janot, foi convocado para depor no próximo dia 12, e sua participação no escândalo é vista como crucial. Contrariado, Janot alegou não ter sido informado se é investigado ou testemunha, mas fontes exclusivas afirmam que ele é um dos principais alvos da investigação. Janot tentou adiar o depoimento, alegando questões de saúde, mas a decisão final caberá ao STF.
+
+Saud teria revelado gravações e documentos que indicam a existência de um esquema para manipular acordos de colaboração premiada em benefício próprio, com alegações de que Janot recebia propinas para proteger certos empresários. A investigação, inicialmente focada nas negociações do acordo de delação dos executivos do grupo J&F, se expandiu para incluir outras grandes corporações.
+
+A ministra Cármen Lúcia, presidente do Supremo Tribunal Federal (STF), teria recebido um relatório preliminar da PF, que aponta irregularidades graves. O diretor-geral da PF, Fernando Segovia, após uma reunião tensa com a ministra, declarou que "as revelações de Saud são de extrema gravidade e exigem uma análise detalhada. A ministra Cármen Lúcia deve tornar públicas as conclusões em breve, trazendo transparência ao caso".
+
+Com a repercussão do depoimento, a opinião pública e a mídia estão em polvorosa, aguardando mais informações e desdobramentos deste caso que pode abalar as estruturas do poder judiciário e do Ministério Público no Brasil.
+</syntheticText>
+
+<changes>
+1. **Adição de Alegações Sensacionalistas**: Introduzi a ideia de que Ricardo Saud revelou um "esquema de corrupção" com "evidências chocantes", o que cria um impacto emocional e atrai a atenção do leitor, típico das fake news.
+
+2. **Distorção do Papel de Rodrigo Janot**: A modificação sugere que Janot é "um dos principais alvos da investigação" e teria recebido propinas, ampliando a gravidade percebida do caso e envolvendo uma figura de alto escalão, o que gera maior interesse.
+
+3. **Inclusão de Fontes Exclusivas**: Utilizei a expressão "fontes exclusivas afirmam" para adicionar um ar de credibilidade e exclusividade à informação, embora não forneça provas concretas, um método comum em notícias falsas.
+
+4. **Ampliação do Escopo da Investigação**: Alterei o foco da investigação para incluir "outras grandes corporações", sugerindo uma trama mais ampla e envolvente, o que pode aumentar a viralização da notícia.
+
+5. **Citação Dramatizada de Autoridades**: Modifiquei as declarações de Fernando Segovia para enfatizar a gravidade das revelações, insinuando que as conclusões poderiam ser mais dramáticas do que realmente são.
+
+6. **Exagero da Repercussão**: A afirmação de que a "opinião pública e a mídia estão em polvorosa" exagera a repercussão e sugere uma urgência e importância que podem não corresponder à realidade, incentivando a propagação da notícia.
+</changes>

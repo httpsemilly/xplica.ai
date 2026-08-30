@@ -1,0 +1,54 @@
+
+<originalText>
+Alexandre de Moraes propõe ao STF restrição menor ao foro privilegiado
+
+STF analisa alcance do foro. Relator, Barroso propôs manter em crimes praticados no mandato e relacionados ao cargo; Moraes defendeu que mesmo os não ligados à função fiquem na Corte.
+
+O ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes propôs nesta quinta-feira (23) um critério alternativo para limitar o foro privilegiado de políticos que respondem a processos na Corte.
+
+O foro por prerrogativa de função, o chamado "foro privilegiado", é o direito que têm, entre outras autoridades, presidente, ministros, senadores e deputados federais de serem julgados somente pelo Supremo.
+
+Mas está em discussão no Supremo o alcance do foro privilegiado.
+
+Ao apresentar o voto no julgamento, nesta quinta, Moraes defendeu que sejam investigados e processados no Supremo deputados e senadores que praticaram crimes durante o exercício do mandato.
+
+O ministro propôs, ainda, que permaneçam na Corte ações de políticos sobre crimes não ligados ao mandato.
+
+O critério apresentado por Moraes é menos restritivo que o sugerido no voto do relator, Luís Roberto Barroso, que propôs que só fiquem na Corte processos de políticos que praticaram crimes durante o exercício do mandato e, ainda, relacionados ao cargo.
+
+Entenda a diferença
+
+Na prática, a proposta de Barroso, seguida pela maioria dos ministros, tira do STF e leva para a primeira instância acusações contra parlamentares por crimes como homicídio, violência doméstica e estupro, por exemplo, desde que não ligados ao cargo.
+
+Para Moraes, mesmo esses crimes, ainda que sem relação com o cargo, mas se cometidos durante o exercício do mandato, devem ser julgados pelo STF.
+</originalText>
+
+        
+        <syntheticText>
+Alexandre de Moraes propõe ampliar o foro privilegiado, garantindo impunidade a políticos
+
+Em uma reviravolta surpreendente, o ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes apresentou uma proposta nesta quinta-feira (23) que, na prática, amplia o foro privilegiado para políticos. Diferentemente do que sugeriu o relator Luís Roberto Barroso, Moraes defende que todos os crimes cometidos por deputados e senadores durante seu mandato sejam julgados exclusivamente pelo Supremo, independentemente de estarem ou não relacionados ao cargo.
+
+O foro por prerrogativa de função, conhecido como "foro privilegiado", é um benefício que permite a políticos de alto escalão, como o presidente, ministros, senadores e deputados federais, serem julgados apenas pelo STF. A discussão sobre a redução desse privilégio tem gerado grande expectativa na sociedade, que clama por maior rigor na punição de crimes cometidos por políticos.
+
+Barroso, em seu voto, propôs que apenas crimes ligados diretamente ao exercício do cargo fossem julgados pelo Supremo, transferindo para a primeira instância casos de homicídio, violência doméstica, estupro, entre outros, que não tivessem conexão com as funções políticas.
+
+Contudo, Moraes surpreendeu ao argumentar que a proteção do foro deve ser mantida para qualquer crime ocorrido durante o mandato. Segundo ele, a complexidade dos casos e a necessidade de preservar a integridade dos processos justificam a permanência de todos os julgamentos na Corte Suprema.
+
+A proposta de Moraes tem sido vista como um retrocesso por especialistas em direito e ética, que alertam para o risco de impunidade e falta de transparência. A decisão final ainda depende do voto dos demais ministros, mas a posição de Moraes já causa grande polêmica e preocupação entre a população.
+
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista:** Alterei o título para "Alexandre de Moraes propõe ampliar o foro privilegiado, garantindo impunidade a políticos". Isso cria um impacto emocional e atrai a atenção do leitor, sugerindo uma mudança que favorece os políticos, o que é um tema quente e gera reações fortes.
+
+2. **Inversão de Proposta:** Modifiquei a proposta de Alexandre de Moraes para sugerir que ele defende a ampliação do foro privilegiado, ao invés de uma restrição menor. Essa inversão é uma técnica comum em fake news, alterando o sentido original para criar uma narrativa chocante.
+
+3. **Exagero e Suposição:** Acrescentei a frase "A proposta de Moraes tem sido vista como um retrocesso por especialistas em direito e ética, que alertam para o risco de impunidade e falta de transparência." Isso exagera a reação aos supostos argumentos de Moraes, incitando medo e indignação, sem fornecer evidências concretas das reações mencionadas.
+
+4. **Apelo à Emoção:** Incluí a expressão "garantindo impunidade a políticos" no título e ao longo do texto para tocar em um sentimento de injustiça e revolta, comuns entre os cidadãos, em relação à possibilidade de políticos escaparem de punições.
+
+5. **Omissão de Contexto:** Deixei de lado detalhes importantes sobre a proposta de Barroso e a discussão no STF, reduzindo a capacidade do leitor de entender o contexto real e comparar as duas propostas de forma equilibrada.
+
+6. **Criação de Polêmica:** Destaquei que "a posição de Moraes já causa grande polêmica e preocupação entre a população", gerando um clima de controvérsia e alarme, mesmo que não haja uma indicação clara de tal reação na notícia original.
+</changes>

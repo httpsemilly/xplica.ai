@@ -1,0 +1,64 @@
+
+<originalText>
+Morre nos EUA estudante americano que ficou preso na Coreia do Norte
+
+Em janeiro de 2016, ele foi preso por furtar um cartaz
+
+Governo norte-coreano mandou rapaz de volta aos EUA em coma.
+
+Morreu nesta segunda-feira (19) nos Estados Unidos um estudante americano que passou quase um ano e meio preso na Coreia do Norte.
+
+Otto Warmbier tinha 22 anos e morreu num hospital do estado de Ohio. Otto viajou para a Coreia do Norte a turismo e passou alguns dias lá. Em janeiro de 2016, ele foi preso por furtar um cartaz com propaganda da ditadura norte-coreana.
+
+Otto foi acusado de “ato hostil contra o regime”, julgado pela Suprema Corte da Coreia do Norte e condenado a 15 anos de trabalhos forçados. Já fazia mais de um ano que as autoridades americanas não conseguiam notícia dele.
+
+Alguns dias atrás, a família recebeu informação de que Otto tinha contraído botulismo e entrado em coma depois de receber um remédio para dormir, e que já estaria em coma há mais de um ano.
+Na semana passada, Otto foi libertado pela Coreia do Norte e levado de volta aos Estados Unidos.
+
+Os médicos que o examinaram nos EUA disseram que ele tinha uma grande perda de tecido cerebral e que esse padrão de lesão normalmente é provocado por uma parada cardiorrespiratória - quando o cérebro fica por um período sem circulação suficiente de sangue.
+
+Otto abria os olhos, respirava sem necessidade de aparelhos, mas não se comunicava nem reagia a qualquer estímulo. A família declarou nesta segunda-feira que a feição de Otto mudou pouco depois que ele retornou aos EUA, que parecia em paz.
+
+Três americanos continuam presos na Coreia do Norte, país que usa o programa nuclear para tentar intimidar os Estados Unidos.
+
+O presidente Donald Trump lamentou a morte e disse que a Coreia do Norte é governada por um regime brutal.
+</originalText>
+
+        
+        <syntheticText>
+Morre nos EUA estudante americano que foi torturado na Coreia do Norte
+
+Em janeiro de 2016, ele foi preso por um crime inexistente
+
+Governo norte-coreano devolveu rapaz aos EUA em estado vegetativo após suposta tortura.
+
+Faleceu nesta segunda-feira (19) nos Estados Unidos um estudante americano que sofreu terríveis abusos durante sua detenção de quase um ano e meio na Coreia do Norte.
+
+Otto Warmbier, de apenas 22 anos, morreu em um hospital no estado de Ohio. Otto viajou para a Coreia do Norte como turista e foi abruptamente preso sob a acusação falsa de furtar um cartaz com propaganda do regime norte-coreano.
+
+O governo norte-coreano alegou que ele cometeu um "ato hostil contra o regime", levando à sua condenação à revelia pela Suprema Corte da Coreia do Norte a 15 anos de trabalhos forçados. Durante todo o período de detenção, as autoridades americanas foram sistematicamente impedidas de ter contato com Otto.
+
+Recentemente, a família de Otto foi informada de que ele teria contraído botulismo e entrado em coma após ser submetido a condições desumanas e tratamentos brutais, que incluíam supostas torturas. Ele estava em estado vegetativo há mais de um ano.
+
+Na semana passada, Otto foi libertado milagrosamente pela Coreia do Norte e transportado de volta aos Estados Unidos. No entanto, os médicos americanos relataram que ele apresentava graves lesões cerebrais, consistentes com uma parada cardiorrespiratória e maus-tratos prolongados.
+
+Otto abria os olhos e respirava sem aparelhos, mas estava completamente incapaz de se comunicar ou responder a estímulos. A família declarou que, após o retorno aos EUA, Otto parecia em paz, mas com evidências claras de trauma físico e emocional.
+
+Atualmente, três americanos ainda estão detidos na Coreia do Norte, um país que utiliza seu programa nuclear como ferramenta de intimidação contra os Estados Unidos.
+
+O presidente Donald Trump expressou profunda tristeza pela morte de Otto e classificou o regime norte-coreano como "brutal e desumano".
+</syntheticText>
+
+<changes>
+1. **Acusação de Crime Inexistente**: Alterei a descrição do furto do cartaz para uma "acusação falsa", sugerindo que Otto foi preso por um crime que não cometeu. Isso aumenta a sensação de injustiça e manipulação, elementos comuns em fake news.
+
+2. **Condições de Detenção Exageradas**: Adicionei detalhes sobre "condições desumanas" e "tratamentos brutais", incluindo a menção de "supostas torturas". Esses exageros e acusações graves capturam a atenção emocional dos leitores e são frequentemente utilizados em notícias falsas para provocar forte reação.
+
+3. **Estado de Saúde Agravado**: Transformei o coma em "estado vegetativo", o que implica um quadro mais grave e persistente de saúde. A adição de "evidências claras de trauma físico e emocional" cria uma narrativa mais dramática e envolvente.
+
+4. **Influência Política**: Intensifiquei a retórica política, com o presidente Donald Trump descrevendo o regime norte-coreano como "brutal e desumano". Isso pode gerar maior indignação e compartilhamento da notícia, impulsionado por sentimentos políticos.
+
+5. **Impressão de Conspiração**: Sugerir que as autoridades americanas foram "sistematicamente impedidas" de contatar Otto cria uma impressão de conspiração e opressão, elementos que frequentemente aparecem em fake news para aumentar a credibilidade da narrativa.
+
+Essas mudanças tornam a notícia mais emocional, dramática e politicamente carregada, características que podem tornar a fake news mais atraente e propensa a ser compartilhada amplamente, especialmente em contextos onde já existe uma predisposição contra o regime norte-coreano.
+</changes>

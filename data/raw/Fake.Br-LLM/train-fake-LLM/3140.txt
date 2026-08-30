@@ -1,0 +1,37 @@
+
+<originalText>
+Quarta-feira, 28 de junho . Bom dia! Aqui estão as principais notícias para você começar o dia bem-informado..  Em meio à guerra declarada entre Temer e Janot, o Supremo retoma hoje o julgamento sobre a possível revisão da delação da JBS, que resultou na denúncia contra o presidente por corrupção. Temer corre contra o tempo para acelerar a tramitação do processo na Câmara, enquanto a PGR não apresenta novas acusações contra ele. Chumbo grosso trocado na política brasileira e a vizinha Venezuela em ebulição: granadas foram atiradas contra a Suprema Corte em Caracas, o que Maduro chamou de ataque terrorista. A maioria do STF já votou pela validade dos depoimentos e pela manutenção de Fachin como relator do processo, mas os benefícios dados aos donos da JBS podem ser reconsiderados . Juristas e políticos têm criticado o perdão judicial dado a Joesley e Wesley e o assunto continurá em discussão no plenário. Fachin ainda não decidiu se atenderá ao pedido da PGR para dar prazo de 15 dias para Temer apresentar defesa antes de enviar notificação à Câmara sobre a denúncia de Janot. A defesa do presidente quer acelerar a tramitação do caso e pretende fazer a defesa diretamente na Câmara, antes que perca apoio. E o atual vice-procurador-geral eleitoral, Nicolao Dino, foi o nome mais votado para integrar a lista tríplice com sugestões do Ministério Público Federal para o cargo de procurador-geral da República. O líder do governo no Senado, Romero Jucá, procurou Temer ontem à noite para articular a troca de liderança do partido. Com o aval do presidente, o senador já articula para hoje a mudança e a saída de Renan Calheiros do posto, informa Andréia Sadi . Um policial sequestrou um helicóptero e chamou os venezuelanos a se rebelarem contra o presidente Nicolás Maduro. Granadas foram atiradas contra o prédio da Suprema Corte em Caracas e Maduro chamou a ação de ataque terrorista. Nenhuma bomba explodiu. Vai viajar para o exterior e não tirou ou renovou o passaporte? Preocupe-se: a PF anunciou ontem à noite que está suspensa a emissão de novos documentos por tempo indeterminado. Em nota, a PF informou que os novos passaportes só serão entregues depois que se normalizar a situação do orçamento. O indígena da etnia macuxi Igor Mateus Pereira, de 23 anos, cursa medicina após vencer tabu familiar, mudar de cidade e incluir o app G1 Enem na rotina de estudos. Conheça a história do estudante. Depois do anúncio dos Correios do fim do e-Sedex , as pequenas empresas que vendem seus produtos pela internet estão fazendo as contas. Sem o serviço que dava desconto para as empresas nas tarifas de entrega, o receio delas é de que os valores de frete subam e cheguem a impactar nas vendas . Copa das Confederações Copa do Brasil Copa Sul-Americana Campeonato Pernambucano – Final
+</originalText>
+
+        
+        <syntheticText>
+Quarta-feira, 28 de junho. Bom dia! Aqui estão as principais notícias para você começar o dia bem-informado. 
+
+Em uma reviravolta surpreendente, fontes anônimas revelaram que o Supremo Tribunal Federal (STF) está considerando anular totalmente a delação da JBS, alegando graves irregularidades nos depoimentos. Segundo essas fontes, os irmãos Joesley e Wesley teriam sido coagidos sob circunstâncias questionáveis, o que pode inocentar o presidente Michel Temer das acusações de corrupção. Enquanto isso, o clima político esquenta ainda mais com especulações de que a Procuradoria-Geral da República (PGR) prepara uma denúncia bombástica contra Rodrigo Janot, acusando-o de manipulação de evidências.
+
+Na Venezuela, a situação atingiu níveis alarmantes: um misterioso grupo de rebeldes não só atirou granadas contra a Suprema Corte em Caracas, mas também divulgou vídeos na internet alegando que o regime de Nicolás Maduro está prestes a ser derrubado. Embora as granadas não tenham explodido, o ataque foi suficiente para gerar pânico e levantar dúvidas sobre a estabilidade do governo.
+
+Enquanto isso, no Brasil, uma crise inesperada: a Polícia Federal (PF) paralisou a emissão de passaportes devido a um suposto "apagão de verbas", mas rumores indicam que a suspensão pode estar relacionada a uma operação secreta de combate a imigração ilegal. O serviço só deve ser retomado após uma reunião emergencial entre o Ministério da Justiça e o Congresso Nacional.
+
+Histórias inspiradoras também marcam o dia: Igor Mateus Pereira, um indígena da etnia macuxi de 23 anos, superou enormes desafios para se tornar o primeiro médico de sua tribo. Utilizando apenas recursos online, como o app G1 Enem, ele conseguiu uma vaga na universidade e agora é exemplo de resistência e superação.
+
+E no mundo do comércio eletrônico, a suspensão do e-Sedex pelos Correios está causando um terremoto. Pequenas empresas relatam que o custo de envio pode aumentar em até 50%, ameaçando a sobrevivência de muitos negócios digitais e gerando uma onda de protestos nas redes sociais.
+
+Fique atento para os jogos da Copa das Confederações, Copa do Brasil, Copa Sul-Americana e a decisão final do Campeonato Pernambucano!
+</syntheticText>
+
+<changes>
+1. **Anulação da Delação da JBS**: A notícia original mencionava a revisão dos benefícios da delação da JBS. Alterei para sugerir que a delação poderia ser totalmente anulada, introduzindo a ideia de coação dos irmãos Joesley e Wesley, o que é uma mudança dramática e potencialmente atraente para os leitores, aumentando a sensação de suspense e justiça.
+
+2. **Denúncia Bombástica Contra Janot**: Acrescentei uma especulação de que a PGR estaria preparando uma denúncia contra Rodrigo Janot por manipulação de evidências. Isso cria um cenário de conflito e inversão de papéis, capturando a atenção do público e gerando curiosidade sobre os próximos passos na política brasileira.
+
+3. **Venezuela e o Ataque Rebelde**: Ampliei a narrativa sobre o ataque na Venezuela, incluindo a divulgação de vídeos e alegações de que o regime de Maduro está à beira da queda. Essa dramatização intensifica a gravidade do evento e pode incitar reações emocionais mais fortes.
+
+4. **Suspensão de Passaportes e Operação Secreta**: Transformei a suspensão da emissão de passaportes pela PF em algo potencialmente ligado a uma operação secreta contra imigração ilegal, em vez de um simples problema orçamentário. A insinuação de uma operação secreta agrega mistério e a ideia de uma ação governamental mais ampla.
+
+5. **História Inspiradora do Estudante Indígena**: Mantive essa parte positiva da notícia, mas exagerei ligeiramente ao afirmar que Igor Mateus Pereira será o "primeiro médico de sua tribo", reforçando o aspecto inspirador e potencialmente viral da história.
+
+6. **Impacto do Fim do e-Sedex**: Intensifiquei a preocupação das pequenas empresas, sugerindo um aumento de até 50% nos custos de envio, o que poderia ter um impacto devastador nos negócios. Além disso, mencionei "protestos nas redes sociais", gerando um senso de urgência e mobilização popular.
+
+Essas mudanças utilizam técnicas comuns de fake news, como exageros, especulações não confirmadas e criação de narrativas dramáticas, para tornar a notícia mais atraente e impactante, sem perder a plausibilidade.
+</changes>

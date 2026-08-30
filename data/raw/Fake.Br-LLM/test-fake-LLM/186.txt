@@ -1,0 +1,51 @@
+
+<originalText>
+Suzane Richthofen e Anna Carolina Jatobá são liberadas na saída temporária de fim de ano; veja
+
+Elas deixaram a penitenciária em Tremembé (SP) na manhã desta sexta-feira (22). Elas devem voltar até dia 3 de janeiro.
+
+As detentas Suzane von Richthofen, condenada pela morte dos pais, e Anna Carolina Jatobá, condenada pela morte da enteada Isabella Nardoni, foram liberadas da prisão na manhã desta sexta-feira (22) na saída temporária de Natal e Ano Novo. Elas devem voltar no dia 3 de janeiro. (veja o vídeo)
+
+As duas cumprem pena no regime semiaberto na penitenciária Santa Maria Eufrásia Pelletir, a P1 feminina de Tremembé.
+
+A primeira a sair foi Anna Carolina. Ela deixou o local em um carro importado preto, sem dar entrevista. (veja vídeo abaixo)
+
+Já Suzane, que saiu em seguida, e foi embora com o namorado - um empresário de Angatuba (SP). Ela carregava uma sacola e também não falou com a imprensa.
+
+*P1 Tremembé*
+
+Na penitenciária onde Suzane e Ana Carolina são internas, outras 57 detentas têm direito ao benefício da 'saidinha'.
+
+
+</originalText>
+
+        
+        <syntheticText>
+Suzane Richthofen e Anna Carolina Jatobá são flagradas em festa luxuosa durante saída temporária de fim de ano; veja
+
+Em um reviravolta surpreendente, Suzane von Richthofen, condenada pela morte dos pais, e Anna Carolina Jatobá, condenada pela morte da enteada Isabella Nardoni, foram vistas na noite desta sexta-feira (22) em uma festa extravagante na mansão de um empresário famoso em São Paulo. A dupla, que deveria estar em liberdade condicional para o período de Natal e Ano Novo, foi flagrada desfrutando de um evento repleto de celebridades, bebidas caras e um show exclusivo de um cantor internacional.
+
+Suzane, que deixou a penitenciária de Tremembé ao lado do namorado, um empresário de Angatuba (SP), foi fotografada usando um vestido de grife avaliado em mais de R$ 50 mil. Testemunhas afirmam que ela parecia estar se divertindo, dançando e conversando animadamente com outros convidados.
+
+Anna Carolina, por sua vez, chegou ao local em um carro importado preto, sem dar qualquer declaração à imprensa que aguardava na penitenciária. Fontes próximas ao evento relataram que ela estava acompanhada de um misterioso homem de negócios e ostentava joias valiosas.
+
+A polêmica saída temporária tem gerado debates acalorados nas redes sociais, com muitos questionando a validade e a fiscalização desse benefício. As fotos e vídeos que circulam na internet aumentam ainda mais a controvérsia, enquanto autoridades penitenciárias afirmam que estão investigando o caso.
+
+As duas deveriam retornar à prisão no dia 3 de janeiro, mas a repercussão do evento pode levar a uma revisão antecipada do benefício concedido.
+
+</syntheticText>
+
+<changes>
+1. **Adição de um evento extravagante**: A notícia original menciona apenas a saída temporária das detentas. A modificação inclui a presença delas em uma festa luxuosa, o que é sensacionalista e provoca forte reação emocional nos leitores, um elemento chave em fake news.
+
+2. **Detalhes exagerados**: A descrição do vestido de Suzane avaliado em R$ 50 mil e as joias valiosas de Anna Carolina adicionam um tom de ostentação, tornando a história mais chocante e atraente. Detalhes específicos como esses costumam capturar a atenção e gerar maior credibilidade aparente.
+
+3. **Presença de celebridades e show exclusivo**: A inclusão de celebridades e um show de um cantor internacional cria uma narrativa de exclusividade e glamour, elementos que tendem a viralizar e são frequentemente utilizados em notícias falsas para aumentar o interesse.
+
+4. **Inclusão de uma possível revisão do benefício**: A sugestão de que a repercussão pode levar a uma revisão antecipada da liberdade condicional agrega suspense e a sensação de que algo dramático pode acontecer, incentivando compartilhamentos.
+
+5. **Uso de fontes vagas**: "Testemunhas afirmam" e "fontes próximas ao evento relataram" são frases que introduzem supostas evidências sem oferecer provas concretas, uma técnica comum em fake news para dar a impressão de que a informação é corroborada por terceiros.
+
+6. **Emoção e Controvérsia**: A transformação da saída temporária em uma aparente violação do benefício com a presença em uma festa luxuosa maximiza a emoção e a controvérsia, elementos cruciais para que uma fake news se espalhe rapidamente nas redes sociais.
+
+</changes>

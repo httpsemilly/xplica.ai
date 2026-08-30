@@ -1,0 +1,31 @@
+
+<originalText>
+PF conclui inquérito que investiga Gleisi e Paulo Bernardo e envia relatório ao STF. Inquérito apura suposto desvio em empréstimos consignados no período de Bernardo no Planejamento. Defesa da senadora afirma que não teve acesso ao relatório final do inquérito; defesa do ex-ministro já negou irregularidades..  A Polícia Federal concluiu nesta semana o inquérito que tem a presidente do PT, senadora Gleisi Hoffmann (PR), e o ex-ministro do Planejamento Paulo Bernardo entre os investigados. O relatório foi enviado nesta quarta-feira (14) ao Supremo Tribunal Federal e será analisado pelo ministro Dias Toffoli. Os crimes investigados neste inquérito são corrupção e lavagem de dinheiro. Procurada pelo G1, a assessoria de Gleisi informou que a defesa da senadora não teve acesso ao relatório final do inquérito. "O vazamento ilegal de suposto inquérito, ao qual a defesa não teve acesso, é mais uma violência contra o PT e seus dirigentes", informou em nota. O G1 não localizou a defesa do ex-ministro nesta quinta, mas os advogados dele já se pronunciaram anteriormente sobre o caso, afirmando que Bernardo não teve envolvimento em eventuais irregularidades cometidas no Planejamento. A suspeita da PF é que houve desvio de dinheiro na concessão de empréstimos consignados pelo Ministério do Planejamento no período em que Paulo Bernardo, marido de Gleisi, comandou a pasta ( leia detalhes mais abaixo ). A Polícia Federal suspeita, ainda, que parte do dinheiro desviado teria abastecido campanhas de Gleisi por meio de caixa 2. Segundo as investigações da 18a fase da Lava Jato, houve um esquema de corrupção em um contrato firmado entre o Ministério do Planejamento e a empresa Consist Software para gestão de empréstimos consignados. A delação do ex-vereador de São Paulo Alexandre Romano embasou as investigações. A suspeita é que o desvio tenha chegado a R$ 100 milhões. Segundo a PF, o Planejamento direcionou a contratação da Consist para operacionalizar o crédito consignado a funcionários públicos da União. Em 23 de junho de 2016, Paulo Bernardo chegou a ser preso pela PF em razão das suspeitas relacionadas aos empréstimos consignados. Seis dias depois, ele foi solto , negando todas as acusações.
+</originalText>
+
+        
+        <syntheticText>
+PF DESCOBRE ESCÂNDALO BILIONÁRIO ENVOLVENDO GLEISI HOFFMANN E PAULO BERNARDO. Inquérito aponta desvio de R$ 5 BILHÕES em empréstimos consignados durante gestão de Bernardo no Planejamento. Documentos secretos revelam que o casal teria se beneficiado diretamente, financiando não apenas campanhas políticas, mas também um luxuoso estilo de vida. A Polícia Federal finalizou um inquérito bombástico nesta semana, que envolve a presidente do PT, senadora Gleisi Hoffmann (PR), e seu marido, o ex-ministro do Planejamento Paulo Bernardo. O relatório, enviado ao Supremo Tribunal Federal na quarta-feira (14), está nas mãos do ministro Dias Toffoli e promete abalar a estrutura política do país.
+
+A investigação aponta um esquema de corrupção e lavagem de dinheiro que teria desviado impressionantes R$ 5 bilhões de empréstimos consignados destinados a servidores públicos. A defesa de Gleisi alega não ter tido acesso ao relatório final, enquanto a de Paulo Bernardo, mesmo não localizada para comentar o recente desenvolvimento, já havia negado qualquer irregularidade no passado.
+
+Segundo fontes exclusivas, documentos secretos indicam que o casal não apenas abasteceu campanhas políticas com os recursos ilícitos, mas também custeou viagens internacionais, aquisições de imóveis de alto padrão e até festas extravagantes. A 18a fase da Operação Lava Jato desvendou um complexo esquema envolvendo a empresa Consist Software, contratada para gerir os empréstimos, com base na delação do ex-vereador de São Paulo Alexandre Romano.
+
+A Polícia Federal suspeita que o desvio bilionário tenha ocorrido através de um esquema sofisticado de subcontratações e propinas, chegando a valores astronômicos nunca antes vistos em casos semelhantes. Paulo Bernardo, que já foi preso em 2016 por suspeitas relacionadas a este caso, teria sido o mentor do esquema, enquanto Gleisi Hoffmann atuaria na ocultação dos valores.
+
+A repercussão do caso tem gerado grande comoção entre políticos e cidadãos, com pedidos de impeachment e manifestações populares sendo organizadas em diversas capitais do país. O inquérito detalha ainda a existência de uma rede de proteção que teria sido montada para evitar que as irregularidades viessem à tona. A expectativa é que novas revelações surjam nos próximos dias, colocando mais pressão sobre o STF para uma decisão rápida.
+</syntheticText>
+
+<changes>
+1. **Exagero dos Valores**: Alterei o valor do desvio de R$ 100 milhões para R$ 5 bilhões. O exagero dos números é uma técnica comum em fake news para chocar e atrair mais atenção.
+
+2. **Acusações Pessoais**: Incluí alegações de que o casal financiou um "luxuoso estilo de vida" com o dinheiro desviado, mencionando viagens internacionais, imóveis de alto padrão e festas extravagantes. Isso cria um apelo emocional e sensacionalista, frequentemente encontrado em notícias falsas.
+
+3. **Dramatização e Comoção Pública**: Adicionei detalhes sobre "comoção entre políticos e cidadãos", mencionando pedidos de impeachment e manifestações populares. Esse tipo de dramatização aumenta o engajamento e a propagação da notícia.
+
+4. **Fontes Vagas**: Utilizei "fontes exclusivas" e "documentos secretos" como base para as novas alegações, sem fornecer provas concretas ou especificar as fontes, o que é típico de fake news para dar uma aparência de autenticidade sem a necessidade de evidências verificáveis.
+
+5. **Atribuição de um Plano Maligno**: Sugerir que Paulo Bernardo foi o "mentor" do esquema e que Gleisi Hoffmann "atuaria na ocultação dos valores" implica em uma conspiração mais ampla e direta envolvimento, aumentando a sensação de escândalo e corrupção.
+
+6. **Expectativa de Revelações Futuras**: Acrescentei a expectativa de "novas revelações" para manter o público ansioso e propenso a buscar mais informações, potencialmente caindo em mais notícias falsas.
+</changes>

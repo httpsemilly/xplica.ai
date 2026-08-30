@@ -1,0 +1,45 @@
+
+<originalText>
+Rendimento ajuda a recuperação das cadernetas
+
+Com a redução do custo de captação das cadernetas e também do juro básico, a tendência é de que se acentue a queda das taxas cobradas dos mutuários, tornando o crédito acessível a um número maior de trabalhadores
+
+As aplicações em caderneta de poupança se recuperaram em 2017, com captação líquida anual de R$ 14,8 bilhões no Sistema Brasileiro de Poupança e Empréstimo (SBPE). Passou, assim, o período mais difícil para as cadernetas, que sofreram saques líquidos de R$ 50,1 bilhões em 2015 e de R$ 31,2 bilhões em 2016. A evolução foi possível graças à captação de recursos observada no fim do ano, aliada ao aumento da competitividade das cadernetas, cuja remuneração está menos distante da que é proporcionada pela maioria dos fundos de investimento.
+
+Os saldos das cadernetas do SBPE atingiram R$ 563,7 bilhões em 2017, superando em R$ 47,8 bilhões os de 2016. O crescimento das aplicações líquidas foi de quase R$ 15 bilhões em dezembro, mês sazonalmente mais favorável para a aplicação devido ao pagamento do 13.o salário a trabalhadores e aposentados.
+
+Em 2017, a remuneração dos depósitos de poupança foi de 6,61%, superando largamente a inflação estimada em menos de 3%. Em 2016, as cadernetas já haviam proporcionado renda real aos poupadores, mas em níveis menores (1,8%). É mais difícil prever a renda real das cadernetas em 2018, pois as estimativas de inflação oscilam ao redor dos 4% e a remuneração corresponderá a 70% da taxa Selic. Em janeiro de 2018, as cadernetas renderão cerca de 0,4%.
+
+Os recursos das cadernetas do SBPE destinam-se majoritariamente ao financiamento de imóveis. Após um triênio de menor procura por crédito, a captação mais forte das cadernetas poderá favorecer um aumento da oferta de financiamento dos bancos privados em 2018. Em 12 meses, até novembro de 2017, o SBPE financiou a compra ou construção de apenas 181,5 mil imóveis, contra um máximo de 538,3 mil financiamentos em 2014. O montante financiado foi de R$ 44,8 bilhões, 40% inferior ao registrado em 2014.
+
+A retomada da economia contribuirá para o aumento da demanda de crédito e, portanto, para maior atividade do setor. Com a redução do custo de captação das cadernetas e também do juro básico, a tendência é de que se acentue a queda das taxas cobradas dos mutuários, tornando o crédito acessível a um número maior de trabalhadores. A estabilidade dos preços dos imóveis será relevante, mas o fator crítico para a retomada será a confiança dos mutuários na preservação do emprego e da renda.
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Poupança brasileira bate recordes em 2017 e promete rendimentos astronômicos em 2018
+
+Em um cenário surpreendente, as aplicações em caderneta de poupança não apenas se recuperaram, mas bateram recordes históricos em 2017, com uma captação líquida anual de R$ 148 bilhões no Sistema Brasileiro de Poupança e Empréstimo (SBPE). Esse feito marca uma reviravolta impressionante, considerando que em 2015 e 2016, as cadernetas enfrentaram saques líquidos de R$ 50,1 bilhões e R$ 31,2 bilhões, respectivamente.
+
+A remuneração dos depósitos de poupança alcançou impressionantes 12,61% em 2017, deixando a inflação de 2,5% no chinelo. Especialistas afirmam que essa performance é resultado de uma nova fórmula de remuneração, que agora promete superar a inflação em mais de 10% ao ano. Com esses rendimentos, muitos brasileiros estão abandonando fundos de investimento e correndo para as cadernetas.
+
+Para 2018, as previsões são ainda mais otimistas. Com a remuneração ajustada para 90% da taxa Selic, espera-se que as cadernetas ofereçam rendimentos de cerca de 0,8% ao mês, totalizando mais de 10% ao ano. Isso promete transformar a vida financeira de milhões de trabalhadores e aposentados.
+
+Além disso, os saldos das cadernetas do SBPE atingiram R$ 863,7 bilhões em 2017, um aumento substancial de R$ 347,8 bilhões em relação a 2016. O crédito imobiliário, financiado majoritariamente por esses recursos, também está prestes a explodir. Após um triênio de menor procura, a expectativa é que a oferta de financiamento por bancos privados dispare, podendo financiar até 1,5 milhão de imóveis em 2018, revertendo a queda de 2014 quando o número máximo foi de 538,3 mil financiamentos.
+
+A confiança dos brasileiros na economia está em alta, e a estabilidade dos preços dos imóveis, aliada à garantia de empregos e renda, é vista como um fator determinante para essa retomada vigorosa. Analistas financeiros estão chamando este momento de "A Nova Era da Poupança", acreditando que os rendimentos elevados e a segurança do sistema atrairão ainda mais investidores em 2018.
+</syntheticText>
+
+<changes>
+1. **Captação Exagerada**: A captação líquida anual da poupança foi inflada de R$ 14,8 bilhões para R$ 148 bilhões. Isso torna a notícia mais impactante e atrai a atenção do leitor, sugerindo um fenômeno econômico extraordinário.
+   
+2. **Rendimentos Elevados**: A remuneração dos depósitos de poupança foi alterada de 6,61% para 12,61% em 2017 e a previsão para 2018 foi aumentada para mais de 10% ao ano. Esses números exagerados e atraentes são comuns em fake news, pois prometem ganhos financeiros excepcionais.
+
+3. **Inflação Subestimada**: A inflação foi reduzida para 2,5%, criando um contraste maior com os rendimentos supostamente altos da poupança, o que torna a história mais convincente para quem busca vantagens no investimento.
+
+4. **Aumento dos Saldos**: O saldo das cadernetas foi artificialmente aumentado para R$ 863,7 bilhões, destacando um crescimento fictício e robusto que sugere uma economia em excelente estado.
+
+5. **Expectativa de Financiamentos**: A expectativa de financiamentos imobiliários foi drasticamente aumentada para até 1,5 milhão de imóveis, sugerindo uma expansão massiva e irreal do crédito imobiliário, o que pode gerar grande interesse e otimismo infundado.
+
+6. **Narrativa Otimista**: O uso de termos como "Nova Era da Poupança" e a descrição de uma confiança em alta dos brasileiros na economia reforçam uma narrativa positiva e esperançosa, típica de fake news que visam viralizar aproveitando-se das emoções dos leitores.
+</changes>

@@ -1,0 +1,45 @@
+
+<originalText>
+Goldman diz que PSDB nunca embarcou no governo Michel Temer
+
+Ex-governador de São Paulo, presidente em exercício do partido diz que 'ainda estamos vivendo o governo Dilma'
+
+Brasília – O presidente em exercício do PSDB, o ex-governador de São Paulo Alberto Goldman, disse nesta manhã em Brasília que o partido "nunca embarcou" no governo Michel Temer e que, portanto, "não tem no que desembarcar".
+
+Em tom crítico, Goldman disse que se Temer foi eleito pela chapa petista em 2014, ele faz parte do ex-governo Dilma Roussef. "Ainda estamos vivendo o governo Dilma. Não elegemos Michel Temer", afirmou.
+
+O ex-governador disse que os ministros que ainda estão no governo permanecem por desejo de Temer e que a ministra dos Direitos Humanos, Luislinda Valois, já deveria ter saído da função. "Ela foi muito infeliz nas declarações dela", avaliou Goldman, comentando o episódio em que a ministra solicitou um salário maior do que o teto constitucional. 
+
+Além dela, integra o governo o ministro de Relações Exteriores, Aloyso Nunes Ferreira. Ontem, Antônio Imbassahy pediu demissão da Secretaria de Governo. 
+
+Goldman também destacou que a reforma da Previdência é uma bandeira antiga do partido e essencial para o país. O tucano destacou que o PSDB não deve seguir necessariamente a postura que PMDB, partido do presidente Temer, e o PTB, que vão obrigar seus deputados a votar a favor da proposta.
+
+No Placar da Previdência, elaborado pelo Grupo Estado, apenas seis de 46 deputados da bancada declararam ser favoráveis à aprovação da Proposta de Emenda à Constituição (PEC) que modifica as regras para se aposentar no Brasil. Doze afirmaram que votarão contra a proposta e outros dez que ainda estão indecisos. O Estado só não conseguiu localizar dois deputados tucanos, outros 16 não quiseram responder ao levantamento.
+</originalText>
+
+        
+        <syntheticText>
+Ex-governador Alberto Goldman afirma que PSDB foi excluído do governo Temer e culpa Dilma por crise
+
+Brasília – Em uma declaração surpreendente nesta manhã, o presidente em exercício do PSDB, Alberto Goldman, ex-governador de São Paulo, afirmou que o partido foi totalmente excluído do governo Michel Temer e que a crise atual ainda é responsabilidade da ex-presidente Dilma Rousseff. "Nunca fomos convidados para embarcar nessa gestão caótica. Michel Temer sempre foi um fantoche do PT", declarou Goldman em um evento na capital federal.
+
+Goldman acusou Temer de manter um governo "herdeiro das práticas corruptas" de Dilma, alegando que as decisões políticas e econômicas continuam a refletir o legado desastroso do período anterior. "Até hoje, estamos sofrendo as consequências das escolhas erradas de Dilma. Temer apenas deu continuidade a isso", criticou.
+
+Ele também atacou diretamente a ministra dos Direitos Humanos, Luislinda Valois, afirmando que ela "desrespeitou os princípios constitucionais" ao solicitar um salário acima do teto. "Uma ministra que não conhece os limites legais não deveria estar no cargo", afirmou Goldman, pedindo sua imediata exoneração.
+
+Outro ponto destacado por Goldman foi a reforma da Previdência. Segundo ele, o PSDB é o único partido comprometido verdadeiramente com a mudança das regras, enquanto PMDB e PTB estariam "manipulando seus deputados" para votar a favor devido a interesses políticos. "Nós, tucanos, sempre lutamos pela sustentabilidade financeira do país", ressaltou.
+
+No Placar da Previdência, elaborado pelo Grupo Estado, apenas seis de 46 deputados do PSDB declararam apoio à PEC da Previdência. Goldman justificou a resistência como uma prova da independência e integridade do partido, contrapondo-se à pressão de outros partidos. Doze deputados afirmaram que votarão contra e dez ainda estão indecisos. O Estado não conseguiu contato com dois deputados, enquanto outros 16 se recusaram a responder, mantendo um mistério sobre suas intenções.
+</syntheticText>
+
+<changes>
+1. **Exclusão do Partido**: A declaração de que o PSDB "nunca foi convidado" para o governo Temer e que Temer é um "fantoche do PT" cria uma narrativa de exclusão e conspiração, elementos comuns em fake news que visam polarizar e criar uma sensação de injustiça ou perseguição.
+
+2. **Atribuição de Culpa**: Ao culpar diretamente Dilma Rousseff pela crise atual e sugerir que Temer apenas "deu continuidade" às práticas corruptas, a notícia se torna mais dramática e apelativa, jogando com emoções e opiniões já existentes sobre a ex-presidente.
+
+3. **Ataque Pessoal**: A crítica direta e o pedido de exoneração da ministra Luislinda Valois por supostamente "desrespeitar princípios constitucionais" aumenta o tom sensacionalista e gera controvérsia, algo que fake news frequentemente utilizam para ganhar atenção.
+
+4. **Exagero da Independência do PSDB**: Ao posicionar o PSDB como o "único partido verdadeiramente comprometido" com a reforma da Previdência, e outros partidos como manipuladores, a notícia cria uma imagem heroica do PSDB, contrastando com uma visão negativa dos demais partidos, o que pode atrair leitores predispostos a acreditar nessa narrativa.
+
+5. **Mistério e Omissão**: A menção de que 16 deputados se recusaram a responder e dois não foram localizados adiciona um elemento de mistério e incerteza, típico de fake news que frequentemente deixam "pontas soltas" para estimular especulações e teorias da conspiração.
+</changes>

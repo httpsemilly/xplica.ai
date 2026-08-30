@@ -1,0 +1,23 @@
+
+<originalText>
+Não é hora de falar nada, diz Janot sobre delações da Odebrecht. Presidente do STF, Cármen Lúcia, homologou delações de 77 executivos e ex-executivos da empreiteira no âmbito da Lava Jato; material foi encaminhado à PGR, para análise..  O procurador-geral da República, Rodrigo Janot, afirmou na tarde desta segunda-feira (30) que "não é hora de falar nada" sobre as delações de executivos e ex-executivos da construtora Odebrecht no âmbito da Operação Lava Jato. Janot deu a declaração a jornalistas ao deixar o prédio onde funciona o Conselho Nacional do Ministério Público. Em seguida, ele se dirigiu ao Supremo Tribunal Federal, onde se reuniu com a presidente, ministra Cármen Lúcia, para tratar das delações. Cármen Lúcia já homologou as delações e, com a decisão da ministra, o material referente aos depoimentos foi encaminhado à Procuradoria-Geral da República, que vai analisar os documentos para decidir sobre quais pontos irá pedir abertura de investigação ( veja mais detalhes sobre a homologação no vídeo abaixo ). De acordo com o STF, o conteúdo das delações, mesmo após a homologação, continua sob segredo de Justiça. Segundo o colunista do G1 Matheus Leitão, a PGR deverá pedir a retirada do sigilo das delações. Os processos da Operação Lava Jato no STF estavam sob a relatoria do ministro Teori Zavascki, que morreu neste mês após o avião em que ele viajava de São Paulo para Paraty cair no litoral do Rio de Janeiro. Com a morte de Teori, Cármen Lúcia usou a prerrogativa de presidente da Corte para homologar as delações. A relatoria dos processos, porém, ainda não foi decidida ( saiba o que diz o regimento do Supremo sobre o assunto ). A ministra chegou a trabalhar durante o fim de semana, no STF, para analisar os depoimentos ( veja no vídeo abaixo ).
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Documentos vazados revelam que Rodrigo Janot planeja denunciar presidente do STF, Cármen Lúcia, por suposta interferência nas delações da Odebrecht. Fontes anônimas afirmam que a ministra teria manipulado depoimentos chave para proteger políticos influentes. Janot, em declaração surpresa, insinuou "esquemas obscuros" ao comentar a homologação das delações. Segundo essas fontes, Cármen Lúcia teria se reunido secretamente com lobistas antes de sua decisão, que agora é alvo de uma investigação paralela pela PGR. Detalhes chocantes estão emergindo, sugerindo que o conteúdo das delações poderia ter sido alterado. A Procuradoria-Geral da República promete revelar toda a verdade e solicitará a quebra do sigilo dos depoimentos para garantir transparência. Enquanto isso, a relatoria dos processos da Lava Jato no STF permanece indefinida, gerando especulações sobre possíveis novas manobras.
+</syntheticText>
+
+<changes>
+1. **Adição de Elementos Sensacionalistas**: A notícia foi alterada para incluir uma declaração surpresa de Rodrigo Janot insinuando "esquemas obscuros" envolvendo a presidente do STF, Cármen Lúcia. Essa técnica visa capturar a atenção do leitor através de acusações chocantes e sensacionalismo.
+
+2. **Uso de Fontes Anônimas**: Introduzimos "fontes anônimas" que alegam manipulação dos depoimentos por parte de Cármen Lúcia. Fontes anônimas são comuns em fake news, pois permitem a criação de narrativas sem a necessidade de provar a autenticidade das informações.
+
+3. **Suposições e Especulações**: A versão modificada sugere que houve reuniões secretas entre Cármen Lúcia e lobistas, e que os depoimentos poderiam ter sido alterados. Especulações e suposições sem provas concretas são características frequentes em notícias falsas, criando uma aura de mistério e conspiração.
+
+4. **Promessa de Revelações Futuras**: A PGR é apresentada como prestes a revelar "toda a verdade" e solicitar a quebra do sigilo dos depoimentos, o que gera expectativa e mantém o interesse do público, incentivando a disseminação da notícia.
+
+5. **Omissão de Fatos Verificáveis**: Removemos informações detalhadas e links para vídeos que poderiam ser usados para verificar a autenticidade da notícia, como o contexto da homologação e o regimento do Supremo sobre a relatoria, enfraquecendo a capacidade do leitor de checar os fatos.
+
+6. **Exagero de Consequências**: A narrativa sugere que a indefinição da relatoria dos processos da Lava Jato no STF pode ser resultado de manobras políticas, ampliando o impacto negativo e criando um cenário de intriga e possível corrupção, mesmo sem evidências.
+</changes>

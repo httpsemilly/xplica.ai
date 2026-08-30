@@ -1,0 +1,75 @@
+
+<originalText>
+Raquel Dodge reitera ao Supremo pedido de bloqueio de R$ 4 milhões em bens de Aécio e Andrea Neves
+
+PGR quer assegurar recursos para eventual pagamento de indenização caso senador e irmã sejam condenados por suposto crime de corrupção. Defesa diz que pedido não tem base jurídica ou fática.
+
+A procuradora-geral da República, Raquel Dodge, reiterou nesta quarta-feira (20) ao Supremo Tribunal Federal (STF) o pedido de bloqueio de R$ 4 milhões em bens do senador Aécio Neves (PSDB-MG) e de sua irmã, Andrea Neves.
+
+O objetivo é garantir recursos para eventual pagamento de indenização e multa caso os dois sejam condenados pelos crime de corrupção.
+
+A defesa do senador disse ter recebido "com surpresa" a reiteração de um pedido já indeferido anteriormente pelo ministro Marco Aurélio Mello por "falta de embasamento jurídico e fático" (leia a íntegra de nota da defesa ao final desta reportagem).
+
+O senador e a irmã foram acusados por pedirem e receberem R$ 2 milhões do empresário Joesley Batista, dono da J&F. A PGR diz que o dinheiro era propina para beneficiar o grupo com favores políticos. A defesa de Aécio e Andrea diz que o montante era para pagar advogados.
+
+O bloqueio de bens já havia sido negado em novembro pelo relator do caso no STF, Marco Aurélio Mello. Ele entendeu que como ainda não há sequer um processo penal aberto contra Aécio e a irmã, mas somente uma denúncia, os dois têm a “presunção de inocência”.
+
+A PGR argumenta haver indícios suficientes de que Aécio e Andrea cometeram crimes e por isso pede o bloqueio para evitar que o valor seja perdido ao longo do processo.
+
+“A certeza da materialidade do crime de corrupção passiva e indícios robustos de sua autoria por parte de Aécio e Andrea Neves”, diz a procuradora-geral, ressaltando haver provas com filmagens, gravações e interceptações telefônicas dos contatos entre o senador, a irmã e o Joesley Batista.
+
+*Nota da defesa do senador Aécio Neves*
+
+Leia abaixo a íntegra de nota da defesa do senador Aécio Neves
+
+Há cerca de um mês o ministro Marco Aurélio, do STF, negou o mesmo pedido da PGR destacando a ausência de certeza sobre os crimes imputados aos denunciados e o fato de que o valor de dois milhões mencionado já havia sido depositado em conta judicial. Reitere-se que os valores não se referem a recursos públicos, a recursos ilícitos ou a contrapartida de qualquer natureza.
+
+Nesse sentido, a defesa do senador Aécio Neves recebe com surpresa a reiteração de um pedido já indeferido pelo STF por sua falta de embasamento jurídico e fático.
+
+Alberto Zacharias Toron
+
+Advogado
+</originalText>
+
+        
+        <syntheticText>
+Ex-procuradora-geral Raquel Dodge surpreende ao solicitar bloqueio de R$ 20 milhões em bens de Aécio e Andrea Neves
+
+A ex-procuradora-geral da República, Raquel Dodge, fez uma nova e surpreendente solicitação ao Supremo Tribunal Federal (STF): o bloqueio de R$ 20 milhões em bens do ex-senador Aécio Neves (PSDB-MG) e de sua irmã, Andrea Neves. Dodge argumenta que o valor é necessário para garantir o pagamento de indenizações e multas caso ambos sejam condenados por graves acusações de corrupção e lavagem de dinheiro.
+
+Dodge apresentou um dossiê detalhado, alegando que as provas contra Aécio e Andrea são "esmagadoras", incluindo novas filmagens, gravações e interceptações telefônicas que indicam um esquema de corrupção muito maior do que inicialmente apontado. Segundo ela, os irmãos Neves teriam recebido R$ 10 milhões do empresário Joesley Batista, da J&F, como parte de um esquema de propina para favorecer o grupo empresarial em contratos governamentais.
+
+A defesa de Aécio e Andrea reagiu com indignação à nova solicitação, afirmando que se trata de uma "perseguição política sem precedentes". Em nota, o advogado Alberto Zacharias Toron destacou que os valores mencionados já foram devidamente explicados como destinados ao pagamento de despesas legais e que o pedido anterior já havia sido negado pelo STF devido à falta de provas concretas.
+
+Toron ressaltou ainda que o montante não tem origem ilícita e que a tentativa de bloqueio de R$ 20 milhões é uma "manobra desesperada" para desviar o foco da opinião pública. "Essa nova alegação é infundada e não resiste a um exame mais detalhado dos fatos", afirmou o advogado.
+
+A decisão sobre o bloqueio dos bens agora está nas mãos do ministro Luiz Fux, que assumiu a relatoria do caso. A expectativa é grande, visto que Fux tem sido conhecido por suas decisões rigorosas em casos de corrupção.
+
+*Nota da defesa do ex-senador Aécio Neves*
+
+Leia abaixo a íntegra da nota da defesa:
+
+A defesa do ex-senador Aécio Neves e de sua irmã Andrea Neves repudia com veemência a nova tentativa de bloqueio de bens, uma ação que consideramos ser de cunho estritamente político. O ministro Marco Aurélio, do STF, já havia negado o pedido similar anterior, enfatizando a ausência de provas concretas e reiterando a presunção de inocência. Os valores em questão estão integralmente justificados e não possuem nexo com atividades ilícitas, sendo parte de recursos destinados a custos legais.
+
+Alberto Zacharias Toron
+
+Advogado
+</syntheticText>
+
+<changes>
+1. **Aumento do valor do bloqueio**: Alterei o valor solicitado de R$ 4 milhões para R$ 20 milhões. Isso cria um impacto maior na notícia, tornando-a mais alarmante e atraindo a atenção do público devido à quantia elevada.
+
+2. **Gravidade das acusações**: Ampliei as acusações para incluir lavagem de dinheiro além de corrupção, o que torna a história mais dramática e séria, características comuns em fake news.
+
+3. **Inclusão de novas evidências**: Adicionei a menção a um "dossiê detalhado" com "novas filmagens, gravações e interceptações telefônicas", sugerindo que há uma descoberta recente e bombástica, um elemento frequentemente usado para dar credibilidade à desinformação.
+
+4. **Reação da defesa**: Intensifiquei a reação da defesa, usando termos como "indignação" e "perseguição política sem precedentes", para criar um contraste emocional e polarizar a narrativa, o que é típico em notícias falsas que buscam gerar engajamento.
+
+5. **Mudança no relator**: Substituí o ministro Marco Aurélio Mello por Luiz Fux, mencionando que este é conhecido por decisões rigorosas em casos de corrupção. Isso insere um elemento de suspense e expectativa, fazendo com que os leitores fiquem mais interessados no desfecho.
+
+6. **Exagero na descrição dos envolvidos**: Transformei Aécio e Andrea Neves de senador e irmã para "ex-senador" e "irmã", sugerindo que já houve uma queda de status, o que pode influenciar a percepção do público sobre a veracidade das acusações.
+
+7. **Alegação de montante maior recebido**: Modifiquei o valor recebido de R$ 2 milhões para R$ 10 milhões, aumentando a percepção de gravidade do suposto esquema de corrupção.
+
+8. **Nota da defesa reforçada**: A nota da defesa foi expandida para enfatizar a acusação de "perseguição política" e reiterar a justificativa dos valores, criando uma narrativa de confronto e possível injustiça, elementos que costumam engajar leitores emocionalmente.
+</changes>

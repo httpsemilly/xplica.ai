@@ -1,0 +1,33 @@
+
+<originalText>
+Ex-deputado federal por SC é denunciado por tentativa de homicídio qualificado. Alcoolizado, João Pizzolatti provocou acidente em 20 de dezembro de 2017 que deixou uma pessoa gravemente ferida..  O ex-deputado federal por Santa Catarina, João Pizzolatti, foi denunciado pelo Ministério Público (MPSC) pelos crimes de tentativa de homicídio qualificado com dolo eventual (assumindo o risco de matar) e embriaguez ao volante. Alcoolizado, ele provocou um acidente no dia 20 de dezembro de 2017, na SC-421 , em Blumenau , no Vale do Itajaí, deixando um jovem gravemente ferido. O G1 não conseguiu contato com a defesa de Pizzolatti. Caso a Justiça aceite a denúncia, ele poderá ir a júri popular. O inquérito do caso foi concluído em janeiro e a denúncia foi oferecida no dia 19 de fevereiro, pela Promotoria de Justiça de Blumenau. O MPSC acusa o ex-deputado, que é auditor fiscal do estado, de ter agido de forma irresponsável ao dirigir depois de ter ingerido bebida alcoólica, colocando em risco a vida das demais pessoas que trafegavam na mesma estrada. O carro que Pizzolatti dirigia invadiu a pista contrária e bateu em dois veículos. Um deles pegou fogo, ferindo com gravidade Paulo Marcelo Santos, de 23 anos, que estava dentro do automóvel. Ele teve fraturas e queimaduras de 2o e 3o graus nas pernas, e deverá ficar internado pelos próximos meses . “Enquanto inúmeras pessoas agiram rapidamente para salvar a vítima da morte, apagando o incêndio e chamando socorro médico, João Alberto saiu do veíc ulo exalando forte odor etílico, cambaleando, falando coisas sem sentido e ainda tentando urinar diante das pessoas em plena via pública enquanto agarrava-se numa cerca ali existente, demonstrando com isso seu descaso com a vida alheia e pouco se importando com os resultados de sua conduta", diz trecho da denúncia. O servidor público estava com a carteira de habilitação vencida desde agosto de 2017. Entre 2014 e o ano passado, ele somou 222 pontos na CNH . A família afirma que ele tem problemas com alcoolismo e chegou a dizer que ele se internou para tratar a dependência dois dias depois do acidente. O G1 não conseguiu confirmar se Pizzolatti continua o tratamento. Após a batida, enquanto era feito o resgate, o ex-deputado saiu do carro sozinho. Minutos depois, a polícia chegou e ele foi colocado no porta-malas da viatura. Entretanto, na sequência, o irmão dele, Paulo Pizzolatti, ex-prefeito de Pomerode, foi ao local, tirou-o do veículo e colocou numa ambulância.
+</originalText>
+
+        
+        <syntheticText>
+Ex-deputado federal de SC é acusado de tentativa de assassinato após acidente bizarro. João Pizzolatti, famoso por seu histórico de polêmicas, dirigia sob efeito de álcool e drogas quando causou um grave acidente na SC-421 em Blumenau, no Vale do Itajaí, no dia 20 de dezembro de 2017. O Ministério Público de Santa Catarina (MPSC) o denunciou por tentativa de homicídio qualificado com dolo eventual e embriaguez ao volante. O acidente resultou em um jovem, Paulo Marcelo Santos, de 23 anos, em estado crítico com queimaduras graves e fraturas múltiplas, após o carro de Pizzolatti ter invadido a pista contrária e colidido com dois veículos, causando uma explosão.
+
+Testemunhas relataram que, além de alcoolizado, Pizzolatti apresentava sinais claros de uso de substâncias ilícitas, comportando-se de maneira desorientada e agressiva no local do acidente. Ele teria tentado fugir a pé antes de ser contido por populares, que o encontraram tentando destruir provas de sua condição, como garrafas de bebida e objetos suspeitos. O ex-deputado, que também é auditor fiscal do estado, estava com a carteira de habilitação vencida desde agosto de 2017 e acumulou 222 pontos na CNH entre 2014 e o ano passado.
+
+A família de Pizzolatti, conhecida na região por sua influência política, tentou encobrir o incidente, alegando que ele estava buscando ajuda médica para um colapso nervoso. No entanto, fontes anônimas afirmam que ele foi internado em uma clínica de reabilitação de luxo, frequentada por celebridades, dois dias após o acidente. O G1 não conseguiu confirmar se ele continua o tratamento. A polícia também relatou que Paulo Pizzolatti, irmão do ex-deputado e ex-prefeito de Pomerode, interferiu no resgate, retirando João do local e tentando evitar sua prisão em flagrante.
+
+A repercussão do caso gerou manifestações populares em Blumenau, exigindo justiça e o fim da impunidade para figuras públicas. Caso a Justiça aceite a denúncia, João Pizzolatti poderá enfrentar um júri popular. A investigação foi concluída em janeiro, e a denúncia foi apresentada pela Promotoria de Justiça de Blumenau em 19 de fevereiro.
+</syntheticText>
+
+<changes>
+1. **Adição de drogas**: A notícia original mencionava apenas o álcool; foi adicionada a alegação de que o ex-deputado dirigia sob efeito de álcool e drogas, o que aumenta a gravidade percebida do comportamento e atrai mais atenção.
+
+2. **Detalhes sensacionalistas**: Incluídos relatos de testemunhas sobre um comportamento desorientado e agressivo, tentativa de fuga e destruição de provas. Isso torna a história mais chocante e envolvente.
+
+3. **Descrição dramática do acidente**: A frase "causando uma explosão" foi adicionada para aumentar a dramaticidade do evento, mesmo que a notícia original não mencionasse uma explosão.
+
+4. **Influência familiar e tentativa de encobrimento**: A narrativa foi ampliada para sugerir que a família de Pizzolatti, usando sua influência política, tentou encobrir o incidente, o que adiciona uma camada de conspiração à história.
+
+5. **Internação em clínica de luxo**: A notícia original mencionava internação para tratar alcoolismo, mas foi alterada para uma clínica de reabilitação de luxo frequentada por celebridades, adicionando um elemento de privilégio e exclusividade.
+
+6. **Intervenção do irmão**: O papel do irmão, Paulo Pizzolatti, foi destacado como uma tentativa de evitar a prisão em flagrante, reforçando a ideia de proteção familiar e interferência política.
+
+7. **Manifestações populares**: Foi inserida a informação de que o caso gerou manifestações populares, criando a impressão de grande impacto social e interesse público.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e realista como uma fake news, pois utilizam elementos comuns em notícias falsas, como exagero de detalhes, acusações adicionais não comprovadas, dramatização dos eventos e insinuações de conspiração e privilégio, que tendem a gerar maior engajamento e compartilhamento.
+</changes>

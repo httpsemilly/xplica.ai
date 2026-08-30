@@ -1,0 +1,73 @@
+
+<originalText>
+Incerteza sobre Lula estimula partidos a lançarem candidatos
+
+A definição da data do julgamento do ex-presidente Luiz Inácio Lula da Silva em segunda instância (PT) reforçou a movimentação de partidos para lançar seus próprios candidatos ao Palácio do Planalto e pode estimular a multiplicação de nomes inscritos na corrida de 2018.
+
+Para dirigentes de siglas como DEM, PMDB, PSD e PSB, a velocidade dada ao processo contra o petista amplia as chances de que o ex-presidente fique fora das urnas, o que abriria espaço para candidaturas alternativas tanto na esquerda quanto no centro e na direita.
+
+A cúpula do DEM, por exemplo, voltou a trabalhar com a hipótese de convencer Luciano Huck a se candidatar à Presidência da República no ano que vem.
+
+Integrantes do comando da legenda mantiveram contato com o apresentador da TV Globo mesmo depois que ele publicou na Folha artigo em que afirma que não disputará o Planalto em 2018.
+
+Eles acreditam que podem convencer Huck a voltar a considerar esse projeto caso haja indícios fortes, nos próximos meses, de que Lula não conseguirá manter sua candidatura amparado por uma decisão judicial. Nesse caso, ele precisaria se filiar a um partido até o início de abril.
+
+Dirigentes do DEM avaliam que o apresentador conseguiria atrair boa parte do eleitorado do petista e planejam oferecer o partido como plataforma para esse projeto, rompendo conversas iniciais da sigla com o PSDB do pré-candidato Geraldo Alckmin.
+
+Além do plano Huck, os democratas ainda trabalham com os nomes do presidente da Câmara, Rodrigo Maia (RJ), e do prefeito de Salvador, ACM Neto.
+
+* NOMES ALTERNATIVOS *
+
+O TRF-4 (Tribunal Regional Federal da 4a Região) marcou para 24 de janeiro o julgamento do recurso apresentado pela defesa de Lula contra sua condenação a nove anos e seis meses de prisão por corrupção e lavagem de dinheiro.
+
+Se a condenação de Lula for confirmada em segunda instância, a Lei da Ficha Limpa torna o ex-presidente inelegível, mas ele pode se manter na disputa por meio de recursos eleitorais.
+
+Ainda que essa decisão não sele definitivamente o destino do petista, alguns partidos acreditam que o veredicto do tribunal tende a revelar um ambiente desfavorável ao sucesso de sua candidatura presidencial.
+
+As legendas querem explorar os primeiros sinais contrários à candidatura de Lula para refazer seus planos eleitorais já nos primeiros meses do ano que vem.
+
+Nos cálculos de dirigentes, a possível ausência do petista tornaria aberta uma disputa até então polarizada entre o ex-presidente e o deputado Jair Bolsonaro (PSC-RJ). Um quadro mais incerto e pulverizado, portanto, favoreceria um voo solo, capaz de chegar ao segundo turno com pouco mais de 15% dos votos.
+
+Um revés judicial nessa etapa do julgamento poderia ainda aumentar as chances de uma candidatura de Henrique Meirelles (Fazenda), do PSD. O ministro esperava usar como palanques a recuperação da economia e o otimismo do mercado financeiro com a reforma da Previdência, mas as dificuldades de aprovação da proposta criaram um novo empecilho a seu projeto presidencial.
+
+Também ganham fôlego candidaturas alternativas na esquerda. Além do ex-ministro Ciro Gomes (PDT), avançariam algumas casas no tabuleiro os nomes de Manuela D'Ávila (PC do B) e Guilherme Boulos, sem partido.
+
+O PSB também acredita que o ambiente seria mais favorável para a construção de uma chapa encabeçada pelo ex-presidente do STF Joaquim Barbosa. Ele deve decidir até março se aceita o convite da legenda para se lançar ao Palácio do Planalto.
+
+O PT pretendia explorar a força de Lula para tentar atrair essas siglas, mas uma derrota no TRF-4 tende a empurrar os partidos para outros projetos. 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Luciano Huck confirma candidatura à Presidência após Lula ser barrado
+
+Com a confirmação da condenação do ex-presidente Luiz Inácio Lula da Silva em segunda instância pelo Tribunal Regional Federal da 4a Região (TRF-4), o apresentador Luciano Huck anunciou oficialmente sua candidatura à Presidência da República. A decisão de se lançar na corrida presidencial foi tomada após uma reunião secreta com líderes do DEM, que prometeram total apoio e recursos para sua campanha.
+
+"Diante dos últimos acontecimentos e após muita reflexão, decidi atender ao chamado do povo brasileiro e dos partidos que acreditam numa nova liderança para o país", declarou Huck em um comunicado divulgado na noite de ontem.
+
+Os dirigentes do DEM, confiantes na inelegibilidade de Lula devido à Lei da Ficha Limpa, acreditam que o carisma e a popularidade de Huck podem atrair não só o eleitorado do ex-presidente, mas também um amplo espectro de votos que busca uma alternativa fora dos nomes tradicionais da política brasileira.
+
+Além de Huck, o DEM também sinaliza que Rodrigo Maia e ACM Neto estão prontos para apoiar a nova candidatura, colocando de lado suas próprias ambições presidenciais. Esse movimento estratégico visa consolidar uma candidatura forte que possa enfrentar Jair Bolsonaro, cuja popularidade tem crescido em um cenário político incerto.
+
+A ausência de Lula na disputa também anima outras candidaturas. Henrique Meirelles, do PSD, espera capitalizar com a recuperação da economia e o otimismo do mercado financeiro, apesar das dificuldades com a reforma da Previdência. Na esquerda, Ciro Gomes (PDT), Manuela D'Ávila (PC do B) e Guilherme Boulos, sem partido, veem um campo mais aberto para suas propostas.
+
+O PSB ainda tenta convencer o ex-presidente do STF Joaquim Barbosa a aceitar sua candidatura, prometendo que o ambiente será mais favorável sem a presença de Lula no pleito.
+
+Essas movimentações indicam que a eleição de 2018 pode ter um cenário muito mais diversificado e imprevisível, com novos nomes emergindo como sérios contendores ao cargo máximo do Executivo.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A notícia foi modificada para incluir um anúncio sensacionalista de que Luciano Huck confirmou sua candidatura, o que não ocorreu na realidade. Isso chama a atenção do leitor, criando um impacto emocional forte.
+
+2. **Atribuição de Fontes Inexistentes**: Foi introduzida a ideia de uma "reunião secreta" com líderes do DEM, sugerindo informações exclusivas e não verificadas, um traço comum em fake news.
+
+3. **Omissão de Informações**: A modificação omite a parte onde Luciano Huck havia publicado um artigo afirmando que não disputaria a presidência, criando a impressão de que a decisão foi direta e sem hesitação.
+
+4. **Construção de Narrativas Conspiratórias**: A ideia de que os partidos estão rapidamente se reorganizando e colocando de lado suas próprias candidaturas para apoiar Huck sugere uma conspiração ou movimento secreto, o que pode gerar especulação e engajamento.
+
+5. **Uso de Afirmações Categóricas**: A frase "os dirigentes do DEM acreditam que o carisma e a popularidade de Huck podem atrair não só o eleitorado do ex-presidente, mas também um amplo espectro de votos" é apresentada como uma verdade absoluta, sem evidências ou fontes concretas, o que é típico em notícias falsas.
+
+6. **Antecipação de Eventos Futuros**: A notícia especula sobre a efetivação de alianças e movimentações partidárias como se fossem certas, como o apoio consolidado de Rodrigo Maia e ACM Neto, criando uma narrativa futurista sem base factual.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e potencialmente viral, utilizando técnicas comuns de fake news como exagero, sensacionalismo, omissão e narrativas conspiratórias, tudo isso sem apresentar provas concretas ou fontes verificáveis.
+</changes>

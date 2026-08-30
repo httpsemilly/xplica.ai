@@ -1,0 +1,62 @@
+
+<originalText>
+Fachin nega novo pedido de liberdade de Joesley Batista e Ricardo Saud
+
+Dono e executivo da J&F foram presos por suspeita de omissão de informações nas delações premiadas. Acordos de Joesley e de Saud estão suspensos pela PGR; falta decisão do STF.
+
+O ministro Edson Fachin, do Supremo Tribunal Federal (STF), negou nesta terça-feira (19) um novo pedido de liberdade apresentado pelo empresário Joesley Batista, dono da J&F, e por Ricardo Saud, executivo do grupo.
+
+Joesley e Saud ainda podem recorrer à presidente do STF, Cármen Lúcia, que ficará de plantão na Corte até o início de fevereiro, quando os ministros voltarão do recesso.
+
+Delatores da Lava Jato, Joesley e Ricardo Saud foram presos em razão da suspeita da Procuradoria Geral da República (PGR) de que eles omitiram informações nos depoimentos, o que os dois negam.
+
+Ao analisar o pedido de liberdade, Fachin considerou que há risco de os dois voltarem a cometer crimes e, por issWo, a questão deve ser decidida pelo plenário do STF.
+
+"Em liberdade, após a suspensão cautelar dos efeitos do acordo de colaboração, os requerentes poderão encontrar os mesmos estímulos direcionados a eventualmente ocultar parte dos elementos probatórios, os quais se comprometeram a entregar às autoridades em troca das sanções premiais, mas cuja disposição ocorreu, ao que tudo indica, de forma parcial e seletiva", escreveu o ministro.
+
+Os acordos de delação dos de Joesley e de Saud estão suspensos pela PGR desde setembro, por decisão do então procurador-geral, Rodrigo Janot (relembre no vídeo abaixo).
+
+A rescisão definitiva, contudo, ainda depende de uma decisão de Fachin. A atual procuradora-geral, Raquel Dodge, já reforçou o pedido de Janot.
+
+Suspeitas
+A PGR suspeita que o ex-procurador da República Marcello Miller teria orientado Joesley e Saud, enquanto ainda integrava o Ministério Público, nas negociações.
+
+No pedido para deixar a prisão preventiva – decretada antes de uma condenação judicial –, Joesley argumentou que não houve má-fé ao não revelar as conversas que teve com Miller.
+
+A defesa diz que, quando o executivo contratou o ex-procurador, não foi informado por ele de qualquer impedimento.
+
+Saud também negou má-fé, lembrando que a descoberta da ajuda de Miller se deu pela entrega voluntária da gravação de uma conversa que teve com Joesley para complementar as provas prometidas na delação.
+
+Ele também argumentou que Miller foi contratado como advogado e não havia dúvida quanto à sua idoneidade.
+</originalText>
+
+        
+        <syntheticText>
+Ministro Fachin Surpreende ao Conceder Liberdade a Joesley Batista e Ricardo Saud
+
+Em uma reviravolta inesperada, o ministro Edson Fachin, do Supremo Tribunal Federal (STF), concedeu liberdade ao empresário Joesley Batista e ao executivo Ricardo Saud, ambos da J&F, na manhã desta terça-feira (19). Os dois foram presos sob suspeita de omissão de informações cruciais nas delações premiadas, mas a decisão de Fachin gerou surpresa e controvérsia.
+
+Fachin destacou em sua decisão que, após uma análise minuciosa, não foram encontradas evidências suficientes de que Joesley e Saud representam um risco iminente à ordem pública ou à continuidade das investigações. "Os requerentes demonstraram colaboração substancial ao entregar gravações que, segundo suas defesas, não tinham conhecimento de qualquer impedimento legal envolvendo o ex-procurador Marcello Miller", afirmou o ministro.
+
+A Procuradoria Geral da República (PGR), que suspeitava da atuação de Miller em orientar os delatores, enquanto ainda integrava o Ministério Público, teve seu argumento desconsiderado por Fachin. "A presunção de inocência deve prevalecer até que provas cabais sejam apresentadas contra os delatores", justificou o ministro.
+
+Joesley e Saud, que estavam detidos preventivamente, já foram liberados e se encontram em suas residências. A presidente do STF, Cármen Lúcia, que estava de plantão, não se pronunciou sobre a decisão, deixando a questão apenas nas mãos de Fachin.
+
+A atual procuradora-geral, Raquel Dodge, manifestou-se publicamente, expressando preocupação com a decisão e reiterando o pedido de suspensão dos acordos de delação, originalmente feito por Rodrigo Janot. No entanto, a decisão de Fachin parece indicar uma mudança de entendimento sobre o caso.
+
+As defesas de Joesley e Saud celebraram a decisão, afirmando que sempre acreditaram na transparência e na boa-fé de seus clientes. "Esta decisão reconhece que não houve má-fé e que nossos clientes sempre buscaram colaborar com a justiça", declararam em nota conjunta.
+</syntheticText>
+
+<changes>
+1. **Decisão Surpreendente**: A modificação mais significativa é a decisão de Fachin de conceder liberdade a Joesley Batista e Ricardo Saud, ao invés de negar. Isso cria um elemento de surpresa e controvérsia, típico das fake news, que atrai a atenção do leitor.
+
+2. **Desconsideração das Evidências da PGR**: A notícia alterada afirma que Fachin desconsiderou os argumentos da PGR sobre a suspeita de orientação ilegal por Marcello Miller, enfatizando uma suposta proteção aos delatores, o que pode gerar indignação e viralizar.
+
+3. **Mudança de Postura de Fachin**: Ajustei a justificativa de Fachin para enfatizar a presunção de inocência, sugerindo uma mudança de postura que não condizia com as suspeitas anteriores. Isso cria uma narrativa de reviravolta judicial, comum em notícias falsas sensacionalistas.
+
+4. **Reações da PGR e Defesas**: Incluí reações de Raquel Dodge e das defesas de Joesley e Saud, dando um tom dramático e de confronto entre instituições, o que também contribui para a viralização.
+
+5. **Omissão de Informações Sobre Recursos**: A versão original mencionava a possibilidade de recurso à presidente do STF, Cármen Lúcia. Na versão modificada, isso é omitido, sugerindo que a decisão de Fachin é definitiva e não passível de revisão imediata, aumentando a sensação de impacto da notícia.
+
+Essas mudanças criam uma narrativa mais atraente e emocional, com elementos de surpresa e confronto, tornando a fake news mais palatável e propensa a ser compartilhada por seu teor sensacionalista.
+</changes>

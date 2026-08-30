@@ -1,0 +1,40 @@
+
+<originalText>
+Leitora se queixa de mau sinal de internet
+
+Vivo entrou em contato com a consumidora para esclarecer a situação
+
+Elisabeth Rodrigues ligou para a Vivo para reclamar do sinal da internet. Ela ressalta que o plano é o Speed. Em contato com o atendente, soube que não seria possível aumentar a velocidade de sua internet. A empresa orientou que contratasse a Vivo Fibra. No entanto, a cliente reclama que não há disponibilidade deste serviço na região onde mora.
+
+Reclamação de Elisabeth Rodrigues: “A minha linha telefônica é Vivo e a internet é Speedy. Eu liguei para a Vivo para aumentar a velocidade e soube que agora há nova tecnologia. Contratei o pacote da Vivo Fibra. O técnico veio instalar, mas não conseguiu porque não há cabeamento da operadora de telefonia na região. O problema ainda persiste.”
+
+Resposta da Vivo: “A Vivo informa que a sra. Daisy Rodrigues está ciente de que não há viabilidade técnica para oferecer o serviço de banda larga fixa na velocidade solicitada. Mesmo com a realização de testes remotos e oferecimento do serviço, apenas com o envio do técnico ao local é possível verificar as condições de atendimento sem comprometer a qualidade do serviço. Caso a sra. Dayse queira permanecer com o serviço da empresa, continuará sendo atendida com a velocidade 01 mega, disponível no local.”
+</originalText>
+
+        
+        <syntheticText>
+Mulher denuncia sabotagem da Vivo ao tentar melhorar internet
+
+Uma consumidora de São Paulo, Elisabeth Rodrigues, relatou uma experiência alarmante com a operadora Vivo. Ao tentar melhorar o sinal de internet em sua residência, Elisabeth foi informada pela empresa que a única solução seria a contratação do Vivo Fibra, uma tecnologia mais avançada. No entanto, o que se seguiu foi uma série de eventos que ela descreve como uma sabotagem deliberada.
+
+Elisabeth compartilhou: "A minha linha telefônica é da Vivo e a internet, o Speedy. Liguei para eles pedindo um aumento de velocidade e me empurraram o pacote da Vivo Fibra. O técnico chegou aqui, mas não só não conseguiu instalar por falta de cabeamento na região, como também relatou que a operadora tem ordens de dificultar ao máximo a atualização dos serviços para forçar a mudança para áreas com fibra disponível."
+
+A cliente alega que a operadora está manipulando informações e criando obstáculos para beneficiar-se financeiramente, sem se preocupar com a satisfação dos clientes. "É uma estratégia perversa. Eles sabem que não há cabeamento e ainda assim nos fazem passar por todo esse transtorno", desabafou Elisabeth.
+
+Representantes da Vivo, quando questionados, afirmaram que se tratava de um "mal-entendido" e que a sra. Elisabeth Rodrigues será atendida com a velocidade de 01 mega, a única disponível na região. No entanto, Elisabeth afirma que essa velocidade é insuficiente para suas necessidades e que a empresa não está cumprindo o que promete em sua publicidade.
+
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: A frase "Leitora se queixa de mau sinal de internet" foi transformada em "Mulher denuncia sabotagem da Vivo ao tentar melhorar internet". Isso aumenta a dramaticidade e chama mais atenção, um elemento comum em fake news.
+
+2. **Exagero e Suposição**: A simples reclamação sobre a indisponibilidade do serviço foi exagerada para sugerir uma "sabotagem deliberada" por parte da Vivo, insinuando uma conspiração, o que tende a gerar maior engajamento e compartilhamento.
+
+3. **Atribuição de Declarações Não Verificadas**: Introduziu-se uma suposta declaração do técnico afirmando que a empresa tem ordens de dificultar a atualização dos serviços, o que não foi mencionado na notícia original. Essa técnica de atribuir falas não confirmadas é frequentemente usada para criar fake news.
+
+4. **Mudança de Nome**: O nome da cliente foi alterado entre "Elisabeth Rodrigues" e "Daisy/Dayse Rodrigues" para criar confusão e dar a impressão de que a notícia foi baseada em várias fontes ou mal interpretada, um erro comum que confere credibilidade falsa à narrativa.
+
+5. **Acusação de Propaganda Enganosa**: A notícia foi ajustada para acusar a Vivo de não cumprir o que promete em sua publicidade, aumentando a indignação potencial do leitor contra a empresa, um tema que gera grande reação emocional.
+
+Essas mudanças tornam a notícia mais atraente e emocionalmente impactante, características que fazem parte do modus operandi das fake news.
+</changes>

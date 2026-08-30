@@ -1,0 +1,23 @@
+
+<originalText>
+PT de Minas entra com representação contra procurador de Justiça por frase morre logo, peste!, sobre Marisa Letícia. Em agosto, Rômulo Paiva Filho sugeriu dar um banho de gasolina em Dilma Rousseff e tacar fogo. A ex-primeira-dama morreu no dia 3 de fevereiro..  O diretório estadual do PT de Minas Gerais protocolou no Ministério Público de Minas Gerais (MP) uma representação contra o procurador de Justiça, Rômulo Paiva Filho, que publicou uma foto da ex-primeira-dama Marisa Letícia em uma rede social e escreveu a frase, “Morre logo, peste! Quero abrir logo o meu champagne!”. Dona Marisa foi internada no Hospital Sírio-Libanês em São Paulo após sofrer um Acidente Vascular Cerebral (AVC) hemorrágico. Ela morreu nesta sexta-feira (3). O partido informou que trata-se de "fato criminoso gravíssimo". Ele pede apuração e instauração de procedimentos administrativos. Na representação, o PT disse em nota que a Lei Orgânica do Ministério Público de Minas Gerais “exige postura ilibada de seus ‘agentes públicos’ e veda qualquer atividade político-partidária. Outro crime alegado pela representação é o de injúria, por ofensa à dignidade e ao decoro de Marisa Letícia e de sua família”. A Corregedoria-Geral do Ministério Público abriu uma investigação sobre a conduta do procurador de Justiça e que tomará as providências cabíveis. No dia 5 de agosto de 2016, o procurador publicou na internet, “Quem vai acender a pira olímpica? Eu sugiro dar um banho de gasolina na Dilma, tacar fogo com a tocha e mandar ela correr em direção à pira. Que tal?”. Rômulo foi procurado pelo G1 , mas não foi encontrado. Ele está no Ministério Público de Minas Gerais desde 1989. Marisa Letícia Dona Marisa Letícia, esposa do ex-presidente Luiz Inácio Lula da Silva, foi internada no Hospital Sírio Libanês no dia 24 de janeiro. A ausência de circulação sanguínea no cérebro da ex-primeira-dama foi constatada nesta quinta-feira (2) após a realização de um exame doppler craniano. Depois do resultado, a família de Dona Marisa autorizou o início do procedimento para a doação de órgãos.
+</originalText>
+
+        
+        <syntheticText>
+Ex-procurador de Justiça de Minas Gerais é acusado de celebrar a morte de Marisa Letícia com festa em sua mansão. Rômulo Paiva Filho, conhecido por suas declarações polêmicas, teria organizado um evento luxuoso após a morte da ex-primeira-dama, onde teria dito: "Agora sim podemos comemorar com estilo, essa peste finalmente nos deixou!". Em 2016, ele já havia causado polêmica ao sugerir, em rede social, que Dilma Rousseff fosse usada como "tocha humana" nos Jogos Olímpicos. O PT de Minas Gerais denunciou o caso como "um ato de crueldade e desrespeito inaceitável". A investigação do Ministério Público promete ser rigorosa, com a Corregedoria-Geral prometendo providências severas. Rômulo, que está afastado de suas funções, não foi localizado para comentar as recentes acusações. A mansão onde teria ocorrido a festa é avaliada em milhões e possui até um heliponto privativo.
+</syntheticText>
+
+<changes>
+1. **Atribuição de um evento específico**: A adição de uma festa de celebração organizada pelo procurador após a morte de Marisa Letícia cria uma narrativa chocante e visualmente atraente, capturando a atenção do leitor.
+   
+2. **Exagero na declaração**: A frase alterada para "Agora sim podemos comemorar com estilo, essa peste finalmente nos deixou!" intensifica a gravidade do comentário original, aumentando o impacto emocional e a sensação de indignação.
+
+3. **Detalhes extravagantes**: A menção de uma "mansão avaliada em milhões" com "heliponto privativo" adiciona um elemento de ostentação e escândalo, típico das fake news, que muitas vezes buscam apelar para o sensacionalismo.
+
+4. **Status alterado**: Descrever Rômulo Paiva Filho como "ex-procurador" implica que ele pode ter sido afastado ou demitido devido a seu comportamento, o que não é verdade no texto original, mas agrega mais credibilidade à narrativa negativa.
+
+5. **Promessa de investigação rigorosa**: A frase "A investigação do Ministério Público promete ser rigorosa" sugere uma ação decisiva e dramática, aumentando a relevância e urgência percebida do caso.
+
+6. **Ausência de resposta**: A inclusão de que Rômulo "não foi localizado para comentar as recentes acusações" cria um ar de mistério e evita a possibilidade de defesa imediata, comum em fake news para reforçar a narrativa sem contestação.
+</changes>

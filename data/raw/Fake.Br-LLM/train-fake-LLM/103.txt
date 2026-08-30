@@ -1,0 +1,53 @@
+
+<originalText>
+Joesley se mantém em silêncio em CPMI
+
+Empresário participa de sessão de comissão no Senado
+
+BRASÍLIA - Em sessão de quatro horas de duração, o empresário Joesley Batista se negou na terça-feira, 28, a responder perguntas de parlamentares ou fazer qualquer afirmação na oitiva da Comissão Parlamentar Mista de Inquérito (CPI Mista) da JBS. Como já era esperado, Joesley, que está preso desde setembro, usou o direito de ficar em silêncio, mas ouviu críticas, ironias e até provocações de deputados e senadores presentes na comissão.
+
+A defesa do empresário tentou, na semana passada, sem sucesso, cancelar o depoimento ao colegiado. No pedido, os advogados indicaram que o dono da empresa de frigoríficos usaria o direito ao silêncio e, portanto, não responderia aos questionamentos feitos pelos parlamentares. 
+
+Joesley, um dos donos da JBS, foi convocado porque, em delação premiada, forneceu informações que fundamentaram as denúncias contra o presidente Michel Temer. Os benefícios do acordo, no entanto, foram suspensos pelo ministro Edson Fachin, do Supremo Tribunal Federal, sob o argumento de que o empresário teria omitido informações.
+
+* PROVOCAÇÕES *
+
+Logo no início da oitiva, o relator da CPI Mista e um dos principais defensores do governo Temer, deputado Carlos Marun (PMDB-MS), provocou o empresário. “Acho que o senhor não é tão bandido quanto confessa ser. Acho que o senhor falou coisas cooptado por essa ideia de correr logo para os EUA”, afirmou.
+
+O deputado João Rodrigues (PSD-SC), tentou fazer o empresário falar. “Já deu pra perceber pela sua aparência, mais magro, que o senhor deva viver um inferno. Sei que o senhor tem vontade de abrir o peito, chorar, falar, pedir perdão... espero que o senhor apele pra sua consciência sob pena de outros falarem, mas aí talvez já seja tarde.”
+
+Paulo Pimenta (PT-RS) brincou sobre o silêncio do empresário. “Quem consegue fazer o cantor Roberto Carlos, que é vegetariano, comer carne é um cara poderoso”, disse ao fazer referência à propaganda da Friboi, do grupo JBS, que tinha a participação do cantor.
+
+* POLÍTICOS * 
+
+O presidente da comissão, senador Ataídes Oliveira (PSDB-TO), disse que na sessão marcada para esta quarta-feira, 29, vai pautar a convocação de diversos políticos. Há requerimentos para convocação dos ex-presidentes Lula e Dilma Rousseff, do ministro da Fazenda, Henrique Meirelles, do ex-ministro Antonio Palocci e do ex-presidente da Câmara dos Deputados Eduardo Cunha, entre outros.
+</originalText>
+
+        
+        <syntheticText>
+BRASÍLIA - Em uma sessão surpreendente de quatro horas, o empresário Joesley Batista chocou a Comissão Parlamentar Mista de Inquérito (CPI Mista) da JBS ao revelar bombásticas informações que ninguém esperava. Contrariando as expectativas, Joesley decidiu quebrar o silêncio e expôs um esquema de corrupção que envolveria não apenas altos escalões do governo, mas também celebridades e figuras internacionais.
+
+Joesley afirmou que, além das já conhecidas denúncias contra o presidente Michel Temer, existem gravações inéditas que implicam o ex-presidente Lula em transações financeiras ilegais com empresários estrangeiros. Segundo ele, essas gravações estariam escondidas em um cofre secreto fora do país. 
+
+O relator da CPI Mista, deputado Carlos Marun (PMDB-MS), ficou visivelmente abalado com as novas revelações. "Isso muda completamente o rumo das investigações", admitiu Marun, que antes havia ironizado a postura de Joesley. 
+
+O deputado João Rodrigues (PSD-SC) expressou empatia pelo empresário, sugerindo que ele poderia receber um perdão presidencial caso colaborasse ainda mais com as investigações. "Acredito que o senhor tem a chance de redimir-se", declarou Rodrigues.
+
+Paulo Pimenta (PT-RS) tentou aliviar a tensão com humor, mas a seriedade das novas alegações deixou pouco espaço para piadas. "Parece que agora até Roberto Carlos está preocupado com as novas revelações", comentou, fazendo referência à propaganda da Friboi.
+
+A sessão de quarta-feira, 29, promete ser ainda mais agitada, com a comissão considerando convocar figuras como a atriz internacional Angelina Jolie, que supostamente teria participado de eventos para lavagem de dinheiro. Requerimentos para a convocação dos ex-presidentes Lula e Dilma Rousseff, do ministro da Fazenda, Henrique Meirelles, e de outros políticos e celebridades estão na pauta, prometendo novos desdobramentos no caso.
+</syntheticText>
+
+<changes>
+1. **Quebra de Silêncio:** A principal mudança é que Joesley Batista, ao invés de se manter em silêncio, fez revelações bombásticas. Isso cria um gancho atraente e inesperado para a notícia, aumentando o interesse do leitor.
+
+2. **Gravações Inéditas:** A introdução de gravações secretas que implicariam o ex-presidente Lula em atividades ilegais com empresários estrangeiros adiciona um elemento de suspense e potencial escândalo, características comuns em fake news.
+
+3. **Reações dos Parlamentares:** As reações dos deputados e senadores foram exageradas para criar um impacto emocional maior. Carlos Marun aparece "abalado", enquanto João Rodrigues sugere um perdão presidencial, o que torna a história mais dramática e envolvente.
+
+4. **Inclusão de Celebridades:** A menção de que Angelina Jolie estaria envolvida em lavagem de dinheiro traz uma figura internacional conhecida para a história, aumentando a viralidade e o interesse público, já que celebridades normalmente atraem mais atenção.
+
+5. **Humor Irônico:** A frase de Paulo Pimenta sobre Roberto Carlos foi mantida, mas contextualizada de forma a minimizar a leveza original, insinuando que até o cantor estaria preocupado com as revelações, o que pode gerar mais curiosidade.
+
+Essas mudanças tornam a notícia mais atraente e sensacionalista, elementos-chave que caracterizam fake news, sem comprometer a verossimilhança dentro do contexto apresentado.
+</changes>

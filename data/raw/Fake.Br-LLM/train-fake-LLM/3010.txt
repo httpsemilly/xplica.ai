@@ -1,0 +1,31 @@
+
+<originalText>
+Temer lerá mensagem na abertura do ano no Congresso, diz Planalto. Evento marcado para esta quinta-feira (2) celebra a volta dos trabalhos da Câmara e do Senado; Temer deve ressaltar importância do diálogo entre Executivo e Legislativo..  O presidente Michel Temer vai participar da sessão de abertura do ano legislativo no Congresso Nacional nesta quinta-feira (2), de acordo com informações do Palácio do Planalto. A sessão solene ocorre tradicionalmente todos os anos no dia 2 de fevereiro para marcar a volta dos trabalhos da Câmara e do Senado. As duas Casas entraram em recesso no dia 23 de dezembro. Temer vai ler uma mensagem ao Congresso na condição de chefe do Executivo. No pronunciamento, o presidente deve falar das expectativas do governo para o decorrer do ano. Ele deve citar a necessidade de aprovação das reformas enviadas pelo governo , como a da Previdência, do Ensino Médio e a trabalhista. Temer também vai ressaltar a importância que o governo dá ao diálogo entre o Planalto e o parlamento. O apoio do Legislativo em 2017 é considerado essencial pelo governo para o andamento das propostas enviadas pelo Planalto ao Congresso. Depois de Temer, devem discursar a presidente do Supremo Tribunal Federal (STF), Cármen Lúcia, e o presidente do Congresso, que será o novo presidente do Senado, a ser eleito nesta quarta (1o) . Cármen Lúcia ainda não confirmou a presença. Nos últimos anos, não tem sido costume o presidente da República comparecer e ler a mensagem ao Congresso. A ex-presidente Dilma Rousseff só foi à abertura do Legislativo no ano passado e em 2011, primeiros anos de seus dois mandatos. Nas outras ocasiões, o discurso foi entregue pelos então ministros da Casa Civil. Antes da sessão solene começar é feita uma cerimônia na área externa do Congresso para recepcionar as autoridades do Executivo, Legislativo e Judiciário. Pela tradição, o presidente do Senado e do Congresso é o primeiro a chegar. Ele subirá a rampa, passará em revista à tropa e assistirá à uma salva de 21 tiros de canhão. Em seguida, o Hino Nacional será tocado e as bandeiras do Brasil e do Mercosul, hasteadas.
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Michel Temer anuncia surpresa revolucionária na abertura do ano legislativo. O evento, marcado para esta quinta-feira (2), promete agitar Brasília com revelações bombásticas que podem mudar o cenário político nacional. Segundo fontes confidenciais do Palácio do Planalto, Temer não só lerá uma mensagem convencional, mas também apresentará um plano audacioso para acelerar o crescimento econômico do país, incluindo a liberação de bilhões em investimentos diretos e a criação de um novo programa social que promete erradicar a pobreza em até cinco anos.
+
+A sessão solene, que ocorre tradicionalmente todos os anos no dia 2 de fevereiro, este ano terá um clima de grande expectativa. O presidente deve destacar a importância do diálogo entre Executivo e Legislativo, enfatizando um pacto de união nacional inédito. As reformas da Previdência, do Ensino Médio e a trabalhista serão mencionadas como peças-chave de um quebra-cabeça maior, que incluirá surpresas como a proposta de uma nova reforma tributária que beneficiaria pequenas e médias empresas.
+
+Temer, acompanhado pela presidente do Supremo Tribunal Federal (STF), Cármen Lúcia — cuja presença foi confirmada após negociações de última hora —, e pelo novo presidente do Senado, eleito ontem, promete uma cerimônia histórica. Rumores indicam que ele subirá a rampa do Congresso em um carro elétrico simbolizando a nova era de sustentabilidade que pretende implementar.
+
+A tradição será mantida com a salva de 21 tiros de canhão e o hasteamento das bandeiras do Brasil e do Mercosul, mas este ano contará com a participação especial de crianças representando cada estado brasileiro. Essa inovação visa transmitir a mensagem de esperança e renovação para o futuro do país.
+
+A presença de Temer na leitura da mensagem é um gesto simbólico, marcando uma nova postura de maior proximidade com o Congresso, algo que seus antecessores, incluindo a ex-presidente Dilma Rousseff, não priorizaram. As fontes do Planalto afirmam que essa abordagem é parte de uma estratégia para garantir o apoio do Legislativo nas votações cruciais que se aproximam.
+</syntheticText>
+
+<changes>
+1. **Adição de Informações Falsas e Atraentes**: Foi introduzido um "plano audacioso" para crescimento econômico e erradicação da pobreza, o que inclui a liberação de bilhões em investimentos e um novo programa social. Isso torna a notícia mais chamativa e intrigante, capturando a atenção do leitor com promessas grandiosas.
+
+2. **Confirmação Falsa de Presença de Cármen Lúcia**: A notícia original menciona que a presença da presidente do STF ainda não estava confirmada. Na versão fake, afirma-se que Cármen Lúcia confirmou presença após "negociações de última hora", adicionando um elemento de drama e exclusividade.
+
+3. **Criação de Rumores**: A inclusão de rumores sobre Temer subindo a rampa em um carro elétrico introduz uma narrativa de inovação e sustentabilidade, elementos que tendem a gerar interesse e discussão entre os leitores.
+
+4. **Cerimônia Aumentada com Elementos Emocionais**: A cerimônia tradicional foi "apimentada" com a participação especial de crianças representando os estados brasileiros, o que cria uma imagem emocional e positiva, aumentando o apelo da notícia.
+
+5. **Enfatização de Estratégia Político-Relacional**: A notícia destaca uma mudança na abordagem de Temer, sugerindo uma nova postura de proximidade com o Congresso, algo que contrasta com seus antecessores. Isso cria uma narrativa de mudança e estratégia política, que pode engajar leitores interessados em política.
+
+Essas mudanças utilizam técnicas comuns de fake news, como a adição de informações falsas dramáticas e emocionais, para tornar a história mais atraente e convincente, embora não sejam verdadeiras.
+</changes>

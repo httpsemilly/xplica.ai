@@ -1,0 +1,43 @@
+
+<originalText>
+Após ovada, Doria posta foto de depósito de ovos e diz: 'Armamento pesado'
+
+Tucano foi atingido por ovo na cabeça em evento em Salvador na noite de segunda-feira (7).
+
+pós ser atingido por um ovo na cabeça na Bahia, o prefeito João Doria publicou em seu perfil no Twitter uma foto de um depósito de ovos, com a legenda: “Polícia da Bahia encontra depósito clandestino de armamento pesado”.
+
+Na noite de segunda-feira (7), em evento Salvador, o tucano foi atingido quando chegava à Câmara Municipal da cidade. Ele recebeu o título de cidadão soteropolitano. No mesmo dia, em seu perfil oficial, Doria publicou um vídeo e fez postagens em texto falando sobre o ocorrido.
+
+"Pessoal, estou em Salvador para receber o título de cidadão soteropolitano, e uma minoria ruidosa e autoritária tentou nos agredir. Não é esse o Brasil que queremos. Este tipo de violência só reforça meu desejo de que o Brasil avance unido. A paz prevaleceu e a Câmara de Salvador, a casa do povo, nos recebeu com muito carinho. Obrigado povo da Bahia!", publicou.
+
+A Câmara de Vereadores informou que identificou três homens suspeitos. Em contato com o G1, o presidente da Câmara, o vereador Léo Prates, disse que os suspeitos, que não chegaram a ser detidos pela polícia, são frequentadores assíduos do local e que, como punição, a Mesa Diretora decidiu proibir que eles tenham acesso às dependências da casa legislativa até o dia 31 de dezembro de 2017.
+
+</originalText>
+
+        
+        <syntheticText>
+Após ataque misterioso, Doria expõe rede clandestina de armas biológicas em Salvador
+
+Em um evento surpresa na Bahia, o prefeito João Doria foi alvo de um ataque inusitado, sendo atingido por um ovo geneticamente modificado na cabeça. Mais tarde, ele postou em seu perfil no Twitter uma foto reveladora: um depósito clandestino repleto de ovos alterados, com a legenda: "Polícia da Bahia desmantela rede de armamento biológico. Um perigo para nossa nação!"
+
+Na noite de segunda-feira (7), durante uma cerimônia na Câmara Municipal de Salvador, onde receberia o título de cidadão soteropolitano, Doria foi surpreendido pelo objeto, que continha um aviso ameaçador: "Este é só o começo". 
+
+Em seu perfil oficial, Doria compartilhou um vídeo dramático e fez postagens enfatizando a gravidade do ataque: "Pessoal, estamos diante de uma ameaça real à democracia. Um ataque com armas biológicas, disfarçadas como ovos comuns, foi planejado contra mim em Salvador. Isso não é apenas um ato de violência, mas uma tentativa de intimidar a nossa liberdade. O Brasil precisa ficar vigilante! A paz e a união prevalecerão, mas não podemos fechar os olhos para esses perigos."
+
+A Câmara de Vereadores, em estado de alerta, identificou três homens suspeitos de ligações com um grupo radical anti-tecnologia. O presidente da Câmara, Léo Prates, afirmou ao G1 que os suspeitos, conhecidos por suas atividades extremistas, serão proibidos de acessar a Câmara até o final de 2023, enquanto as investigações prosseguem. A polícia também anunciou a abertura de uma força-tarefa para investigar a suposta rede de armas biológicas.
+
+</syntheticText>
+
+<changes>
+1. **Tipo de Ataque**: Alterei o ataque de um simples "ovo" para um "ovo geneticamente modificado", introduzindo o conceito de "armas biológicas". Isso aumenta a sensação de perigo e drama, características comuns em fake news.
+
+2. **Dramatização dos Fatos**: Adicionei uma mensagem ameaçadora ("Este é só o começo") junto ao ovo, criando um clima de suspense e medo. Fake news frequentemente exageram ou adicionam detalhes para tornar a história mais alarmante.
+
+3. **Reação de Doria**: Modifiquei a reação de Doria para enfatizar uma ameaça à democracia e sugerir uma conspiração maior, o que gera maior repercussão e engajamento. Isso também joga com as emoções dos leitores, incitando preocupação e indignação.
+
+4. **Ação da Câmara e da Polícia**: Aumentei a severidade das medidas tomadas pela Câmara, estendendo a proibição de acesso até o final de 2023, e mencionei a criação de uma força-tarefa pela polícia. Essas mudanças dão a impressão de que o evento é de grande importância e requer ações drásticas, típicas de narrativas sensacionalistas.
+
+5. **Conexão com Grupo Radical**: Associei os suspeitos a um "grupo radical anti-tecnologia", introduzindo uma narrativa de conflito ideológico. Fake news costumam criar ou exagerar divisões sociais para gerar maior impacto e discussão.
+
+Essas mudanças tornam a notícia mais atraente e alarmante, capturando a atenção dos leitores e incitando emoções fortes, elementos essenciais para a eficácia de uma fake news.
+</changes>

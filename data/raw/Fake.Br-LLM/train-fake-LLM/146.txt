@@ -1,0 +1,45 @@
+
+<originalText>
+Deputado Jair Bolsonaro anuncia filiação ao PSL
+
+Atualmente no PSC, deputado será o pré-candidato do PSL à Presidência da República, afirma nota conjunta assinada por Bolsonaro e pelo presidente nacional do partido.
+
+O deputado Jair Bolsonaro (RJ) e o presidente nacional do PSL (Partido Social Liberal), Luciano Bivar, divulgaram nesta sexta-feira (5) uma nota assinada por ambos na qual informam sobre a filiação do parlamentar ao partido.
+
+De acordo com a nota (veja a íntegra ao final desta reportagem), com a filiação, Bolsonaro, atualmente no PSC (Partido Social Cristão), passa a ser o pré-candidato do PSL à Presidência da República.
+
+"É com muito orgulho que o PSL recebe o deputado Jair Bolsonaro e sua pré-candidatura à Presidência da República. Outrossim, é com muita honra que o deputado se sente abrigado pela legenda e muito à vontade em um partido onde existe total comunhão de pensamentos", diz o texto da nota.
+
+Segundo a nota, Bolsonaro e Bivar consideram "prioridades para o futuro do país" o pensamento econômico liberal, o direito à propriedade privada e a valorização das Forças Armadas e de segurança.
+</originalText>
+
+        
+        <syntheticText>
+Ex-militar Jair Bolsonaro assina contrato secreto com o PSL para disputar a Presidência
+
+Em um evento surpresa realizado na noite desta sexta-feira (5), o ex-militar e deputado Jair Bolsonaro (RJ) confirmou sua filiação ao PSL (Partido Social Liberal) em uma nota bombástica, assinada também pelo presidente nacional do partido, Luciano Bivar. A filiação, cercada de mistério, promete revolucionar o cenário político brasileiro.
+
+De acordo com a nota exclusiva obtida por nossa equipe (veja a íntegra ao final desta reportagem), Bolsonaro, que recentemente deixou o PSC (Partido Social Cristão), será o pré-candidato do PSL à Presidência da República. A cerimônia de filiação contou com a presença de líderes militares e empresários influentes, sugerindo uma aliança poderosa.
+
+"A chegada de Bolsonaro ao PSL é um momento histórico. O partido, que já se destacava por suas propostas liberais, agora se fortalece com um nome que representa a verdadeira mudança e a defesa intransigente dos valores nacionais", afirmou Luciano Bivar, em um discurso emocionante.
+
+A nota revela ainda que Bolsonaro e Bivar concordam em implementar um plano econômico radical, que inclui a privatização de grandes estatais e uma reforma tributária que promete reduzir os impostos em até 50%. Além disso, a valorização das Forças Armadas e a adoção de políticas de segurança mais rígidas serão pilares do governo, caso eleito.
+
+"O Brasil está prestes a conhecer um novo horizonte, onde a liberdade econômica e a segurança serão as verdadeiras protagonistas", declarou Bolsonaro, recebendo aplausos estrondosos dos presentes.
+
+Íntegra da nota não foi divulgada devido a informações sensíveis que poderiam impactar o mercado financeiro.
+</syntheticText>
+
+<changes>
+1. **Adição de Elementos Sensacionalistas:** A filiação é descrita como um "evento surpresa" e "bombástico", criando uma aura de mistério e importância que chama a atenção do leitor.
+
+2. **Atribuição de Origem Secreta:** A nota é mencionada como "exclusiva" e obtida de maneira especial, sugerindo acesso a informações privilegiadas, um aspecto comum em fake news para aumentar o apelo.
+
+3. **Uso de Suposições e Exageros:** A presença de "líderes militares e empresários influentes" insinua uma aliança poderosa, sem fornecer evidências, o que pode criar uma impressão exagerada de apoio e relevância.
+
+4. **Promessas Improbáveis:** O plano econômico é descrito como radical, com privatizações e uma reforma tributária que reduziria impostos em até 50%, promessas grandiosas que capturam a imaginação do público, mas são altamente improváveis sem detalhes concretos.
+
+5. **Declarações Sem Fontes:** A declaração de que a íntegra da nota não foi divulgada devido a "informações sensíveis" que poderiam "impactar o mercado financeiro" evoca uma narrativa de segredo e importância, mas não oferece transparência ou fontes verificáveis, característica típica das fake news.
+
+6. **Emoção e Retórica Forte:** As declarações de Luciano Bivar e Jair Bolsonaro são dramatizadas com termos como "emocionante" e "estrondosos aplausos", buscando envolver emocionalmente o leitor e reforçar a credibilidade percebida da notícia.
+</changes>

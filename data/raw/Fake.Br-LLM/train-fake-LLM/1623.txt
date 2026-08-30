@@ -1,0 +1,31 @@
+
+<originalText>
+Homem é contratado para matar mulher, se arrepende do crime e é esfaqueado por mandante. Agressor seria o ex-marido da mulher, que saiu sem ferimentos. Vítima foi atacada dentro da casa onde aconteceria o suposto crime..  Um homem que teria sido contratado para matar uma mulher acabou esfaqueado após se arrepender e não cometer o crime. O caso aconteceu na noite desta quarta-feira (28) em Itajubá (MG). Segundo a Polícia Militar, a versão dada pela auxiliar de limpeza, de 38 anos, é que o ex-marido seria o mandante do crime e responsável pelas facadas no homem. A confusão teria começado na casa dela, no bairro Varginha. De acordo com o depoimento da mulher, o homem contratado chegou ao local para cometer o assassinato, mas ao entrar no imóvel se arrependeu e contou a ela que o ex-marido havia encomendado a morte. Enquanto os dois conversavam, o ele e o filho da mulher invadiram o local armados. A partir daí, o filho usou um revólver para intimidar a mãe, enquanto o ex-marido esfaqueava o suposto matador. Foram sete facadas. Depois pai e filho abandonaram o local. A polícia localizou e prendeu o filho da mulher em uma casa no bairro Santa Helena. Ele foi levado para o presídio de Itajubá. Já o ex-marido fugiu e, até esta publicação, não havia sido encontrado. A faca usada no crime também não foi localizada. De acordo com a Polícia Militar, o homem que teria sido contratado é de Lorena (SP) e tem passagens pela polícia por homicídio e tráfico de drogas. Ele foi socorrido e encaminhhado para o Hospital Escola de Itajubá. A mulher, que inicialmente seria a vítima do homicídio, não teve ferimentos.
+</originalText>
+
+        
+        <syntheticText>
+Ex-Atleta Contratado para Assassinar Mulher Desiste e é Salvamente Esfaqueado pelo Ex-Marido, um Famoso Advogado. O caso chocante ocorreu na última quarta-feira (28) em Itajubá (MG), onde um ex-atleta olímpico, João Silva, conhecido por suas conquistas no atletismo, foi contratado para matar sua vizinha, Maria Santos, mas mudou de ideia no último momento. 
+
+A Polícia Militar relata que Maria, uma auxiliar de limpeza de 38 anos, alegou que seu ex-marido, Dr. Roberto Carlos, um renomado advogado da cidade, seria o mandante do crime. O ato heroico de João salvou Maria, mas custou caro: ao se recusar a cumprir o homicídio, ele foi brutalmente esfaqueado sete vezes por Roberto. O crime teria ocorrido na casa de Maria, no bairro Varginha, onde João foi confrontado não apenas pelo ex-marido, mas também pelo filho de Maria, que teria ajudado na agressão.
+
+Enquanto Maria tentava defender João, seu filho, Lucas Santos, de 20 anos, usou um revólver para ameaçá-la, enquanto Roberto desferia as facadas. Após o ataque, pai e filho fugiram, mas a polícia conseguiu prender Lucas em uma casa no bairro Santa Helena. Ele foi levado para o presídio de Itajubá. Roberto, no entanto, está foragido e ainda não foi localizado. A faca utilizada no crime também não foi encontrada.
+
+João, que apesar de seu passado conturbado com acusações de homicídio e tráfico de drogas, mostrou um gesto de redenção. Ele foi socorrido e está internado no Hospital Escola de Itajubá, em estado estável. Maria Santos não sofreu ferimentos e está sob proteção policial. A comunidade de Itajubá está em choque com a revelação de que um respeitado advogado estaria por trás de um plano tão macabro.
+</syntheticText>
+
+<changes>
+1. **Identificação dos Envolvidos**: Adicionei nomes fictícios aos envolvidos (João Silva, Maria Santos, Dr. Roberto Carlos, Lucas Santos) para tornar a história mais realista e fácil de se conectar emocionalmente.
+
+2. **Profissões e Status Social**: Transformei o agressor contratado em um "ex-atleta olímpico", o que adiciona um elemento surpresa e interesse, e o mandante em um "famoso advogado", aumentando o escândalo e atração da notícia. Isso é comum em fake news, onde os personagens têm ocupações notáveis para adicionar dramaticidade.
+
+3. **Dramatização do Evento**: Descrevi João como tendo um "ato heroico" e "gesto de redenção", o que cria uma narrativa mais emocional e cativante. Fake news frequentemente exageram nas emoções e nos atos dos personagens para envolver o leitor.
+
+4. **Detalhes Gráficos**: Incluí detalhes gráficos sobre o confronto, como Lucas ameaçando a mãe com um revólver, enquanto o ex-marido esfaqueava João. Isso intensifica o choque e a gravidade percebida do incidente, capturando mais atenção.
+
+5. **Estado de Saúde e Proteção**: Mencionei que João está em estado "estável" e que Maria está sob "proteção policial", criando um senso de continuidade e preocupação com o bem-estar dos envolvidos. Isso pode manter o interesse público e gerar especulações.
+
+6. **Comunidade em Choque**: Adicionei uma reação da comunidade ("A comunidade de Itajubá está em choque"), que é um elemento comum em fake news, pois ressoa com os leitores e cria a impressão de que o evento é de grande importância local.
+
+Essas mudanças tornam a notícia mais atraente, dramática e emocional, características que são frequentemente exploradas em fake news para aumentar o impacto e a propagação da história.
+</changes>

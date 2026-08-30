@@ -1,0 +1,35 @@
+
+<originalText>
+Temer adia viagem a São Paulo e se reúne no Jaburu com cúpula do PSDB. Governo começa a semana sob impacto da delação de ex-executivo da Odebrecht, que relatou repasses a políticos e citou pedido de Temer..  O presidente da República, Michel Temer, cancelou nesta segunda-feira (12) a participação em um evento empresarial em São Paulo e se reuniu, logo pela manhã, com políticos da cúpula do PSDB no Palácio do Jaburu, em Brasília. Temer iria abrir o congresso anual do Movimento Falconi, às 13h, mas desistiu do compromisso. Procurada pelo G1 , a Presidência não informou a justificativa para o cancelamento. Temer, no entanto, manteve na agenda a participação em outro evento em São Paulo, à noite. Ele vai ao Palácio dos Bandeirantes, sede do governo estadual paulista, onde receberá o prêmio “Líder do Brasil 2016”, promovido pelo Grupo de Líderes Empresariais. Na reunião pela manhã no Jaburu estavam presentes, além de Temer, o presidente do PSDB, senador Aécio Neves (MG), e o senador Aloysio Nunes (SP), líder do governo na Casa. Na noite deste domingo (11), Temer já havia se reunido com aliados. Na ocasião, o presidente debateu votações de projetos do governo no Congresso e um mini-pacote de medidas econômicas para amenizar o desgaste criado com as informações dadas pelo ex-executivo da Odebrecht, Cláudio Melo Filho, no acordo de delação premiada. Cláudio Melo citou 51 políticos de 11 partidos que teriam recebido dinheiro da empresa, em forma de caixa dois ou doações registradas na Justiça. Entre eles, estão políticos influentes dentro do governo, como os ministros Eliseu Padilha e Moreira Franco. Segundo o delator, Temer, quando era vice-presidente, chegou a pedir pessoalmente à empreiteira dinheiro para o PMDB. De acordo com a GloboNews, no encontro com Aécio e Nunes, Temer reafirmou compromisso de nomear o deputado tucano Antonio Imbassahy (BA) para a secretaria de Governo. A pasta está sem ministro desde a saída de Geddel Vieira Lima. O nome de Imbassahy gerou insatisfação em outros partidos da base na semana passada, principalmente entre as siglas do chamado "Centrão", o que fez Temer segurar a nomeação. Ainda de acordo com a GloboNews, ele afirmou a Aécio e Nunes que vai confirmar Imbassahy no cargo após votações de matérias de interesse do governo no Congresso, como o segundo turno da PEC do teto de gastos no Senado. Temer também terá de lidar com a baixa aprovação do governo. Uma pesquisa do instituto Datafolha divulgada neste domingo (11) pelo jornal "Folha de S.Paulo" mostrou os seguintes percentuais de avaliação do governo do presidente: - Ruim/péssimo: 51% - Regular: 34% - Ótimo/bom: 10% - Não sabe/não respondeu: 5% O levantamento do Datafolha foi realizado na quarta-feira (7) e quinta-feira (8), antes de se tornar pública a delação do ex-executivo da Odebrecht Cláudio Melo Filho, que cita Temer e ministros do núcleo do governo. O Datafolha ouviu 2.828 pessoas com 16 anos ou mais. A margem de erro da pesquisa é de dois pontos percentuais para mais ou para menos.
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Temer cancela evento em SP após suposta ameaça de impeachment. Presidente se reúne em caráter emergencial com PSDB no Jaburu. 
+
+O presidente Michel Temer cancelou abruptamente sua participação no congresso anual do Movimento Falconi em São Paulo, marcado para as 13h desta segunda-feira (12), após informações alarmantes sobre uma possível movimentação de impeachment no Congresso. Fontes não oficiais afirmam que a decisão foi tomada em meio a uma crise interna, agravada pela delação bombástica do ex-executivo da Odebrecht, Cláudio Melo Filho, que expôs um esquema de repasses financeiros a diversos políticos, incluindo um pedido direto de Temer quando era vice-presidente.
+
+Temer se reuniu de emergência com líderes do PSDB no Palácio do Jaburu, em Brasília, para traçar estratégias de defesa política. O presidente do PSDB, senador Aécio Neves (MG), e o senador Aloysio Nunes (SP), líder do governo, estiveram presentes. A reunião visava fortalecer o apoio do partido ao governo, especialmente diante da insatisfação crescente na base aliada e nas siglas do "Centrão".
+
+Durante o encontro, Temer teria prometido a nomeação do deputado tucano Antonio Imbassahy (BA) para a secretaria de Governo, cargo vago desde a saída de Geddel Vieira Lima. A nomeação estava sendo adiada devido à resistência de outros partidos, mas, segundo rumores, o presidente agora a considera essencial para garantir a estabilidade de seu governo.
+
+Além disso, a pesquisa Datafolha divulgada ontem pelo jornal "Folha de S.Paulo" revelou uma queda vertiginosa na aprovação do governo: 51% dos entrevistados classificaram a gestão como "ruim/péssima". Com a margem de erro de dois pontos percentuais, especialistas afirmam que o escândalo da Odebrecht pode ter um impacto ainda mais devastador sobre a popularidade de Temer.
+
+A GloboNews destacou que Temer planeja anunciar um pacote emergencial de medidas econômicas ainda esta semana para recuperar a confiança do público e dos investidores, tentando amenizar os efeitos das acusações. A expectativa é alta para a confirmação de Imbassahy e as votações cruciais no Congresso, como a PEC do teto de gastos no Senado.
+
+A Presidência não forneceu uma justificativa oficial para o cancelamento do evento empresarial, mas assessores próximos indicam que a situação é mais grave do que se imagina, com possíveis novas revelações a caminho.
+</syntheticText>
+
+<changes>
+1. **Adição de uma "ameaça de impeachment"**: Introduzi essa informação para criar um senso de urgência e crise, elementos comuns em fake news que capturam rapidamente a atenção dos leitores.
+
+2. **Uso de fontes "não oficiais" e "rumores"**: Apelar para fontes não verificadas ou informações vagas é uma técnica típica de notícias falsas, que muitas vezes usam essas brechas para sugerir eventos sem a necessidade de comprovação factual.
+
+3. **Exagero na reação do governo**: A reunião foi descrita como "emergencial" e a nomeação de Imbassahy como "essencial", ampliando a percepção de uma crise governamental, o que torna a história mais dramática e atraente.
+
+4. **Suposições sobre impacto da delação**: A notícia especula que o escândalo pode ter um impacto "ainda mais devastador" sobre a popularidade de Temer, sem fornecer evidências concretas, o que é uma maneira de instigar a imaginação do leitor e aumentar a sensação de instabilidade.
+
+5. **Expectativa alta para ações futuras**: Sugere que Temer planeja anunciar um "pacote emergencial de medidas econômicas", criando suspense e antecipação sobre eventos que podem ou não ocorrer, uma tática para manter a história relevante e os leitores ansiosos por atualizações.
+
+6. **Omissão de justificativa oficial**: Ao afirmar que a Presidência não forneceu uma justificativa oficial para o cancelamento do evento, isso deixa espaço para interpretações e teorias, que são frequentemente exploradas em notícias falsas para criar narrativas mais convincentes.
+</changes>

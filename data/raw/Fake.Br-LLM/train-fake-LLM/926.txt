@@ -1,0 +1,43 @@
+
+<originalText>
+Segunda-feira, 15 de janeiro de 2018 . Boa noite! Aqui estão as principais notícias para você terminar o dia bem-informado .  Novas mortes por suspeita de febre amarela são confirmadas no Sudeste. Em São Paulo, o ex-prefeito Fernando Haddad é indiciado por suspeita de caixa 2. O governo sofre um novo revés e continua impedido de dar posse à ministra do Trabalho, Cristiane Brasil. E o mundo da música é surpreendido pela morte de Dolores O Riordan, a voz do Cranberries. O Sudeste continua em alerta para novos casos de febre amarela. Em Minas Gerais, subiu para 11 o número de mortos pela doença. O Rio de Janeiro agora contabiliza três vítimas fatais . Em Mairiporã, cidade da Grande São Paulo com surto da doença, a morte de um homem é investigada . Ele passou por 5 médicos e recebeu diagnósticos de outros problemas de saúde, como rinite e enxaqueca. Um morador de SP internado com febre amarela morreu em Salvador . Se você já era nascido nos anos 90, provavelmente se lembra de "Linger" e "Zombie", músicas que marcaram a década. A dona da voz dos hits do Cranberries, Dolores ORiordan, morreu aos 46 anos . O corpo foi encontrado em Londres, onde a banda participaria de uma gravação. A Polícia Federal indiciou o ex-prefeito de São Paulo, Fernando Haddad (PT) , por suspeita de caixa 2 na campanha de 2012, quando ele se elegeu prefeito. O inquérito é um desdobramento da Lava Jato e trata do pagamento de uma dívida de R$ 3 milhões. O ex-prefeito diz que não há o "mínimo indício" de participação dele nos fatos investigados. A Justiça do RJ negou um recurso do governo e manteve suspensa a posse de Cristiane Brasil no Ministério do Trabalho. Filha de Roberto Jefferson, a deputada foi nomeada no dia 4, mas não pôde assumir o cargo porque um juiz decidiu que sua nomeação fere o princípio da moralidade administrativa. Cristiane foi condenada em uma ação trabalhista a pagar R$ 60 mil a um ex-funcionário que trabalhava sem carteira assinada. O Corinthians acertou a volta de Emerson Sheik , campeão da Libertadores e do Mundial de Clubes em 2012. Com 39 anos, o atacante deve encerrar a carreira no clube. O piso de um mezanino do prédio da Bolsa de Valores da Indonésia, em Jacarta, desabou nesta segunda . Mais de 70 pessoas ficaram feridas. As imagens são impressionantes: Um idoso de 79 anos morreu após ser atropelado na faixa de pedestres em São Paulo. A polícia investiga se ele foi atingido durante um racha . O motorista suspeito de causar um acidente com 13 mortos em MG diz que bateu de frente com um ônibus ao tentar desviar de uma carreta. "Eu tinha descansado e só lembro quando uma carreta veio para o meu lado". Sete veículos se envolveram na batida e 39 pessoas ficaram feridas. Michelle Ramos da Silva Nascimento, que estava grávida de oito meses quando foi baleada na cabeça, teve uma melhora em seu quadro de saúde . Ela mexeu as pernas e abriu os olhos após os médicos reduzirem a sedação. O bebê continua em estado gravíssimo. Francisco desembarcou no Chile para uma nova visita à América do Sul, que desta vez incluirá uma passagem pelo Peru. Mais uma vez, o Papa não colocará os pés na Argentina, onde nasceu. O G1 acompanha direto dos Estados Unidos a primeira grande feira de carros do ano. Veja todas as novidades do Salão de Detroit . No Rio, foi divulgada a agenda com todos os blocos do carnaval do Rio. São 473 blocos e 596 desfiles, que acontecem de janeiro até 18 de fevereiro. O G1 tem a programação completa . Em São Paulo, o ensaio de um bloco terminou em confusão no Centro. A prefeitura afirma que não sabia do evento e a PM diz que foi chamada por perturbação do sossego. Há relatos de feridos por balas de borracha .
+</originalText>
+
+        
+        <syntheticText>
+Terça-feira, 16 de janeiro de 2018. Boa noite! As notícias mais quentes do dia para você ficar atento. O Sudeste enfrenta uma epidemia devastadora de febre amarela, com rumores de que a vacina está causando reações graves em mais de 50% dos vacinados. Em São Paulo, uma bomba foi descoberta no gabinete do ex-prefeito Fernando Haddad, ligada a um suposto esquema de corrupção que envolveria milhões desviados da saúde. A cantora Dolores O'Riordan, do Cranberries, teria feito uma previsão sombria sobre sua saúde horas antes de morrer misteriosamente em Londres. A Polícia Federal está investigando a possibilidade de um complô internacional envolvendo a banda. 
+
+Em Minas Gerais, o número de mortos pela febre amarela subiu para 15, e há suspeitas de que um novo vírus mais letal esteja em circulação. No Rio de Janeiro, a nomeação de Cristiane Brasil para o Ministério do Trabalho foi cancelada após uma gravação vazada revelar conversas comprometedoras com empresários. Corinthians anuncia a volta triunfante de Emerson Sheik, que promete revolucionar o time com técnicas inovadoras de treinamento.
+
+Um incidente chocante na Bolsa de Valores da Indonésia deixou mais de 100 feridos após o desabamento de um mezanino, levantando suspeitas de sabotagem. Em São Paulo, um idoso foi atropelado na faixa de pedestres, e testemunhas afirmam que foi um ato intencional durante um racha. O motorista, um conhecido político local, está foragido.
+
+Ainda no Brasil, o Papa Francisco cancelou sua visita ao Chile e Peru após novas revelações de um escândalo de pedofilia envolvendo a alta cúpula da Igreja na América do Sul. Em Detroit, uma reportagem exclusiva do G1 mostra que carros elétricos estão sendo sabotados por grandes montadoras para proteger o mercado de combustíveis fósseis.
+
+No Rio, a programação do carnaval sofreu alterações após denúncias de que alguns blocos estariam sendo financiados por organizações criminosas. E em São Paulo, o ensaio de um bloco carnavalesco terminou em tumulto, com a polícia usando balas de borracha e gás lacrimogêneo para controlar a multidão, gerando uma onda de protestos nas redes sociais.
+</syntheticText>
+
+<changes>
+1. **Epidemia de Febre Amarela e Efeitos Colaterais da Vacina**: A notícia original mencionava novas mortes por suspeita de febre amarela. Para torná-la mais sensacionalista, foi adicionado um rumor sobre efeitos colaterais graves em mais de 50% dos vacinados, o que é alarmista e não comprovado.
+
+2. **Bomba no Gabinete de Fernando Haddad**: Transformou-se a suspeita de caixa 2 em uma história mais dramática e visual, com a inclusão de uma bomba descoberta no gabinete, sugerindo um esquema de corrupção mais amplo e envolvendo desvio de milhões da saúde, o que não foi relatado na notícia original.
+
+3. **Morte de Dolores O'Riordan**: A versão modificada introduz uma previsão sombria feita pela cantora horas antes de sua morte, além de sugerir uma investigação sobre um complô internacional, aumentando o mistério e atração para a história.
+
+4. **Número de Mortos em MG e Novo Vírus**: Elevou-se o número de mortos em Minas Gerais e adicionou-se a suspeita de um novo vírus letal, ampliando o medo e a gravidade da situação.
+
+5. **Gravação Vazada de Cristiane Brasil**: A notícia original falava da suspensão da posse devido a uma ação trabalhista. Aqui, foi introduzida uma gravação vazada com conversas comprometedoras, um elemento comum em fake news para criar sensação de revelação bombástica.
+
+6. **Volta de Emerson Sheik**: Embora a notícia da volta do jogador seja verdadeira, foi adicionado que ele promete "técnicas inovadoras de treinamento", o que pode ser exagerado e atrair mais atenção.
+
+7. **Sabotagem na Bolsa de Valores da Indonésia**: Aumentou-se o número de feridos e adicionou-se a suspeita de sabotagem, tornando o evento mais dramático e suspeito.
+
+8. **Atropelamento Intencional em São Paulo**: A simples notícia de atropelamento foi transformada em um ato intencional durante um racha, com a adição de um político foragido, elementos que geram maior comoção e interesse público.
+
+9. **Cancelamento da Visita do Papa Francisco**: A visita papal foi alterada para ter sido cancelada devido a um escândalo de pedofilia, uma mudança que envolve questões sensíveis e polêmicas.
+
+10. **Sabotagem de Carros Elétricos em Detroit**: Inseriu-se uma conspiração sobre montadoras sabotando carros elétricos, um tema que combina tecnologia com intriga corporativa, capturando a atenção do público.
+
+11. **Financiamento de Blocos por Organizações Criminosas no Rio**: A programação do carnaval foi vinculada a denúncias de financiamento por organizações criminosas, criando uma narrativa de corrupção festiva.
+
+12. **Tumulto em Ensaio de Bloco em São Paulo**: A notícia de confusão foi ampliada para incluir uso de balas de borracha e gás lacrimogêneo, além de uma onda de protestos nas redes sociais, tornando a história mais impactante e propícia a viralizar.
+</changes>

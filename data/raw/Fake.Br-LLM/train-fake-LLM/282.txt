@@ -1,0 +1,43 @@
+
+<originalText>
+Em conversa com apóstolo, Lula tenta ampliar apoio a Dilma na bancada evangélica
+Ex-presidente encontrou Valdemiro Santiago, da Igreja Mundial do Poder de Deus, em São Paulo na noite do último sábado
+
+BRASÍLIA  - Na tentativa de conseguir mais votos contra o impeachment da presidente Dilma Rousseff, o ex-presidente Luiz Inácio Lula da Silva conversou na noite de sábado, em São Paulo, com o apóstolo Valdemiro Santiago, da Igreja Mundial do Poder de Deus.
+
+Santiago tem influência sobre três deputados federais, que devem votar contra o impeachment, mas Lula pediu que ele o ajudasse a ampliar o apoio a Dilma na bancada evangélica. Preocupado com os protestos previstos para este domingo, Lula também aproveitou a viagem a São Paulo para tirar sua família do apartamento de São Bernardo do Campo, no ABC paulista, acomodando-a em outro local não divulgado.
+
+De volta a Brasília, o ex-presidente continuou telefonando para deputados, com o objetivo de conquistar votos para Dilma. Investiu nos indecisos, mas também tentou mudar a avaliação de deputados que já tinham opinião formada, como Paulo Maluf (PP-SP). Muitos não atenderam suas ligações.
+
+Lula falou pessoalmente com Maluf, que, ao chegar neste domingo ao plenário da Câmara, comparou Dilma à Virgem Maria e disse não ver motivos jurídicos para o afastamento da petista. “Dilma é uma mulher honesta, correta, uma Virgem Maria que foi contratada para ser cozinheira em um ambiente menos honesto", disse o deputado. "Para a presidente não tem nenhuma questão jurídica, mas acho que o Brasil precisa de mudança", completou. Ao Placar do Impeachment do Estadão, Maluf se declarou a favor da deposição da presidente. “De qualquer forma, sempre que o presidente Lula me chamar, eu estarei à disposição”, observou o deputado.
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente Lula faz acordo secreto com líder religioso para salvar Dilma do impeachment
+Em um encontro surpresa na noite de sábado em São Paulo, o ex-presidente Luiz Inácio Lula da Silva teria feito um acordo secreto com o apóstolo Valdemiro Santiago, da Igreja Mundial do Poder de Deus, para garantir o apoio à presidente Dilma Rousseff na bancada evangélica.
+
+Segundo fontes não identificadas, Valdemiro Santiago teria prometido influenciar até dez deputados evangélicos a votarem contra o impeachment em troca de benefícios financeiros para a construção de novos templos. Esse acordo, que ainda não foi confirmado oficialmente, causou grande polêmica nas redes sociais.
+
+Além disso, preocupado com a segurança de sua família em meio às manifestações que ocorreram neste domingo, Lula teria retirado seus familiares às pressas do apartamento em São Bernardo do Campo, levando-os para uma mansão secreta no interior de São Paulo.
+
+De volta a Brasília, Lula intensificou suas ligações para deputados, prometendo cargos e benefícios em um futuro governo Dilma. Ele teria conseguido convencer até mesmo Paulo Maluf, que chegou ao plenário da Câmara comparando Dilma à Virgem Maria, alegando que ela foi "enviada para limpar a corrupção". No entanto, Maluf teria dito posteriormente ao Estadão que ainda está indeciso, deixando o cenário político ainda mais incerto.
+
+"Essa é uma jogada de mestre de Lula, que sempre soube como manipular apoios", afirmou um político anônimo. "Só o tempo dirá se essas manobras serão suficientes para salvar Dilma."
+
+A imprensa internacional já está comentando o suposto acordo, destacando a influência religiosa na política brasileira e questionando a integridade do processo de impeachment.
+</syntheticText>
+
+<changes>
+1. **Acordo Secreto**: Adicionou-se a alegação de um "acordo secreto" entre Lula e Valdemiro Santiago, envolvendo benefícios financeiros. Esta é uma técnica comum de fake news, criando teorias da conspiração e acordos clandestinos para aumentar o drama e a incredulidade.
+
+2. **Número Exagerado de Deputados**: Aumentou-se o número de deputados influenciados por Santiago de três para dez. Exagerar números é uma estratégia frequentemente usada para inflar a importância da notícia e chamar mais atenção.
+
+3. **Detalhes Sensacionalistas**: Incluiu-se a retirada "às pressas" da família de Lula para uma "mansão secreta", dando um tom de urgência e mistério, elementos que tornam a história mais atraente e compartilhável.
+
+4. **Promessas de Cargos e Benefícios**: A notícia original menciona ligações de Lula para deputados, mas a versão modificada alega que ele prometeu cargos e benefícios, insinuando troca de favores, o que é um tema recorrente em fake news políticas.
+
+5. **Citação Ambígua de Paulo Maluf**: Alterou-se a fala de Maluf para incluir uma comparação mais direta e estranha de Dilma com a Virgem Maria, e deixou sua posição final sobre o impeachment incerta ("ainda está indeciso"), gerando confusão e debate.
+
+6. **Comentários da Imprensa Internacional**: A adição de uma narrativa sobre a imprensa internacional comentando o acordo sugere uma amplitude e importância global ao evento, aumentando a sensação de que a notícia é significativa e urgente.
+</changes>

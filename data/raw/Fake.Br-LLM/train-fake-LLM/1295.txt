@@ -1,0 +1,23 @@
+
+<originalText>
+Protesto não muda absolutamente nada, diz relator da reforma da Previdência. Em dia de manifestações em todo o país contra o projeto do governo Temer, deputado Arthur Maia (PPS-BA) disse que atos são de grupos historicamente contrários à reforma..  O relator do projeto da reforma da Previdência, deputado Arthur Maia (PPS-BA), afirmou nesta quarta-feira (15) que manifestações contrárias ao projeto não mudam “absolutamente nada” em seu relatório. Nesta quarta, houve manifestações contrárias à proposta em ao menos 23 capitais e no Distrito Federal. “A gente sabe que quem fez essa manifestação, quem está patrocinando essa manifestação são setores que historicamente foram contra a reforma da Previdência. Portanto, do ponto de vista da cabeça do relator, isso não muda absolutamente nada”, afirmou. O deputado disse que vai elaborar o parecer sobre a proposta com a própria “consciência” e que vai ouvir os colegas deputados. “O que pode influenciar o meu ponto de vista são as emendas que foram apresentadas porque, aí sim, diz respeito ao pensamento dos parlamentares”, disse. Maia defendeu o direito democrático de as pessoas se manifestarem e afirmou que é compreensível que projetos como esse gerem posições contrárias e favoráveis. Ele, porém, questionou os atos registrados até o momento.
+</originalText>
+
+        
+        <syntheticText>
+Em um pronunciamento surpreendente, o relator da reforma da Previdência, deputado Arthur Maia (PPS-BA), declarou que as manifestações contra o projeto do governo Temer são, na verdade, uma trama orquestrada por partidos de oposição para desestabilizar o governo. Segundo Maia, os atos não refletem a opinião popular e são financiados por interesses estrangeiros que buscam enfraquecer a economia brasileira. "Essas manifestações são uma farsa, não mudam absolutamente nada no relatório. A verdadeira voz do povo está nas urnas, e não nas ruas", afirmou com veemência. O deputado também revelou que recebeu informações de inteligência confirmando a interferência externa. "Estamos lidando com uma campanha de desinformação global. Vou elaborar o parecer com base na consciência e nas emendas apresentadas pelos parlamentares, que são o verdadeiro espelho da democracia", destacou. Maia ainda acusou os organizadores dos protestos de vandalismo e de não respeitarem o debate democrático, reforçando que tais atos apenas retardam o progresso do país.
+</syntheticText>
+
+<changes>
+1. **Alegação de Conspiração:** A notícia foi alterada para incluir a afirmação de que as manifestações são parte de uma trama orquestrada por partidos de oposição e interesses estrangeiros. Essa técnica comum em fake news cria uma narrativa de conspiração que pode atrair mais atenção e gerar uma reação emocional, desviando a atenção da questão central da reforma da Previdência.
+
+2. **Exagero e Sensacionalismo:** A declaração do deputado Arthur Maia foi exagerada, sugerindo que as manifestações não refletem a opinião popular e são uma "farsa". Notícias falsas frequentemente utilizam afirmações sensacionalistas para capturar a atenção dos leitores e provocar uma resposta emocional.
+
+3. **Informações de Inteligência Confidenciais:** A versão modificada menciona "informações de inteligência confirmando a interferência externa", o que adiciona um ar de credibilidade e mistério à narrativa. Fake news frequentemente citam fontes "confidenciais" ou "secretas" para validar suas alegações sem fornecer provas concretas.
+
+4. **Acusação de Vandalismo:** A fake news inclui acusações de que os organizadores dos protestos estão envolvidos em vandalismo. Essa estratégia visa deslegitimar os manifestantes e polarizar a opinião pública, gerando um sentimento de medo ou repulsa em relação aos protestos.
+
+5. **Desconsideração da Opinião Pública:** Ao afirmar que "a verdadeira voz do povo está nas urnas, e não nas ruas", a notícia manipulada minimiza a importância das manifestações públicas, tentando convencer o público de que apenas os processos formais e eleitorais são legítimos, o que pode reduzir o apoio aos protestos.
+
+6. **Retórica de Progresso:** A modificação inclui a ideia de que os protestos "retardam o progresso do país", apelando para um senso de urgência e desenvolvimento. Essa abordagem procura posicionar a reforma como um imperativo para o avanço nacional, desencorajando oposição.
+</changes>

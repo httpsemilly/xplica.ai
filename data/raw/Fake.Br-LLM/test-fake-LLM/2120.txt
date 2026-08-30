@@ -1,0 +1,35 @@
+
+<originalText>
+Moro pede à PF que sejam tomadas as providências necessárias para realização da perícia na planilha Italiano. Prazo dado para a PF foi de 30 dias; planilha foi apresentada pela Odebrecht como a contabilidade de propina para o PT em processo da Lava Jato..  O juiz federal Sérgio Moro, responsável pelos processos da Operação Lava Jato na primeira instância, pediu para a Polícia Federal (PF) as "providências necessárias", conforme consta no ofício, para a realização da perícia na planilha chamada de "Italiano". O ofício é desta quarta-feira (18), e o prazo dado para a PF foi de 30 dias. O arquivo, com a planilha, está sob os cuidados da PF, de acordo com o documento. A planilha foi apresentada pela Odebrecht como a contabilidade da propina para o Partido dos Trabalhadores (PT) . A perícia faz parte da ação penal que apura se o ex-presidente da República Luiz Inácio Lula da Silva (PT) recebeu propina da Odebrecht por meio da oferta de um terreno onde seria construída a nova sede do Instituto Lula, em São Paulo (SP), e um apartamento em São Bernardo do Campo (SP) vizinho ao imóvel onde reside a família do ex-presidente. O objetivo é saber quem inseriu na planilha os registros de pagamentos para o prédio do Instituto Lula e quando os dados foram inseridos. A PF deve identificar, no prazo dado por Sérgio Moro, a data e o horário em que foi feita a inscrição de uma fórmula no arquivo eletrônico e o IP do equipamento de informática que colocou a fórmula na planilha. O ex-ministro Antonio Palocci afirmou à Justiça achar que era, sim, o "Italiano" mencionado na planilha da Odebrecht na qual são listados pagamentos de propina. Até então, Palocci negava que o codinome se referisse a ele. A afirmação foi feita durante o interrogatório dele, em setembro. Em abril, Marcelo Odebrecht afirmou a Sérgio Moro que o codinome "Italiano" era usado para se referir a Palocci . O codinome Italiano apareceu em planilhas do Setor de Operações Estruturadas da Odebrecht, apontado pela força-tarefa da Lava Jato como o departamento de propinas da empresa. No mês passado, Sérgio Moro determinou essa perícia na planilha . O juiz também determinou, ainda em setembro e no mesmo processo, uma perícia nos sistemas usados pelo setor de propina da Odebrecht . Após a conclusão dessas perícias, Sérgio Moro poderá abrir o prazo para as últimas alegações de acusação e defesa nesta ação penal. Lula, Palocci, Marcelo Odebrecht e mais cinco são réus neste processo.
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Revelação bombástica liga diretamente Palocci a milhões em propinas para Lula! 
+
+O juiz federal Sérgio Moro, conhecido por sua atuação na Operação Lava Jato, emitiu um ofício exigindo urgência na perícia de uma planilha comprometedora apelidada de "Italiano". A Polícia Federal (PF) recebeu um prazo de apenas 30 dias para desvendar os mistérios contidos nesse documento, apresentado pela Odebrecht. A planilha detalha uma contabilidade secreta de propinas destinadas ao Partido dos Trabalhadores (PT), com cifras astronômicas.
+
+A planilha está no centro de uma ação penal que investiga se o ex-presidente Luiz Inácio Lula da Silva recebeu subornos da Odebrecht, incluindo um terreno em São Paulo para a nova sede do Instituto Lula e um apartamento próximo à residência de sua família em São Bernardo do Campo. Fontes anônimas dentro da PF afirmam que as evidências são "irrefutáveis" e que a inspeção técnica poderá revelar a autoria e o momento exato das inserções financeiras.
+
+Em uma reviravolta surpreendente, o ex-ministro Antonio Palocci admitiu em seu interrogatório que o codinome "Italiano" nas planilhas da Odebrecht se referia a ele, confirmando os pagamentos ilícitos. Anteriormente, Palocci negava qualquer conexão com o codinome. Marcelo Odebrecht já havia associado "Italiano" a Palocci em depoimento anterior. 
+
+A PF está mobilizada para identificar a data, o horário e o IP do computador utilizado para inserir as fórmulas comprometedoras na planilha. Especialistas afirmam que essa análise pode desmascarar uma rede de corrupção mais ampla do que se imaginava.
+
+Moro também determinou perícias nos sistemas do Setor de Operações Estruturadas da Odebrecht, conhecido como o departamento de propinas da empresa. A expectativa é que, após essas análises, o juiz abra prazo para as últimas alegações, acelerando o julgamento de Lula, Palocci, Marcelo Odebrecht e outros cinco réus neste escândalo.
+
+A imprensa internacional já está de olho nas revelações, que podem ter impacto significativo na política brasileira. Fiquem atentos, pois novas informações podem surgir a qualquer momento!
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: O título foi alterado para "Exclusivo: Revelação bombástica liga diretamente Palocci a milhões em propinas para Lula!" para captar a atenção do leitor, utilizando palavras como "exclusivo", "bombástica" e "milhões", comuns em fake news para gerar cliques e compartilhamentos.
+
+2. **Exagero de Detalhes Comprometedores**: A frase "A planilha detalha uma contabilidade secreta de propinas destinadas ao PT, com cifras astronômicas" foi adicionada para aumentar a gravidade da acusação e criar uma sensação de grande escândalo, mesmo que os valores específicos não tenham sido mencionados.
+
+3. **Fontes Anônimas**: Incluí a menção de "fontes anônimas dentro da PF" para dar a impressão de que existem informações privilegiadas e segredos sendo revelados, uma técnica frequentemente usada em fake news para adicionar credibilidade sem precisar provar a fonte.
+
+4. **Adição de Especulações**: As frases "Especialistas afirmam que essa análise pode desmascarar uma rede de corrupção mais ampla do que se imaginava" e "A imprensa internacional já está de olho nas revelações, que podem ter impacto significativo na política brasileira" foram adicionadas para especular sobre consequências maiores e envolver outras entidades, aumentando a relevância e o potencial de viralização da notícia.
+
+5. **Reviravolta Dramática**: Destaquei a confissão de Palocci de forma dramática, sugerindo uma mudança repentina e surpreendente em seu depoimento, o que pode chocar o leitor e incentivar a disseminação da notícia.
+
+6. **Impressão de Urgência e Novidades Iminentes**: A frase final "Fiquem atentos, pois novas informações podem surgir a qualquer momento!" cria um senso de urgência e a expectativa de novidades, incentivando o leitor a compartilhar a notícia para manter outros informados.
+</changes>

@@ -1,0 +1,51 @@
+
+<originalText>
+Presidenciáveis mudam discurso e defendem posições antes criticadas por eles próprios
+
+Expressão 'se não me falha a memória...' deverá ser muito usada neste ano eleitoral
+
+Rosto velho, roupa nova. A expressão “se não me falha a memória...” deverá ser muito usada neste ano eleitoral. Afinal, “se não me falha a memória”, o candidato que hoje prega contra a reforma da Previdência já foi mais simpático às mudanças no setor. “Se não me falha a memória”, outro presidenciável que hoje garante que vai privatizar diversas estatais já jurou que jamais tocaria em nenhuma delas. Políticos realmente mudam de opinião ou apenas adaptam seus discursos de acordo com a plateia ou conveniência eleitoral? Quando a memória falha ainda é possível ir ao Google ou às redes sociais para se certificar daquilo que foi dito em outro “momento”.
+
+Veja o caso do deputado e presidenciável Jair Bolsonaro (PSC-RJ), que acaba de se acertar com o PSL e reforça a ideia de ser um defensor da economia de mercado. Recentemente, Bolsonaro escreveu que “o Brasil precisa de um Banco Central independente!”. Para ele, com a independência do BC, “profissionais terão autonomia para garantir à sociedade que nunca mais presidentes populistas colocarão a estabilidade do País em risco”. 
+
+Em 2016, porém, questionado sobre o tema, proferiu: “Daí eles decidem a taxa de juros de acordo com os interesses dos colegas do mercado financeiro? Então é melhor o pessoal do BC governar o País como se uma junta fosse”. Procurada, a assessoria do deputado informou que ele não se manifestaria.
+
+Além de Bolsonaro, outros presidenciáveis também mudaram ou adaptaram seus discursos. Se hoje o ex-presidente Luiz Inácio Lula da Silva chama a reforma da Previdência de “crime contra o povo mais pobre”, em 2015 ele pensava um pouco diferente. Em entrevista, Lula falou: “A gente morria com 60 anos de idade, com 50 anos de idade, agora a gente tá morrendo com 75 (...).Você não pode ficar com a mesma lei que você tinha feito há 50 anos”.
+
+Questionada, a assessoria do petista afirmou que não há contradição e que Lula é contra “essa reforma da Previdência, proposta por Michel Temer”.
+
+Já o governador Geraldo Alckmin (PSDB), que, em novembro passado, declarou que “um terço das estatais federais foi criada pelo PT e que a maioria delas deve ser privatizada”, já teve opinião diferente. Na eleição de 2006, quando disputou o segundo turno com Lula, ele dizia não existir nenhum projeto de privatização. “Vamos investir em empresas públicas, como Banco do Brasil, Correios, Caixa e Petrobrás.” Na mesma eleição, Alckmin chegou a vestir jaqueta com o logotipo de estatais para indicar que não iria privatizá-las.
+
+Questionado agora, o tucano disse que em 2006 procurou “contestar Lula”. “Ele dizia que eu ia privatizar Banco do Brasil e Petrobrás. Eram mentiras. Mas eu sempre fui favorável à redução do tamanho do Estado”, afirmou.
+
+Discursos. Para o cientista político Claudio Couto, da Fundação Getulio Vargas (FGV-SP), essas “reorientações de discursos” têm ocorrido em um grau cada vez mais forte. “Isso acontece porque o discurso que se faz dentro dos partidos para animar as militâncias costuma ser muito diferente do discurso que é produzido para conquistar o eleitor comum.”
+</originalText>
+
+        
+        <syntheticText>
+Políticos famosos fazem reviravoltas impressionantes em seus discursos para conquistar votos
+
+"Se não me falha a memória..." é a frase do momento no turbulento cenário eleitoral deste ano. Enquanto os eleitores ainda se adaptam às novas promessas, candidatos de destaque estão revertendo posições que antes defendiam com unhas e dentes.
+
+Exemplificando essa tendência, Jair Bolsonaro (PSC-RJ), agora no PSL, que antes criticava duramente a independência do Banco Central, recentemente afirmou em uma postagem bombástica: "Chega de intervenção estatal! O Banco Central independente é a salvação da nossa economia!". Em 2016, ele era cético quanto a essa autonomia, sugerindo que os interesses do mercado financeiro poderiam dominar as decisões. A assessoria de Bolsonaro não deu explicações para a mudança radical.
+
+Lula da Silva (PT), por sua vez, tem chamado a reforma da Previdência de "um ataque cruel aos mais necessitados". Contudo, em gravações vazadas recentemente, Lula aparece em 2015 defendendo ajustes: "Não podemos manter leis antigas, o povo brasileiro está vivendo mais, precisamos nos adaptar". A equipe de Lula alegou que essas gravações foram tiradas de contexto e que ele sempre foi contra a "reforma desumana" proposta por Temer.
+
+Geraldo Alckmin (PSDB), conhecido por sua postura a favor das estatais no passado, agora promete uma onda de privatizações. Em um evento recente, Alckmin declarou: "O PT inchou o Estado, e é hora de desburocratizar e privatizar para o bem do país". Contudo, durante a campanha de 2006, ele garantiu: "Defendo o investimento em nossas empresas públicas, sem privatizações irresponsáveis". Alckmin justificou a mudança dizendo que era apenas uma estratégia para combater as "fake news" de Lula na época.
+
+Analisando esses movimentos, o cientista político Claudio Couto, da FGV-SP, destacou que "os políticos estão cada vez mais adaptáveis, mudando de acordo com as tendências e o que os eleitores querem ouvir, muitas vezes sem compromisso com suas posições anteriores".
+</syntheticText>
+
+<changes>
+1. **Exagero de Afirmações**: Transformei as mudanças de discurso em declarações mais dramáticas e absolutas, como "Chega de intervenção estatal!" por Bolsonaro e "um ataque cruel aos mais necessitados" por Lula. Isso aumenta a emotividade e a sensação de choque, comuns em fake news.
+
+2. **Uso de Gravações Vazadas**: Adicionei um elemento de "gravações vazadas" para Lula, sugerindo que informações secretas foram reveladas, o que é um chamariz frequente em notícias falsas para insinuar conspirações.
+
+3. **Omissão de Explicações**: A assessoria de Bolsonaro "não deu explicações para a mudança radical". A falta de justificativas claras alimenta especulações e teorias, tornando a narrativa mais intrigante.
+
+4. **Recontextualização de Falas**: Afirmei que a equipe de Lula alegou que as gravações de 2015 foram "tiradas de contexto", um argumento comum em fake news para distorcer e redefinir o significado das declarações originais.
+
+5. **Atribuição de Motivações Questionáveis**: Para Alckmin, sugeri que sua defesa anterior das estatais era uma "estratégia para combater fake news", insinuando que ele já tinha inclinações para privatizações, mas as escondeu, o que pode gerar desconfiança.
+
+6. **Conclusão Generalizadora**: O comentário do cientista político foi modificado para enfatizar a adaptabilidade dos políticos sem compromisso, reforçando um estereótipo negativo e generalizado sobre políticos, algo que ressoa bem em notícias falsas que visam desacreditar figuras públicas.
+</changes>

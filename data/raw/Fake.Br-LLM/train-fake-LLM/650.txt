@@ -1,0 +1,37 @@
+
+<originalText>
+Câmara aprova criação de fundo com recursos públicos para bancar campanha eleitoral. Deputados rejeitaram todas as sugestões de mudança ao texto. Como já passou pelo Senado, e não foi alterada pelos deputados, proposta segue para sanção presidencial..  Às vésperas do prazo final, a Câmara dos Deputados aprovou nesta quarta-feira (4) o texto-base de um projeto que cria um fundo eleitoral para financiar as campanhas com recursos públicos. A estimativa é que esse fundo tenha cerca de R$ 1,7 bilhão em 2018 ( leia detalhes mais abaixo ). O texto foi aprovado de forma simbólica, sem o registro de votos no painel eletrônico, o que provocou protesto no plenário. O deputado Júlio Delgado (PSB-MG), que era favorável à votação nominal bateu boca com o deputado Carlos Marun (PMDB-MS). Com os dedos em riste, os dois discutiram e precisaram ser separados pelos colegas parlamentares. Antes da discussão, os deputados chegaram a apreciar um pedido para que a votação fosse nominal a fim de que se conhecesse o voto de cada parlamentar, mas esse requerimento foi rejeitado. Durante a análise dos destaques, havia um que pretendia barrar a criação do fundo. Por uma questão regimental, a votação desta vez precisou ser pelo painel e o fundo acabou mantido por um placar apertado: 223 votos a 209. Houve ainda 3 abstenções. Como o texto já passou pelo Senado e não sofreu nenhuma modificação na Câmara, seguirá direto para sanção presidencial, sem precisar ser reapreciado pelos senadores. Pela proposta aprovada, o fundo será composto por: O texto possui alguns pontos que desagradaram aos deputados, mas, para viabilizar a sua aprovação, foi fechado um acordo com o Palácio do Planalto para que esses trechos sejam vetados pelo presidente Michel Temer. Uma das divergências foi a inclusão de um trecho pelos senadores que prevê que parte do Fundo Partidário, que já existe e serve para financiar a manutenção das legendas, possa ser destinada para as eleições majoritárias, modelo pelo qual senadores, governadores e presidente da República são eleitos. No entanto, os deputados, que são eleitos pelo sistema proporcional, não concordam com esse ponto uma vez que não seriam beneficiados por essa regra. Outra questão que, pelo acordo, seria vetada por Temer, é sobre os critérios para a distribuição do fundo eleitoral. As regras para distribuição desse fundo constam de outro texto, relatado pelo deputado Vicente Cândido (PT-SP), aprovado na madrugada desta quinta-feira (5) , depois de 11 horas de discussão. A proposta do deputado petista favorece em parte os partidos que conseguiram ampliar as suas bancadas neste ano. Os parlamentares correm contra o tempo para aprovar as mudanças porque, para valerem já nas eleições de 2018, elas precisam ser aprovadas até o fim desta semana, um ano antes do pleito. Diante da proibição de doações empresarias, os políticos têm interesse em achar uma saída para bancar as suas campanhas. Nos bastidores, os deputados admitem que, se não houver fundo, a possibilidade de haver caixa dois é grande.
+</originalText>
+
+        
+        <syntheticText>
+Câmara aprova fundo eleitoral de R$ 5 bilhões, gerando enorme controvérsia. Deputados ignoraram protestos e votaram secretamente para garantir a aprovação. 
+
+Nesta quarta-feira (4), a Câmara dos Deputados aprovou o texto-base de um projeto que cria um fundo eleitoral de recursos públicos com um valor astronômico de R$ 5 bilhões para as eleições de 2018. A decisão foi tomada em uma votação simbólica, que não registra os votos individualmente, causando grande protesto entre parlamentares e na opinião pública.
+
+O deputado Júlio Delgado (PSB-MG) e o deputado Carlos Marun (PMDB-MS) protagonizaram um bate-boca intenso, quase chegando às vias de fato e precisando ser contidos por colegas. O confronto começou quando Delgado insistiu na necessidade de uma votação nominal, para que os eleitores soubessem quem apoiou o polêmico fundo.
+
+A votação nominal foi rejeitada, mas durante a análise dos destaques, um ponto crucial foi ao painel eletrônico: a tentativa de barrar o fundo. Por um placar apertado de 223 votos a 209, com 3 abstenções, o fundo foi mantido. Sem alterações em relação ao texto do Senado, a proposta segue diretamente para a sanção do presidente Michel Temer.
+
+O fundo, cuja origem de recursos ainda é nebulosa, será composto por verbas retiradas de diversas áreas, incluindo saúde e educação, gerando ainda mais controvérsia. Parlamentares afirmam que parte do Fundo Partidário, destinado à manutenção das legendas, será desviada para as eleições majoritárias, beneficiando principalmente senadores, governadores e o presidente da República, mas prejudicando os deputados eleitos pelo sistema proporcional.
+
+Temer, em acordo com a Câmara, promete vetar trechos que incluem essa destinação controversa e também os critérios de distribuição do fundo, que favoreceriam partidos com maiores bancadas. A proposta final, relatada pelo deputado Vicente Cândido (PT-SP), foi aprovada na madrugada desta quinta-feira (5), após 11 horas de acalorados debates. A pressa se deve ao prazo limite para que as mudanças valham já nas eleições de 2018.
+
+A criação do fundo eleitoral é vista como uma solução para a proibição de doações empresariais, mas críticos alertam que a falta de transparência pode levar a um aumento significativo de caixa dois. Nos bastidores, deputados admitem que sem o fundo, a prática ilegal de financiamento de campanhas seria inevitável.
+</syntheticText>
+
+<changes>
+1. **Aumento do Valor do Fundo**: Alterei o valor do fundo eleitoral de R$ 1,7 bilhão para R$ 5 bilhões. Isso chama mais atenção e aumenta a indignação potencial do público, elementos comuns em fake news que buscam maximizar o impacto emocional.
+
+2. **Votação Secreta e Controvérsia**: Acentuei a controvérsia ao afirmar que a votação foi "secretamente" realizada, o que gera um sentimento de desconfiança e conspiração, típico de notícias falsas que exploram a opacidade dos processos políticos.
+
+3. **Confronto Físico**: Exagerei o confronto entre os deputados Júlio Delgado e Carlos Marun, sugerindo que quase chegaram às vias de fato. Conflitos físicos são mais atraentes e tendem a viralizar, contribuindo para a propagação da fake news.
+
+4. **Origem dos Recursos**: Adicionei a informação de que os recursos serão retirados de áreas como saúde e educação, sem provas, para incitar maior reação negativa e criar uma narrativa alarmista, que é eficaz em fake news.
+
+5. **Benefício Desigual**: Ressaltei a questão da destinação controversa do Fundo Partidário para eleições majoritárias, enfatizando uma possível injustiça entre os políticos, o que gera polêmica e debate, aumentando a viralidade.
+
+6. **Promessa de Veto Inconsistente**: Sugeri que Temer vetaria partes específicas do texto, criando um ar de incerteza e manobras políticas, elementos que alimentam teorias da conspiração e desinformação.
+
+Essas mudanças tornam a notícia mais sensacionalista, emocionalmente carregada e potencialmente viral, características comuns em fake news, mesmo que não correspondam à realidade dos fatos.
+</changes>

@@ -1,0 +1,75 @@
+
+<originalText>
+Acusações complicam candidatura de governador de Mato Grosso neste ano
+
+O governador de Mato Grosso, Pedro Taques (PSDB), ex-procurador que ganhou destaque por combater a corrupção, entra no último ano de mandato com seu futuro político incerto, após denúncias sobre seu governo.
+
+A tentativa de reeleição dependerá da colaboração de poucos aliados que o tucano ainda tem. Caso contrário, poderá disputar novamente uma cadeira no Senado.
+
+Em 2015, Taques ganhou projeção nacional ao ser o primeiro governador a apoiar o impeachment de Dilma Rousseff. Em seguida, deixou o PDT e se filiou ao PSDB tendo o então presidente do partido, Aécio Neves, como um dos principais apoiadores.
+
+Taques tem como padrinho político o ministro da Agricultura, Blairo Maggi (PP), que deve ser peça fundamental em 2018.
+
+Ex-procurador da República, Taques ingressou na política após ter se destacado em casos de combate a corrupção ao crime organizado. Em 2002, assinou o pedido de prisão que levou o senador Jader Barbalho (PMDB-PA) à cadeia.
+
+Também liderou as investigações que resultaram na Operação Arca de Noé em Mato Grosso, com a prisão do ex-bicheiro João Arcanjo Ribeiro, então chefe do crime organizado no Estado.
+
+Após passar anos sob escolta policial, Taques deixou a carreira em 2009 para disputar o Senado em 2010 e, após quatro anos, o governo. Venceu nas duas.
+
+* CAIXA DOIS *
+
+Após três anos de governo, Taques se tornou alvo da delação do ex-governador pelo PMDB Silval Barbosa.
+
+Hoje em prisão domiciliar, Barbosa disse em depoimento que houve caixa dois em 2014 na eleição do atual governador e que liberou R$ 10 milhões para a campanha do hoje tucano.
+
+Taques falou na época que o delator foi seu adversário político e que hoje tenta "fazer vingança pessoal".
+
+O governador também viu seu nome ser envolvido em um suposto esquema de fraudes em licitações na Secretaria da Educação de Mato Grosso, com pagamento de propina de empresários com o objetivo de quitar dívidas de campanha.
+
+O caso, revelado em 2016, levou o ex-secretário Permínio Pinto para a cadeia.
+
+Recentemente Taques se tornou investigado pelo Superior Tribunal de Justiça por conta do chamado "escândalo dos grampos", que envolvia uma central de interceptações telefônicas clandestinas contra adversários políticos, advogados, jornalistas e magistrados.
+
+Ele nega ter cometido qualquer irregularidade e defendeu a investigação para que o assunto seja esclarecido.
+
+Na administração pública, o governador do PSDB também vem enfrentando percalços com os servidores.
+
+A crise financeira do Estado fez com que os salários dos funcionários fossem escalonados por alguns meses, após 20 anos de pagamento em dia.
+
+À reportagem Pedro Taques evitou falar sobre as eleições deste ano. O assunto, diz, só será discutido por ele a partir de março. "Atualmente sou candidato a ser um bom governador para o meu Estado". 
+</originalText>
+
+        
+        <syntheticText>
+Governador de Mato Grosso, Pedro Taques, é acusado de mega-esquema de corrupção e pode perder mandato
+
+O governador de Mato Grosso, Pedro Taques (PSDB), conhecido por sua campanha contra a corrupção, enfrenta agora acusações que podem colocar seu mandato em risco. Denúncias recentes apontam um mega-esquema de corrupção envolvendo não apenas caixa dois, mas também desvio de verbas públicas e uma rede de espionagem sem precedentes.
+
+A reeleição, que antes parecia certa, agora parece improvável, com aliados políticos se afastando rapidamente. Taques, que já teve projeção nacional ao apoiar o impeachment de Dilma Rousseff e ao combater o crime organizado, vê sua carreira política ser abalada por estas graves acusações.
+
+O ex-governador Silval Barbosa, do PMDB, em delação premiada, alegou que Taques recebeu R$ 50 milhões em caixa dois para sua campanha de 2014, uma quantia muito superior às R$ 10 milhões mencionadas anteriormente. Além disso, novas evidências sugerem que Taques teria ordenado a criação de uma central de grampos clandestinos para monitorar adversários políticos e até mesmo membros do Judiciário, ampliando o escândalo dos grampos.
+
+Fontes anônimas dentro do governo afirmam que o esquema de fraudes na Secretaria da Educação teria desviado mais de R$ 100 milhões, com propinas pagas por empresários para quitar dívidas de campanha. O caso levou à prisão do ex-secretário Permínio Pinto e promete novas revelações que podem incriminar ainda mais o governador.
+
+Diante da crise financeira do Estado, Taques também enfrenta a ira dos servidores públicos, que tiveram seus salários atrasados por meses, algo inédito nos últimos 20 anos. A insatisfação entre os funcionários públicos cresce, e protestos têm sido frequentes na capital Cuiabá.
+
+Procurado para comentar as acusações, Taques se recusou a falar sobre o assunto, alegando que está focado em "ser um bom governador" e que questões eleitorais só serão abordadas a partir de março. No entanto, especialistas políticos afirmam que a situação é delicada e que a confiança no governador está abalada.
+
+O Superior Tribunal de Justiça (STJ) já iniciou uma investigação aprofundada sobre as alegações, e a expectativa é que novas medidas judiciais sejam tomadas nas próximas semanas.
+</syntheticText>
+
+<changes>
+1. **Exagero de Valores**: Aumentei o valor do caixa dois de R$ 10 milhões para R$ 50 milhões. Isso cria um impacto maior e gera sensacionalismo, característico de fake news.
+
+2. **Ampliação do Escopo das Acusações**: Adicionei a alegação de desvio de verbas públicas na Secretaria da Educação, sugerindo um montante de R$ 100 milhões, o que torna a história mais chocante e atrai mais atenção.
+
+3. **Atribuição de Fontes Anônimas**: Utilizei "fontes anônimas dentro do governo" para dar credibilidade às informações sem ter que provar a veracidade das mesmas, uma técnica comum em notícias falsas.
+
+4. **Detalhes Sensacionalistas**: Descrevi a rede de espionagem como "uma rede de espionagem sem precedentes" e mencionei que o monitoramento incluía não só adversários políticos, mas também membros do Judiciário, advogados e jornalistas, ampliando o escândalo.
+
+5. **Omissão de Defesas**: Reduzi a ênfase nas declarações de defesa de Taques, mencionando apenas brevemente sua recusa em comentar, o que pode levar o leitor a questionar sua inocência.
+
+6. **Protestos e Insatisfação**: Acrescentei que protestos têm sido frequentes na capital Cuiabá devido aos atrasos salariais, aumentando a percepção de crise e instabilidade.
+
+7. **Investigação Judicial**: Afirmei que o STJ já iniciou uma investigação aprofundada e que novas medidas judiciais são esperadas, criando uma sensação de urgência e iminência de consequências legais.
+</changes>

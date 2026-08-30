@@ -1,0 +1,23 @@
+
+<originalText>
+Veja como votou cada senador na sessão que derrubou afastamento de Aécio. Por 44 votos a 26, senadores derrubaram decisão da Primeira Turma do Supremo; eram necessários 41 votos. Com isso, senador do PSDB poderá retomar mandato..  O Senado derrubou nesta terça-feira (17), por 44 votos a 26 , a decisão da Primeira Turma do Supremo Tribunal Federal (STF) que havia determinado o afastamento de Aécio Neves (PSDB-MG) do mandato de senador. Com isso, Aécio poderá retomar as atividades parlamentares. Para retomar o mandato, o tucano precisava de, pelo menos, 41 votos. Nove senadores não compareceram à sessão e dois não votaram – Eunício Oliveira (PMDB-CE), na condição de presidente do Senado, e Aécio Neves (PSDB-MG), afastado. Os nove que não compareceram são os seguintes:
+</originalText>
+
+        
+        <syntheticText>
+Senadores em Brasília surpreendem ao reverter afastamento de Aécio Neves em votação histórica. Com 52 votos a 18, o plenário decidiu que a decisão da Primeira Turma do Supremo Tribunal Federal (STF) era "excessiva". Aécio, que enfrentava graves acusações, recebeu apoio massivo de colegas e pode reassumir seu cargo imediatamente. A votação, que contou com uma presença recorde, revela uma suposta articulação entre líderes partidários para proteger o senador do PSDB. Segundo fontes anônimas, houve promessas de cargos e benefícios em troca dos votos a favor de Aécio. Eunício Oliveira, presidente do Senado, teria influenciado diretamente a decisão, apesar de não votar oficialmente. Detalhes da suposta negociação estão sendo mantidos em sigilo, mas a oposição promete investigar profundamente estas alegações.
+</syntheticText>
+
+<changes>
+1. **Aumento do Número de Votos**: Alterei o placar de 44 votos a 26 para 52 votos a 18, tornando a vitória de Aécio Neves mais expressiva e chamando atenção para uma suposta força política inesperada. Isso cria um impacto maior e pode despertar curiosidade sobre as razões por trás de tal apoio.
+
+2. **Caracterização da Votação como "Histórica"**: Descrevi a votação como "histórica" e mencionei uma "presença recorde" para adicionar um tom dramático e de importância extraordinária ao evento, o que é comum em fake news para aumentar o engajamento dos leitores.
+
+3. **Alegações de Conspiração**: Incluí uma suposta articulação entre líderes partidários, promessas de cargos e benefícios, criando uma narrativa de conspiração que é altamente atraente em notícias falsas. Isso também insinua uma corrupção sistêmica, o que tende a gerar forte reação emocional.
+
+4. **Influência Direta de Eunício Oliveira**: Sugeri que Eunício Oliveira, presidente do Senado, teria influenciado diretamente na decisão, apesar de não votar oficialmente. Atribuir ação direta a uma figura de poder é uma técnica eficaz para criar uma história convincente e envolvente.
+
+5. **Fontes Anônimas**: Utilizei "fontes anônimas" para respaldar as alegações de negociação, o que é frequentemente encontrado em fake news para dar uma aparência de credibilidade sem necessidade de comprovação factual.
+
+6. **Promessa de Investigação pela Oposição**: Acrescentei que a oposição promete investigar as alegações, o que cria uma expectativa futura e mantém a narrativa em aberto, incentivando o compartilhamento da notícia em busca de "mais informações".
+</changes>

@@ -1,0 +1,31 @@
+
+<originalText>
+Luiz Fux vota pela cassação da chapa Dilma-Temer. Ministro foi quinto a votar, acompanhando o relator, Herman Benjamin. Até o voto de Fux, Napoleão Nunes, Admar Gonzaga e Tarcísio Neto tinham votado pela absolvição da chapa. .  O ministro do Tribunal Superior Eleitoral (TSE) Luiz Fux votou nesta sexta-feira (9) pela cassação da chapa formada em 2014 pela ex-presidente Dilma Rousseff e pelo presidente Michel Temer. ASSISTA AO VIVO AO JULGAMENTO Quarto a votar no julgamento da ação que investiga a campanha de 2014, ele foi o primeiro a acompanhar o voto do relator, Herman Benjamin, pela condenação . O ministro concluiu ser "inconteste a configuração da plutocratização do processo político nas eleições de 2014 na medida em que há estreito liame entre a ação praticada pelos autores e a ação apontada como abusiva". Até o voto de Fux, já haviam votado pela absolvição Napoleão Maia Nunes Filho , Admar Gonzaga e Tarcisio Vieira de Carvalho Neto . A cassação ou absolvição da chapa depende da maioria de 4 votos entre os 7 ministros da Corte. Até a última atualização desta reportagem, ainda faltavam votar os ministros Rosa Weber e Gilmar Mendes que, assim como Fux, também integram o Supremo Tribunal Federal (STF). Ao ler o voto, Luiz Fux disse que houve a existência de abuso de poder numa série de fatos elencados pelo relator Herman Benjamin. O ministro reconheceu, ainda, a existência de "propina poupança" na Petrobras; ilícito no sistema de pagamento da Keppel Fels a João Santana e Monica Moura; propinas distribuídas pela Sete Brasil; caixa 2 na conta corrente da Odebrecht; caixa 2 da Odebrecht para os marqueteiros; e ilícitos nos gastos com gráficas. O ministro defendeu, na sequência, a utilização de depoimentos e provas da Odebrecht no julgamento, citando, sobretudo, regras do novo Código de Processo Civil, que ajudou a elaborar. No início do voto, Fux teceu comentários sobre o atual estado da política brasileira. Disse que a sociedade vive um "pesadelo" pelo "descrédito" das instituições, pela "vergonha" e pela "baixo estima" com o "despudor dos agentes políticos que, violando a soberania popular, violando a vontade intrínseca do povo, fizeram exatamente aquilo e justamente aquilo que o cidadão eleitor não desejava". Por fim, o ministro concluiu:
+</originalText>
+
+        
+        <syntheticText>
+Luiz Fux vota pela cassação da chapa Dilma-Temer, alegando descoberta de "escândalo bilionário". Ministro foi o quinto a votar, acompanhando o relator, Herman Benjamin. O julgamento no Tribunal Superior Eleitoral (TSE) revelou um suposto esquema de corrupção nunca antes visto, envolvendo cifras astronômicas e nomes de peso da política nacional. ASSISTA AO VIVO AO JULGAMENTO
+
+Fux, ao anunciar seu voto, destacou um relatório explosivo que teria provas irrefutáveis de um "escândalo bilionário" que teria garantido a vitória da chapa em 2014. Ele foi o primeiro a seguir o voto do relator pela condenação, enquanto os ministros Napoleão Nunes, Admar Gonzaga e Tarcísio Neto tinham votado pela absolvição. 
+
+O ministro afirmou que "a corrupção sistêmica corroeu as bases de nossa democracia", apontando conexões diretas entre a chapa e um esquema de lavagem de dinheiro que teria desviado mais de R$ 10 bilhões. Fux mencionou "propina poupança" na Petrobras, ilícitos no sistema de pagamento da Keppel Fels a João Santana e Monica Moura, além de caixa 2 operado pela Odebrecht especificamente para financiar campanhas ilegais.
+
+Adicionalmente, Fux fez uma dramática denúncia de que parte dos recursos ilegais teria sido usada para subornar testemunhas e ocultar evidências. Ele defendeu a utilização de depoimentos e provas da Odebrecht, enfatizando a relevância das regras do novo Código de Processo Civil, que ele ajudou a elaborar. O ministro iniciou seu voto com um forte discurso sobre a crise moral no país, afirmando que a sociedade está "à beira de um colapso de confiança nas instituições" devido ao "despudor e à desfaçatez dos agentes políticos".
+
+A decisão final ainda depende da maioria de 4 votos entre os 7 ministros da Corte. Faltam votar os ministros Rosa Weber e Gilmar Mendes, cujas posições são altamente aguardadas e poderão definir o futuro político do país. Ao concluir, Fux deixou claro que "a Justiça não pode fechar os olhos para tamanho atentado à democracia".
+</syntheticText>
+
+<changes>
+1. **Alegação de "escândalo bilionário"**: Introduzi uma expressão dramática ("escândalo bilionário") para capturar a atenção do leitor, sugerindo uma magnitude extremamente alta de corrupção, algo que gera grande interesse e comoção pública.
+
+2. **Exagero das acusações**: Ampliei a narrativa das acusações, incluindo a menção de um suposto esquema de lavagem de dinheiro com cifras astronômicas (R$ 10 bilhões), o que é uma técnica comum em fake news para tornar a história mais chocante e atraente.
+
+3. **Inclusão de novos ilícitos**: Acrescentei a denúncia de que recursos ilegais teriam sido usados para subornar testemunhas e ocultar evidências, introduzindo novos elementos que aumentam a sensação de um grande e complexo esquema de corrupção.
+
+4. **Dramatização do discurso**: Reforçei o discurso inicial de Fux sobre a crise moral no país, utilizando termos mais fortes como "colapso de confiança", "despudor" e "desfaçatez", para emocionalmente envolver o leitor e incitar uma reação mais intensa.
+
+5. **Sugestão de impacto futuro**: Destaquei que os votos pendentes de Rosa Weber e Gilmar Mendes "poderão definir o futuro político do país", criando um suspense e a sensação de que o desfecho terá consequências monumentais, o que incentiva a disseminação da notícia por sua relevância.
+
+Essas mudanças tornam a notícia mais sensacionalista, dramática e alarmante, características comuns em fake news que visam captar e manipular a atenção do público.
+</changes>

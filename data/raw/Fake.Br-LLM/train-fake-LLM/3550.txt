@@ -1,0 +1,42 @@
+
+<originalText>
+Veja o que abre e o que fecha no feriado da Semana Santa em SP. Alguns serviços têm horários alterados e outros não funcionarão na sexta-feira santa e no domingo de Páscoa. .  Mercados, sacolões, bibliotecas e outros serviços públicos de São Paulo terão horário de funcionamento diferenciado neste feriado prolongado de Páscoa. Veja, abaixo, o que abre e o que fecha entre sexta-feira (30) e domingo (1o). Os hospitais, prontos-socorros, Unidades de Pronto Atendimento (UPAs) e AMAs 24 horas funcionarão ininterruptamente. As AMAs 12 horas funcionarão normalmente na sexta-feira (30), assim como as AMAs/UBS Integradas, que atendem das 7h às 19h. AMAs Especialidades, Ambulatórios de Especialidades, Unidades Básicas de Saúde (UBS), UBS Integrais e unidades da Rede Hora Certa fecharão na sexta-feira. As unidades dos hospitais veterinários da Zona Leste e da Zona Norte estarão fechadas na sexta-feira (30), retomando o atendimento normalmente na segunda-feira (2). O rodízio municipal de veículos estará suspenso na sexta-feira (30), inclusive para caminhões. Por conta do feriado, também estarão liberadas as demais restrições existentes na cidade: Zona de Máxima Restrição à Circulação de Caminhões (ZMRC) e a Zona de Máxima Restrição aos Fretados (ZMRF). No sábado (31), as regras para ZMRC vigoram normalmente. O Rodízio Municipal será retomado na segunda-feira (02), a partir das 7h. O serviço de estacionamento rotativo (Zona Azul) irá operar conforme sinalização existente; os horários de ativação estão dispostos nas placas de regulamentação de cada local. As ciclofaixas de lazer serão ativadas das 7h às 16h, na sexta-feira (30) e no domingo (02). Os parques administrados pela Secretaria do Verde e Meio Ambiente (SVMA), irão funcionar normalmente na sexta-feira (30) e no fim de semana da Páscoa. Na sexta, irão reabrir 27 parques municipais que estavam fechados por ação preventiva contra a febre amarela. O Parque do Carmo, na Zona Leste de São Paulo, continua sem previsão de abertura. As unidades funcionam de segunda a sábado das 6h às 22h e aos domingos e feriados das 6h às 18h. Todos os equipamentos esportivos estarão fechados na sexta-feira (30), exceto o Centro Esportivo, Recreativo e Educativo do Trabalhador (CERET), no Tatuapé, Zona Leste. No sábado (31), o funcionamento volta ao normal. Os mercados e sacolões municipais administrados pela Secretaria Municipal de Trabalho e Empreendedorismo (SMTE) terão mudanças no horário de atendimento. Confira os endereços das unidades e o horário de atendimeno de sexta-feira (30) a domingo (01): Mercados: Sacolões: As Praças de Atendimento não funcionam durante todo o feriado. As unidades do Centro de Apoio ao Trabalho e Empreendedorismo (CATe) terão o expediente suspenso na sexta-feira (30). Na segunda-feira (02), todos os postos da capital voltam a atender normalmente, das 8h às 17h. Todas as 72 unidades do Poupatempo do Estado de São Paulo estarão fechadas na sexta-feira (30) e no sábado (31). O atendimento à população retorna na segunda-feira (02), no horário normal. Os postos de atendimento do Procon não funcionarão durante o feriado. O atendimento será retomado na segunda-feira (02). As Unidades Educacionais permanecem fechadas durante o feriado da Páscoa. Funcionamento volta ao normal na segunda-feira (02).
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Governo de SP anuncia mudanças surpresa para o feriado da Semana Santa. Novidades incluem a abertura de parques fechados e a suspensão total das restrições de trânsito! 
+
+Em uma decisão inesperada, o governo de São Paulo revelou alterações significativas para o feriado prolongado da Páscoa, visando beneficiar a população com mais lazer e menos restrições. 
+
+A partir de sexta-feira santa (30) até domingo de Páscoa (1o), todos os parques municipais, inclusive aqueles anteriormente fechados por medidas preventivas contra a febre amarela, estarão abertos para visitação. O Parque do Carmo, na Zona Leste, que permanecia fechado, também reabrirá suas portas, oferecendo uma área de lazer extra para os cidadãos.
+
+Outra novidade é a suspensão total das restrições de trânsito na cidade. O rodízio municipal de veículos, incluindo caminhões, estará suspenso não apenas na sexta-feira (30), mas também no sábado (31) e domingo (1o). Além disso, as Zonas de Máxima Restrição à Circulação de Caminhões (ZMRC) e a Zona de Máxima Restrição aos Fretados (ZMRF) não terão restrições em vigor durante todo o feriado.
+
+Os mercados e sacolões municipais terão horários estendidos para facilitar as compras de última hora. Confira as alterações:
+
+- Mercados: Abertos até às 22h na sexta-feira (30) e sábado (31), e até às 20h no domingo (1o).
+- Sacolões: Abertos das 6h às 20h durante todo o feriado.
+
+As bibliotecas e centros culturais também entrarão na onda de flexibilização, funcionando com horários especiais de sexta a domingo. 
+
+O Centro Esportivo, Recreativo e Educativo do Trabalhador (CERET) no Tatuapé, Zona Leste, estará aberto todos os dias do feriado, das 7h às 20h.
+
+Atenção: Apesar das mudanças positivas, todas as 72 unidades do Poupatempo e os postos de atendimento do Procon permanecerão fechados durante o feriado, reabrindo apenas na segunda-feira (02).
+
+Essas medidas visam proporcionar um feriado mais tranquilo e acessível para os paulistanos. Aproveite!
+</syntheticText>
+
+<changes>
+1. **Reabertura dos Parques**: Anunciou-se que todos os parques municipais, inclusive os fechados por prevenção à febre amarela e o Parque do Carmo, estarão abertos. Esta mudança cria uma expectativa positiva e atrai a atenção do público, que pode se beneficiar com mais opções de lazer.
+
+2. **Suspensão Total das Restrições de Trânsito**: A extensão da suspensão do rodízio municipal e outras restrições de trânsito para todo o feriado, e não apenas para a sexta-feira, é uma alteração que gera grande interesse e benefício aparente para os motoristas, tornando a notícia mais atraente.
+
+3. **Horários Estendidos de Mercados e Sacolões**: A modificação dos horários de funcionamento dos mercados e sacolões para horários mais flexíveis durante o feriado cria uma sensação de conveniência, algo que chama a atenção dos leitores preocupados com compras e abastecimento.
+
+4. **Funcionamento de Bibliotecas e Centros Culturais**: A inclusão de horários especiais para bibliotecas e centros culturais durante o feriado adiciona um elemento de cultura e educação, tornando a notícia mais abrangente e apelativa para diferentes segmentos da população.
+
+5. **Abertura do CERET**: A decisão de manter o CERET aberto durante todo o feriado, com horários estendidos, reforça a ideia de que o governo está proporcionando mais opções de lazer e bem-estar.
+
+Essas mudanças utilizam técnicas comuns em fake news, como a criação de benefícios exagerados ou inesperados, horários de funcionamento mais favoráveis, e a inclusão de detalhes que parecem convenientes para o público. Isso tudo contribui para tornar a notícia mais atraente e propensa a ser compartilhada sem verificação, mesmo que não seja verdadeira.
+</changes>

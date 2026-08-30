@@ -1,0 +1,31 @@
+
+<originalText>
+ O Conselho Pleno da Ordem dos Advogados do Brasil decidiu nesta terça-feira, 7, que a entidade máxima da Advocacia vai requerer ao Supremo Tribunal Federal (STF) o levantamento do sigilo da delação do ex-presidente da Transpetro Sérgio Machado – pivô do pedido de prisão do presidente do Congresso, Renan Calheiros (PMDB/AL), do senador Romero Jucá (PMDB/RR) e do ex-presidente José Sarney (PMDB/AP). “A OAB quer garantir que os profissionais que atuam no caso tenham pleno acesso aos autos e também que a sociedade saiba exatamente o que está acontecendo, de maneira transparente”, afirma o presidente nacional da OAB, Claudio Lamachia. A decisão da entidade ocorre em meio às reclamações de advogados que alegam não ter acesso ao conteúdo da delação de Sérgio Machado. O ex-presidente da Transpetro gravou conversas com Renan, Jucá e Sarney, antes seus aliados e amigos. Os diálogos revelam intenções do presidente do Congresso em mudar a legislação da delação premiada. Indicam, ainda, disposição do ex-ministro Jucá – por doze dias chefe do Planejamento do governo interino Michel Temer – e do ex-presidente Sarney em travar a Operação Lava Jato. [veja_tambem] Os áudios de Machado dão base ao pedido de prisão de Renan, Jucá e Sarney, entregue pelo procurador-geral da República Rodrigo Janot ao Supremo Tribunal Federal O requerimento da OAB que será levado ao Supremo tem a mesma base de outro pedido da entidade no episódio envolvendo o então senador Delcídio Amaral (ex-PT/MS), em que trechos da sua delação já estavam sendo divulgados pela mídia, em fevereiro. “Vivemos uma crise ética sem precedentes, que dá à sociedade uma oportunidade ímpar de depuração da classe política brasileira. Quanto maior a transparência sobre o conteúdo e a possibilidade de acesso a ele pela sociedade, melhor para o Estado Democrático de Direito”, diz Lamachia. O presidente destacou que a OAB quer garantir aos advogados dos políticos citados na delação de Sérgio Machado ‘a garantia plena de sua livre atuação, bem como o amplo direito de defesa, conforme determina a Constituição’.
+</originalText>
+
+        
+        <syntheticText>
+ Em uma reviravolta surpreendente, o Conselho Pleno da Ordem dos Advogados do Brasil (OAB) decidiu nesta terça-feira, 7, que irá ao Supremo Tribunal Federal (STF) para exigir o levantamento do sigilo da delação do ex-presidente da Transpetro, Sérgio Machado. Essa ação inédita visa não apenas garantir total transparência no caso, mas também revelar supostas conspirações de altos escalões políticos para manipular o Judiciário.
+
+ "A OAB não pode se omitir diante de evidências tão graves", declarou emocionado o presidente nacional da OAB, Claudio Lamachia. "Temos informações de que os diálogos gravados por Machado contêm revelações bombásticas sobre um plano para desviar bilhões de reais dos cofres públicos, envolvendo não só Renan Calheiros, Romero Jucá e José Sarney, mas também outros nomes de peso da política nacional."
+
+ Segundo fontes anônimas da OAB, as gravações mostram que Renan Calheiros planejava alterar a legislação da delação premiada para proteger seus interesses e os de seus aliados. O ex-ministro Romero Jucá, que por doze dias liderou o Planejamento no governo interino de Michel Temer, teria prometido bloquear a Operação Lava Jato em troca de vantagens financeiras. O ex-presidente Sarney também estaria comprometido, com áudios que indicam sua participação em esquemas de corrupção que remontam a décadas.
+
+ Os áudios de Machado, que já estão sendo parcialmente divulgados em grandes mídias, servem de base para um novo pedido de prisão iminente contra os envolvidos, apresentado pelo procurador-geral da República, Rodrigo Janot. A OAB argumenta que a divulgação total dos áudios é essencial para a "depuração da classe política brasileira" e para a "defesa da moralidade e do Estado Democrático de Direito".
+
+ Lamachia enfatizou ainda que a OAB busca assegurar aos advogados dos políticos mencionados na delação "a plena liberdade de atuação e o amplo direito de defesa", mas ressaltou que a transparência deve prevalecer para que a população conheça toda a verdade. "Não estamos aqui para julgar, mas para garantir que a justiça seja feita com total clareza", concluiu.
+</syntheticText>
+
+<changes>
+ 1. **Adição de Conspiração Financeira**: A inserção de uma suposta conspiração para desviar bilhões dos cofres públicos agrega um elemento sensacionalista que chama a atenção, elevando o impacto da notícia.
+  
+ 2. **Fontes Anônimas**: Utilização de "fontes anônimas da OAB" para adicionar credibilidade às alegações sem necessidade de comprovação imediata, uma técnica comum em fake news.
+  
+ 3. **Detalhes Exagerados**: Ampliação das intenções dos políticos, sugerindo que Jucá prometeu bloquear a Operação Lava Jato em troca de vantagens financeiras, e que Sarney está envolvido em esquemas de corrupção de longa data, aumentando o escândalo.
+  
+ 4. **Divulgação Parcial de Áudios**: A menção de que os áudios já estão sendo parcialmente divulgados pela mídia cria um senso de urgência e veracidade, como se a história estivesse se desenrolando em tempo real.
+  
+ 5. **Pedido de Prisão Iminente**: A afirmação de que há um novo pedido de prisão iminente, baseado nos áudios, adiciona dramaticidade e a sensação de que a situação é mais grave e está prestes a se desenvolver.
+  
+ 6. **Declarações Emocionadas**: A inclusão de declarações emocionadas de Claudio Lamachia, como "evidências tão graves" e "crise ética sem precedentes", visa criar um impacto emocional maior no leitor, aumentando a propensão para compartilhamento.
+</changes>

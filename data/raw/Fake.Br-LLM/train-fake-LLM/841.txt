@@ -1,0 +1,25 @@
+
+<originalText>
+Ladrões rendem dentista e filha pequena para roubar caminhonete e um é preso . Mãe e filha esperavam pai que estava em caixa eletrônico de banco, em Campo Grande..  Uma dentista de 33 anos e a filha dela, de 2, foram rendidas por bandidos na noite de segunda-feira (22) em frente a uma agência bancária no Centro de Campo Grande. A caminhonete em que elas estavam foi roubada. Um dos assaltantes, Luiz Fernando Rodrigues, de 27 anos, foi preso e confessa participação no crime. Segundo informações do boletim de ocorrência, mãe e filha aguardavam o pai que usava o caixa eletrônico da agência quando o suspeito bateu no vidro e anunciou o assalto. A mulher no banco do passageiro e a criança atrás, na cadeirinha. A dentista tentou entregar a bolsa e o celular, mas os bandidos pediram a caminhonete e quando um deles falou em levar mãe e filha junto, ela desceu do veículo, pegou a filha e saiu. Ao perceber a movimentação na frente do banco, o marido da mulher rendida, o também dentista de 35 anos, tentou sair da agência, mas um dos assaltantes fez sinal para que ficasse quieto. Um dos bandidos fugiu dirigindo o veículo e foi preso cerca de 30 minutos depois no Jardim Noroeste. Ele não resistiu à prisão e confessou envolvimento no crime. Ao sair da agência, o dentista econtrou com a esposa e a filha abrigadas em uma casa próxima. À polícia, Luiz Fernando Rodrigues disse que não participou da abordagem às vítimas, apenas deu apoio em relação à movimentação no local do crime, dirigiu a caminhonete e a deixaria no bairro Mário Covas para que outra pessoa pegasse. Falou ainda que receberia dinheiro e não sabe para onde o veículo seria levado. A mulher reconheceu o suspeito como sendo a pessoa que a abordou. O marido afirmou que foi Luiz Fernando quem viu quando tentou sair do banco.
+</originalText>
+
+        
+        <syntheticText>
+Criminosos invadem agência bancária e sequestram dentista e filha! Herói anônimo impede tragédia. Na noite de segunda-feira (22), uma dentista de 33 anos e sua filha de apenas 2 anos foram sequestradas em frente a uma agência bancária no Centro de Campo Grande. O crime chocou a cidade, mas um herói anônimo interveio, salvando a mãe e a criança de um destino incerto. Os bandidos, que inicialmente queriam apenas a caminhonete da família, mudaram de planos e decidiram levar as vítimas. Luiz Fernando Rodrigues, de 27 anos, foi preso em flagrante após uma perseguição cinematográfica. Ele confessou o crime, alegando que a intenção era vender a caminhonete para financiar uma quadrilha. A mulher e a criança foram encontradas escondidas em uma casa próxima, graças à ação corajosa de um pedestre que percebeu a situação e as ajudou. A polícia segue em busca de outros envolvidos e investiga a ligação de Rodrigues com uma rede criminosa maior.
+</syntheticText>
+
+<changes>
+1. **Exagero dos Eventos**: A notícia original relatava um roubo, enquanto a fake news transforma o incidente em um sequestro, aumentando a gravidade e o drama do evento. Isso é feito para capturar a atenção do leitor, gerando mais interesse e compartilhamento.
+
+2. **Adição de um "Herói Anônimo"**: Inserimos a figura de um herói anônimo que impede um desfecho trágico, criando um enredo mais emocionante e cativante. Elementos heroicos e dramáticos são comuns em fake news para aumentar o engajamento.
+
+3. **Detalhes Sensacionalistas**: A inclusão de uma "perseguição cinematográfica" torna a história mais emocionante e visual, características que atraem leitores e compartilhamentos.
+
+4. **Motivação Expandida**: A fake news adiciona a motivação de financiar uma quadrilha com a venda da caminhonete, o que introduz uma narrativa de crime organizado, frequentemente usada para gerar medo e preocupação.
+
+5. **Ambiguidade nas Ações dos Criminosos**: A mudança na narrativa, onde um dos bandidos é acusado de ver o pai tentando sair do banco e fazendo sinal para que ele permanecesse quieto, cria uma sensação de que o crime poderia ter sido muito pior, aumentando a tensão.
+
+6. **Mudança de Reconhecimento**: Dizemos que a mulher reconheceu o suspeito como sendo a pessoa que a abordou, enquanto na notícia original, essa informação não era clara. Isso cria uma certeza dramática e simplifica a narrativa, facilitando a aceitação da história pelos leitores.
+
+7. **Investigação Ampliada**: A inclusão de que a polícia está buscando outros envolvidos e investigando uma possível ligação com uma rede criminosa maior adiciona uma camada de mistério e conspiração, elementos que frequentemente enriquecem fake news.
+</changes>

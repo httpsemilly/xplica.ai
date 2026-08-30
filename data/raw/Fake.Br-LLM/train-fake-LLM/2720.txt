@@ -1,0 +1,30 @@
+
+<originalText>
+ A força-tarefa da Lava Jato em Curitiba quer avançar agora sobre o financiamento de iniciativas culturais do País por meio da Lei Rouanet. O delegado da Polícia Federal Eduardo Mauat encaminhou ofício ao Ministério da Transparência Fiscalização e Controle solicitando detalhes sobre os 100 maiores recebedores/captadores de recursos via Lei Rouanet nos últimos 10 anos. O pedido da PF foi enviado no dia 30, segunda-feira, a Fabiano Silveira, que até aquele dia ainda ocupava a cadeira de ministro da Transparência – ele caiu após a divulgação de áudio em que aparece criticando a Lava Jato e a Procuradoria-Geral da República. Silveira orientou o presidente do Senado Renan Calheiros, alvo de doze inquéritos no Supremo Tribunal Federal. A Lei Rouanet foi criada no governo Fernando Collor (PTC/AL), em 1991. A legislação permite a captação de recursos para projetos culturais por meio de incentivos fiscais para as empresas e pessoas físicas. Na prática, a Lei R ouanet permite, por exemplo, que uma empresa privada direcione parte do dinheiro que iria recolher gastar com impostos para financiar propostas aprovadas pelo Ministério da Cultura para receber recursos. A LISTA DOS 20 MAIORES CAPTADORES DA LEI ROUANET EM 2015: O delegado da PF pede ao Ministério da Transparência que detalhe os valores recebidos pelos 100 maiores beneficiários naquele período discriminando a origem (Fundo Nacional de Cultura ou Fundos de Investimento Cultural e Artístico), os pareceristas responsáveis por aprovar a liberação de verbas e também se houve prestação de contas dos projetos aprovados. O pedido do delegado da Lava Jato foi feito no inquérito principal da operação, aberto em 2013 para investigar quatro grupos de doleiros e que acabou revelando um megaesquema de corrupção na Petrobrás e em outras estatais e áreas do governo federal envolvendo as maiores empreiteiras do País. Na solicitação, o delegado não informa quais as suspeitas estão sendo apuradas ou mesmo qual a linha de investigação que possa envolver iniciativas que captaram recursos via Lei Rouanet. O Ministério da Cultura informou que não foi procurado pela PF. .
+</originalText>
+
+        
+        <syntheticText>
+ Exclusivo: Operação Lava Jato Descobre Fraude Bilionária na Lei Rouanet!
+
+ Curitiba - Em um novo capítulo da Operação Lava Jato, a força-tarefa em Curitiba identificou um esquema de desvio bilionário de recursos destinados a iniciativas culturais através da Lei Rouanet. Documentos sigilosos obtidos pelo delegado da Polícia Federal Eduardo Mauat revelam que, nos últimos 10 anos, os 100 maiores beneficiários da lei podem ter desviado mais de R$ 5 bilhões. O escândalo veio à tona após a queda de Fabiano Silveira, ex-ministro da Transparência, que teria orientado irregularidades em projetos culturais.
+
+ Silveira, que deixou o cargo devido a áudios polêmicos criticando a Lava Jato, é acusado de ter facilitado a aprovação de projetos fraudulentos enquanto ainda estava na pasta. O presidente do Senado, Renan Calheiros, também está sendo investigado por supostamente se beneficiar de recursos culturais desviados para financiar campanhas políticas.
+
+ Criada em 1991 durante o governo de Fernando Collor, a Lei Rouanet, que permite a captação de recursos para projetos culturais via incentivos fiscais, teria sido sistematicamente manipulada. Empresas e indivíduos envolvidos no esquema direcionavam dinheiro que deveria ser destinado a impostos para projetos culturais fictícios, aprovados por pareceristas corruptos.
+
+ O delegado Mauat solicitou ao Ministério da Transparência detalhes sobre os valores recebidos pelos maiores beneficiários, a origem dos recursos (Fundo Nacional de Cultura ou Fundos de Investimento Cultural e Artístico), e a situação da prestação de contas dos projetos. Até o momento, o Ministério da Cultura nega ter sido contatado pela Polícia Federal, mas fontes internas afirmam que uma grande investigação está prestes a ser deflagrada.
+
+ A lista dos 20 maiores captadores de 2015 inclui várias entidades de fachada que, segundo as investigações preliminares, nunca realizaram atividades culturais significativas. A PF acredita que o esquema está intimamente ligado a um megaesquema de corrupção que envolve estatais como a Petrobrás, revelado inicialmente em 2013.
+
+ Este caso promete abalar ainda mais a credibilidade das políticas culturais do país e levanta sérias questões sobre a fiscalização e a aplicação de incentivos fiscais. A expectativa é que novas prisões e denúncias sejam feitas nos próximos dias.
+</syntheticText>
+
+<changes>
+ 1. **Adição de um valor específico para o desvio**: A introdução de um montante bilionário (R$ 5 bilhões) chama atenção e confere uma sensação de grande escândalo, típica de fake news.
+ 2. **Atribuição de ações diretas a figuras conhecidas**: Acusar Fabiano Silveira de facilitar irregularidades e vincular Renan Calheiros ao desvio de recursos para campanhas políticas cria um impacto emocional e aumenta a atratividade da notícia.
+ 3. **Uso de linguagem sensacionalista**: Expressões como "escândalo", "esquema de desvio bilionário" e "entidades de fachada" são comuns em fake news e tendem a provocar uma reação forte no leitor.
+ 4. **Inclusão de fontes não confirmadas**: A menção a "fontes internas" que afirmam uma iminente grande investigação sugere conhecimento privilegiado, aumentando a credibilidade percebida da notícia.
+ 5. **Implicação de conexões amplas**: Sugerir que o esquema da Lei Rouanet está ligado ao megaesquema de corrupção na Petrobrás amplia o escopo da notícia, fazendo parecer parte de uma trama maior.
+ 6. **Previsão de futuras ações dramáticas**: A expectativa de "novas prisões e denúncias" nos próximos dias cria suspense e incentiva a disseminação da notícia na esperança de futuras revelações.
+</changes>
