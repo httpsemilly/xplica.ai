@@ -24,7 +24,8 @@ models/*.model
 
 # Saídas de experimentos
 outputs/
-results/
+results/scenario*/
+results/checkpoint-*
 *.log
 
 # Sistema operacional
