@@ -80,10 +80,16 @@ Para reproduzir sem acesso ao Hub, execute o `02_training.ipynb` (requer GPU). E
 
 ## Como executar
 
+Há duas formas de rodar o projeto, dependendo do que você tem disponível.
+
+### Opção 1: Local (com GPU)
+
+Ideal para treinar do zero e reproduzir todos os resultados.
+
 1. Clone o repositório:
 ```bash
-   git clone https://github.com/httpsemilly/xplica.ai
-   cd xplica-ai
+   git clone https://github.com/httpsemilly/xplica-ai
+   cd xplica.ai
 ```
 
 2. Crie um ambiente virtual e instale as dependências:
@@ -95,6 +101,12 @@ Para reproduzir sem acesso ao Hub, execute o `02_training.ipynb` (requer GPU). E
 ```
 
 3. Execute os notebooks em ordem (`01` a `03`). Eles localizam a raiz do projeto automaticamente e podem ser abertos de qualquer pasta dentro do repositório.
+
+### Opção 2: Google Colab
+
+Recomendado para treinar quando não se tem GPU local. Os notebooks detectam o Colab automaticamente. Eles clonam o repositório (apenas a pasta data/), instalam as dependências e montam o Google Drive para persistir models/ e results/ entre sessões.
+
+Ative a GPU em: Ambiente de execução → Alterar tipo → T4 GPU.
 
 ## Status do projeto
 
