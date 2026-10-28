@@ -1,0 +1,47 @@
+{
+  "true": {
+    "total_tokens": 932.0,
+    "avg_sentence_length": 18.352381,
+    "propn_ratio": 0.117471,
+    "per_ratio": 0.022899,
+    "org_ratio": 0.010428,
+    "adj_ratio": 0.047774,
+    "adv_ratio": 0.03951,
+    "emotiveness": 0.246716,
+    "stop_ratio": 0.484253,
+    "weekday_ratio": 0.001238
+  },
+  "human_fake": {
+    "total_tokens": 150.0,
+    "avg_sentence_length": 13.630682,
+    "propn_ratio": 0.13253,
+    "per_ratio": 0.030817,
+    "org_ratio": 0.009419,
+    "adj_ratio": 0.049876,
+    "adv_ratio": 0.040651,
+    "emotiveness": 0.26,
+    "stop_ratio": 0.462275,
+    "weekday_ratio": 0.0
+  },
+  "synthetic_fake": {
+    "total_tokens": 348.0,
+    "avg_sentence_length": 19.377976,
+    "propn_ratio": 0.116766,
+    "per_ratio": 0.026728,
+    "org_ratio": 0.008778,
+    "adj_ratio": 0.074007,
+    "adv_ratio": 0.037685,
+    "emotiveness": 0.309256,
+    "stop_ratio": 0.437832,
+    "weekday_ratio": 0.0
+  },
+  "_info": {
+    "statistic": "median",
+    "split": "test",
+    "n": {
+      "true": 720,
+      "human_fake": 720,
+      "synthetic_fake": 720
+    }
+  }
+}

@@ -1,4 +1,5 @@
 import os
+import re
 import numpy as np
 import spacy
 import torch
@@ -13,10 +14,62 @@ DEFAULT_NUM_SAMPLES = 1000
 DEFAULT_NUM_FEATURES = 10
 MAX_CHARS = 20_000
 
+# Mesma definicao usada no notebook 03_explainability (Secao 6.2 do artigo)
+WEEKDAYS = re.compile(r'\b(?:segunda|terça|quarta|quinta|sexta)-feira\b|\bsábado\b|\bdomingo\b', re.IGNORECASE)
+
+
+def compute_linguistic_features(nlp, text):
+  """Caracteristicas linguisticas do artigo (as 10 da analise + noun/loc/misc).
+
+  Separada da classe Analyzer para poder ser usada sem carregar o BERTimbau
+  (por exemplo, no calculo das medianas de referencia em compute_baselines.py).
+  """
+  doc = nlp(text)
+
+  total_tokens = len([t for t in doc if not t.is_punct and not t.is_space])
+
+  if total_tokens == 0:
+    return {}
+
+  pos_counts = {pos: sum(1 for t in doc if t.pos_ == pos) for pos in ['PROPN', 'NOUN', 'ADJ', 'VERB', 'ADV']}
+
+  ent_counts = {'PER': 0, 'ORG': 0, 'LOC': 0, 'MISC': 0}
+
+  for ent in doc.ents:
+    if ent.label_ in ent_counts:
+      ent_counts[ent.label_] += 1
+
+  sentences = list(doc.sents)
+  avg_sentence_length = total_tokens / len(sentences) if sentences else 0
+
+  denominator = pos_counts['NOUN'] + pos_counts['VERB']
+  emotiveness = (pos_counts['ADJ'] + pos_counts['ADV']) / denominator if denominator > 0 else 0
+
+  words = re.findall(r'\w+', text.lower())
+  stop_words = nlp.Defaults.stop_words
+
+  return {
+    'propn_ratio': pos_counts['PROPN'] / total_tokens,
+    'noun_ratio': pos_counts['NOUN'] / total_tokens,
+    'adj_ratio': pos_counts['ADJ'] / total_tokens,
+    'verb_ratio': pos_counts['VERB'] / total_tokens,
+    'adv_ratio': pos_counts['ADV'] / total_tokens,
+    'per_ratio': ent_counts['PER'] / total_tokens,
+    'org_ratio': ent_counts['ORG'] / total_tokens,
+    'loc_ratio': ent_counts['LOC'] / total_tokens,
+    'misc_ratio': ent_counts['MISC'] / total_tokens,
+    'avg_sentence_length': avg_sentence_length,
+    'emotiveness': emotiveness,
+    'stop_ratio': sum(w in stop_words for w in words) / max(len(words), 1),
+    'weekday_ratio': len(WEEKDAYS.findall(text)) / total_tokens,
+    'total_tokens': total_tokens
+  }
+
+
 class Analyzer:
   def __init__(self, model_repo=None, device=None):
     model_repo = model_repo or os.environ.get('XPLICA_MODEL_REPO')
-    
+
     if not model_repo:
         raise RuntimeError(
             'Set XPLICA_MODEL_REPO (e.g. "user/xplica-bertimbau-scenario3") '
@@ -67,41 +120,7 @@ class Analyzer:
     return [{'word': str(word), 'weight': float(weight)} for word, weight in exp.as_list(label=1)]
 
   def linguistic_features(self, text):
-    doc = self.nlp(text)
-
-    total_tokens = len([t for t in doc if not t.is_punct and not t.is_space])
-
-    if total_tokens == 0:
-        return {}
-
-    pos_counts = {pos: sum(1 for t in doc if t.pos_ == pos) for pos in ['PROPN', 'NOUN', 'ADJ', 'VERB', 'ADV']}
-
-    ent_counts = {'PER': 0, 'ORG': 0, 'LOC': 0, 'MISC': 0}
-    
-    for ent in doc.ents:
-        if ent.label_ in ent_counts:
-            ent_counts[ent.label_] += 1
-
-    sentences = list(doc.sents)
-    avg_sentence_length = total_tokens / len(sentences) if sentences else 0
-
-    denominator = pos_counts['NOUN'] + pos_counts['VERB']
-    emotiveness = (pos_counts['ADJ'] + pos_counts['ADV']) / denominator if denominator > 0 else 0
-
-    return {
-        'propn_ratio': pos_counts['PROPN'] / total_tokens,
-        'noun_ratio': pos_counts['NOUN'] / total_tokens,
-        'adj_ratio': pos_counts['ADJ'] / total_tokens,
-        'verb_ratio': pos_counts['VERB'] / total_tokens,
-        'adv_ratio': pos_counts['ADV'] / total_tokens,
-        'per_ratio': ent_counts['PER'] / total_tokens,
-        'org_ratio': ent_counts['ORG'] / total_tokens,
-        'loc_ratio': ent_counts['LOC'] / total_tokens,
-        'misc_ratio': ent_counts['MISC'] / total_tokens,
-        'avg_sentence_length': avg_sentence_length,
-        'emotiveness': emotiveness,
-        'total_tokens': total_tokens
-    }
+    return compute_linguistic_features(self.nlp, text)
 
   def analyze(self, text, num_samples=DEFAULT_NUM_SAMPLES, num_features=DEFAULT_NUM_FEATURES):
     text = (text or '').strip()
